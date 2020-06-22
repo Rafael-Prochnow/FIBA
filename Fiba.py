@@ -24,13 +24,17 @@ tempo_time_a = [a.find(class_='time').get_text() for a in time_a]
 placar_time_b = [a.find(class_='score-B').get_text() for a in time_a]
 placar_time_a = [a.find(class_='score-A').get_text() for a in time_a]
 # como ele retorna com \n eu preciso tirar por ; e como são três eu preciso apenas escolher o do meio ai uso strip
-acao = [a.find(class_="action").get_text() for a in time_a]
-organizar01 = [item.replace('\n', ';') for item in acao]
-indicador = [item.strip(';') for item in organizar01]
+acao = [a.find(class_="action") for a in time_a]
+indicador = [item.find(class_='action-description').get_text() for item in acao]
+
+nome = [item.find(class_='athlete-name').get_text() for item in acao]
+# indicador = [item.replace('\n', ';') for item in organizar01]
+# indicador = [item.strip(';') for item in organizar01]
+
+# print(indicador)
 
 # duplica a coluna e faz uma coluna que use inidcador e
-print(indicador)
-'''
+
 dados = pd.DataFrame(
     {'Quarto': quarto_time_a,
      'Tempo': tempo_time_a,
@@ -39,14 +43,9 @@ dados = pd.DataFrame(
      'Inf_2': indicador
      })
 # separar nome e indicador
-separar_01 = dados['Inf_2'].str.split(";")
-nome = separar_01.str.get(1)
-indicador = separar_01.str.get(0)
 
-dados['Nomes'] = nome
-dados['Indicador'] = indicador
-dados.drop('Inf_2', axis=1, inplace=True)
+#dados['Nomes'] = nome
 
 dados.to_csv("tabela_1.csv", index=None)
-'''
+
 
