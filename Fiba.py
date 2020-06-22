@@ -6,21 +6,35 @@ from selenium.webdriver.firefox.options import Options
 import requests
 from selenium.common.exceptions import NoSuchElementException
 
-r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos')
+r = requests.get('http://www.fiba.basketball/pt/basketballworldcup/2019/game/1409/EUA-Pol%c3%b4nia')
 soup = BeautifulSoup(r.content, 'html.parser')
+jogada_jogada = soup.find(class_="selected-periods")
 
-# 3 encontra o time, está separado dos demais
-items02 = soup.find_all(class_='large-10 small-8 medium-10 columns move_action_content move_action_content_one')
-time_site = [nome_time.find('p').get_text() for nome_time in items02]
-# passa para primeira inf encontra quarto tempo placar
-items = soup.find_all(class_='large-2 small-4 medium-2 columns move_action_time')
-quarto = [nome_quarto.find(class_='quarter').get_text() for nome_quarto in items]
-tempo = [nome_tempo.find(class_='time').get_text() for nome_tempo in items]
-placar = [nome_placar.find(class_='points').get_text() for nome_placar in items]
-# passa para outra parte pegando nome e indicador que depois precisa fazer a separação
-items01 = soup.find_all(class_='move_action_content_text')
-acao_pessoa02 = [nome_acao_pessoa02.find("p", class_='').get_text() for nome_acao_pessoa02 in items01]
+# enocntrar o primiero time
+# por que estou separando por time?
+# cada ação (jogada a jogada) o site não registra o time, mas sim a orgem visual no site, e no codigo está por
+# <li class="action-item x--team-A"> ai como não consigo pegar essa informação eu estou separando os times e o inicio
+# do jogo/quarto para depois organizar
+# 1 - por quarto
+# 2 - por tempo na quadra
+time_a = jogada_jogada.find_all(class_="action-item x--team-A")
 
+quarto_time_a = time_a.find(class_='period').get_text()
+tempo_time_a = time_a.find(class_='time').get_text()
+placar_time_a = time_a.find(class_='score-A x--bold').get_text()
+placar_time_b = time_a.find(class_='score-B').get_text()
+nome_time_a = time_a.find(class_='athlete-name')
+indicador_time_a = time_a.find(class_='athlete-name')
+
+print(quarto_time_a)
+print(tempo_time_a)
+print(placar_time_a)
+print(placar_time_b)
+print(nome_time_a)
+print(indicador_time_a)
+
+
+'''
 dados = pd.DataFrame(
     {'Quarto': quarto,
      'Tempo': tempo,
@@ -28,3 +42,5 @@ dados = pd.DataFrame(
      'Placar': placar,
      'Inf_2': acao_pessoa02
      })
+'''
+
