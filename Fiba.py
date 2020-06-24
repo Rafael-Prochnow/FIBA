@@ -27,7 +27,26 @@ placar_time_a = [a.find(class_='score-A').get_text() for a in time_a]
 acao = [a.find(class_="action") for a in time_a]
 indicador = [item.find(class_='action-description').get_text() for item in acao]
 
-nome = [item.find(class_='athlete-name').get_text() for item in acao]
+# nome = [item.find(class_='athlete-name').get_text() for item in acao if ]
+
+def falta():
+    for item in acao:
+    try:
+        item[i].find(class_='athlete-name').get_text()
+    except AttributeError:
+        nome[i] = 1
+    else:
+        name[i] = item.find(class_='athlete-name').get_text()
+
+
+print(nome)
+
+
+
+'''
+
+
+
 # indicador = [item.replace('\n', ';') for item in organizar01]
 # indicador = [item.strip(';') for item in organizar01]
 
@@ -47,5 +66,5 @@ dados = pd.DataFrame(
 #dados['Nomes'] = nome
 
 dados.to_csv("tabela_1.csv", index=None)
-
+'''
 
