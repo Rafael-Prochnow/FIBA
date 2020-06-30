@@ -6,10 +6,19 @@ from selenium.webdriver.firefox.options import Options
 import requests
 from selenium.common.exceptions import NoSuchElementException
 
-r = requests.get('http://www.fiba.basketball/pt/basketballworldcup/2019/game/1109/Australia-Czech-Republic')
+r = requests.get('http://www.fiba.basketball/pt/basketballworldcup/2019/game/1309/Espanha-Austr%c3%a1lia')
 soup = BeautifulSoup(r.content, 'html.parser')
-jogada_jogada = soup.find(class_="selected-periods")
 
+# encontrar o nome dos times
+# ai da para fazer uma tabela geral
+inf = soup.find_all(class_="header-scores_desktop")
+infA = inf[0].find(class_='team-A')
+NomeA = infA.find(class_='team-name').get_text()
+infB = inf[0].find(class_='team-B')
+NomeB = infB.find(class_='team-name').get_text()
+
+########################################################################################################################
+jogada_jogada = soup.find(class_="selected-periods")
 # enocntrar o primiero time
 # por que estou separando por time?
 # cada ação (jogada a jogada) o site não registra o time, mas sim a orgem visual no site, e no codigo está por
@@ -27,13 +36,17 @@ Aacao = [a.find(class_="action").get_text() for a in time_a]
 Aorganizar01 = [item.replace(';', '') for item in Aacao]
 Aorganizar02 = [item.replace('\n', ';') for item in Aorganizar01]
 Aindicador = [item.strip(';') for item in Aorganizar02]
+Atime = [NomeA for item in Aindicador]
+
 
 dadosA = pd.DataFrame(
     {'Quarto': Aquarto_time_a,
      'Tempo': Atempo_time_a,
+     'Time': Atime,
      'Placar_casa': Aplacar_time_a,
      'Placar_visitante': Aplacar_time_b,
      'Inf_2': Aindicador
+
      })
 ########################################################################################################################
 time_b = jogada_jogada.find_all(class_="action-item x--team-B")
@@ -46,20 +59,24 @@ Bacao = [a.find(class_="action").get_text() for a in time_b]
 Borganizar01 = [item.replace(';', '') for item in Bacao]
 Borganizar02 = [item.replace('\n', ';') for item in Borganizar01]
 Bindicador = [item.strip(';') for item in Borganizar02]
+Btime = [NomeB for item in Bindicador]
+
 
 dadosB = pd.DataFrame(
     {'Quarto': Bquarto_time_a,
      'Tempo': Btempo_time_a,
+     'Time': Btime,
      'Placar_casa': Bplacar_time_a,
      'Placar_visitante': Bplacar_time_b,
      'Inf_2': Bindicador
      })
 
-df_full = pd.concat([dadosA, dadosB], axis=0)
-df_full.to_csv("tabela_1.csv", index=None)
+juntar_dados = pd.concat([dadosA, dadosB], axis=0)
+# mudar o OT =  prorrogação por T para deixar na em uma ordem dos tempos (primeiro vem O depois Q no alfabeto)
+juntar_dados["Quarto"] = juntar_dados["Quarto"].str.replace('OT', 'T')
+# ordena eles
+dados = juntar_dados.sort_values(['Quarto', 'Tempo'])
 
-
-'''
 saparar = dados["Inf_2"]
 
 # separar nome e indicador
@@ -161,12 +178,18 @@ a80 = a79.str.replace('turnover', '1/ER')
 a81 = a80.str.replace('2pt step back jump shot made', '1/2_Pts_C')
 a82 = a81.str.replace('2pt step back jump shot missed', '1/2_Pts_T')
 a83 = a82.str.replace('2pt step back jump shot blocked', '1/2_Pts_T')
+a84 = a83.str.replace('2pt jump shot inside the paint missed', '1/2_Pts_T')
+a85 = a84.str.replace('2pt jump shot inside the paint made', '1/2_Pts_C')
+a86 = a85.str.replace(' 3 free throws awarded', '')
+a87 = a86.str.replace('2nd of 3 free throws missed', '1/LL_Pts_T')
+a88 = a87.str.replace('3nd of 3 free throws missed', '1/LL_Pts_T')
+a89 = a88.str.replace('1nd of 3 free throws missed', '1/LL_Pts_T')
 
 # nome;1/indicador
 # estou fazendo isso pq tem indicadores que não tem jogadores(noomes)
 # quando coloco 1 ele ajuda a separa os dois e deixar uma variável 1 quando não tem nome
 # depois eu tiro esse ;1 e coloco um identificador do time
-mudados_00 = a83.str.split('/')
+mudados_00 = a89.str.split('/')
 mudados_01 = mudados_00.str.get(1)
 dados['Indicador'] = mudados_01
 
@@ -177,5 +200,3 @@ dados['Nome'] = mudados_04
 
 dados.drop('Inf_2', axis=1, inplace=True)
 dados.to_csv("tabela_1.csv", index=None)
-'''
-
