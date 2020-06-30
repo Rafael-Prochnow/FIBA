@@ -6,7 +6,7 @@ from selenium.webdriver.firefox.options import Options
 import requests
 from selenium.common.exceptions import NoSuchElementException
 
-r = requests.get('http://www.fiba.basketball/pt/basketballworldcup/2019/game/1409/EUA-Pol%c3%b4nia')
+r = requests.get('http://www.fiba.basketball/pt/basketballworldcup/2019/game/1409/Serbia-Czech-Republic')
 soup = BeautifulSoup(r.content, 'html.parser')
 jogada_jogada = soup.find(class_="selected-periods")
 
@@ -25,8 +25,9 @@ placar_time_b = [a.find(class_='score-B').get_text() for a in time_a]
 placar_time_a = [a.find(class_='score-A').get_text() for a in time_a]
 # como ele retorna com \n eu preciso tirar por ; e como são três eu preciso apenas escolher o do meio ai uso strip
 acao = [a.find(class_="action").get_text() for a in time_a]
-organizar01 = [item.replace('\n', ';') for item in acao]
-indicador = [item.strip(';') for item in organizar01]
+organizar01 = [item.replace(';', '') for item in acao]
+organizar02 = [item.replace('\n', ';') for item in organizar01]
+indicador = [item.strip(';') for item in organizar02]
 
 dados = pd.DataFrame(
     {'Quarto': quarto_time_a,
@@ -37,86 +38,107 @@ dados = pd.DataFrame(
      })
 
 
-print(dados)
+saparar = dados["Inf_2"]
 
 # separar nome e indicador
 # lance livre
-a1 = .str.replace('2nd of 2 free throws made', '1,')
-a2 = a1.str.replace('1st of 2 free throws missed', '1,')
-a3 = a2.str.replace('2nd of 2 free throws missed', '1,')
-a4 = a3.str.replace('1st of 2 free throws made', '1,')
-a5 = a4.str.replace('1st free throw made', '1,')
-a6 = a5.str.replace('1st free throw missed', '1,')
+a1 = saparar.str.replace('2nd of 2 free throws made', '1/LL_Pts_C')
+a2 = a1.str.replace('1st of 2 free throws missed', '1/LL_Pts_T')
+a3 = a2.str.replace('2nd of 2 free throws missed', '1/LL_Pts_T')
+a4 = a3.str.replace('1st of 2 free throws made', '1/LL_Pts_C')
+a5 = a4.str.replace('1st free throw made', '1/LL_Pts_C')
+a6 = a5.str.replace('1st free throw missed', '1/LL_Pts_T')
+a7 = a6.str.replace('1st of 2 free throw made', '1/LL_Pts_C')
+a8 = a7.str.replace('1/ 3 free throws awarded', '1/LL_Pts_T')
+a9 = a8.str.replace('3rd of 3 free throws made', '1/LL_Pts_C')
+a10 = a9.str.replace('2nd of 3 free throws made', '1/LL_Pts_C')
+a11 = a10.str.replace('1st of 3 free throws made', '1/LL_Pts_C')
 #dois pontos
-a7 = a6.str.replace('2pt pullup jump shot missed', '1,')
-a8 = a7.str.replace('2pt fadeaway jump shot made', '1;')
-a9 = a8.str.replace('2pt jump shot from center missed', '1,')
-a10 = a9.str.replace('2pt jump shot from center made', '1,')
-a11 = a10.str.replace('2pt floating jump shot missed', '1,')
-a12 = a11.str.replace('2pt driving layup missed', '1,')
-a13 = a12.str.replace('Arremesso de dois certo', '1,')
-a14 = a13.str.replace('Bandeja Certa', '1,')
-a15 = a14.str.replace('2pt driving layup made', '1,')
-a16 = a15.str.replace('layup blocked', '1,')
-a17 = a16.str.replace('Arremesso de dois errado', '1,')
-a18 = a17.str.replace('2pt hook shot missed', '1,')
-a19 = a18.str.replace('Bandeja Errada', '1,')
-a20 = a19.str.replace('2pt floating jump shot made', '1,')
+a12 = a11.str.replace('2pt pullup jump shot missed', '1/2_Pts_T')
+a13 = a12.str.replace('2pt pullup jump shot made', '1/2_Pts_C')
+a14 = a13.str.replace('2pt fadeaway jump shot missed', '1/2_Pts_T')
+a15 = a14.str.replace('2pt fadeaway jump shot made', '1/2_Pts_C')
+a16 = a15.str.replace('2pt jump shot from center blocked', '1/2_Pts_T')
+a17 = a16.str.replace('2pt jump shot from center missed', '1/2_Pts_T')
+a18 = a17.str.replace('2pt jump shot from center made', '1/2_Pts_C')
+a19 = a18.str.replace('2pt floating jump shot blocked', '1/2_Pts_T')
+a20 = a19.str.replace('2pt floating jump shot missed', '1/2_Pts_T')
+a21 = a20.str.replace('2pt floating jump shot made', '1/2_Pts_C')
+a22 = a21.str.replace('2pt driving layup missed', '1/2_Pts_T')
+a23 = a22.str.replace('2pt driving layup made', '1/2_Pts_C')
+a24 = a23.str.replace('Arremesso de dois errado', '1/2_Pts_T')
+a25 = a24.str.replace('Arremesso de dois certo', '1/2_Pts_C')
+a26 = a25.str.replace('Bandeja Certa', '1/2_Pts_C')
+a27 = a26.str.replace('Bandeja Errada', '1/2_Pts_T')
+a28 = a27.str.replace('2pt driving layup blocked', '1/2_Pts_T')
+a29 = a28.str.replace('2pt driving layup missed', '1/2_Pts_T')
+a30 = a29.str.replace('2pt driving layup made', '1/2_Pts_C')
+a31 = a30.str.replace('2pt hook shot missed', '1/2_Pts_T')
+a32 = a31.str.replace('2pt hook shot made', '1/2_Pts_C')
+a33 = a32.str.replace('2pt putback dunk missed', '1/2_Pts_T')
+a34 = a33.str.replace('2pt putback dunk made', '1/2_Pts_C')
+a35 = a34.str.replace('2pt jump shot blocked', '1/2_Pts_T')
+a36 = a35.str.replace('2pt turnaround jump shot made', '1/2_Pts_C')
+a37 = a36.str.replace('2pt turnaround jump shot missed', '1/2_Pts_T')
+a38 = a37.str.replace('2pt Arr. Certo', '1/2_Pts_C')
+a39 = a38.str.replace('2pt Arr. Errado', '1/2_Pts_T')
 # três pontos
-a21 = a20.str.replace('Arremesso de tres certo', '1,')
-a22 = a21.str.replace('Arremesso de tres errado', '1,')
-a23 = a22.str.replace('3pt jump shot from center missed', '1,')
-a24 = a23.str.replace('3pt pullup jump shot missed', '1,')
-a25 = a24.str.replace('3pt jump shot from center made', '1,')
-a26 = a25.str.replace('3pt step back jump shot missed', '1,')
-a27 = a26.str.replace('3pt pullup jump shot made', '1,')
+a40 = a39.str.replace('Arremesso de tres certo', '1/3_Pts_C')
+a41 = a40.str.replace('Arremesso de tres errado', '1/3_Pts_T')
+a42 = a41.str.replace('3pt jump shot from center missed', '1/3_Pts_T')
+a43 = a42.str.replace('3pt jump shot from center made', '1/3_Pts_C')
+a44 = a43.str.replace('3pt pullup jump shot missed', '1/3_Pts_T')
+a45 = a44.str.replace('3pt pullup jump shot made', '1/3_Pts_C')
+a46 = a45.str.replace('3pt step back jump shot missed', '1/3_Pts_T')
+a47 = a46.str.replace('3pt step back jump shot made', '1/3_Pts_C')
+a48 = a47.str.replace('3pt turnaround jump shot missed', '1/3_Pts_T')
+a49 = a48.str.replace('3pt turnaround jump shot made', '1/3_Pts_C')
 # rebotes
-a28 = a27.str.replace('defensive rebound', '1,')
-a29 = a28.str.replace('team offensive rebound', '1,')
-a30 = a29.str.replace('team defensive rebound', '1,')
-a31 = a30.str.replace('offensive rebound', '1,')
+a50 = a49.str.replace('defensive rebound', '1/RD')
+a51 = a50.str.replace('offensive rebound', '1/RO')
 # recuperação de bola
-a32 = a31.str.replace('steal', '1,')
+a52 = a51.str.replace('steal', '1/BR')
 # assistencias
-a33 = a32.str.replace('made the assist', '1,')
-# Faltas
-a34 = a33.str.replace('foul drawn', '1,')
-a35 = a34.str.replace('personal foul', '1,')
-a36 = a35.str.replace('offensive foul', '1,')
-a37 = a36.str.replace('technical foul', '1,')
+a53 = a52.str.replace('made the assist', '1/AS')
+#5 Faltas
+a54 = a53.str.replace('unsportsmanlike foul 2 free throws awarded', '1/')
+a55 = a54.str.replace('personal foul', '1/')
+a56 = a55.str.replace(' 2 free throws awarded', '1/')
+a57 = a56.str.replace(' 1 free throw awarded', '1/')
+a58 = a57.str.replace('offensive foul', '1/')
+a59 = a58.str.replace('technical foul', '1/')
+a60 = a59.str.replace('foul drawn', '1/')
 # substituição
-a38 = a37.str.replace('Substitution in', '1,')
-a39 = a38.str.replace('Substitution out', '1,')
+a61 = a60.str.replace('Substitution in', '1/')
+a62 = a61.str.replace('Substitution out', '1/')
 # erros
-a40 = a39.str.replace('turnover', '1,')
+a63 = a62.str.replace('turnover ball handling', '1/')
+a64 = a63.str.replace('turnover travelling', '1/')
+a65 = a64.str.replace('turnover bad pass', '1/')
+a66 = a65.str.replace('turnover 3 seconds violation', '1/')
+a67 = a66.str.replace('turnover out of bounds', '1/')
 # tocos
-a41 = a40.str.replace('blocked the shot', '1,')
+a68 = a67.str.replace('blocked the shot', '1/')
 # tempo técnico
-a42 = a41.str.replace('Timeout', '1,')
+a69 = a68.str.replace('Timeout', '1/')
 # cravada
-a43 = a42.str.replace('Enterrada', '1,')
+a70 = a69.str.replace('Enterrada', '1/')
 # ponte aerea
-a44 = a43.str.replace('Ponte Aerea Errada', '1,')
-a45 = a44.str.replace('Ponte Aerea Certa', '1,')
+a71 = a70.str.replace('Ponte Aerea Errada', '1/')
+a72 = a71.str.replace('Ponte Aerea Certa', '1/')
 # bola no alto
-a46 = a45.str.replace('jump ball won', '1,')
-a47 = a46.str.replace('jump ball situation', '1,')
+a73 = a72.str.replace('jump ball won', '1/')
+a74 = a73.str.replace('jump ball situation throw-in', '1/')
 # não sei
-a48 = a47.str.replace('Tip In Errada', '1,')
-a49 = a48.str.replace('Tip In Certa', '1,')
+a75 = a74.str.replace('Tip In Errada', '1/')
+a76 = a75.str.replace('Tip In Certa', '1/')
+a77 = a76.str.replace('team ', '')
+a78 = a77.str.replace('layup blocked', '1/')
+a79 = a78.str.replace('free throw made', '1/')
 
-
-# indicador = [item.replace('\n', ';') for item in organizar01]
-# indicador = [item.strip(';') for item in organizar01]
-
-# print(indicador)
-
-# duplica a coluna e faz uma coluna que use inidcador e
-
-
-
-#dados['Nomes'] = nome
-
+dados['Nomes'] = a79
+dados.drop('Inf_2', axis=1, inplace=True)
 dados.to_csv("tabela_1.csv", index=None)
-'''
+
+
 
