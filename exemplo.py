@@ -5,13 +5,23 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 import requests
 from selenium.common.exceptions import NoSuchElementException
+import urllib
+import re
 
 r = requests.get('http://www.fiba.basketball/pt/basketballworldcup/2019/games')
 soup = BeautifulSoup(r.content, 'html.parser')
 
-inf = soup.find_all('span', class_="short")
-print(soup)
+inf = soup.find_all(class_="latest_qualifier_games")
+inf2 = [a['href'] for a in soup.find_all('a', href=True)]
+inf3 = pd.DataFrame({'inf2': inf2})
 
+# localizar_site = inf3.loc[inf3.inf2.str.contains('/pt/basketballworldcup/2019/game/', regex=True)]
+localizar_site = inf3
+print(localizar_site)
+
+#i = [http://www.fiba.basketball]
+# Btime = [i for item in Bindicador]
+# ites.to_csv("tabela_1.csv", index=None)
 '''
 # encontrar o nome dos times
 # ai da para fazer uma tabela geral
