@@ -15,12 +15,16 @@ inf = soup.find_all(class_="latest_qualifier_games")
 inf2 = [a['href'] for a in soup.find_all('a', href=True)]
 inf3 = pd.DataFrame({'inf2': inf2})
 
-# localizar_site = inf3.loc[inf3.inf2.str.contains('/pt/basketballworldcup/2019/game/', regex=True)]
-localizar_site = inf3
-print(localizar_site)
+p2_site = inf3.loc[inf3.inf2.str.contains('/pt/basketballworldcup/2019/game/', regex=True)]
+#inf4 = pd.DataFrame({'inf4': p2_site})
+tamano = len(p2_site)
+NomeA = str('http://www.fiba.basketball')
+Atime = [NomeA for item in range(0, tamano)]
 
-#i = [http://www.fiba.basketball]
-# Btime = [i for item in Bindicador]
+
+print(inf4)
+# juntar_sites = pd.concat([Atime, inf3])
+
 # ites.to_csv("tabela_1.csv", index=None)
 '''
 # encontrar o nome dos times
