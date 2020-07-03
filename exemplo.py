@@ -25,9 +25,24 @@ inf3.drop('inf4', axis=1, inplace=True)
 inf3.drop('inf2', axis=1, inplace=True)
 
 p2_site = inf3.loc[inf3.nomedanovacoluna.str.contains('http://www.fiba.basketball/pt/basketballworldcup/2019/game/', regex=True)]
-p2_site.reset_index()
 
-print(p2_site)
+########################################################################################################################
+#lista = p2_site.values.tolist()
+#lista.translate[remove_punctuation(i) for i in train_pos]
+#print(lista)
+
+ii = 0
+
+for i in p2_site.nomedanovacoluna.values:
+
+    option = Options()
+    option.headless = True
+    driver = webdriver.Firefox(options=option)
+    print(i)
+    driver.get(f'{i}')
+    time.sleep(5)
+
+    driver.quit()
 
 '''
 # encontrar o nome dos times
