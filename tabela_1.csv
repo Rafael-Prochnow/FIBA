@@ -1,15 +1,93 @@
-p1
-"                                                  inf2
-13   /pt/basketballworldcup/2019/game/3108/Angola-S...
-15   /pt/basketballworldcup/2019/game/3108/Poland-V...
-17   /pt/basketballworldcup/2019/game/3108/Russia-N...
-19   /pt/basketballworldcup/2019/game/3108/Iran-Pue...
-21   /pt/basketballworldcup/2019/game/3108/Philippi...
-..                                                 ...
-187  /pt/basketballworldcup/2019/game/1309/Argentin...
-189  /pt/basketballworldcup/2019/game/1409/EUA-Polônia
-191  /pt/basketballworldcup/2019/game/1409/Serbia-C...
-193  /pt/basketballworldcup/2019/game/1509/France-A...
-195  /pt/basketballworldcup/2019/game/1509/Argentin...
-
-[92 rows x 1 columns]"
+nomedanovacoluna
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/3108/Angola-Serbia
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/3108/Poland-Venezuela
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/3108/Russia-Nigeria
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/3108/Iran-Puerto-Rico
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/3108/Philippines-Italy
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/3108/Cote-d-Ivoire-China
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/3108/Argentina-Korea
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/3108/Spain-Tunisia
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/3108/Canada-Australia
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/3108/New-Zealand-Brazil
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/3108/Turkey-Japan
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/3108/Dominican-Republic-Jordan
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/3108/Senegal-Lithuania
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/3108/Greece-Montenegro
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/3108/Czech-Republic-USA
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/3108/France-Germany
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0209/Italy-Angola
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0209/Venezuela-Cote-d-Ivoire
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0209/Nigeria-Argentina
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0209/Tunisia-Iran
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0209/Serbia-Philippines
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0209/China-Poland
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0209/Korea-Russia
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0209/Puerto-Rico-Spain
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0209/Australia-Senegal
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0209/Montenegro-New-Zealand
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0209/Japan-Czech-Republic
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0209/Germany-Dominican-Republic
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0209/Lithuania-Canada
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0209/Brazil-Greece
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0209/USA-Turkey
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0209/Jordan-France
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0409/Angola-Philippines
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0409/Cote-d-Ivoire-Poland
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0409/Korea-Nigeria
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0409/Puerto-Rico-Tunisia
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0409/Italy-Serbia
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0409/Venezuela-China
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0409/Russia-Argentina
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0409/Spain-Iran
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0409/Canada-Senegal
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0409/Brazil-Montenegro
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0409/Turkey-Czech-Republic
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0409/Germany-Jordan
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0409/Lithuania-Australia
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0409/Greece-New-Zealand
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0409/USA-Japan
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0409/Dominican-Republic-France
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0609/Poland-Russia
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0609/Nigéria-Costa-do-Marfim
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0609/Angola-Iran
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0609/Serbia-Puerto-Rico
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0609/Argentina-Venezuela
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0609/China-Korea
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0609/Tunisia-Philippines
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0609/Spain-Italy
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0709/New-Zealand-Japan
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0709/Australia-Dominican-Republic
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0709/Canadá-Jordânia
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0709/Brazil-Czech-Republic
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0709/Turkey-Montenegro
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0709/France-Lithuania
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0709/Alemanha-Senegal
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0709/USA-Greece
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0809/Venezuela-Russia
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0809/Costa-do-Marfim-Coréia-do-Sul
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0809/Tunisia-Angola
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0809/Porto-Rico-Itália
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0809/Polônia-Argentina
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0809/China-Nigeria
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0809/Iran-Philippines
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0809/Spain-Serbia
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0909/Japan-Montenegro
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0909/Dominican-Republic-Lithuania
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0909/Jordânia-Senegal
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0909/Czech-Republic-Greece
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0909/Turkey-New-Zealand
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0909/France-Australia
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0909/Alemanha-Canadá
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/0909/USA-Brazil
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/1009/Argentina-Serbia
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/1009/Espanha-Polônia
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/1109/USA-France
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/1109/Australia-Czech-Republic
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/1209/Sérvia-EUA
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/1209/Polônia-República-Tcheca
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/1309/Espanha-Austrália
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/1309/Argentina-França
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/1409/EUA-Polônia
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/1409/Serbia-Czech-Republic
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/1509/France-Australia
+http://www.fiba.basketball/pt/basketballworldcup/2019/game/1509/Argentina-Spain
