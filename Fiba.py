@@ -6,19 +6,39 @@ from selenium.webdriver.firefox.options import Options
 import requests
 from selenium.common.exceptions import NoSuchElementException
 
-r = requests.get('http://www.fiba.basketball/pt/basketballworldcup/2019/game/0809/Venezuela-Russia')
-soup = BeautifulSoup(r.content, 'html.parser')
+r = requests.get('http://www.fiba.basketball/pt/basketballworldcup/2019/game/1409/EUA-Pol%C3%B4nia')
+soup_site = BeautifulSoup(r.content, 'html.parser')
 
 # encontrar o nome dos times
 # ai da para fazer uma tabela geral
-inf = soup.find_all(class_="header-scores_desktop")
+inf_da_partida = soup_site.find_all(class_="header-scores_desktop")
+
+inf_nome_A = inf_da_partida[0].find(class_='team-A')
+NomeA = inf_nome_A.find(class_='team-name').get_text()
+
+inf_nome_B = inf_da_partida[0].find(class_='team-B')
+NomeB = inf_nome_B.find(class_='team-name').get_text()
+
+inf_placar_A = inf_da_partida[0].find(class_='score-A').get_text()
+inf_placar_B = inf_da_partida[0].find(class_='score-B').get_text()
+
+inf_local = inf_da_partida[0].find(class_='location').get_text()
+
+# fazer uma lista e depois um for para acrescentar a cada loop que fizer
+informacoes = [NomeA, inf_placar_A, NomeB, inf_placar_B, inf_local]
+
+print(informacoes)
+
+# encontrar o nome dos times
+# ai da para fazer uma tabela geral
+inf = soup_site.find_all(class_="header-scores_desktop")
 infA = inf[0].find(class_='team-A')
 NomeA = infA.find(class_='team-name').get_text()
 infB = inf[0].find(class_='team-B')
 NomeB = infB.find(class_='team-name').get_text()
 
 ########################################################################################################################
-jogada_jogada = soup.find(class_="selected-periods")
+jogada_jogada = soup_site.find(class_="selected-periods")
 # enocntrar o primiero time
 # por que estou separando por time?
 # cada ação (jogada a jogada) o site não registra o time, mas sim a orgem visual no site, e no codigo está por
@@ -46,7 +66,6 @@ dadosA = pd.DataFrame(
      'Placar_casa': Aplacar_time_a,
      'Placar_visitante': Aplacar_time_b,
      'Inf_2': Aindicador
-
      })
 ########################################################################################################################
 time_b = jogada_jogada.find_all(class_="action-item x--team-B")

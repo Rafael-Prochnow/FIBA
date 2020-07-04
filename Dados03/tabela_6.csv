@@ -1,0 +1,514 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Coréia do Sul,22,11,3_Pts_T,Hoon Heo
+Q1,0:10,Argentina,22,11,LL_Pts_C,Facundo Campazzo
+Q1,0:10,Argentina,21,11,LL_Pts_C,Facundo Campazzo
+Q1,0:10,Argentina,20,11,FR,Facundo Campazzo
+Q1,0:10,Coréia do Sul,20,11,FC,Daesung Lee
+Q1,0:12,Argentina,20,11,RD,Nicolas Brussino
+Q1,0:12,Coréia do Sul,20,11,2_Pts_T,Hyogeun Jeong
+Q1,0:23,Coréia do Sul,20,11,RO,Hoon Heo
+Q1,0:23,Coréia do Sul,20,11,2_Pts_T,Hoon Heo
+Q1,0:40,Argentina,20,11,AS,Luís Scola
+Q1,0:40,Argentina,20,11,2_Pts_C,Marcos Delia
+Q1,0:53,Argentina,18,11,RD,Nicolas Brussino
+Q1,0:53,Coréia do Sul,18,11,2_Pts_T,Hyogeun Jeong
+Q1,10:00,Argentina,0,0,inicio_quarto,Marcos Delia
+Q1,1:13,Argentina,18,11,AS,Facundo Campazzo
+Q1,1:13,Argentina,18,11,3_Pts_C,Nicolas Brussino
+Q1,1:15,Argentina,15,11,FR,Patricio Garino
+Q1,1:15,Coréia do Sul,15,11,FC,Hyogeun Jeong
+Q1,1:24,Coréia do Sul,15,11,substituicao_entra,Jongkyu Kim
+Q1,1:24,Coréia do Sul,15,11,substituicao_sai,Seounghyun Lee
+Q1,1:24,Coréia do Sul,15,11,ER,Hoon Heo
+Q1,1:28,Argentina,15,11,ER,Nicolas Brussino
+Q1,1:28,Coréia do Sul,15,11,BR,Guna RA
+Q1,1:36,Coréia do Sul,15,11,ER,Daesung Lee
+Q1,1:53,Argentina,15,11,AS,Luís Scola
+Q1,1:53,Argentina,15,11,2_Pts_C,Marcos Delia
+Q1,2:02,Argentina,13,11,RD,Nicolas Brussino
+Q1,2:02,Argentina,13,11,TO,Marcos Delia
+Q1,2:02,Coréia do Sul,13,11,2_Pts_T,Guna RA
+Q1,2:12,Argentina,13,11,2_Pts_T,Nicolas Brussino
+Q1,2:12,Coréia do Sul,13,11,RD,Seounghyun Lee
+Q1,2:17,Argentina,13,11,RO,Nicolas Brussino
+Q1,2:17,Argentina,13,11,2_Pts_T,Facundo Campazzo
+Q1,2:28,Argentina,13,11,substituicao_entra,Nicolas Brussino
+Q1,2:28,Argentina,13,11,substituicao_sai,Luca Vildoza
+Q1,2:28,Coréia do Sul,13,11,substituicao_entra,Daesung Lee
+Q1,2:28,Coréia do Sul,13,11,substituicao_sai,Sunhyung Kim
+Q1,2:28,Coréia do Sul,13,11,substituicao_entra,Hyogeun Jeong
+Q1,2:28,Coréia do Sul,13,11,substituicao_sai,Junghyun Lee
+Q1,2:28,Coréia do Sul,13,11,substituicao_entra,Hoon Heo
+Q1,2:28,Coréia do Sul,13,11,substituicao_sai,Junyong Choi
+Q1,2:35,Argentina,13,11,RD,Luís Scola
+Q1,2:35,Coréia do Sul,13,11,2_Pts_T,Guna RA
+Q1,2:46,Argentina,13,11,2_Pts_C,Luca Vildoza
+Q1,3:09,Coréia do Sul,11,11,ER,Seounghyun Lee
+Q1,3:34,Argentina,11,11,AS,Luca Vildoza
+Q1,3:34,Argentina,11,11,2_Pts_C,Luís Scola
+Q1,3:50,Coréia do Sul,9,11,2_Pts_C,Sunhyung Kim
+Q1,3:58,Argentina,9,9,2_Pts_T,Luís Scola
+Q1,3:58,Coréia do Sul,9,9,RD,Sunhyung Kim
+Q1,4:07,Argentina,9,9,RD,Facundo Campazzo
+Q1,4:07,Coréia do Sul,9,9,3_Pts_T,Junghyun Lee
+Q1,4:12,Argentina,9,9,FC,Luca Vildoza
+Q1,4:12,Coréia do Sul,9,9,FR,Junghyun Lee
+Q1,4:22,Argentina,9,9,2_Pts_T,Luís Scola
+Q1,4:22,Coréia do Sul,9,9,RD,Seounghyun Lee
+Q1,4:38,Argentina,9,9,RD,Luís Scola
+Q1,4:38,Argentina,9,8,substituicao_entra,Facundo Campazzo
+Q1,4:38,Argentina,9,8,substituicao_sai,Nicolás Laprovittola
+Q1,4:38,Argentina,9,8,FC,Nicolás Laprovittola
+Q1,4:38,Coréia do Sul,9,9,LL_Pts_T,Guna RA
+Q1,4:38,Coréia do Sul,9,9,AS,Junghyun Lee
+Q1,4:38,Coréia do Sul,9,9,LL_Pts_C,Guna RA
+Q1,4:38,Coréia do Sul,9,8,FR,Guna RA
+Q1,4:47,Argentina,9,8,2_Pts_T,Patricio Garino
+Q1,4:47,Coréia do Sul,9,8,RD,Guna RA
+Q1,4:47,Coréia do Sul,9,8,TO,Junyong Choi
+Q1,5:01,Coréia do Sul,9,8,3_Pts_C,Junghyun Lee
+Q1,5:17,Argentina,9,5,3_Pts_T,Luca Vildoza
+Q1,5:17,Coréia do Sul,9,5,RD,Junyong Choi
+Q1,5:26,Argentina,9,5,RD,Nicolás Laprovittola
+Q1,5:26,Coréia do Sul,9,5,2_Pts_T,Guna RA
+Q1,5:39,Argentina,9,5,2_Pts_T,Luís Scola
+Q1,5:39,Coréia do Sul,9,5,RD,Junyong Choi
+Q1,5:52,Argentina,9,5,RD,Marcos Delia
+Q1,5:52,Argentina,9,4,FC,Luís Scola
+Q1,5:52,Coréia do Sul,9,5,LL_Pts_T,Junghyun Lee
+Q1,5:52,Coréia do Sul,9,5,LL_Pts_C,Junghyun Lee
+Q1,5:52,Coréia do Sul,9,4,FR,Junghyun Lee
+Q1,5:57,Argentina,9,4,3_Pts_T,Patricio Garino
+Q1,5:57,Coréia do Sul,9,4,RD,Sunhyung Kim
+Q1,6:09,Argentina,9,4,FR,Nicolás Laprovittola
+Q1,6:09,Coréia do Sul,9,4,FC,Sunhyung Kim
+Q1,6:13,Argentina,9,4,RO,Marcos Delia
+Q1,6:13,Argentina,9,4,3_Pts_T,Nicolás Laprovittola
+Q1,6:20,Argentina,9,4,RO,
+Q1,6:20,Argentina,9,4,2_Pts_T,Luís Scola
+Q1,6:20,Coréia do Sul,9,4,TO,Junyong Choi
+Q1,6:24,Argentina,9,4,BR,Patricio Garino
+Q1,6:24,Coréia do Sul,9,4,ER,Sunhyung Kim
+Q1,6:36,Argentina,9,4,AS,Nicolás Laprovittola
+Q1,6:36,Argentina,9,4,3_Pts_C,Patricio Garino
+Q1,6:46,Argentina,6,4,RD,Luís Scola
+Q1,6:46,Argentina,6,4,TO,Luís Scola
+Q1,6:46,Coréia do Sul,6,4,2_Pts_T,Junyong Choi
+Q1,6:59,Argentina,6,4,2_Pts_T,Patricio Garino
+Q1,6:59,Coréia do Sul,6,4,RD,Guna RA
+Q1,7:07,Argentina,6,4,FR,Nicolás Laprovittola
+Q1,7:07,Coréia do Sul,6,4,FC,Junyong Choi
+Q1,7:09,Argentina,6,4,RD,Luís Scola
+Q1,7:09,Argentina,6,4,TO,Luca Vildoza
+Q1,7:09,Coréia do Sul,6,4,,Sunhyung Kim3pt jump shot blocked
+Q1,7:20,Argentina,6,4,2_Pts_T,Patricio Garino
+Q1,7:20,Coréia do Sul,6,4,RD,Seounghyun Lee
+Q1,7:40,Coréia do Sul,6,4,ER,Junyong Choi
+Q1,7:47,Argentina,6,4,2_Pts_T,Marcos Delia
+Q1,7:47,Coréia do Sul,6,4,RD,Junyong Choi
+Q1,8:02,Coréia do Sul,6,4,2_Pts_C,Seounghyun Lee
+Q1,8:15,Argentina,6,2,2_Pts_T,Luís Scola
+Q1,8:15,Coréia do Sul,6,2,RD,Junyong Choi
+Q1,8:32,Coréia do Sul,6,2,2_Pts_C,Junghyun Lee
+Q1,8:41,Argentina,6,0,FC,Nicolás Laprovittola
+Q1,8:41,Coréia do Sul,6,0,FR,Sunhyung Kim
+Q1,8:43,Argentina,6,0,2_Pts_T,Luís Scola
+Q1,8:43,Coréia do Sul,6,0,RD,Guna RA
+Q1,8:53,Argentina,6,0,FR,Luca Vildoza
+Q1,8:53,Coréia do Sul,6,0,FC,Junghyun Lee
+Q1,9:01,Argentina,6,0,RD,Luís Scola
+Q1,9:01,Coréia do Sul,6,0,2_Pts_T,Guna RA
+Q1,9:15,Argentina,6,0,3_Pts_C,Luca Vildoza
+Q1,9:27,Argentina,3,0,RD,Marcos Delia
+Q1,9:27,Coréia do Sul,3,0,2_Pts_T,Sunhyung Kim
+Q1,9:47,Argentina,3,0,AS,Luca Vildoza
+Q1,9:47,Argentina,3,0,3_Pts_C,Luís Scola
+Q2,0:00,Coréia do Sul,43,28,3_Pts_T,Sunhyung Kim
+Q2,0:07,Argentina,43,28,2_Pts_C,Gabriel Deck
+Q2,0:30,Argentina,41,28,substituicao_entra,Luís Scola
+Q2,0:30,Argentina,41,28,substituicao_sai,Tayavek Gallizzi
+Q2,0:32,Argentina,41,27,tempo_tecnico,
+Q2,0:32,Argentina,41,27,FC,Nicolas Brussino
+Q2,0:32,Coréia do Sul,41,28,LL_Pts_C,Seounghyun Lee
+Q2,0:32,Coréia do Sul,41,27,LL_Pts_T,Seounghyun Lee
+Q2,0:32,Coréia do Sul,41,27,substituicao_entra,Jongkyu Kim
+Q2,0:32,Coréia do Sul,41,27,substituicao_sai,Guna RA
+Q2,0:32,Coréia do Sul,41,27,FR,Seounghyun Lee
+Q2,0:42,Argentina,41,27,3_Pts_T,Luca Vildoza
+Q2,0:42,Coréia do Sul,41,27,RD,Hyogeun Jeong
+Q2,10:00,Coréia do Sul,0,0,muda_bola,
+Q2,1:05,Coréia do Sul,41,27,AS,Sunhyung Kim
+Q2,1:05,Coréia do Sul,41,27,2_Pts_C,Guna RA
+Q2,1:44,Coréia do Sul,41,25,2_Pts_C,Guna RA
+Q2,1:51,Argentina,41,23,substituicao_entra,Luca Vildoza
+Q2,1:51,Argentina,41,23,substituicao_sai,Patricio Garino
+Q2,1:54,Argentina,41,23,EN Errada,Gabriel Deck
+Q2,1:54,Coréia do Sul,41,23,RD,Junghyun Lee
+Q2,1:56,Argentina,41,23,RO,Gabriel Deck
+Q2,1:56,Argentina,41,23,2_Pts_T,Tayavek Gallizzi
+Q2,2:13,Argentina,41,23,RD,Patricio Garino
+Q2,2:13,Coréia do Sul,41,23,2_Pts_T,Sunhyung Kim
+Q2,2:37,Argentina,41,23,2_Pts_T,Facundo Campazzo
+Q2,2:37,Coréia do Sul,41,23,RD,Junghyun Lee
+Q2,2:43,Argentina,41,23,RO,
+Q2,2:43,Argentina,41,23,2_Pts_T,Tayavek Gallizzi
+Q2,2:43,Coréia do Sul,41,23,TO,Guna RA
+Q2,3:00,Argentina,41,22,FC,Tayavek Gallizzi
+Q2,3:00,Coréia do Sul,41,23,AS,Junghyun Lee
+Q2,3:00,Coréia do Sul,41,23,LL_Pts_C,Guna RA
+Q2,3:00,Coréia do Sul,41,22,LL_Pts_T,Guna RA
+Q2,3:00,Coréia do Sul,41,22,FR,Guna RA
+Q2,3:08,Coréia do Sul,41,22,RO,Hyogeun Jeong
+Q2,3:08,Coréia do Sul,41,22,2_Pts_T,Guna RA
+Q2,3:10,Coréia do Sul,41,22,RO,Guna RA
+Q2,3:10,Coréia do Sul,41,22,3_Pts_T,Sunhyung Kim
+Q2,3:20,Coréia do Sul,41,22,RO,Guna RA
+Q2,3:20,Coréia do Sul,41,22,2_Pts_T,Sunhyung Kim
+Q2,3:33,Argentina,41,22,AS,Nicolas Brussino
+Q2,3:33,Argentina,41,22,3_Pts_C,Patricio Garino
+Q2,3:50,Argentina,38,22,BR,Tayavek Gallizzi
+Q2,3:50,Coréia do Sul,38,22,ER,Guna RA
+Q2,3:56,Argentina,38,22,2_Pts_T,Gabriel Deck
+Q2,3:56,Coréia do Sul,38,22,RD,Guna RA
+Q2,4:05,Argentina,38,22,FR,Tayavek Gallizzi
+Q2,4:05,Coréia do Sul,38,22,substituicao_entra,Hyogeun Jeong
+Q2,4:05,Coréia do Sul,38,22,substituicao_sai,Junyong Choi
+Q2,4:05,Coréia do Sul,38,22,FC,Junyong Choi
+Q2,4:24,Argentina,38,22,BR,Tayavek Gallizzi
+Q2,4:24,Coréia do Sul,38,22,ER,Guna RA
+Q2,4:37,Coréia do Sul,38,22,tempo_tecnico,
+Q2,4:39,Argentina,38,22,AS,Nicolas Brussino
+Q2,4:39,Argentina,38,22,2_Pts_C,Tayavek Gallizzi
+Q2,4:53,Argentina,36,22,RD,Nicolas Brussino
+Q2,4:53,Coréia do Sul,36,22,2_Pts_T,Guna RA
+Q2,5:00,Coréia do Sul,36,22,RO,Seounghyun Lee
+Q2,5:00,Coréia do Sul,36,22,3_Pts_T,Junghyun Lee
+Q2,5:09,Argentina,36,22,AS,Nicolas Brussino
+Q2,5:09,Argentina,36,22,3_Pts_C,Facundo Campazzo
+Q2,5:26,Argentina,33,22,RD,Nicolas Brussino
+Q2,5:26,Argentina,33,22,TO,Tayavek Gallizzi
+Q2,5:26,Coréia do Sul,33,22,2_Pts_T,Junyong Choi
+Q2,5:42,Argentina,33,22,AS,Patricio Garino
+Q2,5:42,Argentina,33,22,3_Pts_C,Facundo Campazzo
+Q2,5:57,Argentina,30,22,LL_Pts_C,Tayavek Gallizzi
+Q2,5:57,Argentina,29,22,LL_Pts_C,Tayavek Gallizzi
+Q2,5:57,Argentina,28,22,FR,Tayavek Gallizzi
+Q2,5:57,Coréia do Sul,30,22,tempo_tecnico,
+Q2,5:57,Coréia do Sul,28,22,FC_A,Junghyun Lee
+Q2,6:03,Coréia do Sul,28,22,2_Pts_C,Guna RA
+Q2,6:25,Argentina,28,20,AS,Facundo Campazzo
+Q2,6:25,Argentina,28,20,2_Pts_C,Gabriel Deck
+Q2,6:44,Argentina,26,18,FC,Tayavek Gallizzi
+Q2,6:44,Coréia do Sul,26,20,LL_Pts_C,Guna RA
+Q2,6:44,Coréia do Sul,26,19,LL_Pts_C,Guna RA
+Q2,6:44,Coréia do Sul,26,18,FR,Guna RA
+Q2,7:01,Argentina,26,18,3_Pts_C,Nicolas Brussino
+Q2,7:04,Argentina,23,18,FR,Gabriel Deck
+Q2,7:04,Coréia do Sul,23,18,FC,Junyong Choi
+Q2,7:23,Argentina,23,17,FC,Tayavek Gallizzi
+Q2,7:23,Coréia do Sul,23,18,LL_Pts_C,Guna RA
+Q2,7:23,Coréia do Sul,23,17,FR,Guna RA
+Q2,7:23,Coréia do Sul,23,17,AS,Junghyun Lee
+Q2,7:23,Coréia do Sul,23,17,2_Pts_C,Guna RA
+Q2,7:26,Argentina,23,15,ER,Tayavek Gallizzi
+Q2,7:28,Argentina,23,15,RD,Tayavek Gallizzi
+Q2,7:28,Coréia do Sul,23,15,2_Pts_T,Seounghyun Lee
+Q2,7:41,Argentina,23,15,tempo_tecnico,
+Q2,7:41,Argentina,23,15,FC,Facundo Campazzo
+Q2,7:41,Coréia do Sul,23,15,FR,Seounghyun Lee
+Q2,7:49,Argentina,23,15,substituicao_entra,Tayavek Gallizzi
+Q2,7:49,Argentina,23,15,substituicao_sai,Marcos Delia
+Q2,7:49,Argentina,23,15,ER,Facundo Campazzo
+Q2,7:56,Argentina,23,14,FC,Marcos Delia
+Q2,7:56,Coréia do Sul,23,15,AS,Junghyun Lee
+Q2,7:56,Coréia do Sul,23,15,LL_Pts_C,Guna RA
+Q2,7:56,Coréia do Sul,23,14,LL_Pts_T,Guna RA
+Q2,7:56,Coréia do Sul,23,14,FR,Guna RA
+Q2,8:08,Argentina,23,14,LL_Pts_C,Gabriel Deck
+Q2,8:08,Argentina,22,14,LL_Pts_T,Gabriel Deck
+Q2,8:08,Argentina,22,14,FR,Gabriel Deck
+Q2,8:08,Coréia do Sul,22,14,FC,Seounghyun Lee
+Q2,8:39,Argentina,22,14,substituicao_entra,Patricio Garino
+Q2,8:39,Argentina,22,14,substituicao_sai,Luís Scola
+Q2,8:39,Argentina,22,14,FC,Luís Scola
+Q2,8:39,Coréia do Sul,22,14,FR,Guna RA
+Q2,8:42,Argentina,22,14,FC,Marcos Delia
+Q2,8:42,Coréia do Sul,22,14,FR,Guna RA
+Q2,8:42,Coréia do Sul,22,14,RO,Guna RA
+Q2,8:42,Coréia do Sul,22,14,2_Pts_T,Seounghyun Lee
+Q2,8:46,Coréia do Sul,22,14,RO,Guna RA
+Q2,8:46,Coréia do Sul,22,14,2_Pts_T,Sunhyung Kim
+Q2,8:54,Argentina,22,14,2_Pts_T,Luís Scola
+Q2,8:54,Coréia do Sul,22,14,RD,Junyong Choi
+Q2,9:21,Coréia do Sul,22,14,3_Pts_C,Junghyun Lee
+Q2,9:31,Argentina,0,0,3_Pts_T,Facundo Campazzo
+Q2,9:31,Coréia do Sul,0,0,RD,Guna RA
+Q2,9:46,Argentina,0,0,RD,Luís Scola
+Q2,9:46,Coréia do Sul,0,0,2_Pts_T,Guna RA
+Q3,0:01,Argentina,71,44,2_Pts_C,Nicolás Laprovittola
+Q3,0:11,Argentina,69,44,RD,Maximo Fjellerup
+Q3,0:11,Coréia do Sul,69,44,2_Pts_T,Jongkyu Kim
+Q3,0:21,Argentina,69,44,substituicao_entra,Tayavek Gallizzi
+Q3,0:21,Argentina,69,44,substituicao_sai,Luís Scola
+Q3,0:21,Argentina,69,44,LL_Pts_C,Luís Scola
+Q3,0:21,Argentina,68,44,AS,Luca Vildoza
+Q3,0:21,Argentina,68,44,LL_Pts_C,Luís Scola
+Q3,0:21,Argentina,67,44,FR,Luís Scola
+Q3,0:21,Coréia do Sul,67,44,FC,Guna RA
+Q3,0:38,Coréia do Sul,67,44,AS,Chan Hee Park
+Q3,0:38,Coréia do Sul,67,44,EN,Guna RA
+Q3,0:44,Argentina,67,42,3_Pts_T,Luís Scola
+Q3,0:44,Coréia do Sul,67,42,RD,Hyogeun Jeong
+Q3,0:54,Argentina,67,42,RD,Maximo Fjellerup
+Q3,0:54,Coréia do Sul,67,42,2_Pts_T,Daesung Lee
+Q3,10:00,Argentina,0,0,muda_bola,
+Q3,1:07,Argentina,67,42,LL_Pts_C,Gabriel Deck
+Q3,1:07,Argentina,66,42,LL_Pts_C,Gabriel Deck
+Q3,1:07,Argentina,65,42,substituicao_entra,Maximo Fjellerup
+Q3,1:07,Argentina,65,42,substituicao_sai,Patricio Garino
+Q3,1:07,Argentina,65,42,substituicao_entra,Luca Vildoza
+Q3,1:07,Argentina,65,42,substituicao_sai,Facundo Campazzo
+Q3,1:07,Argentina,65,42,FR,Gabriel Deck
+Q3,1:07,Coréia do Sul,65,42,FC,Daesung Lee
+Q3,1:25,Coréia do Sul,65,42,2_Pts_C,Jongkyu Kim
+Q3,1:29,Argentina,65,40,3_Pts_T,Nicolás Laprovittola
+Q3,1:29,Coréia do Sul,65,40,RD,Daesung Lee
+Q3,1:38,Argentina,65,40,BR,Facundo Campazzo
+Q3,1:38,Coréia do Sul,65,40,ER,Daesung Lee
+Q3,1:53,Argentina,65,40,AS,Gabriel Deck
+Q3,1:53,Argentina,65,40,3_Pts_C,Facundo Campazzo
+Q3,2:02,Argentina,62,40,RD,Patricio Garino
+Q3,2:02,Coréia do Sul,62,40,3_Pts_T,Daesung Lee
+Q3,2:09,Argentina,62,40,substituicao_entra,Gabriel Deck
+Q3,2:09,Argentina,62,40,substituicao_sai,Marcos Delia
+Q3,2:09,Argentina,62,40,FC,Marcos Delia
+Q3,2:09,Coréia do Sul,62,40,FR,Jongkyu Kim
+Q3,2:09,Coréia do Sul,62,40,RO,
+Q3,2:10,Coréia do Sul,62,40,3_Pts_T,Chan Hee Park
+Q3,2:17,Coréia do Sul,62,40,RO,Daesung Lee
+Q3,2:17,Coréia do Sul,62,40,2_Pts_T,Jongkyu Kim
+Q3,2:18,Coréia do Sul,62,40,RO,Jongkyu Kim
+Q3,2:18,Coréia do Sul,62,40,2_Pts_T,Guna RA
+Q3,2:42,Argentina,62,40,2_Pts_C,Luís Scola
+Q3,2:45,Argentina,60,40,RD,Luís Scola
+Q3,2:45,Argentina,60,40,TO,Marcos Delia
+Q3,2:45,Coréia do Sul,60,40,2_Pts_T,Guna RA
+Q3,2:53,Coréia do Sul,60,40,RO,Daesung Lee
+Q3,2:53,Coréia do Sul,60,40,2_Pts_T,Jongkyu Kim
+Q3,3:01,Argentina,60,40,ER,Luís Scola
+Q3,3:01,Coréia do Sul,60,40,BR,Chan Hee Park
+Q3,3:15,Argentina,60,40,RD,
+Q3,3:15,Coréia do Sul,60,40,substituicao_entra,Jongkyu Kim
+Q3,3:15,Coréia do Sul,60,40,substituicao_sai,Seounghyun Lee
+Q3,3:15,Coréia do Sul,60,40,2_Pts_T,Daesung Lee
+Q3,3:35,Argentina,60,40,AS,Facundo Campazzo
+Q3,3:35,Argentina,60,40,3_Pts_C,Luís Scola
+Q3,3:41,Coréia do Sul,57,40,substituicao_entra,Hyogeun Jeong
+Q3,3:41,Coréia do Sul,57,40,substituicao_sai,Junyong Choi
+Q3,3:41,Coréia do Sul,57,40,ER,Seounghyun Lee
+Q3,3:47,Coréia do Sul,57,40,RO,Seounghyun Lee
+Q3,3:47,Coréia do Sul,57,40,3_Pts_T,Junyong Choi
+Q3,3:59,Argentina,57,40,LL_Pts_T,Marcos Delia
+Q3,3:59,Argentina,57,40,LL_Pts_T,Marcos Delia
+Q3,3:59,Argentina,57,40,FR,Marcos Delia
+Q3,3:59,Coréia do Sul,57,40,RD,Guna RA
+Q3,3:59,Coréia do Sul,57,40,FC,Junyong Choi
+Q3,4:08,Argentina,57,40,RD,Marcos Delia
+Q3,4:08,Coréia do Sul,57,40,2_Pts_T,Chan Hee Park
+Q3,4:26,Coréia do Sul,57,40,RO,Guna RA
+Q3,4:26,Coréia do Sul,57,40,2_Pts_T,Daesung Lee
+Q3,4:37,Argentina,57,40,3_Pts_T,Nicolás Laprovittola
+Q3,4:37,Coréia do Sul,57,40,RD,Guna RA
+Q3,4:39,Argentina,57,40,FR,Marcos Delia
+Q3,4:39,Argentina,57,40,RO,Marcos Delia
+Q3,4:39,Argentina,57,40,2_Pts_T,Facundo Campazzo
+Q3,4:39,Coréia do Sul,57,40,FC,Chan Hee Park
+Q3,4:54,Argentina,57,40,FR,Nicolás Laprovittola
+Q3,4:54,Coréia do Sul,57,40,substituicao_entra,Daesung Lee
+Q3,4:54,Coréia do Sul,57,40,substituicao_sai,Junghyun Lee
+Q3,4:54,Coréia do Sul,57,40,FC,Junghyun Lee
+Q3,5:17,Argentina,57,40,RD,Nicolás Laprovittola
+Q3,5:17,Coréia do Sul,57,40,3_Pts_T,Junghyun Lee
+Q3,5:24,Coréia do Sul,57,40,RO,Seounghyun Lee
+Q3,5:24,Coréia do Sul,57,40,2_Pts_T,Guna RA
+Q3,5:30,Argentina,57,38,FC,Luís Scola
+Q3,5:30,Coréia do Sul,57,40,RO,Guna RA
+Q3,5:30,Coréia do Sul,57,40,LL_Pts_T,Junghyun Lee
+Q3,5:30,Coréia do Sul,57,40,LL_Pts_C,Junghyun Lee
+Q3,5:30,Coréia do Sul,57,39,LL_Pts_C,Junghyun Lee
+Q3,5:30,Coréia do Sul,57,38,substituicao_entra,Chan Hee Park
+Q3,5:30,Coréia do Sul,57,38,substituicao_sai,Sunhyung Kim
+Q3,5:30,Coréia do Sul,57,38,FR,Junghyun Lee
+Q3,5:36,Argentina,57,38,ER,Luís Scola
+Q3,5:36,Coréia do Sul,57,38,BR,Seounghyun Lee
+Q3,5:54,Argentina,57,38,RD,
+Q3,5:59,Coréia do Sul,57,38,2_Pts_T,Sunhyung Kim
+Q3,6:05,Argentina,57,38,2_Pts_T,Luís Scola
+Q3,6:05,Coréia do Sul,57,38,RD,Sunhyung Kim
+Q3,6:07,Argentina,57,38,RO,Luís Scola
+Q3,6:07,Argentina,57,38,3_Pts_T,Nicolás Laprovittola
+Q3,6:19,Coréia do Sul,57,38,AS,Sunhyung Kim
+Q3,6:19,Coréia do Sul,57,38,3_Pts_C,Guna RA
+Q3,6:39,Argentina,57,35,AS,Patricio Garino
+Q3,6:39,Argentina,57,35,2_Pts_C,Marcos Delia
+Q3,6:52,Argentina,55,35,RD,
+Q3,6:55,Coréia do Sul,55,35,3_Pts_T,Junghyun Lee
+Q3,7:17,Argentina,55,35,AS,Facundo Campazzo
+Q3,7:19,Argentina,55,35,3_Pts_C,Nicolás Laprovittola
+Q3,7:26,Argentina,52,35,BR,Patricio Garino
+Q3,7:26,Coréia do Sul,52,35,ER,Junghyun Lee
+Q3,7:30,Argentina,52,35,2_Pts_T,Luís Scola
+Q3,7:30,Coréia do Sul,52,35,RD,Junghyun Lee
+Q3,7:44,Argentina,52,35,RD,Marcos Delia
+Q3,7:44,Coréia do Sul,52,35,2_Pts_T,Sunhyung Kim
+Q3,7:54,Argentina,52,35,2_Pts_T,Nicolás Laprovittola
+Q3,7:54,Coréia do Sul,52,35,RD,Guna RA
+Q3,8:06,Argentina,52,35,RO,Luís Scola
+Q3,8:06,Argentina,52,35,3_Pts_T,Nicolás Laprovittola
+Q3,8:24,Coréia do Sul,52,35,AS,Junghyun Lee
+Q3,8:24,Coréia do Sul,52,35,2_Pts_C,Guna RA
+Q3,8:38,Coréia do Sul,52,33,tempo_tecnico,
+Q3,8:43,Argentina,52,33,AS,Facundo Campazzo
+Q3,8:43,Argentina,52,33,3_Pts_C,Nicolás Laprovittola
+Q3,8:55,Coréia do Sul,49,33,AS,Junghyun Lee
+Q3,8:55,Coréia do Sul,49,33,3_Pts_C,Guna RA
+Q3,9:13,Argentina,49,30,AS,Facundo Campazzo
+Q3,9:13,Argentina,49,30,3_Pts_C,Luís Scola
+Q3,9:20,Argentina,46,30,RO,Facundo Campazzo
+Q3,9:20,Argentina,46,30,3_Pts_T,Nicolás Laprovittola
+Q3,9:28,Coréia do Sul,46,30,2_Pts_C,Guna RA
+Q3,9:53,Argentina,46,28,AS,Patricio Garino
+Q3,9:53,Argentina,46,28,3_Pts_C,Nicolás Laprovittola
+Q4,0:02,Argentina,95,69,RD,Agustin Caffaro
+Q4,0:02,Coréia do Sul,95,69,2_Pts_T,Daesung Lee
+Q4,0:09,Argentina,95,69,2_Pts_T,Luca Vildoza
+Q4,0:09,Coréia do Sul,95,69,RD,Hyogeun Jeong
+Q4,0:30,Argentina,95,69,BR,Maximo Fjellerup
+Q4,0:30,Coréia do Sul,95,69,ER,Daesung Lee
+Q4,0:44,Argentina,95,69,3_Pts_T,Lucio Redivo
+Q4,0:44,Coréia do Sul,95,69,RD,Sangjae Kang
+Q4,0:50,Argentina,95,69,RO,
+Q4,0:51,Argentina,95,69,EN_T,Gabriel Deck
+Q4,10:00,Coréia do Sul,0,0,muda_bola,
+Q4,1:09,Coréia do Sul,95,69,AS,Sunhyung Kim
+Q4,1:09,Coréia do Sul,95,69,3_Pts_C,Daesung Lee
+Q4,1:22,Argentina,95,66,LL_Pts_C,Agustin Caffaro
+Q4,1:22,Argentina,94,66,LL_Pts_T,Agustin Caffaro
+Q4,1:22,Argentina,94,66,FR,Agustin Caffaro
+Q4,1:22,Coréia do Sul,94,66,FC,Sangjae Kang
+Q4,1:38,Argentina,94,66,RD,Maximo Fjellerup
+Q4,1:38,Coréia do Sul,94,66,3_Pts_T,Daesung Lee
+Q4,1:45,Argentina,94,66,LL_Pts_T,Maximo Fjellerup
+Q4,1:45,Argentina,94,66,LL_Pts_C,Maximo Fjellerup
+Q4,1:45,Argentina,93,66,FR,Maximo Fjellerup
+Q4,1:45,Coréia do Sul,94,66,RD,Hyogeun Jeong
+Q4,1:45,Coréia do Sul,93,66,FC,Jongkyu Kim
+Q4,2:02,Coréia do Sul,93,66,AS,Daesung Lee
+Q4,2:02,Coréia do Sul,93,66,3_Pts_C,Sunhyung Kim
+Q4,2:11,Argentina,93,63,ER,Agustin Caffaro
+Q4,2:11,Coréia do Sul,93,63,BR,Daesung Lee
+Q4,2:15,Argentina,93,63,RO,Agustin Caffaro
+Q4,2:15,Argentina,93,63,3_Pts_T,Lucio Redivo
+Q4,2:35,Coréia do Sul,93,63,AS,Sunhyung Kim
+Q4,2:35,Coréia do Sul,93,63,2_Pts_C,Sangjae Kang
+Q4,2:41,Argentina,93,61,TO,Agustin Caffaro
+Q4,2:41,Coréia do Sul,93,61,RO,
+Q4,2:41,Coréia do Sul,93,61,2_Pts_T,Sunhyung Kim
+Q4,2:46,Argentina,93,61,ER,Gabriel Deck
+Q4,2:46,Coréia do Sul,93,61,BR,Daesung Lee
+Q4,2:54,Argentina,93,61,RD,Agustin Caffaro
+Q4,2:54,Coréia do Sul,93,61,3_Pts_T,Daesung Lee
+Q4,3:05,Argentina,93,61,AS,Lucio Redivo
+Q4,3:05,Argentina,93,61,2_Pts_C,Agustin Caffaro
+Q4,3:18,Argentina,91,61,FR,Luca Vildoza
+Q4,3:18,Coréia do Sul,91,61,FC,Daesung Lee
+Q4,3:23,Argentina,91,61,RD,Lucio Redivo
+Q4,3:23,Argentina,91,60,FC,Luca Vildoza
+Q4,3:23,Coréia do Sul,91,61,LL_Pts_T,Daesung Lee
+Q4,3:23,Coréia do Sul,91,61,LL_Pts_C,Daesung Lee
+Q4,3:23,Coréia do Sul,91,60,FR,Daesung Lee
+Q4,3:34,Argentina,91,60,AS,Lucio Redivo
+Q4,3:34,Argentina,91,60,2_Pts_C,Agustin Caffaro
+Q4,3:54,Coréia do Sul,89,60,3_Pts_C,Daesung Lee
+Q4,4:09,Argentina,89,57,2_Pts_T,Lucio Redivo
+Q4,4:09,Coréia do Sul,89,57,RD,Daesung Lee
+Q4,4:15,Argentina,89,57,substituicao_entra,Agustin Caffaro
+Q4,4:15,Argentina,89,57,substituicao_sai,Marcos Delia
+Q4,4:15,Argentina,89,57,FR,Luca Vildoza
+Q4,4:15,Coréia do Sul,89,57,FC,Daesung Lee
+Q4,4:23,Argentina,89,57,RO,
+Q4,4:23,Coréia do Sul,89,57,substituicao_entra,Daesung Lee
+Q4,4:23,Coréia do Sul,89,57,substituicao_sai,Guna RA
+Q4,4:23,Coréia do Sul,89,57,substituicao_entra,Jongkyu Kim
+Q4,4:23,Coréia do Sul,89,57,substituicao_sai,Junghyun Lee
+Q4,4:23,Coréia do Sul,89,57,tempo_tecnico,
+Q4,4:26,Argentina,89,57,3_Pts_T,Lucio Redivo
+Q4,4:51,Coréia do Sul,89,57,2_Pts_C,Hyogeun Jeong
+Q4,5:07,Argentina,89,55,2_Pts_T,Marcos Delia
+Q4,5:07,Coréia do Sul,89,55,RD,Sangjae Kang
+Q4,5:16,Argentina,89,55,RO,Marcos Delia
+Q4,5:16,Argentina,89,55,2_Pts_T,Gabriel Deck
+Q4,5:25,Argentina,89,55,BR,Luca Vildoza
+Q4,5:25,Coréia do Sul,89,55,ER,Sunhyung Kim
+Q4,5:35,Argentina,89,55,LL_Pts_T,Gabriel Deck
+Q4,5:35,Argentina,88,55,FR,Gabriel Deck
+Q4,5:35,Argentina,88,55,AS,Luca Vildoza
+Q4,5:35,Argentina,88,55,2_Pts_C,Gabriel Deck
+Q4,5:35,Coréia do Sul,88,55,FC,Junghyun Lee
+Q4,5:36,Argentina,86,55,RO,
+Q4,5:36,Argentina,86,55,,Marcos Deliadunk blocked
+Q4,5:36,Coréia do Sul,86,55,substituicao_entra,Sangjae Kang
+Q4,5:36,Coréia do Sul,86,55,substituicao_sai,Seounghyun Lee
+Q4,5:36,Coréia do Sul,86,55,TO,Guna RA
+Q4,5:59,Coréia do Sul,86,55,2_Pts_C,Seounghyun Lee
+Q4,6:06,Coréia do Sul,86,53,RO,Guna RA
+Q4,6:06,Coréia do Sul,86,53,3_Pts_T,Hyogeun Jeong
+Q4,6:28,Argentina,86,53,EN,Maximo Fjellerup
+Q4,6:38,Argentina,84,51,substituicao_entra,Lucio Redivo
+Q4,6:38,Argentina,84,51,substituicao_sai,Tayavek Gallizzi
+Q4,6:38,Argentina,84,51,substituicao_entra,Marcos Delia
+Q4,6:38,Argentina,84,51,substituicao_sai,Nicolás Laprovittola
+Q4,6:38,Argentina,84,51,FC,Tayavek Gallizzi
+Q4,6:38,Coréia do Sul,84,53,LL_Pts_C,Guna RA
+Q4,6:38,Coréia do Sul,84,52,LL_Pts_C,Guna RA
+Q4,6:38,Coréia do Sul,84,51,FR,Guna RA
+Q4,6:38,Coréia do Sul,84,51,RO,
+Q4,6:39,Coréia do Sul,84,51,2_Pts_T,Sunhyung Kim
+Q4,6:52,Argentina,84,51,2_Pts_C,Luca Vildoza
+Q4,7:08,Argentina,82,50,FC,Tayavek Gallizzi
+Q4,7:08,Coréia do Sul,82,51,LL_Pts_C,Guna RA
+Q4,7:08,Coréia do Sul,82,50,substituicao_entra,Sunhyung Kim
+Q4,7:08,Coréia do Sul,82,50,substituicao_sai,Chan Hee Park
+Q4,7:08,Coréia do Sul,82,50,FR,Guna RA
+Q4,7:08,Coréia do Sul,82,50,AS,Junghyun Lee
+Q4,7:08,Coréia do Sul,82,50,2_Pts_C,Guna RA
+Q4,7:24,Argentina,82,48,AS,Maximo Fjellerup
+Q4,7:24,Argentina,82,48,3_Pts_C,Nicolás Laprovittola
+Q4,7:32,Argentina,79,48,RD,Maximo Fjellerup
+Q4,7:32,Coréia do Sul,79,48,2_Pts_T,Guna RA
+Q4,7:53,Argentina,79,48,3_Pts_C,Nicolás Laprovittola
+Q4,7:57,Coréia do Sul,76,48,substituicao_entra,Hyogeun Jeong
+Q4,7:57,Coréia do Sul,76,48,substituicao_sai,Jongkyu Kim
+Q4,8:02,Coréia do Sul,76,48,substituicao_entra,Jongkyu Kim
+Q4,8:02,Coréia do Sul,76,48,substituicao_sai,Junyong Choi
+Q4,8:14,Argentina,76,48,FR,Maximo Fjellerup
+Q4,8:14,Coréia do Sul,76,48,FC,Junyong Choi
+Q4,8:16,Argentina,76,48,RD,Maximo Fjellerup
+Q4,8:16,Coréia do Sul,76,48,3_Pts_T,Junghyun Lee
+Q4,8:20,Argentina,76,48,FC,Luca Vildoza
+Q4,8:20,Coréia do Sul,76,48,FR,Guna RA
+Q4,8:32,Argentina,76,48,2_Pts_T,Tayavek Gallizzi
+Q4,8:32,Coréia do Sul,76,48,RD,Chan Hee Park
+Q4,8:34,Argentina,76,48,RO,Tayavek Gallizzi
+Q4,8:34,Argentina,76,48,2_Pts_T,Gabriel Deck
+Q4,8:48,Argentina,76,48,BR,Tayavek Gallizzi
+Q4,8:48,Coréia do Sul,76,48,ER,Seounghyun Lee
+Q4,9:01,Coréia do Sul,76,48,tempo_tecnico,
+Q4,9:06,Argentina,76,48,3_Pts_C,Luca Vildoza
+Q4,9:15,Coréia do Sul,73,48,ER,Junghyun Lee
+Q4,9:31,Argentina,73,48,EN,Gabriel Deck
+Q4,9:43,Argentina,71,47,FC,Luca Vildoza
+Q4,9:43,Coréia do Sul,71,48,LL_Pts_C,Junghyun Lee
+Q4,9:43,Coréia do Sul,71,47,FR,Junghyun Lee
+Q4,9:43,Coréia do Sul,71,47,AS,Seounghyun Lee
+Q4,9:43,Coréia do Sul,71,47,3_Pts_C,Junghyun Lee

@@ -1,0 +1,430 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:02,Espanha,16,17,2_Pts_T,Willy Hernangomez Geuer
+Q1,0:02,Tunísia,16,17,RD,Mohamed Hadidane
+Q1,0:12,Espanha,16,17,FR,Sergio Llull
+Q1,0:12,Tunísia,16,17,FC,Omar Abada
+Q1,0:28,Espanha,16,16,FC,Pau Ribas
+Q1,0:28,Tunísia,16,17,LL_Pts_C,Michael Roll
+Q1,0:28,Tunísia,16,16,FR,Michael Roll
+Q1,0:28,Tunísia,16,16,2_Pts_C,Michael Roll
+Q1,0:49,Espanha,16,14,3_Pts_T,Pierre Oriola
+Q1,0:49,Tunísia,16,14,RD,Michael Roll
+Q1,10:00,Tunísia,0,0,inicio_quarto,Salah Mejri
+Q1,1:00,Espanha,16,14,RD,Javier Beiran
+Q1,1:00,Tunísia,16,14,2_Pts_T,Mohamed Hadidane
+Q1,1:20,Espanha,16,14,ER,Willy Hernangomez Geuer
+Q1,1:38,Tunísia,16,14,AS,Omar Abada
+Q1,1:38,Tunísia,16,14,2_Pts_C,Mokhtar Ghyaza
+Q1,1:50,Espanha,16,12,AS,Willy Hernangomez Geuer
+Q1,1:50,Espanha,16,12,3_Pts_C,Pau Ribas
+Q1,1:58,Tunísia,13,12,substituicao_entra,Mokhtar Ghyaza
+Q1,1:58,Tunísia,13,12,substituicao_sai,Salah Mejri
+Q1,1:58,Tunísia,13,12,substituicao_entra,Mohamed Hadidane
+Q1,1:58,Tunísia,13,12,substituicao_sai,Makram Ben Romdhane
+Q1,2:04,Espanha,13,12,FR,Pierre Oriola
+Q1,2:04,Espanha,13,12,RO,Pierre Oriola
+Q1,2:04,Espanha,13,12,3_Pts_T,Pau Ribas
+Q1,2:04,Tunísia,13,12,FC,Makram Ben Romdhane
+Q1,2:18,Espanha,13,12,substituicao_entra,Willy Hernangomez Geuer
+Q1,2:18,Espanha,13,12,substituicao_sai,Marc Gasol
+Q1,2:18,Espanha,13,12,substituicao_entra,Pau Ribas
+Q1,2:18,Espanha,13,12,substituicao_sai,Ricky Rubio
+Q1,2:23,Espanha,13,12,RD,Marc Gasol
+Q1,2:23,Tunísia,13,12,2_Pts_T,Makram Ben Romdhane
+Q1,2:43,Espanha,13,12,2_Pts_T,Marc Gasol
+Q1,2:43,Tunísia,13,12,RD,Salah Mejri
+Q1,2:54,Espanha,13,12,substituicao_entra,Javier Beiran
+Q1,2:54,Espanha,13,12,substituicao_sai,Juancho Hernangomez
+Q1,2:54,Espanha,13,12,substituicao_entra,Sergio Llull
+Q1,2:54,Espanha,13,12,substituicao_sai,Victor Claver
+Q1,2:54,Espanha,13,12,substituicao_entra,Pierre Oriola
+Q1,2:54,Espanha,13,12,substituicao_sai,Rudy Fernandez
+Q1,2:54,Espanha,13,12,FR,Marc Gasol
+Q1,2:54,Tunísia,13,12,FC,Makram Ben Romdhane
+Q1,3:16,Tunísia,13,12,2_Pts_C,Makram Ben Romdhane
+Q1,3:25,Espanha,13,10,2_Pts_T,Ricky Rubio
+Q1,3:25,Tunísia,13,10,RD,Makram Ben Romdhane
+Q1,3:45,Tunísia,13,10,AS,Makram Ben Romdhane
+Q1,3:45,Tunísia,13,10,2_Pts_C,Salah Mejri
+Q1,4:04,Espanha,13,8,AS,Ricky Rubio
+Q1,4:04,Espanha,13,8,EN,Juancho Hernangomez
+Q1,4:20,Tunísia,11,8,AS,Salah Mejri
+Q1,4:20,Tunísia,11,8,2_Pts_C,Makram Ben Romdhane
+Q1,4:33,Espanha,11,6,3_Pts_T,Marc Gasol
+Q1,4:33,Tunísia,11,6,RD,Omar Abada
+Q1,4:54,Tunísia,11,6,2_Pts_C,Makram Ben Romdhane
+Q1,4:59,Tunísia,11,4,RO,Makram Ben Romdhane
+Q1,4:59,Tunísia,11,4,3_Pts_T,Salah Mejri
+Q1,5:11,Espanha,11,4,AS,Rudy Fernandez
+Q1,5:11,Espanha,11,4,2_Pts_C,Marc Gasol
+Q1,5:20,Espanha,9,4,RO,Victor Claver
+Q1,5:20,Espanha,9,4,3_Pts_T,Rudy Fernandez
+Q1,5:27,Espanha,9,4,BR,Victor Claver
+Q1,5:27,Tunísia,9,4,ER,Michael Roll
+Q1,5:50,Espanha,9,4,AS,Marc Gasol
+Q1,5:50,Espanha,9,4,2_Pts_C,Juancho Hernangomez
+Q1,6:11,Tunísia,7,4,AS,Salah Mejri
+Q1,6:11,Tunísia,7,4,2_Pts_C,Mourad El Mabrouk
+Q1,6:23,Espanha,7,2,FC,Ricky Rubio
+Q1,6:23,Espanha,7,2,ER,Marc Gasol
+Q1,6:23,Tunísia,7,2,FR,Omar Abada
+Q1,6:23,Tunísia,7,2,BR,Omar Abada
+Q1,6:39,Tunísia,7,2,ER,Makram Ben Romdhane
+Q1,7:04,Espanha,7,2,3_Pts_T,Marc Gasol
+Q1,7:04,Tunísia,7,2,RD,Omar Abada
+Q1,7:10,Espanha,7,2,RD,Marc Gasol
+Q1,7:10,Tunísia,7,2,2_Pts_T,Mourad El Mabrouk
+Q1,7:18,Tunísia,7,2,BR,Michael Roll
+Q1,7:26,Espanha,7,2,ER,Victor Claver
+Q1,7:33,Espanha,7,2,RO,Victor Claver
+Q1,7:33,Espanha,7,2,2_Pts_T,Victor Claver
+Q1,7:49,Tunísia,7,2,AS,Mourad El Mabrouk
+Q1,7:49,Tunísia,7,2,EN,Salah Mejri
+Q1,8:05,Espanha,7,0,2_Pts_C,Ricky Rubio
+Q1,8:27,Espanha,5,0,muda_bola,
+Q1,8:27,Espanha,5,0,BR,Ricky Rubio
+Q1,8:27,Tunísia,5,0,ER,Omar Abada
+Q1,8:41,Espanha,5,0,AS,Victor Claver
+Q1,8:41,Espanha,5,0,2_Pts_C,Marc Gasol
+Q1,9:03,Espanha,3,0,FR,Juancho Hernangomez
+Q1,9:03,Espanha,3,0,RD,Juancho Hernangomez
+Q1,9:03,Tunísia,3,0,FC,Makram Ben Romdhane
+Q1,9:03,Tunísia,3,0,2_Pts_T,Makram Ben Romdhane
+Q1,9:25,Espanha,3,0,AS,Rudy Fernandez
+Q1,9:25,Espanha,3,0,3_Pts_C,Ricky Rubio
+Q1,9:39,Espanha,0,0,RD,Marc Gasol
+Q1,9:39,Espanha,0,0,FC,Juancho Hernangomez
+Q1,9:39,Tunísia,0,0,LL_Pts_T,Makram Ben Romdhane
+Q1,9:39,Tunísia,0,0,LL_Pts_T,Makram Ben Romdhane
+Q1,9:39,Tunísia,0,0,FR,Makram Ben Romdhane
+Q1,9:39,Tunísia,0,0,RO,Makram Ben Romdhane
+Q1,9:39,Tunísia,0,0,3_Pts_T,Makram Ben Romdhane
+Q2,0:00,Espanha,42,39,3_Pts_T,Ricky Rubio
+Q2,0:03,Tunísia,42,39,AS,Omar Abada
+Q2,0:03,Tunísia,42,39,3_Pts_C,Mohamed Hadidane
+Q2,0:31,Espanha,42,36,2_Pts_C,Ricky Rubio
+Q2,0:47,Espanha,40,36,RD,Juancho Hernangomez
+Q2,0:47,Tunísia,40,36,3_Pts_T,Salah Mejri
+Q2,10:00,Tunísia,0,0,muda_bola,
+Q2,1:10,Espanha,40,36,AS,Marc Gasol
+Q2,1:10,Espanha,40,36,3_Pts_C,Juancho Hernangomez
+Q2,1:20,Tunísia,37,36,AS,Omar Abada
+Q2,1:20,Tunísia,37,36,2_Pts_C,Michael Roll
+Q2,1:34,Espanha,37,34,FC_O,Victor Claver
+Q2,1:34,Tunísia,37,34,FR,Salah Mejri
+Q2,1:35,Espanha,37,34,BR,Marc Gasol
+Q2,1:35,Tunísia,37,34,ER,Omar Abada
+Q2,1:56,Espanha,37,34,3_Pts_T,Ricky Rubio
+Q2,1:56,Tunísia,37,34,RD,Mohamed Hadidane
+Q2,2:05,Espanha,37,34,RD,Juancho Hernangomez
+Q2,2:05,Tunísia,37,34,2_Pts_T,Ziyed Chennoufi
+Q2,2:23,Espanha,37,34,2_Pts_C,Victor Claver
+Q2,2:29,Espanha,35,34,RO,Victor Claver
+Q2,2:29,Espanha,35,34,3_Pts_T,Ricky Rubio
+Q2,2:53,Espanha,35,32,FC,Marc Gasol
+Q2,2:53,Tunísia,35,34,LL_Pts_C,Salah Mejri
+Q2,2:53,Tunísia,35,33,LL_Pts_C,Salah Mejri
+Q2,2:53,Tunísia,35,32,FR,Salah Mejri
+Q2,2:55,Tunísia,35,32,RO,Salah Mejri
+Q2,2:55,Tunísia,35,32,3_Pts_T,Michael Roll
+Q2,3:09,Espanha,35,32,,Ricky Rubio
+Q2,3:18,Espanha,33,32,RD,Juancho Hernangomez
+Q2,3:18,Tunísia,33,32,3_Pts_T,Omar Abada
+Q2,3:33,Espanha,33,32,FC,Ricky Rubio
+Q2,3:33,Tunísia,33,32,FR,Omar Abada
+Q2,3:38,Espanha,33,32,substituicao_entra,Ricky Rubio
+Q2,3:38,Espanha,33,32,substituicao_sai,Sergio Llull
+Q2,3:38,Espanha,33,32,substituicao_entra,Pau Ribas
+Q2,3:38,Espanha,33,32,substituicao_sai,Quino Colom
+Q2,3:38,Espanha,33,32,FC,Victor Claver
+Q2,3:38,Espanha,33,32,3_Pts_T,Quino Colom
+Q2,3:38,Tunísia,33,32,FR,Salah Mejri
+Q2,3:38,Tunísia,33,32,RD,
+Q2,3:49,Tunísia,33,32,AS,Omar Abada
+Q2,3:49,Tunísia,33,32,3_Pts_C,Ziyed Chennoufi
+Q2,4:05,Espanha,33,29,AS,Quino Colom
+Q2,4:05,Espanha,33,29,2_Pts_C,Marc Gasol
+Q2,4:18,Espanha,31,29,substituicao_entra,Juancho Hernangomez
+Q2,4:18,Espanha,31,29,substituicao_sai,Willy Hernangomez Geuer
+Q2,4:18,Espanha,31,29,substituicao_entra,Marc Gasol
+Q2,4:18,Espanha,31,29,substituicao_sai,Rudy Fernandez
+Q2,4:18,Espanha,31,29,FR,Rudy Fernandez
+Q2,4:18,Tunísia,31,29,FC_O,Salah Mejri
+Q2,4:36,Espanha,31,29,AS,Willy Hernangomez Geuer
+Q2,4:36,Espanha,31,29,3_Pts_C,Rudy Fernandez
+Q2,4:47,Espanha,28,29,RO,Willy Hernangomez Geuer
+Q2,4:47,Espanha,28,29,3_Pts_T,Sergio Llull
+Q2,5:01,Espanha,28,29,RD,Willy Hernangomez Geuer
+Q2,5:01,Tunísia,28,29,2_Pts_T,Michael Roll
+Q2,5:28,Espanha,28,29,AS,Willy Hernangomez Geuer
+Q2,5:28,Espanha,28,29,3_Pts_C,Sergio Llull
+Q2,5:38,Espanha,25,29,substituicao_entra,Victor Claver
+Q2,5:38,Espanha,25,29,substituicao_sai,Pierre Oriola
+Q2,5:38,Tunísia,25,29,ER,Salah Mejri
+Q2,5:58,Espanha,25,29,AS,Willy Hernangomez Geuer
+Q2,5:58,Espanha,25,29,3_Pts_C,Sergio Llull
+Q2,6:18,Espanha,22,29,BR,Willy Hernangomez Geuer
+Q2,6:18,Tunísia,22,29,ER,Salah Mejri
+Q2,6:24,Espanha,22,29,AS,Sergio Llull
+Q2,6:24,Espanha,22,29,3_Pts_C,Quino Colom
+Q2,6:49,Tunísia,19,29,AS,Salah Mejri
+Q2,6:49,Tunísia,19,29,2_Pts_C,Mohamed Hadidane
+Q2,7:05,Espanha,19,27,LL_Pts_C,Rudy Fernandez
+Q2,7:05,Espanha,18,27,LL_Pts_T,Rudy Fernandez
+Q2,7:05,Espanha,18,27,FR,Rudy Fernandez
+Q2,7:05,Tunísia,19,27,substituicao_entra,Ziyed Chennoufi
+Q2,7:05,Tunísia,19,27,substituicao_sai,Mourad El Mabrouk
+Q2,7:05,Tunísia,18,27,FC,Salah Mejri
+Q2,7:22,Tunísia,18,27,AS,Omar Abada
+Q2,7:22,Tunísia,18,27,EN,Salah Mejri
+Q2,7:40,Espanha,18,25,substituicao_entra,Quino Colom
+Q2,7:40,Espanha,18,25,substituicao_sai,Pau Ribas
+Q2,7:41,Espanha,18,25,ER,Sergio Llull
+Q2,7:49,Espanha,18,25,tempo_tecnico,
+Q2,7:49,Tunísia,18,25,AS,Omar Abada
+Q2,7:49,Tunísia,18,25,3_Pts_C,Salah Mejri
+Q2,8:08,Espanha,18,22,2_Pts_T,Willy Hernangomez Geuer
+Q2,8:08,Tunísia,18,22,RD,Mohamed Hadidane
+Q2,8:21,Tunísia,18,22,3_Pts_C,Michael Roll
+Q2,8:22,Tunísia,18,19,RO,
+Q2,8:29,Tunísia,18,19,3_Pts_T,Mohamed Hadidane
+Q2,8:49,Espanha,18,19,AS,Sergio Llull
+Q2,8:49,Espanha,18,19,2_Pts_C,Willy Hernangomez Geuer
+Q2,8:53,Tunísia,16,19,2_Pts_C,Salah Mejri
+Q2,9:01,Tunísia,0,0,RO,Salah Mejri
+Q2,9:01,Tunísia,0,0,2_Pts_T,Omar Abada
+Q2,9:13,Espanha,0,0,FC,Sergio Llull
+Q2,9:13,Tunísia,0,0,FR,Omar Abada
+Q2,9:28,Espanha,0,0,FC,Willy Hernangomez Geuer
+Q2,9:28,Espanha,0,0,2_Pts_T,Rudy Fernandez
+Q2,9:28,Tunísia,0,0,FR,Mohamed Hadidane
+Q2,9:28,Tunísia,0,0,RD,
+Q2,9:42,Espanha,0,0,RD,Willy Hernangomez Geuer
+Q2,9:42,Tunísia,0,0,2_Pts_T,Salah Mejri
+Q3,0:00,Espanha,72,47,AS,Willy Hernangomez Geuer
+Q3,0:00,Espanha,72,47,3_Pts_C,Sergio Llull
+Q3,0:02,Espanha,69,47,tempo_tecnico,
+Q3,0:02,Tunísia,69,47,ER,Mohamed Hadidane
+Q3,0:08,Espanha,69,47,FC,Sergio Llull
+Q3,0:08,Tunísia,69,47,FR,Nizar Knioua
+Q3,0:22,Espanha,69,47,3_Pts_C,Sergio Llull
+Q3,0:34,Tunísia,66,47,AS,Michael Roll
+Q3,0:34,Tunísia,66,47,2_Pts_C,Mohamed Hadidane
+Q3,0:59,Espanha,66,45,LL_Pts_C,Sergio Llull
+Q3,0:59,Espanha,65,45,LL_Pts_C,Sergio Llull
+Q3,0:59,Espanha,64,45,FR,Sergio Llull
+Q3,0:59,Tunísia,64,45,substituicao_entra,Nizar Knioua
+Q3,0:59,Tunísia,64,45,substituicao_sai,Omar Abada
+Q3,0:59,Tunísia,64,45,FC,Omar Abada
+Q3,10:00,Espanha,0,0,muda_bola,
+Q3,1:26,Espanha,64,45,RD,Pierre Oriola
+Q3,1:26,Espanha,64,45,2_Pts_C,Sergio Llull
+Q3,1:26,Tunísia,64,45,3_Pts_T,Salah Mejri
+Q3,1:31,Espanha,62,45,RD,Willy Hernangomez Geuer
+Q3,1:31,Tunísia,62,45,3_Pts_T,Omar Abada
+Q3,1:39,Espanha,62,45,AS,Sergio Llull
+Q3,1:58,Espanha,62,45,EN,Willy Hernangomez Geuer
+Q3,2:08,Espanha,60,45,RD,Pierre Oriola
+Q3,2:08,Tunísia,60,45,2_Pts_T,Michael Roll
+Q3,2:20,Espanha,60,45,ER,Xavier Rabaseda
+Q3,2:40,Espanha,60,44,FC,Xavier Rabaseda
+Q3,2:40,Tunísia,60,45,LL_Pts_C,Ziyed Chennoufi
+Q3,2:40,Tunísia,60,44,LL_Pts_T,Ziyed Chennoufi
+Q3,2:40,Tunísia,60,44,FR,Ziyed Chennoufi
+Q3,2:42,Espanha,60,44,ER,Sergio Llull
+Q3,2:42,Tunísia,60,44,BR,Ziyed Chennoufi
+Q3,2:53,Espanha,60,44,substituicao_entra,Xavier Rabaseda
+Q3,2:53,Espanha,60,44,substituicao_sai,Juancho Hernangomez
+Q3,2:53,Espanha,60,44,substituicao_entra,Willy Hernangomez Geuer
+Q3,2:53,Espanha,60,44,substituicao_sai,Marc Gasol
+Q3,2:53,Tunísia,60,44,substituicao_entra,Michael Roll
+Q3,2:53,Tunísia,60,44,substituicao_sai,Mourad El Mabrouk
+Q3,2:56,Tunísia,60,44,ER,Salah Mejri
+Q3,3:05,Tunísia,60,44,RO,Salah Mejri
+Q3,3:05,Tunísia,60,44,2_Pts_T,Mourad El Mabrouk
+Q3,3:23,Espanha,60,44,3_Pts_T,Sergio Llull
+Q3,3:23,Tunísia,60,44,RD,Salah Mejri
+Q3,3:42,Tunísia,60,44,2_Pts_C,Ziyed Chennoufi
+Q3,3:58,Espanha,60,42,3_Pts_T,Marc Gasol
+Q3,3:58,Tunísia,60,42,RD,Mohamed Hadidane
+Q3,4:10,Espanha,60,42,RD,Juancho Hernangomez
+Q3,4:10,Tunísia,60,42,3_Pts_T,Mourad El Mabrouk
+Q3,4:28,Espanha,60,42,2_Pts_T,Marc Gasol
+Q3,4:28,Tunísia,60,42,RD,Mohamed Hadidane
+Q3,4:42,Espanha,60,42,substituicao_entra,Sergio Llull
+Q3,4:42,Espanha,60,42,substituicao_sai,Ricky Rubio
+Q3,4:42,Espanha,60,42,substituicao_entra,Pau Ribas
+Q3,4:42,Espanha,60,42,substituicao_sai,Rudy Fernandez
+Q3,4:42,Espanha,60,42,FR,Rudy Fernandez
+Q3,4:42,Tunísia,60,42,substituicao_entra,Mohamed Hadidane
+Q3,4:42,Tunísia,60,42,substituicao_sai,Makram Ben Romdhane
+Q3,4:42,Tunísia,60,42,FC_O,Makram Ben Romdhane
+Q3,5:33,Espanha,60,42,LL_Pts_T,Pierre Oriola
+Q3,5:33,Espanha,60,42,LL_Pts_C,Pierre Oriola
+Q3,5:33,Espanha,59,42,FR,Pierre Oriola
+Q3,5:33,Espanha,59,42,RO,Pierre Oriola
+Q3,5:33,Espanha,59,42,3_Pts_T,Ricky Rubio
+Q3,5:33,Espanha,59,42,RO,Pierre Oriola
+Q3,5:33,Espanha,59,42,2_Pts_T,Marc Gasol
+Q3,5:33,Espanha,59,42,RD,Juancho Hernangomez
+Q3,5:33,Tunísia,60,42,RD,Salah Mejri
+Q3,5:33,Tunísia,59,42,FC,Salah Mejri
+Q3,5:33,Tunísia,59,42,3_Pts_T,Mourad El Mabrouk
+Q3,5:46,Espanha,59,42,FC,Ricky Rubio
+Q3,5:46,Espanha,59,42,substituicao_entra,Pierre Oriola
+Q3,5:46,Espanha,59,42,substituicao_sai,Victor Claver
+Q3,5:46,Espanha,59,42,LL_Pts_C,Juancho Hernangomez
+Q3,5:46,Espanha,58,42,AS,Ricky Rubio
+Q3,5:46,Espanha,58,42,LL_Pts_C,Juancho Hernangomez
+Q3,5:46,Espanha,57,42,FR,Juancho Hernangomez
+Q3,5:46,Tunísia,59,42,FR,Omar Abada
+Q3,5:46,Tunísia,59,42,substituicao_entra,Ziyed Chennoufi
+Q3,5:46,Tunísia,59,42,substituicao_sai,Michael Roll
+Q3,5:46,Tunísia,57,42,FC,Omar Abada
+Q3,5:57,Espanha,57,42,BR,Marc Gasol
+Q3,5:57,Tunísia,57,42,ER,Makram Ben Romdhane
+Q3,6:03,Espanha,57,42,AS,Ricky Rubio
+Q3,6:03,Espanha,57,42,2_Pts_C,Marc Gasol
+Q3,6:20,Espanha,55,42,RD,Marc Gasol
+Q3,6:20,Tunísia,55,42,2_Pts_T,Michael Roll
+Q3,6:41,Espanha,55,42,ER,Ricky Rubio
+Q3,6:41,Tunísia,55,42,BR,Omar Abada
+Q3,6:56,Tunísia,55,42,2_Pts_C,Omar Abada
+Q3,7:06,Espanha,55,40,TO,Marc Gasol
+Q3,7:06,Tunísia,55,40,RO,
+Q3,7:06,Tunísia,55,40,2_Pts_T,Salah Mejri
+Q3,7:19,Espanha,55,40,AS,Ricky Rubio
+Q3,7:19,Espanha,55,40,2_Pts_C,Marc Gasol
+Q3,7:33,Espanha,53,40,RD,Juancho Hernangomez
+Q3,7:33,Espanha,53,39,FC,Juancho Hernangomez
+Q3,7:33,Tunísia,53,40,LL_Pts_T,Makram Ben Romdhane
+Q3,7:33,Tunísia,53,40,AS,Mourad El Mabrouk
+Q3,7:33,Tunísia,53,40,LL_Pts_C,Makram Ben Romdhane
+Q3,7:33,Tunísia,53,39,tempo_tecnico,
+Q3,7:33,Tunísia,53,39,FR,Makram Ben Romdhane
+Q3,7:52,Espanha,53,39,AS,Ricky Rubio
+Q3,7:52,Espanha,53,39,2_Pts_C,Juancho Hernangomez
+Q3,7:58,Espanha,51,39,BR,Ricky Rubio
+Q3,7:58,Tunísia,51,39,ER,Salah Mejri
+Q3,8:13,Espanha,51,39,LL_Pts_C,Juancho Hernangomez
+Q3,8:13,Espanha,50,39,LL_Pts_C,Juancho Hernangomez
+Q3,8:13,Espanha,49,39,FR,Juancho Hernangomez
+Q3,8:13,Espanha,49,39,RO,Juancho Hernangomez
+Q3,8:13,Espanha,49,39,2_Pts_T,Victor Claver
+Q3,8:13,Tunísia,49,39,FC,Michael Roll
+Q3,8:13,Tunísia,49,39,TO,Salah Mejri
+Q3,8:14,Espanha,49,39,BR,Juancho Hernangomez
+Q3,8:14,Tunísia,49,39,ER,Michael Roll
+Q3,8:45,Espanha,49,39,LL_Pts_C,Ricky Rubio
+Q3,8:45,Espanha,48,39,LL_Pts_C,Ricky Rubio
+Q3,8:45,Espanha,47,39,FR,Ricky Rubio
+Q3,8:45,Tunísia,47,39,FC,Michael Roll
+Q3,8:48,Espanha,47,39,RD,Ricky Rubio
+Q3,8:48,Tunísia,47,39,3_Pts_T,Mourad El Mabrouk
+Q3,9:11,Espanha,47,39,AS,Marc Gasol
+Q3,9:11,Espanha,47,39,2_Pts_C,Victor Claver
+Q3,9:19,Espanha,45,39,BR,Rudy Fernandez
+Q3,9:19,Tunísia,45,39,ER,Omar Abada
+Q3,9:44,Espanha,45,39,AS,Ricky Rubio
+Q3,9:44,Espanha,45,39,3_Pts_C,Rudy Fernandez
+Q4,0:00,Espanha,101,62,2_Pts_C,Javier Beiran
+Q4,0:00,Espanha,99,62,RO,Javier Beiran
+Q4,0:00,Espanha,99,62,2_Pts_T,Victor Claver
+Q4,0:07,Espanha,99,62,BR,Victor Claver
+Q4,0:07,Tunísia,99,62,ER,Nizar Knioua
+Q4,0:24,Espanha,99,62,AS,Quino Colom
+Q4,0:24,Espanha,99,62,3_Pts_C,Victor Claver
+Q4,0:34,Tunísia,96,62,AS,Nizar Knioua
+Q4,0:34,Tunísia,96,62,2_Pts_C,Radhouane Slimane
+Q4,0:53,Espanha,96,60,AS,Xavier Rabaseda
+Q4,0:53,Espanha,96,60,EN,Willy Hernangomez Geuer
+Q4,10:00,Tunísia,0,0,muda_bola,
+Q4,1:09,Espanha,94,60,RD,Willy Hernangomez Geuer
+Q4,1:09,Tunísia,94,60,3_Pts_T,Nizar Knioua
+Q4,1:36,Espanha,94,60,ER,Xavier Rabaseda
+Q4,1:54,Espanha,94,60,tempo_tecnico,
+Q4,1:54,Tunísia,94,60,2_Pts_C,Mohamed Hadidane
+Q4,2:09,Espanha,94,58,substituicao_entra,Xavier Rabaseda
+Q4,2:09,Espanha,94,58,substituicao_sai,Marc Gasol
+Q4,2:09,Espanha,94,58,substituicao_entra,Willy Hernangomez Geuer
+Q4,2:09,Espanha,94,58,substituicao_sai,Ricky Rubio
+Q4,2:09,Espanha,94,58,FC,Marc Gasol
+Q4,2:09,Tunísia,94,58,FR,Nizar Knioua
+Q4,2:17,Espanha,94,58,3_Pts_T,Victor Claver
+Q4,2:17,Tunísia,94,58,RD,Radhouane Slimane
+Q4,2:26,Espanha,94,58,RD,Marc Gasol
+Q4,2:26,Tunísia,94,58,2_Pts_T,Radhouane Slimane
+Q4,2:30,Tunísia,94,58,RO,Radhouane Slimane
+Q4,2:30,Tunísia,94,58,2_Pts_T,Mohamed Hadidane
+Q4,2:56,Espanha,94,58,AS,Victor Claver
+Q4,2:56,Espanha,94,58,3_Pts_C,Ricky Rubio
+Q4,3:22,Tunísia,91,58,AS,Mohamed Hadidane
+Q4,3:22,Tunísia,91,58,3_Pts_C,Nizar Knioua
+Q4,3:35,Tunísia,91,55,RO,Radhouane Slimane
+Q4,3:35,Tunísia,91,55,2_Pts_T,Mokhtar Ghyaza
+Q4,3:58,Espanha,91,55,3_Pts_T,Javier Beiran
+Q4,3:58,Tunísia,91,55,RD,Mokhtar Ghyaza
+Q4,4:07,Espanha,91,55,RD,Javier Beiran
+Q4,4:07,Tunísia,91,55,2_Pts_T,Ziyed Chennoufi
+Q4,4:34,Espanha,91,55,AS,Ricky Rubio
+Q4,4:34,Espanha,91,55,2_Pts_C,Victor Claver
+Q4,4:42,Espanha,89,55,BR,Victor Claver
+Q4,4:42,Tunísia,89,55,ER,Mohamed Hadidane
+Q4,4:56,Espanha,89,55,AS,Ricky Rubio
+Q4,4:56,Espanha,89,55,3_Pts_C,Victor Claver
+Q4,5:15,Espanha,86,55,substituicao_entra,Javier Beiran
+Q4,5:15,Espanha,86,55,substituicao_sai,Xavier Rabaseda
+Q4,5:15,Espanha,86,55,substituicao_entra,Quino Colom
+Q4,5:15,Espanha,86,55,substituicao_sai,Pau Ribas
+Q4,5:15,Espanha,86,55,RD,
+Q4,5:15,Tunísia,86,55,substituicao_entra,Radhouane Slimane
+Q4,5:15,Tunísia,86,55,substituicao_sai,Michael Roll
+Q4,5:15,Tunísia,86,55,3_Pts_T,Ziyed Chennoufi
+Q4,5:36,Espanha,86,55,AS,Victor Claver
+Q4,5:36,Espanha,86,55,3_Pts_C,Ricky Rubio
+Q4,5:47,Espanha,83,55,RD,Marc Gasol
+Q4,5:47,Tunísia,83,55,2_Pts_T,Michael Roll
+Q4,6:12,Espanha,83,55,AS,Ricky Rubio
+Q4,6:12,Espanha,83,55,3_Pts_C,Pau Ribas
+Q4,6:30,Tunísia,80,55,3_Pts_C,Nizar Knioua
+Q4,6:33,Espanha,80,52,ER,Xavier Rabaseda
+Q4,6:33,Tunísia,80,52,BR,Nizar Knioua
+Q4,6:38,Espanha,80,52,BR,Xavier Rabaseda
+Q4,6:38,Tunísia,80,52,ER,Mokhtar Ghyaza
+Q4,6:56,Espanha,80,52,3_Pts_T,Victor Claver
+Q4,6:56,Tunísia,80,52,RD,Mohamed Hadidane
+Q4,7:06,Espanha,80,52,substituicao_entra,Marc Gasol
+Q4,7:06,Espanha,80,52,substituicao_sai,Sergio Llull
+Q4,7:06,Espanha,80,52,substituicao_entra,Victor Claver
+Q4,7:06,Espanha,80,52,substituicao_sai,Pierre Oriola
+Q4,7:06,Espanha,80,52,substituicao_entra,Ricky Rubio
+Q4,7:06,Espanha,80,52,substituicao_sai,Willy Hernangomez Geuer
+Q4,7:06,Espanha,80,52,FR,Willy Hernangomez Geuer
+Q4,7:06,Tunísia,80,52,FC,Mokhtar Ghyaza
+Q4,7:12,Espanha,80,52,RD,Willy Hernangomez Geuer
+Q4,7:12,Tunísia,80,52,2_Pts_T,Michael Roll
+Q4,7:27,Espanha,80,52,AS,Sergio Llull
+Q4,7:27,Espanha,80,52,3_Pts_C,Pau Ribas
+Q4,7:49,Tunísia,77,52,AS,Mokhtar Ghyaza
+Q4,7:49,Tunísia,77,52,3_Pts_C,Mohamed Hadidane
+Q4,8:06,Espanha,77,49,AS,Sergio Llull
+Q4,8:06,Espanha,77,49,3_Pts_C,Pau Ribas
+Q4,8:27,Espanha,74,49,RD,Willy Hernangomez Geuer
+Q4,8:27,Tunísia,74,49,2_Pts_T,Mohamed Hadidane
+Q4,8:40,Espanha,74,49,FC,Willy Hernangomez Geuer
+Q4,8:40,Tunísia,74,49,FR,Mokhtar Ghyaza
+Q4,8:48,Espanha,74,49,FC,Willy Hernangomez Geuer
+Q4,8:48,Tunísia,74,49,substituicao_entra,Mokhtar Ghyaza
+Q4,8:48,Tunísia,74,49,substituicao_sai,Salah Mejri
+Q4,8:48,Tunísia,74,49,FR,Salah Mejri
+Q4,8:48,Tunísia,74,49,2_Pts_C,Salah Mejri
+Q4,8:49,Tunísia,74,47,RO,Salah Mejri
+Q4,8:49,Tunísia,74,47,2_Pts_T,Salah Mejri
+Q4,9:10,Espanha,74,47,AS,Xavier Rabaseda
+Q4,9:10,Espanha,74,47,2_Pts_C,Willy Hernangomez Geuer
+Q4,9:25,Espanha,0,0,FR,Pierre Oriola
+Q4,9:25,Tunísia,0,0,FC,Nizar Knioua
+Q4,9:35,Espanha,0,0,RD,Pierre Oriola
+Q4,9:35,Tunísia,0,0,3_Pts_T,Michael Roll
+Q4,9:42,Espanha,0,0,FC,Xavier Rabaseda
+Q4,9:42,Tunísia,0,0,FR,Salah Mejri
