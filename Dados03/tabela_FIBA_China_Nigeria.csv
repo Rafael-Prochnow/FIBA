@@ -1,0 +1,535 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,China,21,19,,Zhelin Wang2pt jump shot missed
+Q1,0:00,Nigeria,21,19,,Ike Iroegbu3pt jump shot missed
+Q1,0:00,Nigeria,21,19,RD,Ike Iroegbu
+Q1,0:27,China,21,18,FC,Ailun Guo
+Q1,0:27,Nigeria,21,19,LL_Pts_C,Nnamdi Vincent
+Q1,0:27,Nigeria,21,18,FR,Nnamdi Vincent
+Q1,0:27,Nigeria,21,18,AS,Stan Okoye
+Q1,0:27,Nigeria,21,18,,Nnamdi Vincent3pt jump shot made
+Q1,0:34,China,21,15,2_Pts_T,Rui Zhao
+Q1,0:34,Nigeria,21,15,RD,Stan Okoye
+Q1,0:44,China,21,15,RO,
+Q1,0:44,China,21,15,,Rui Zhao2pt jump shot missed
+Q1,0:48,China,21,15,BR,Rui Zhao
+Q1,0:48,Nigeria,21,15,ER,Ike Iroegbu
+Q1,0:59,China,21,15,2_Pts_T,Ailun Guo
+Q1,0:59,Nigeria,21,15,RD,Micheal Eric
+Q1,10:00,Nigeria,0,0,inicio_quarto,Ekpe Udoh
+Q1,1:17,China,21,15,RD,Jianlian Yi
+Q1,1:17,China,21,15,substituicao_entra,Zhelin Wang
+Q1,1:17,China,21,15,substituicao_sai,Minghui Sun
+Q1,1:17,China,21,15,substituicao_entra,Shuo Fang
+Q1,1:17,China,21,15,substituicao_sai,Qi Zhou
+Q1,1:17,China,21,15,FC,Qi Zhou
+Q1,1:17,Nigeria,21,15,LL_Pts_T,Micheal Eric
+Q1,1:17,Nigeria,21,15,,Micheal Eric1st of 2 free throw missed
+Q1,1:17,Nigeria,21,15,FR,Micheal Eric
+Q1,1:17,Nigeria,21,15,RO,Micheal Eric
+Q1,1:17,Nigeria,21,15,,Ike Iroegbulayup missed
+Q1,1:23,China,21,15,2_Pts_C,Minghui Sun
+Q1,1:45,China,19,15,RD,
+Q1,1:45,Nigeria,19,15,,Chimezie Metu3pt jump shot missed
+Q1,2:01,China,19,15,LL_Pts_C,Jianlian Yi
+Q1,2:01,China,18,15,LL_Pts_C,Jianlian Yi
+Q1,2:01,China,17,15,substituicao_entra,Ailun Guo
+Q1,2:01,China,17,15,substituicao_sai,Xiaochuan Zhai
+Q1,2:01,China,17,15,FR,Jianlian Yi
+Q1,2:01,Nigeria,17,15,FC,Chimezie Metu
+Q1,2:22,Nigeria,17,15,2_Pts_C,Micheal Eric
+Q1,2:35,China,17,13,substituicao_entra,Rui Zhao
+Q1,2:35,China,17,13,substituicao_sai,Shuo Fang
+Q1,2:35,China,17,13,FC,Xiaochuan Zhai
+Q1,2:35,Nigeria,17,13,FR,Stan Okoye
+Q1,2:41,China,17,13,2_Pts_T,Qi Zhou
+Q1,2:41,Nigeria,17,13,RD,Nnamdi Vincent
+Q1,2:41,Nigeria,17,13,TO,Micheal Eric
+Q1,2:46,China,17,13,FR,Jianlian Yi
+Q1,2:46,Nigeria,17,13,FC,Ike Iroegbu
+Q1,2:46,Nigeria,17,13,substituicao_entra,Stan Okoye
+Q1,2:46,Nigeria,17,13,substituicao_sai,Al-Farouq Aminu
+Q1,2:51,China,17,13,RO,Xiaochuan Zhai
+Q1,2:51,China,17,13,,Qi Zhou3pt jump shot missed
+Q1,3:03,China,17,13,RD,Shuo Fang
+Q1,3:03,Nigeria,17,13,,Nnamdi Vincent3pt jump shot missed
+Q1,3:06,China,17,13,ER,Shuo Fang
+Q1,3:06,Nigeria,17,13,BR,Micheal Eric
+Q1,3:13,Nigeria,17,13,AS,Nnamdi Vincent
+Q1,3:13,Nigeria,17,13,,Ike Iroegbu3pt jump shot made
+Q1,3:15,Nigeria,17,10,substituicao_entra,Ike Iroegbu
+Q1,3:15,Nigeria,17,10,substituicao_sai,Stan Okoye
+Q1,3:38,China,17,10,substituicao_entra,Jianlian Yi
+Q1,3:38,China,17,10,substituicao_sai,Zhelin Wang
+Q1,3:38,China,17,10,AS,Shuo Fang
+Q1,3:38,China,17,10,,Zhelin Wangdunk made
+Q1,3:38,Nigeria,17,10,substituicao_entra,Micheal Eric
+Q1,3:38,Nigeria,17,10,substituicao_sai,Josh Okogie
+Q1,3:38,Nigeria,17,10,substituicao_entra,Nnamdi Vincent
+Q1,3:38,Nigeria,17,10,substituicao_sai,Ekpe Udoh
+Q1,3:38,Nigeria,17,10,substituicao_entra,Chimezie Metu
+Q1,3:38,Nigeria,17,10,substituicao_sai,Ike Diogu
+Q1,3:38,Nigeria,17,10,substituicao_entra,Stan Okoye
+Q1,3:38,Nigeria,17,10,substituicao_sai,Ben Uzoh
+Q1,3:38,Nigeria,17,10,tempo_tecnico,
+Q1,3:40,China,15,10,BR,Shuo Fang
+Q1,3:40,Nigeria,15,10,ER,Josh Okogie
+Q1,3:52,China,15,10,AS,Minghui Sun
+Q1,3:52,China,15,10,,Shuo Fang3pt jump shot made
+Q1,4:00,China,12,10,BR,Minghui Sun
+Q1,4:00,Nigeria,12,10,ER,Ike Diogu
+Q1,4:19,China,12,10,AS,Minghui Sun
+Q1,4:19,China,12,10,,Shuo Fang3pt jump shot made
+Q1,4:38,China,9,10,RD,Zhelin Wang
+Q1,4:38,Nigeria,9,10,2_Pts_T,Ike Diogu
+Q1,5:00,China,9,10,2_Pts_C,Minghui Sun
+Q1,5:18,Nigeria,7,10,AS,Al-Farouq Aminu
+Q1,5:18,Nigeria,7,10,,Josh Okogiedunk made
+Q1,5:36,China,7,8,2_Pts_T,Shuo Fang
+Q1,5:36,Nigeria,7,8,RD,Ike Diogu
+Q1,5:40,China,7,8,FR,Minghui Sun
+Q1,5:40,Nigeria,7,8,FC,Ike Diogu
+Q1,5:50,Nigeria,7,8,AS,Josh Okogie
+Q1,5:50,Nigeria,7,8,,Ben Uzohlayup made
+Q1,6:06,China,7,6,ER,Shuo Fang
+Q1,6:06,China,7,6,RO,Shuo Fang
+Q1,6:06,China,7,6,2_Pts_T,Minghui Sun
+Q1,6:06,Nigeria,7,6,BR,Josh Okogie
+Q1,6:06,Nigeria,7,6,TO,Ben Uzoh
+Q1,6:24,China,7,6,RD,Qi Zhou
+Q1,6:24,Nigeria,7,6,2_Pts_T,Al-Farouq Aminu
+Q1,6:44,China,7,6,2_Pts_C,Zhelin Wang
+Q1,7:02,China,5,4,FC,Qi Zhou
+Q1,7:02,Nigeria,5,6,LL_Pts_C,Josh Okogie
+Q1,7:02,Nigeria,5,5,LL_Pts_C,Josh Okogie
+Q1,7:02,Nigeria,5,4,FR,Josh Okogie
+Q1,7:11,Nigeria,5,4,RO,Ike Diogu
+Q1,7:11,Nigeria,5,4,,Al-Farouq Aminu2pt jump shot missed
+Q1,7:16,China,5,4,ER,Zhelin Wang
+Q1,7:16,Nigeria,5,4,BR,Ike Diogu
+Q1,7:31,China,5,4,RD,Qi Zhou
+Q1,7:31,Nigeria,5,4,,Ben Uzoh2pt jump shot missed
+Q1,7:48,China,5,4,AS,Minghui Sun
+Q1,7:48,China,5,4,,Shuo Fang3pt jump shot made
+Q1,8:12,China,2,4,RD,Xiaochuan Zhai
+Q1,8:12,Nigeria,2,4,,Ike Diogu3pt jump shot missed
+Q1,8:29,China,2,4,ER,Zhelin Wang
+Q1,8:50,Nigeria,2,4,AS,Josh Okogie
+Q1,8:50,Nigeria,2,4,2_Pts_C,Ekpe Udoh
+Q1,8:57,China,2,2,2_Pts_C,Shuo Fang
+Q1,9:13,Nigeria,0,2,AS,Ben Uzoh
+Q1,9:13,Nigeria,0,2,,Ekpe Udohdunk made
+Q1,9:21,China,0,0,2_Pts_T,Xiaochuan Zhai
+Q1,9:21,Nigeria,0,0,RD,Al-Farouq Aminu
+Q1,9:21,Nigeria,0,0,TO,Al-Farouq Aminu
+Q1,9:45,Nigeria,0,0,ER,Al-Farouq Aminu
+Q2,0:18,China,31,35,RD,Zhelin Wang
+Q2,0:18,Nigeria,31,35,,Stan Okoye3pt jump shot missed
+Q2,0:23,Nigeria,31,35,RO,Chimezie Metu
+Q2,0:23,Nigeria,31,35,2_Pts_T,Chimezie Metu
+Q2,0:37,China,31,35,LL_Pts_C,Ailun Guo
+Q2,0:37,China,30,35,LL_Pts_C,Ailun Guo
+Q2,0:37,China,29,35,substituicao_entra,Minghui Sun
+Q2,0:37,China,29,35,substituicao_sai,Xiaochuan Zhai
+Q2,0:37,China,29,35,FR,Ailun Guo
+Q2,0:37,Nigeria,29,35,substituicao_entra,Josh Okogie
+Q2,0:37,Nigeria,29,35,substituicao_sai,Nnamdi Vincent
+Q2,0:37,Nigeria,29,35,substituicao_entra,Stan Okoye
+Q2,0:37,Nigeria,29,35,substituicao_sai,Josh Okogie
+Q2,0:37,Nigeria,29,35,FC,Chimezie Metu
+Q2,0:42,China,29,35,RD,Xiaochuan Zhai
+Q2,0:42,Nigeria,29,35,,Ike Iroegbu3pt jump shot missed
+Q2,0:54,China,29,35,ER,Junfei Ren
+Q2,0:54,Nigeria,29,35,BR,Nnamdi Vincent
+Q2,10:00,China,21,19,muda_bola,
+Q2,1:05,China,29,35,BR,Rui Zhao
+Q2,1:05,Nigeria,29,35,ER,Chimezie Metu
+Q2,1:15,China,29,35,2_Pts_T,Rui Zhao
+Q2,1:15,Nigeria,29,35,RD,Ike Iroegbu
+Q2,1:38,Nigeria,29,35,AS,Nnamdi Vincent
+Q2,1:38,Nigeria,29,35,2_Pts_C,Chimezie Metu
+Q2,1:56,China,29,33,LL_Pts_C,Zhelin Wang
+Q2,1:56,China,28,33,AS,Ailun Guo
+Q2,1:56,China,28,33,LL_Pts_C,Zhelin Wang
+Q2,1:56,China,27,33,substituicao_entra,Rui Zhao
+Q2,1:56,China,27,33,substituicao_sai,Shuo Fang
+Q2,1:56,China,27,33,FR,Zhelin Wang
+Q2,1:56,Nigeria,29,33,substituicao_entra,Talib Zanna
+Q2,1:56,Nigeria,29,33,substituicao_sai,Al-Farouq Aminu
+Q2,1:56,Nigeria,27,33,FC,Nnamdi Vincent
+Q2,2:11,Nigeria,27,33,2_Pts_C,Nnamdi Vincent
+Q2,2:26,China,27,31,substituicao_entra,Ailun Guo
+Q2,2:26,China,27,31,substituicao_sai,Minghui Sun
+Q2,2:26,China,27,31,ER,Junfei Ren
+Q2,2:26,Nigeria,27,31,substituicao_entra,Ike Iroegbu
+Q2,2:26,Nigeria,27,31,substituicao_sai,Ekpe Udoh
+Q2,2:34,China,27,31,RD,Zhelin Wang
+Q2,2:34,Nigeria,27,31,,Al-Farouq Aminu2pt jump shot missed
+Q2,2:48,China,27,31,,Xiaochuan Zhai3pt jump shot missed
+Q2,2:48,Nigeria,27,31,RD,Josh Okogie
+Q2,3:14,China,27,31,tempo_tecnico,
+Q2,3:14,Nigeria,27,31,substituicao_entra,Nnamdi Vincent
+Q2,3:14,Nigeria,27,31,substituicao_sai,Ike Diogu
+Q2,3:14,Nigeria,27,31,substituicao_entra,Chimezie Metu
+Q2,3:14,Nigeria,27,31,substituicao_sai,Ben Uzoh
+Q2,3:14,Nigeria,27,31,,Josh Okogielayup made
+Q2,3:20,China,27,29,ER,Xiaochuan Zhai
+Q2,3:20,Nigeria,27,29,BR,Josh Okogie
+Q2,3:42,Nigeria,27,29,,Al-Farouq Aminu2pt jump shot made
+Q2,3:51,China,27,27,2_Pts_C,Shuo Fang
+Q2,4:19,China,25,27,RD,Zhelin Wang
+Q2,4:19,Nigeria,25,27,,Ike Diogu3pt jump shot missed
+Q2,4:33,China,25,27,substituicao_entra,Zhelin Wang
+Q2,4:33,China,25,27,substituicao_sai,Jianlian Yi
+Q2,4:33,China,25,27,FC,Xiaochuan Zhai
+Q2,4:33,China,25,27,ER,Jianlian Yi
+Q2,4:33,Nigeria,25,27,FR,Josh Okogie
+Q2,4:33,Nigeria,25,27,BR,Ekpe Udoh
+Q2,4:50,China,25,27,BR,Minghui Sun
+Q2,4:50,Nigeria,25,27,ER,Al-Farouq Aminu
+Q2,5:06,China,25,27,substituicao_entra,Junfei Ren
+Q2,5:06,China,25,27,substituicao_sai,Jiwei Zhao
+Q2,5:06,China,25,27,substituicao_entra,Minghui Sun
+Q2,5:06,China,25,27,substituicao_sai,Qi Zhou
+Q2,5:06,China,25,27,FC_O,Qi Zhou
+Q2,5:06,Nigeria,25,27,FR,Josh Okogie
+Q2,5:17,China,25,27,BR,Shuo Fang
+Q2,5:17,Nigeria,25,27,ER,Ike Diogu
+Q2,5:35,China,25,27,,Jiwei Zhao3pt jump shot missed
+Q2,5:35,Nigeria,25,27,RD,
+Q2,5:59,Nigeria,25,27,AS,Al-Farouq Aminu
+Q2,5:59,Nigeria,25,27,,Ike Diogu2pt jump shot made
+Q2,6:15,China,25,25,LL_Pts_C,Jianlian Yi
+Q2,6:15,China,24,25,LL_Pts_T,Jianlian Yi
+Q2,6:15,China,24,25,FR,Jianlian Yi
+Q2,6:15,Nigeria,24,25,FC,Ekpe Udoh
+Q2,6:28,Nigeria,24,25,2_Pts_C,Ben Uzoh
+Q2,6:39,China,24,23,FC,Jiwei Zhao
+Q2,6:39,Nigeria,24,23,substituicao_entra,Al-Farouq Aminu
+Q2,6:39,Nigeria,24,23,substituicao_sai,Talib Zanna
+Q2,6:39,Nigeria,24,23,substituicao_entra,Ike Diogu
+Q2,6:39,Nigeria,24,23,substituicao_sai,Stan Okoye
+Q2,6:39,Nigeria,24,23,FR,Josh Okogie
+Q2,6:48,China,24,23,ER,Jiwei Zhao
+Q2,6:48,Nigeria,24,23,BR,Talib Zanna
+Q2,6:52,China,24,23,BR,Jiwei Zhao
+Q2,6:52,Nigeria,24,23,ER,Stan Okoye
+Q2,7:06,China,24,23,substituicao_entra,Jiwei Zhao
+Q2,7:06,China,24,23,substituicao_sai,Ailun Guo
+Q2,7:06,China,24,23,ER ,
+Q2,7:06,Nigeria,24,23,substituicao_entra,Josh Okogie
+Q2,7:06,Nigeria,24,23,substituicao_sai,Nnamdi Vincent
+Q2,7:34,Nigeria,24,23,2_Pts_C,Stan Okoye
+Q2,7:47,China,24,21,,Shuo Fang3pt jump shot missed
+Q2,7:47,Nigeria,24,21,RD,Ekpe Udoh
+Q2,8:03,China,24,21,substituicao_entra,Qi Zhou
+Q2,8:03,China,24,21,substituicao_sai,Zhelin Wang
+Q2,8:03,China,24,21,substituicao_entra,Xiaochuan Zhai
+Q2,8:03,China,24,21,substituicao_sai,Rui Zhao
+Q2,8:03,China,24,21,FR,Jianlian Yi
+Q2,8:03,Nigeria,24,21,substituicao_entra,Ekpe Udoh
+Q2,8:03,Nigeria,24,21,substituicao_sai,Micheal Eric
+Q2,8:03,Nigeria,24,21,substituicao_entra,Ben Uzoh
+Q2,8:03,Nigeria,24,21,substituicao_sai,Ike Iroegbu
+Q2,8:03,Nigeria,24,21,FC,Micheal Eric
+Q2,8:14,China,24,21,BR,Jianlian Yi
+Q2,8:14,Nigeria,24,21,ER,Stan Okoye
+Q2,8:24,China,24,21,LL_Pts_C,Zhelin Wang
+Q2,8:24,China,23,21,LL_Pts_T,Zhelin Wang
+Q2,8:24,China,23,21,FR,Zhelin Wang
+Q2,8:24,China,23,21,RO,Zhelin Wang
+Q2,8:24,China,23,21,,Jianlian Yidunk missed
+Q2,8:24,Nigeria,24,21,substituicao_entra,Talib Zanna
+Q2,8:24,Nigeria,24,21,substituicao_sai,Chimezie Metu
+Q2,8:24,Nigeria,23,21,FC,Nnamdi Vincent
+Q2,8:24,Nigeria,23,21,TO,Chimezie Metu
+Q2,8:36,China,23,21,FR,Shuo Fang
+Q2,8:36,Nigeria,23,21,FC,Micheal Eric
+Q2,8:46,Nigeria,23,21,2_Pts_C,Micheal Eric
+Q2,9:03,China,23,19,3_Pts_T,Ailun Guo
+Q2,9:03,Nigeria,23,19,RD,Chimezie Metu
+Q2,9:13,China,23,19,RD,Jianlian Yi
+Q2,9:13,Nigeria,23,19,2_Pts_T,Micheal Eric
+Q2,9:30,China,23,19,2_Pts_C,Jianlian Yi
+Q2,9:44,China,21,19,RO,Ailun Guo
+Q2,9:44,China,21,19,,Zhelin Wang2pt jump shot missed
+Q3,0:00,China,51,60,2_Pts_T,Junfei Ren
+Q3,0:00,Nigeria,51,60,TO,Josh Okogie
+Q3,0:04,China,51,60,substituicao_entra,Jianlian Yi
+Q3,0:04,China,51,60,substituicao_sai,Zhelin Wang
+Q3,0:04,China,51,60,LL_Pts_C,Shuo Fang
+Q3,0:04,Nigeria,51,60,substituicao_entra,Josh Okogie
+Q3,0:04,Nigeria,51,60,substituicao_sai,Nnamdi Vincent
+Q3,0:04,Nigeria,50,60,FC_T,Nnamdi Vincent
+Q3,0:12,China,50,60,FR,Rui Zhao
+Q3,0:12,Nigeria,50,60,FC,Stan Okoye
+Q3,0:28,Nigeria,50,60,,Ike Iroegbu3pt jump shot made
+Q3,0:39,China,50,57,substituicao_entra,Rui Zhao
+Q3,0:39,China,50,57,substituicao_sai,Ailun Guo
+Q3,0:39,China,50,57,FC_O,Junfei Ren
+Q3,0:39,Nigeria,50,57,FR,Ike Iroegbu
+Q3,0:42,China,50,57,RD,Ailun Guo
+Q3,0:42,Nigeria,50,57,2_Pts_T,Stan Okoye
+Q3,0:56,China,50,57,2_Pts_T,Ailun Guo
+Q3,0:56,Nigeria,50,57,RD,Stan Okoye
+Q3,10:00,Nigeria,31,35,muda_bola,
+Q3,10:00,Nigeria,31,35,substituicao_entra,Ike Diogu
+Q3,10:00,Nigeria,31,35,substituicao_sai,Stan Okoye
+Q3,1:22,Nigeria,50,57,2_Pts_C,Ike Iroegbu
+Q3,1:34,China,50,55,substituicao_entra,Junfei Ren
+Q3,1:34,China,50,55,substituicao_sai,Jianlian Yi
+Q3,1:34,China,50,55,ER,Shuo Fang
+Q3,1:47,Nigeria,50,55,,Chimezie Metu2pt jump shot made
+Q3,1:52,Nigeria,50,53,RO,Chimezie Metu
+Q3,1:52,Nigeria,50,53,2_Pts_T,Chimezie Metu
+Q3,2:14,Nigeria,50,53,tempo_tecnico,
+Q3,2:15,China,50,53,AS,Jianlian Yi
+Q3,2:15,China,50,53,2_Pts_C,Abudushalamu Abudurexiti
+Q3,2:21,China,48,53,BR,Abudushalamu Abudurexiti
+Q3,2:21,Nigeria,48,53,ER,Ike Iroegbu
+Q3,2:34,China,48,53,AS,Shuo Fang
+Q3,2:34,China,48,53,,Jianlian Yi3pt jump shot made
+Q3,2:47,China,45,53,BR,Shuo Fang
+Q3,2:47,Nigeria,45,53,ER,Stan Okoye
+Q3,3:03,China,45,53,FC_O,Ailun Guo
+Q3,3:03,Nigeria,45,53,FR,Nnamdi Vincent
+Q3,3:19,Nigeria,45,53,AS,Stan Okoye
+Q3,3:19,Nigeria,45,53,,Chimezie Metudunk made
+Q3,3:34,China,45,51,substituicao_entra,Zhelin Wang
+Q3,3:34,China,45,51,substituicao_sai,Jiwei Zhao
+Q3,3:34,China,45,51,substituicao_entra,Ailun Guo
+Q3,3:34,China,45,51,substituicao_sai,Qi Zhou
+Q3,3:35,China,45,51,FC_O,Qi Zhou
+Q3,3:35,Nigeria,45,51,FR,Nnamdi Vincent
+Q3,3:48,Nigeria,45,51,AS,Chimezie Metu
+Q3,3:48,Nigeria,45,51,,Nnamdi Vincent3pt jump shot made
+Q3,3:56,Nigeria,45,48,RO,Chimezie Metu
+Q3,3:56,Nigeria,45,48,,Ike Iroegbu3pt jump shot missed
+Q3,4:05,China,45,48,ER,Jiwei Zhao
+Q3,4:05,Nigeria,45,48,BR,Micheal Eric
+Q3,4:27,Nigeria,45,48,ER,Ike Iroegbu
+Q3,4:37,China,45,48,,Jianlian Yidunk made
+Q3,4:54,China,43,48,RD,Qi Zhou
+Q3,4:54,Nigeria,43,48,,Nnamdi Vincent3pt jump shot missed
+Q3,5:09,China,43,48,FC,Jiwei Zhao
+Q3,5:09,Nigeria,43,48,substituicao_entra,Micheal Eric
+Q3,5:09,Nigeria,43,48,substituicao_sai,Josh Okogie
+Q3,5:09,Nigeria,43,48,substituicao_entra,Nnamdi Vincent
+Q3,5:09,Nigeria,43,48,substituicao_sai,Ekpe Udoh
+Q3,5:09,Nigeria,43,48,substituicao_entra,Stan Okoye
+Q3,5:09,Nigeria,43,48,substituicao_sai,Al-Farouq Aminu
+Q3,5:09,Nigeria,43,48,FR,Josh Okogie
+Q3,5:12,China,43,48,,Abudushalamu Abudurexiti3pt jump shot missed
+Q3,5:12,Nigeria,43,48,RD,Chimezie Metu
+Q3,5:28,China,43,48,RD,Jianlian Yi
+Q3,5:28,Nigeria,43,48,2_Pts_T,Ekpe Udoh
+Q3,5:52,China,43,48,AS,Qi Zhou
+Q3,5:52,China,43,48,2_Pts_C,Jianlian Yi
+Q3,6:14,China,41,48,substituicao_entra,Jiwei Zhao
+Q3,6:14,China,41,48,substituicao_sai,Minghui Sun
+Q3,6:14,China,41,48,tempo_tecnico,
+Q3,6:14,Nigeria,41,48,substituicao_entra,Chimezie Metu
+Q3,6:14,Nigeria,41,48,substituicao_sai,Ike Diogu
+Q3,6:14,Nigeria,41,48,substituicao_entra,Ike Iroegbu
+Q3,6:14,Nigeria,41,48,substituicao_sai,Ben Uzoh
+Q3,6:14,Nigeria,41,48,,Al-Farouq Aminudunk made
+Q3,6:22,China,41,46,2_Pts_T,Minghui Sun
+Q3,6:22,Nigeria,41,46,RD,Al-Farouq Aminu
+Q3,6:35,Nigeria,41,46,AS,Al-Farouq Aminu
+Q3,6:35,Nigeria,41,46,2_Pts_C,Ekpe Udoh
+Q3,6:54,China,41,44,2_Pts_C,Jianlian Yi
+Q3,7:07,China,39,44,RD,Qi Zhou
+Q3,7:07,Nigeria,39,44,,Ike Diogu2pt jump shot missed
+Q3,7:21,China,39,44,AS,Minghui Sun
+Q3,7:21,China,39,44,,Qi Zhou2pt jump shot made
+Q3,7:35,China,37,42,substituicao_entra,Qi Zhou
+Q3,7:35,China,37,42,substituicao_sai,Zhelin Wang
+Q3,7:35,China,37,42,FC,Jianlian Yi
+Q3,7:35,Nigeria,37,44,LL_Pts_C,Ekpe Udoh
+Q3,7:35,Nigeria,37,43,LL_Pts_C,Ekpe Udoh
+Q3,7:35,Nigeria,37,42,FR,Ekpe Udoh
+Q3,7:35,Nigeria,37,42,RO,Ekpe Udoh
+Q3,7:35,Nigeria,37,42,2_Pts_T,Ben Uzoh
+Q3,7:52,China,37,42,ER,Minghui Sun
+Q3,7:54,Nigeria,37,42,AS,Al-Farouq Aminu
+Q3,7:54,Nigeria,37,42,2_Pts_C,Josh Okogie
+Q3,8:09,China,37,40,AS,Minghui Sun
+Q3,8:09,China,37,40,LL_Pts_C,Zhelin Wang
+Q3,8:09,China,36,40,LL_Pts_T,Zhelin Wang
+Q3,8:09,China,36,40,FR,Zhelin Wang
+Q3,8:09,Nigeria,36,40,FC,Josh Okogie
+Q3,8:21,China,36,39,substituicao_entra,Abudushalamu Abudurexiti
+Q3,8:21,China,36,39,substituicao_sai,Xiaochuan Zhai
+Q3,8:21,China,36,39,FC,Zhelin Wang
+Q3,8:21,Nigeria,36,40,LL_Pts_C,Ekpe Udoh
+Q3,8:21,Nigeria,36,39,FR,Ekpe Udoh
+Q3,8:21,Nigeria,36,39,AS,Al-Farouq Aminu
+Q3,8:21,Nigeria,36,39,2_Pts_C,Ekpe Udoh
+Q3,8:40,China,36,37,2_Pts_C,Jianlian Yi
+Q3,8:58,China,34,37,RD,Shuo Fang
+Q3,8:58,Nigeria,34,37,2_Pts_T,Ben Uzoh
+Q3,9:22,China,34,37,AS,Minghui Sun
+Q3,9:22,China,34,37,,Jianlian Yi3pt jump shot made
+Q3,9:39,Nigeria,31,37,AS,Ben Uzoh
+Q3,9:39,Nigeria,31,37,,Ekpe Udoh2pt jump shot made
+Q4,0:08,China,73,86,2_Pts_T,Minghui Sun
+Q4,0:08,Nigeria,73,86,RD,Al-Farouq Aminu
+Q4,0:13,Nigeria,73,86,ER ,
+Q4,0:38,China,73,86,3_Pts_T,Shuo Fang
+Q4,0:38,Nigeria,73,86,RD,Josh Okogie
+Q4,0:47,China,73,86,substituicao_entra,Junfei Ren
+Q4,0:47,China,73,86,substituicao_sai,Jianlian Yi
+Q4,0:47,China,73,84,FC,Jianlian Yi
+Q4,0:47,Nigeria,73,86,LL_Pts_C,Al-Farouq Aminu
+Q4,0:47,Nigeria,73,85,LL_Pts_C,Al-Farouq Aminu
+Q4,0:47,Nigeria,73,84,FR,Al-Farouq Aminu
+Q4,0:48,China,73,84,,Abudushalamu Abudurexiti2pt jump shot missed
+Q4,0:48,Nigeria,73,84,RD,Al-Farouq Aminu
+Q4,0:57,China,73,82,FC,Jianlian Yi
+Q4,0:57,Nigeria,73,84,LL_Pts_C,Josh Okogie
+Q4,0:57,Nigeria,73,83,LL_Pts_C,Josh Okogie
+Q4,0:57,Nigeria,73,82,FR,Josh Okogie
+Q4,0:58,China,73,82,,Jianlian Yi3pt jump shot missed
+Q4,0:58,Nigeria,73,82,RD,Josh Okogie
+Q4,10:00,China,51,60,muda_bola,
+Q4,1:07,China,73,80,FC,Minghui Sun
+Q4,1:07,Nigeria,73,82,LL_Pts_C,Josh Okogie
+Q4,1:07,Nigeria,73,81,LL_Pts_C,Josh Okogie
+Q4,1:07,Nigeria,73,80,FR,Josh Okogie
+Q4,1:21,China,73,80,AS,Minghui Sun
+Q4,1:21,China,73,80,2_Pts_C,Jianlian Yi
+Q4,1:37,China,71,79,FC,Abudushalamu Abudurexiti
+Q4,1:37,Nigeria,71,80,LL_Pts_C,Josh Okogie
+Q4,1:37,Nigeria,71,79,FR,Nnamdi Vincent
+Q4,1:37,Nigeria,71,79,2_Pts_C,Josh Okogie
+Q4,1:51,China,71,77,LL_Pts_C,Abudushalamu Abudurexiti
+Q4,1:51,China,70,77,AS,Minghui Sun
+Q4,1:51,China,70,77,LL_Pts_C,Abudushalamu Abudurexiti
+Q4,1:51,China,69,77,FR,Abudushalamu Abudurexiti
+Q4,1:51,Nigeria,69,77,FC,Micheal Eric
+Q4,2:03,Nigeria,69,77,2_Pts_C,Nnamdi Vincent
+Q4,2:13,China,69,75,AS,Rui Zhao
+Q4,2:13,China,69,75,,Abudushalamu Abudurexiti3pt jump shot made
+Q4,2:13,Nigeria,69,75,substituicao_entra,Ben Uzoh
+Q4,2:13,Nigeria,69,75,substituicao_sai,Chimezie Metu
+Q4,2:13,Nigeria,69,75,tempo_tecnico,
+Q4,2:27,Nigeria,66,75,ER,Al-Farouq Aminu
+Q4,2:48,China,66,75,AS,Rui Zhao
+Q4,2:48,China,66,75,,Shuo Fang3pt jump shot made
+Q4,2:57,China,63,75,substituicao_entra,Abudushalamu Abudurexiti
+Q4,2:57,China,63,75,substituicao_sai,Zhelin Wang
+Q4,2:57,China,63,75,tempo_tecnico,
+Q4,2:57,Nigeria,63,75,,Micheal Ericdunk made
+Q4,2:59,China,63,73,ER,Jianlian Yi
+Q4,2:59,Nigeria,63,73,BR,Micheal Eric
+Q4,3:03,China,63,73,RD,Jianlian Yi
+Q4,3:03,Nigeria,63,73,2_Pts_T,Josh Okogie
+Q4,3:12,China,63,73,FC,Zhelin Wang
+Q4,3:12,Nigeria,63,73,FR,Al-Farouq Aminu
+Q4,3:13,China,63,73,,Jianlian Yilayup missed
+Q4,3:13,Nigeria,63,73,RD,Al-Farouq Aminu
+Q4,3:27,Nigeria,63,73,AS,Al-Farouq Aminu
+Q4,3:27,Nigeria,63,73,,Micheal Ericlayup made
+Q4,3:31,China,63,71,ER,Minghui Sun
+Q4,3:31,Nigeria,63,71,BR,Al-Farouq Aminu
+Q4,3:47,Nigeria,63,71,AS,Josh Okogie
+Q4,3:47,Nigeria,63,71,3_Pts_C,Chimezie Metu
+Q4,4:03,China,63,68,,Jianlian Yi3pt jump shot missed
+Q4,4:03,Nigeria,63,68,RD,Chimezie Metu
+Q4,4:26,Nigeria,63,68,substituicao_entra,Micheal Eric
+Q4,4:26,Nigeria,63,68,substituicao_sai,Ekpe Udoh
+Q4,4:26,Nigeria,63,68,substituicao_entra,Nnamdi Vincent
+Q4,4:26,Nigeria,63,68,substituicao_sai,Ike Iroegbu
+Q4,4:26,Nigeria,63,68,,Josh Okogielayup made
+Q4,4:46,China,63,66,AS,Jianlian Yi
+Q4,4:46,China,63,66,2_Pts_C,Zhelin Wang
+Q4,4:59,China,61,66,RD,Jianlian Yi
+Q4,4:59,Nigeria,61,66,,Josh Okogiedunk missed
+Q4,5:16,China,61,66,AS,Minghui Sun
+Q4,5:16,China,61,66,2_Pts_C,Zhelin Wang
+Q4,5:32,China,59,64,substituicao_entra,Minghui Sun
+Q4,5:32,China,59,64,substituicao_sai,Abudushalamu Abudurexiti
+Q4,5:32,China,59,64,substituicao_entra,Jianlian Yi
+Q4,5:32,China,59,64,substituicao_sai,Ailun Guo
+Q4,5:32,China,59,64,tempo_tecnico,
+Q4,5:32,China,59,64,FC,Zhelin Wang
+Q4,5:32,Nigeria,59,66,LL_Pts_C,Josh Okogie
+Q4,5:32,Nigeria,59,65,LL_Pts_C,Josh Okogie
+Q4,5:32,Nigeria,59,64,substituicao_entra,Ike Iroegbu
+Q4,5:32,Nigeria,59,64,substituicao_sai,Ben Uzoh
+Q4,5:32,Nigeria,59,64,FR,Josh Okogie
+Q4,5:44,China,59,64,,Rui Zhao3pt jump shot missed
+Q4,5:44,Nigeria,59,64,RD,Josh Okogie
+Q4,5:44,Nigeria,59,64,substituicao_entra,Josh Okogie
+Q4,5:44,Nigeria,59,64,substituicao_sai,Ike Diogu
+Q4,5:57,Nigeria,59,64,AS,Ben Uzoh
+Q4,5:57,Nigeria,59,64,,Chimezie Metudunk made
+Q4,5:57,Nigeria,59,62,substituicao_entra,Chimezie Metu
+Q4,5:57,Nigeria,59,62,substituicao_sai,Josh Okogie
+Q4,6:09,China,59,62,ER,Abudushalamu Abudurexiti
+Q4,6:09,Nigeria,59,62,BR,Al-Farouq Aminu
+Q4,6:21,China,59,62,RD,Zhelin Wang
+Q4,6:21,Nigeria,59,62,,Ekpe Udoh2pt jump shot missed
+Q4,6:30,China,59,62,2_Pts_T,Ailun Guo
+Q4,6:30,Nigeria,59,62,RD,Al-Farouq Aminu
+Q4,6:30,Nigeria,59,62,TO,Josh Okogie
+Q4,6:41,China,59,62,RD,Zhelin Wang
+Q4,6:41,Nigeria,59,62,,Ekpe Udoh2pt jump shot missed
+Q4,6:50,China,59,62,substituicao_entra,Abudushalamu Abudurexiti
+Q4,6:50,China,59,62,substituicao_sai,Jianlian Yi
+Q4,6:50,China,59,62,FC,Rui Zhao
+Q4,6:50,Nigeria,59,62,FR,Ike Diogu
+Q4,7:01,China,59,62,AS,Rui Zhao
+Q4,7:02,China,59,62,LL_Pts_T,Jianlian Yi
+Q4,7:02,China,59,62,LL_Pts_C,Jianlian Yi
+Q4,7:02,China,58,62,FR,Jianlian Yi
+Q4,7:02,China,58,62,RO,Rui Zhao
+Q4,7:02,China,58,62,,Ailun Guo3pt jump shot missed
+Q4,7:02,Nigeria,59,62,RD,Ike Diogu
+Q4,7:02,Nigeria,58,62,FC,Ekpe Udoh
+Q4,7:05,China,58,62,RD,Shuo Fang
+Q4,7:05,China,58,62,TO,Zhelin Wang
+Q4,7:05,Nigeria,58,62,2_Pts_T,Al-Farouq Aminu
+Q4,7:18,China,58,62,TO,Zhelin Wang
+Q4,7:18,Nigeria,58,62,RO,Al-Farouq Aminu
+Q4,7:18,Nigeria,58,62,2_Pts_T,Josh Okogie
+Q4,7:27,China,58,62,,Shuo Fang3pt jump shot missed
+Q4,7:27,Nigeria,58,62,RD,Al-Farouq Aminu
+Q4,7:38,China,58,62,BR,Ailun Guo
+Q4,7:38,Nigeria,58,62,ER,Al-Farouq Aminu
+Q4,7:57,China,58,62,AS,Rui Zhao
+Q4,7:57,China,58,62,,Jianlian Yidunk made
+Q4,8:08,China,56,62,FR,Zhelin Wang
+Q4,8:08,Nigeria,56,62,substituicao_entra,Ekpe Udoh
+Q4,8:08,Nigeria,56,62,substituicao_sai,Micheal Eric
+Q4,8:08,Nigeria,56,62,substituicao_entra,Al-Farouq Aminu
+Q4,8:08,Nigeria,56,62,substituicao_sai,Chimezie Metu
+Q4,8:08,Nigeria,56,62,substituicao_entra,Ike Diogu
+Q4,8:08,Nigeria,56,62,substituicao_sai,Stan Okoye
+Q4,8:08,Nigeria,56,62,FC,Josh Okogie
+Q4,8:27,Nigeria,56,62,AS,Ben Uzoh
+Q4,8:27,Nigeria,56,62,,Stan Okoyedunk made
+Q4,8:43,China,56,60,2_Pts_C,Shuo Fang
+Q4,8:52,China,54,60,RD,Jianlian Yi
+Q4,8:52,Nigeria,54,60,,Stan Okoye3pt jump shot missed
+Q4,9:12,China,54,60,AS,Ailun Guo
+Q4,9:12,China,54,60,LL_Pts_C,Jianlian Yi
+Q4,9:12,China,53,60,LL_Pts_T,Jianlian Yi
+Q4,9:12,China,53,60,FR,Jianlian Yi
+Q4,9:12,Nigeria,53,60,FC,Stan Okoye
+Q4,9:17,China,53,60,RD,Shuo Fang
+Q4,9:17,Nigeria,53,60,2_Pts_T,Josh Okogie
+Q4,9:40,China,53,60,ER,Ailun Guo
+Q4,9:40,Nigeria,53,60,BR,Josh Okogie
+Q4,9:46,Nigeria,53,60,substituicao_entra,Ben Uzoh
+Q4,9:46,Nigeria,53,60,substituicao_sai,Ike Iroegbu
+Q4,9:46,Nigeria,53,60,ER,Stan Okoye
+Q4,9:47,China,53,60,substituicao_entra,Zhelin Wang
+Q4,9:47,China,53,60,substituicao_sai,Qi Zhou
+Q4,9:47,China,53,60,FC,Qi Zhou
+Q4,9:47,China,53,60,LL_Pts_T,Jianlian Yi
+Q4,9:47,Nigeria,53,60,FR,Josh Okogie
+Q4,9:47,Nigeria,53,60,RD,Josh Okogie
+Q4,9:48,China,53,60,FR,Jianlian Yi
+Q4,9:48,China,53,60,AS,Shuo Fang
+Q4,9:48,China,53,60,2_Pts_C,Jianlian Yi
+Q4,9:48,Nigeria,53,60,FC,Stan Okoye

@@ -1,0 +1,578 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Nigeria,18,13,,Chimezie Metu3pt jump shot missed
+Q1,0:02,Russia,18,13,substituicao_entra,Nikita Kurbanov
+Q1,0:02,Russia,18,13,substituicao_sai,Vitaly Fridzon
+Q1,0:02,Russia,18,13,substituicao_entra,Evgenii Baburin
+Q1,0:02,Russia,18,13,substituicao_sai,Grigory Motovilov
+Q1,0:03,Russia,18,13,ER,Vitaly Fridzon
+Q1,0:13,Russia,18,13,BR,Semen Antonov
+Q1,0:13,Nigeria,18,13,ER,Ekpe Udoh
+Q1,0:31,Russia,18,13,,Grigory Motovilov3pt jump shot missed
+Q1,0:31,Nigeria,18,13,RD,Ben Uzoh
+Q1,0:55,Nigeria,18,13,AS,Ekpe Udoh
+Q1,0:55,Nigeria,18,13,,Ben Uzohlayup made
+Q1,10:00,Nigeria,0,0,inicio_quarto,Al-Farouq Aminu
+Q1,1:08,Russia,18,11,,Semen Antonov3pt jump shot missed
+Q1,1:08,Nigeria,18,11,RD,Chimezie Metu
+Q1,1:31,Nigeria,18,11,,Nnamdi Vincentlayup made
+Q1,1:36,Russia,18,9,ER,Grigory Motovilov
+Q1,1:36,Nigeria,18,9,BR,Nnamdi Vincent
+Q1,1:52,Russia,18,9,RD,Vitaly Fridzon
+Q1,1:52,Nigeria,18,9,,Nnamdi Vincent3pt jump shot missed
+Q1,1:57,Nigeria,18,9,RO,Ekpe Udoh
+Q1,1:57,Nigeria,18,9,,Chimezie Metulayup missed
+Q1,2:14,Russia,18,9,,Vitaly Fridzon3pt jump shot missed
+Q1,2:14,Nigeria,18,9,RD,Chimezie Metu
+Q1,2:34,Russia,18,7,FC,Grigory Motovilov
+Q1,2:34,Nigeria,18,9,LL_Pts_C,Ike Iroegbu
+Q1,2:34,Nigeria,18,8,LL_Pts_C,Ike Iroegbu
+Q1,2:34,Nigeria,18,7,FR,Ike Iroegbu
+Q1,2:37,Russia,18,7,ER,Sergey Karasev
+Q1,2:37,Nigeria,18,7,BR,Ekpe Udoh
+Q1,2:57,Russia,18,7,RD,Andrey Zubkov
+Q1,2:57,Nigeria,18,7,,Ike Iroegbu3pt jump shot missed
+Q1,3:14,Russia,18,7,substituicao_entra,Andrey Zubkov
+Q1,3:14,Russia,18,7,substituicao_sai,Nikita Kurbanov
+Q1,3:14,Russia,18,7,substituicao_entra,Semen Antonov
+Q1,3:14,Russia,18,7,substituicao_sai,Mikhail Kulagin
+Q1,3:14,Russia,18,7,substituicao_entra,Grigory Motovilov
+Q1,3:14,Russia,18,7,substituicao_sai,Andrey Vorontsevich
+Q1,3:14,Russia,18,7,substituicao_entra,Sergey Karasev
+Q1,3:14,Russia,18,7,substituicao_sai,Vladimir Ivlev
+Q1,3:14,Russia,18,7,FC,Mikhail Kulagin
+Q1,3:14,Nigeria,18,7,substituicao_entra,Ben Uzoh
+Q1,3:14,Nigeria,18,7,substituicao_sai,Jordan Nwora
+Q1,3:14,Nigeria,18,7,FR,Ike Iroegbu
+Q1,3:27,Russia,18,7,,Mikhail Kulagin3pt jump shot made
+Q1,3:36,Russia,15,7,RD,Vladimir Ivlev
+Q1,3:36,Nigeria,15,7,,Nnamdi Vincent3pt jump shot missed
+Q1,3:36,Nigeria,15,7,substituicao_entra,Nnamdi Vincent
+Q1,3:36,Nigeria,15,7,substituicao_sai,Josh Okogie
+Q1,3:51,Russia,15,7,AS,Vitaly Fridzon
+Q1,3:51,Russia,15,7,,Nikita Kurbanovlayup made
+Q1,4:01,Russia,13,7,BR,Vitaly Fridzon
+Q1,4:01,Nigeria,13,7,ER,Ike Iroegbu
+Q1,4:20,Russia,13,7,ER ,
+Q1,4:20,Russia,13,7,,Vitaly Fridzon2pt jump shot missed
+Q1,4:20,Nigeria,13,7,substituicao_entra,Chimezie Metu
+Q1,4:20,Nigeria,13,7,substituicao_sai,Al-Farouq Aminu
+Q1,4:37,Russia,13,7,RO,Vitaly Fridzon
+Q1,4:37,Russia,13,7,,Mikhail Kulagin3pt jump shot missed
+Q1,4:52,Russia,13,7,RD,Nikita Kurbanov
+Q1,4:52,Nigeria,13,7,,Jordan Nworalayup missed
+Q1,5:04,Russia,13,7,,Mikhail Kulagin3pt jump shot made
+Q1,5:24,Russia,10,7,RD,Nikita Kurbanov
+Q1,5:24,Russia,10,6,FC,Andrey Vorontsevich
+Q1,5:24,Nigeria,10,7,LL_Pts_T,Josh Okogie
+Q1,5:24,Nigeria,10,7,LL_Pts_C,Josh Okogie
+Q1,5:24,Nigeria,10,6,FR,Josh Okogie
+Q1,5:27,Nigeria,10,6,RO,Josh Okogie
+Q1,5:27,Nigeria,10,6,,Ike Iroegbulayup missed
+Q1,5:38,Nigeria,10,6,RO,Ekpe Udoh
+Q1,5:38,Nigeria,10,6,,Ike Iroegbu3pt jump shot missed
+Q1,5:45,Russia,10,6,FC,Vitaly Fridzon
+Q1,5:45,Nigeria,10,6,FR,Ekpe Udoh
+Q1,5:53,Russia,10,6,ER,Vitaly Fridzon
+Q1,6:04,Russia,10,4,FC,Andrey Vorontsevich
+Q1,6:04,Nigeria,10,6,LL_Pts_C,Al-Farouq Aminu
+Q1,6:04,Nigeria,10,5,LL_Pts_C,Al-Farouq Aminu
+Q1,6:04,Nigeria,10,4,FR,Al-Farouq Aminu
+Q1,6:24,Nigeria,10,4,substituicao_entra,Ekpe Udoh
+Q1,6:24,Nigeria,10,4,substituicao_sai,Ike Diogu
+Q1,6:24,Nigeria,10,4,substituicao_entra,Ike Iroegbu
+Q1,6:24,Nigeria,10,4,substituicao_sai,Ben Uzoh
+Q1,6:24,Nigeria,10,4,tempo_tecnico,
+Q1,6:27,Russia,10,4,AS,Nikita Kurbanov
+Q1,6:27,Russia,10,4,,Mikhail Kulagin3pt jump shot made
+Q1,6:39,Russia,7,4,RD,Vitaly Fridzon
+Q1,6:39,Nigeria,7,4,,Jordan Nwora3pt jump shot missed
+Q1,6:52,Russia,7,4,,Mikhail Kulagin3pt jump shot missed
+Q1,6:52,Nigeria,7,4,RD,Ike Diogu
+Q1,7:01,Russia,7,4,FR,Vitaly Fridzon
+Q1,7:01,Nigeria,7,4,FC_O,Josh Okogie
+Q1,7:09,Russia,7,4,AS,Andrey Vorontsevich
+Q1,7:09,Russia,7,4,,Vitaly Fridzonlayup made
+Q1,7:33,Nigeria,5,4,ER,Ike Diogu
+Q1,7:52,Russia,5,4,AS,Vitaly Fridzon
+Q1,7:52,Russia,5,4,,Nikita Kurbanovlayup made
+Q1,8:04,Russia,3,4,RD,Mikhail Kulagin
+Q1,8:04,Nigeria,3,4,,Ike Diogu3pt jump shot missed
+Q1,8:23,Russia,3,4,AS,Vitaly Fridzon
+Q1,8:23,Russia,3,4,,Andrey Vorontsevich3pt jump shot made
+Q1,8:40,Nigeria,0,4,AS,Josh Okogie
+Q1,8:40,Nigeria,0,4,,Ben Uzohlayup made
+Q1,8:49,Russia,0,2,,Nikita Kurbanovdunk missed
+Q1,8:49,Nigeria,0,2,RD,Josh Okogie
+Q1,8:53,Russia,0,2,FR,Vitaly Fridzon
+Q1,8:53,Nigeria,0,2,FC,Ike Diogu
+Q1,9:08,Nigeria,0,2,AS,Jordan Nwora
+Q1,9:08,Nigeria,0,2,,Ben Uzohlayup made
+Q1,9:28,Russia,0,0,,Andrey Vorontsevich2pt jump shot missed
+Q1,9:28,Nigeria,0,0,RD,Ike Diogu
+Q1,9:39,Russia,0,0,RD,Nikita Kurbanov
+Q1,9:39,Nigeria,0,0,,Jordan Nwora2pt jump shot missed
+Q2,0:00,Nigeria,40,35,,Ike Iroegbu2pt jump shot missed
+Q2,0:25,Russia,40,35,,Andrey Vorontsevichlayup made
+Q2,0:27,Russia,38,35,RO,Andrey Vorontsevich
+Q2,0:27,Russia,38,35,,Vitaly Fridzon3pt jump shot missed
+Q2,0:52,Russia,38,35,RD,Vitaly Fridzon
+Q2,0:52,Nigeria,38,35,,Jordan Nwora3pt jump shot missed
+Q2,10:00,Russia,0,0,muda_bola,
+Q2,1:04,Russia,38,35,ER,Mikhail Kulagin
+Q2,1:13,Russia,38,35,tempo_tecnico,
+Q2,1:14,Nigeria,38,35,,Ike Iroegbu2pt jump shot made
+Q2,1:30,Russia,38,33,LL_Pts_T,Vitaly Fridzon
+Q2,1:30,Russia,37,33,,Evgenii Baburin3pt jump shot missed
+Q2,1:30,Nigeria,38,33,muda_bola,
+Q2,1:30,Nigeria,37,33,FC_T,Chimezie Metu
+Q2,1:30,Nigeria,37,33,RD,
+Q2,1:35,Russia,37,33,BR,Vitaly Fridzon
+Q2,1:35,Nigeria,37,33,ER,Jordan Nwora
+Q2,1:45,Russia,37,33,AS,Evgenii Baburin
+Q2,1:45,Russia,37,33,,Vitaly Fridzonlayup made
+Q2,1:53,Russia,35,33,RO,Evgenii Baburin
+Q2,1:53,Russia,35,33,,Vitaly Fridzon2pt jump shot missed
+Q2,2:03,Nigeria,35,33,ER,Al-Farouq Aminu
+Q2,2:08,Russia,35,33,,Mikhail Kulaginlayup missed
+Q2,2:08,Nigeria,35,33,RD,Al-Farouq Aminu
+Q2,2:30,Russia,35,32,FC,Vitaly Fridzon
+Q2,2:30,Nigeria,35,33,substituicao_entra,Ben Uzoh
+Q2,2:30,Nigeria,35,33,substituicao_sai,Josh Okogie
+Q2,2:30,Nigeria,35,33,LL_Pts_C,Al-Farouq Aminu
+Q2,2:30,Nigeria,35,32,LL_Pts_T,Al-Farouq Aminu
+Q2,2:30,Nigeria,35,32,FR,Al-Farouq Aminu
+Q2,2:34,Russia,35,32,ER,Andrey Vorontsevich
+Q2,2:34,Nigeria,35,32,BR,Ike Iroegbu
+Q2,2:53,Russia,35,32,BR,Vladimir Ivlev
+Q2,2:53,Nigeria,35,32,ER,Jordan Nwora
+Q2,3:02,Russia,35,32,ER,Vitaly Fridzon
+Q2,3:02,Nigeria,35,32,BR,Al-Farouq Aminu
+Q2,3:11,Russia,35,32,RD,Vitaly Fridzon
+Q2,3:11,Nigeria,35,32,,Jordan Nwora3pt jump shot missed
+Q2,3:24,Russia,35,32,LL_Pts_C,Vitaly Fridzon
+Q2,3:24,Russia,34,32,LL_Pts_T,Vitaly Fridzon
+Q2,3:24,Russia,34,32,FR,Vitaly Fridzon
+Q2,3:24,Nigeria,34,32,FC,Jordan Nwora
+Q2,3:26,Russia,34,32,FR,Mikhail Kulagin
+Q2,3:26,Nigeria,34,32,substituicao_entra,Ike Iroegbu
+Q2,3:26,Nigeria,34,32,substituicao_sai,Nnamdi Vincent
+Q2,3:26,Nigeria,34,32,FC,Nnamdi Vincent
+Q2,3:29,Russia,34,32,substituicao_entra,Vladimir Ivlev
+Q2,3:29,Russia,34,32,substituicao_sai,Evgeny Valiev
+Q2,3:29,Russia,34,32,FR,Vitaly Fridzon
+Q2,3:29,Nigeria,34,32,substituicao_entra,Chimezie Metu
+Q2,3:29,Nigeria,34,32,substituicao_sai,Ekpe Udoh
+Q2,3:29,Nigeria,34,32,FC,Nnamdi Vincent
+Q2,3:31,Russia,34,32,RO,Evgenii Baburin
+Q2,3:31,Russia,34,32,,Mikhail Kulagin3pt jump shot missed
+Q2,3:58,Russia,34,32,RD,Evgenii Baburin
+Q2,3:58,Nigeria,34,32,,Ekpe Udohlayup missed
+Q2,4:06,Russia,34,32,substituicao_entra,Andrey Vorontsevich
+Q2,4:06,Russia,34,32,substituicao_sai,Andrey Zubkov
+Q2,4:06,Russia,34,32,FC,Evgenii Baburin
+Q2,4:06,Russia,34,32,,Vitaly Fridzon2pt jump shot missed
+Q2,4:06,Nigeria,34,32,substituicao_entra,Nnamdi Vincent
+Q2,4:06,Nigeria,34,32,substituicao_sai,Ben Uzoh
+Q2,4:06,Nigeria,34,32,FR,Al-Farouq Aminu
+Q2,4:06,Nigeria,34,32,RD,Josh Okogie
+Q2,4:34,Nigeria,34,32,AS,Ben Uzoh
+Q2,4:34,Nigeria,34,32,,Josh Okogie3pt jump shot made
+Q2,4:40,Russia,34,29,substituicao_entra,Vitaly Fridzon
+Q2,4:40,Russia,34,29,substituicao_sai,Andrey Vorontsevich
+Q2,5:00,Russia,34,29,AS,Evgeny Valiev
+Q2,5:00,Russia,34,29,,Evgenii Baburin3pt jump shot made
+Q2,5:20,Nigeria,31,29,ER,Ben Uzoh
+Q2,5:26,Russia,31,29,,Mikhail Kulaginlayup missed
+Q2,5:26,Nigeria,31,29,RD,Jordan Nwora
+Q2,5:41,Nigeria,31,29,AS,Josh Okogie
+Q2,5:41,Nigeria,31,29,,Jordan Nwora3pt jump shot made
+Q2,5:43,Russia,31,26,substituicao_entra,Andrey Vorontsevich
+Q2,5:43,Russia,31,26,substituicao_sai,Nikita Kurbanov
+Q2,5:43,Nigeria,31,26,RO,
+Q2,5:44,Nigeria,31,26,,Al-Farouq Aminulayup missed
+Q2,6:00,Russia,31,26,AS,Evgeny Valiev
+Q2,6:00,Russia,31,26,,Mikhail Kulagin3pt jump shot made
+Q2,6:02,Russia,28,26,FR,Mikhail Kulagin
+Q2,6:02,Nigeria,28,26,FC,Ben Uzoh
+Q2,6:11,Nigeria,28,26,AS,Jordan Nwora
+Q2,6:11,Nigeria,28,26,,Al-Farouq Aminulayup made
+Q2,6:17,Russia,28,24,ER,Andrey Zubkov
+Q2,6:17,Nigeria,28,24,BR,Josh Okogie
+Q2,6:28,Nigeria,28,24,substituicao_entra,Al-Farouq Aminu
+Q2,6:28,Nigeria,28,24,substituicao_sai,Nnamdi Vincent
+Q2,6:41,Russia,28,24,substituicao_entra,Evgeny Valiev
+Q2,6:41,Russia,28,24,substituicao_sai,Semen Antonov
+Q2,6:41,Russia,28,24,tempo_tecnico,
+Q2,6:41,Nigeria,28,24,substituicao_entra,Nnamdi Vincent
+Q2,6:41,Nigeria,28,24,substituicao_sai,Chimezie Metu
+Q2,6:41,Nigeria,28,24,substituicao_entra,Ekpe Udoh
+Q2,6:41,Nigeria,28,24,substituicao_sai,Al-Farouq Aminu
+Q2,6:42,Nigeria,28,24,,Josh Okogielayup made
+Q2,6:49,Russia,28,22,FC,Nikita Kurbanov
+Q2,6:49,Nigeria,28,22,FR,Al-Farouq Aminu
+Q2,6:52,Russia,28,22,FC,Evgenii Baburin
+Q2,6:52,Nigeria,28,22,substituicao_entra,Ben Uzoh
+Q2,6:52,Nigeria,28,22,substituicao_sai,Stan Okoye
+Q2,6:52,Nigeria,28,22,FR,Josh Okogie
+Q2,6:54,Russia,28,22,substituicao_entra,Mikhail Kulagin
+Q2,6:54,Russia,28,22,substituicao_sai,Grigory Motovilov
+Q2,6:54,Russia,28,22,substituicao_entra,Evgenii Baburin
+Q2,6:54,Russia,28,22,substituicao_sai,Sergey Karasev
+Q2,7:01,Russia,28,22,,Nikita Kurbanovlayup missed
+Q2,7:01,Nigeria,28,22,RD,Al-Farouq Aminu
+Q2,7:18,Russia,28,20,FC,Andrey Zubkov
+Q2,7:18,Nigeria,28,22,LL_Pts_C,Chimezie Metu
+Q2,7:18,Nigeria,28,21,LL_Pts_C,Chimezie Metu
+Q2,7:18,Nigeria,28,20,substituicao_entra,Jordan Nwora
+Q2,7:18,Nigeria,28,20,substituicao_sai,Nnamdi Vincent
+Q2,7:18,Nigeria,28,20,substituicao_entra,Josh Okogie
+Q2,7:18,Nigeria,28,20,substituicao_sai,Ike Diogu
+Q2,7:18,Nigeria,28,20,substituicao_entra,Al-Farouq Aminu
+Q2,7:18,Nigeria,28,20,substituicao_sai,Ike Iroegbu
+Q2,7:18,Nigeria,28,20,FR,Chimezie Metu
+Q2,7:28,Russia,28,20,AS,Andrey Zubkov
+Q2,7:28,Russia,28,20,,Nikita Kurbanov3pt jump shot made
+Q2,7:41,Nigeria,25,20,,Nnamdi Vincent3pt jump shot made
+Q2,7:59,Russia,25,17,LL_Pts_C,Andrey Zubkov
+Q2,7:59,Russia,24,17,FR,Andrey Zubkov
+Q2,7:59,Russia,24,17,,Andrey Zubkovlayup made
+Q2,7:59,Nigeria,24,17,FC,Ike Diogu
+Q2,8:12,Nigeria,22,17,AS,Stan Okoye
+Q2,8:12,Nigeria,22,17,,Chimezie Metudunk made
+Q2,8:19,Nigeria,22,15,RO,Stan Okoye
+Q2,8:19,Nigeria,22,15,,Ike Diogu2pt jump shot missed
+Q2,8:32,Russia,22,15,,Semen Antonovlayup made
+Q2,8:42,Russia,20,15,RO,Semen Antonov
+Q2,8:42,Russia,20,15,,Sergey Karasev3pt jump shot missed
+Q2,9:07,Nigeria,20,15,,Ike Iroegbulayup made
+Q2,9:12,Russia,20,13,ER backcourt violation,Grigory Motovilov
+Q2,9:22,Nigeria,20,13,ER ,
+Q2,9:50,Russia,20,13,AS,Semen Antonov
+Q2,9:50,Russia,20,13,,Andrey Zubkovlayup made
+Q3,0:00,Russia,58,55,FC,Andrei Sopin
+Q3,0:00,Nigeria,58,58,LL_Pts_C,Josh Okogie
+Q3,0:00,Nigeria,58,57,LL_Pts_C,Josh Okogie
+Q3,0:00,Nigeria,58,56,LL_Pts_C,Josh Okogie
+Q3,0:00,Nigeria,58,55,FR,Josh Okogie
+Q3,0:06,Russia,58,55,substituicao_entra,Andrei Sopin
+Q3,0:06,Russia,58,55,substituicao_sai,Grigory Motovilov
+Q3,0:06,Russia,58,55,LL_Pts_C,Sergey Karasev
+Q3,0:06,Russia,57,55,LL_Pts_C,Sergey Karasev
+Q3,0:06,Russia,56,55,FR,Sergey Karasev
+Q3,0:06,Nigeria,58,55,substituicao_entra,Ike Iroegbu
+Q3,0:06,Nigeria,58,55,substituicao_sai,Nnamdi Vincent
+Q3,0:06,Nigeria,56,55,FC,Josh Okogie
+Q3,0:07,Russia,56,55,BR,Sergey Karasev
+Q3,0:07,Nigeria,56,55,ER,Jordan Nwora
+Q3,0:11,Russia,56,55,ER,Sergey Karasev
+Q3,0:11,Nigeria,56,55,BR,Jordan Nwora
+Q3,0:26,Russia,56,55,RO,Evgenii Baburin
+Q3,0:26,Russia,56,55,,Grigory Motovilov3pt jump shot missed
+Q3,0:47,Nigeria,56,55,AS,Chimezie Metu
+Q3,0:47,Nigeria,56,55,,Nnamdi Vincentlayup made
+Q3,0:52,Russia,56,53,2_Pts_T,Grigory Motovilov
+Q3,0:52,Nigeria,56,53,TO,Chimezie Metu
+Q3,0:52,Nigeria,56,53,RD,Chimezie Metu
+Q3,0:55,Russia,56,53,BR,Andrey Zubkov
+Q3,0:55,Nigeria,56,53,ER,Josh Okogie
+Q3,0:59,Russia,56,53,LL_Pts_C,Sergey Karasev
+Q3,0:59,Russia,55,53,LL_Pts_C,Sergey Karasev
+Q3,0:59,Russia,54,53,FR,Sergey Karasev
+Q3,0:59,Nigeria,54,53,substituicao_entra,Jordan Nwora
+Q3,0:59,Nigeria,54,53,substituicao_sai,Ike Iroegbu
+Q3,0:59,Nigeria,54,53,FC,Nnamdi Vincent
+Q3,10:00,Russia,0,0,muda_bola,
+Q3,1:07,Russia,54,51,FC,Sergey Karasev
+Q3,1:07,Nigeria,54,53,substituicao_entra,Ike Iroegbu
+Q3,1:07,Nigeria,54,53,substituicao_sai,Jordan Nwora
+Q3,1:07,Nigeria,54,53,LL_Pts_C,Josh Okogie
+Q3,1:07,Nigeria,54,52,LL_Pts_C,Josh Okogie
+Q3,1:07,Nigeria,54,51,FR,Josh Okogie
+Q3,1:20,Russia,54,51,3_Pts_T,Semen Antonov
+Q3,1:20,Nigeria,54,51,RD,Jordan Nwora
+Q3,1:37,Nigeria,54,51,AS,Nnamdi Vincent
+Q3,1:37,Nigeria,54,51,,Jordan Nwora3pt jump shot made
+Q3,1:45,Russia,54,48,LL_Pts_C,Semen Antonov
+Q3,1:45,Russia,53,48,LL_Pts_C,Semen Antonov
+Q3,1:45,Russia,52,48,FR,Semen Antonov
+Q3,1:45,Russia,52,48,RO,
+Q3,1:45,Nigeria,52,48,substituicao_entra,Jordan Nwora
+Q3,1:45,Nigeria,52,48,substituicao_sai,Ben Uzoh
+Q3,1:45,Nigeria,52,48,substituicao_entra,Josh Okogie
+Q3,1:45,Nigeria,52,48,substituicao_sai,Ike Iroegbu
+Q3,1:45,Nigeria,52,48,FC,Ike Iroegbu
+Q3,1:47,Russia,52,48,3_Pts_T,Sergey Karasev
+Q3,2:02,Russia,52,48,RD,Evgenii Baburin
+Q3,2:02,Nigeria,52,48,3_Pts_T,Chimezie Metu
+Q3,2:33,Russia,52,48,AS,Semen Antonov
+Q3,2:33,Russia,52,48,3_Pts_C,Sergey Karasev
+Q3,2:51,Russia,49,48,tempo_tecnico,
+Q3,2:51,Nigeria,49,48,,Ike Iroegbulayup made
+Q3,2:58,Russia,49,46,,Andrey Zubkovlayup missed
+Q3,2:58,Nigeria,49,46,RD,Chimezie Metu
+Q3,3:22,Russia,49,44,FC,Semen Antonov
+Q3,3:22,Nigeria,49,46,LL_Pts_C,Chimezie Metu
+Q3,3:22,Nigeria,49,45,LL_Pts_C,Chimezie Metu
+Q3,3:22,Nigeria,49,44,FR,Chimezie Metu
+Q3,3:39,Russia,49,44,AS,Andrey Zubkov
+Q3,3:39,Russia,49,44,LL_Pts_C,Semen Antonov
+Q3,3:39,Russia,48,44,LL_Pts_T,Semen Antonov
+Q3,3:39,Russia,48,44,FR,Semen Antonov
+Q3,3:39,Nigeria,48,44,FC,Ike Iroegbu
+Q3,3:56,Russia,48,44,RD,Andrey Zubkov
+Q3,3:56,Nigeria,48,44,,Chimezie Metu2pt jump shot missed
+Q3,4:07,Russia,48,44,ER,Andrey Zubkov
+Q3,4:07,Nigeria,48,44,BR,Nnamdi Vincent
+Q3,4:14,Russia,48,44,substituicao_entra,Evgenii Baburin
+Q3,4:14,Russia,48,44,substituicao_sai,Vitaly Fridzon
+Q3,4:14,Russia,48,44,RO,
+Q3,4:14,Russia,48,44,2_Pts_T,Vitaly Fridzon
+Q3,4:14,Nigeria,48,44,substituicao_entra,Ben Uzoh
+Q3,4:14,Nigeria,48,44,substituicao_sai,Josh Okogie
+Q3,4:14,Nigeria,48,44,TO,Ekpe Udoh
+Q3,4:23,Russia,48,44,BR,Sergey Karasev
+Q3,4:23,Nigeria,48,44,ER,Josh Okogie
+Q3,4:35,Russia,48,44,AS,Andrey Zubkov
+Q3,4:35,Russia,48,44,,Semen Antonovlayup made
+Q3,4:54,Russia,46,44,RD,Sergey Karasev
+Q3,4:54,Russia,46,43,substituicao_entra,Sergey Karasev
+Q3,4:54,Russia,46,43,substituicao_sai,Nikita Kurbanov
+Q3,4:54,Russia,46,43,FC,Nikita Kurbanov
+Q3,4:54,Nigeria,46,44,LL_Pts_T,Nnamdi Vincent
+Q3,4:54,Nigeria,46,44,LL_Pts_C,Nnamdi Vincent
+Q3,4:54,Nigeria,46,43,substituicao_entra,Ekpe Udoh
+Q3,4:54,Nigeria,46,43,substituicao_sai,Al-Farouq Aminu
+Q3,4:54,Nigeria,46,43,FR,Nnamdi Vincent
+Q3,5:13,Russia,46,43,ER,Nikita Kurbanov
+Q3,5:24,Nigeria,46,43,ER backcourt violation,Ike Iroegbu
+Q3,5:36,Russia,46,43,substituicao_entra,Semen Antonov
+Q3,5:36,Russia,46,43,substituicao_sai,Vladimir Ivlev
+Q3,5:36,Russia,46,43,,Andrey Zubkovlayup missed
+Q3,5:36,Nigeria,46,43,substituicao_entra,Nnamdi Vincent
+Q3,5:36,Nigeria,46,43,substituicao_sai,Jordan Nwora
+Q3,5:36,Nigeria,46,43,substituicao_entra,Chimezie Metu
+Q3,5:36,Nigeria,46,43,substituicao_sai,Ike Diogu
+Q3,5:36,Nigeria,46,43,RD,
+Q3,5:58,Nigeria,46,43,,Jordan Nworalayup made
+Q3,6:08,Russia,46,41,AS,Nikita Kurbanov
+Q3,6:08,Russia,46,41,,Andrey Zubkovlayup made
+Q3,6:18,Russia,44,41,substituicao_entra,Andrey Zubkov
+Q3,6:18,Russia,44,41,substituicao_sai,Mikhail Kulagin
+Q3,6:18,Russia,44,41,substituicao_entra,Grigory Motovilov
+Q3,6:18,Russia,44,41,substituicao_sai,Andrey Vorontsevich
+Q3,6:18,Russia,44,41,FR,Mikhail Kulagin
+Q3,6:18,Nigeria,44,41,FC,Jordan Nwora
+Q3,6:37,Nigeria,44,41,,Josh Okogie3pt jump shot made
+Q3,6:55,Russia,44,38,FC,Andrey Vorontsevich
+Q3,6:55,Nigeria,44,38,FR,Al-Farouq Aminu
+Q3,6:58,Russia,44,38,,Vitaly Fridzonlayup missed
+Q3,6:58,Nigeria,44,38,RD,Ike Diogu
+Q3,7:03,Russia,44,38,BR,Vitaly Fridzon
+Q3,7:03,Nigeria,44,38,ER,Ike Iroegbu
+Q3,7:05,Russia,44,38,FC,Nikita Kurbanov
+Q3,7:05,Nigeria,44,38,FR,Ike Diogu
+Q3,7:05,Nigeria,44,38,RO,
+Q3,7:05,Nigeria,44,38,,Josh Okogie3pt jump shot missed
+Q3,7:11,Nigeria,44,38,RO,Ike Diogu
+Q3,7:11,Nigeria,44,38,,Ike Iroegbulayup missed
+Q3,7:26,Russia,44,38,ER,
+Q3,7:26,Russia,44,38,FR,Nikita Kurbanov
+Q3,7:26,Nigeria,44,38,substituicao_entra,Ike Iroegbu
+Q3,7:26,Nigeria,44,38,substituicao_sai,Ben Uzoh
+Q3,7:26,Nigeria,44,38,FC,Jordan Nwora
+Q3,7:40,Russia,44,38,RD,Nikita Kurbanov
+Q3,7:40,Russia,44,37,FC,Vladimir Ivlev
+Q3,7:40,Nigeria,44,38,LL_Pts_T,Al-Farouq Aminu
+Q3,7:40,Nigeria,44,38,LL_Pts_C,Al-Farouq Aminu
+Q3,7:40,Nigeria,44,37,FR,Al-Farouq Aminu
+Q3,7:45,Russia,44,37,,Mikhail Kulaginlayup missed
+Q3,7:45,Nigeria,44,37,RD,Al-Farouq Aminu
+Q3,7:59,Russia,44,37,RD,Andrey Vorontsevich
+Q3,7:59,Nigeria,44,37,,Ben Uzohlayup missed
+Q3,8:19,Russia,44,37,FC,Vladimir Ivlev
+Q3,8:19,Nigeria,44,37,FR,Ike Diogu
+Q3,8:20,Russia,44,37,LL_Pts_T,Nikita Kurbanov
+Q3,8:20,Russia,44,37,AS,Andrey Vorontsevich
+Q3,8:20,Russia,44,37,LL_Pts_C,Nikita Kurbanov
+Q3,8:20,Russia,43,37,FR,Nikita Kurbanov
+Q3,8:20,Nigeria,44,37,RD,Ike Diogu
+Q3,8:20,Nigeria,43,37,FC,Al-Farouq Aminu
+Q3,8:33,Nigeria,43,37,ER,Al-Farouq Aminu
+Q3,8:40,Russia,43,37,ER ,
+Q3,9:08,Nigeria,43,37,,Jordan Nwora2pt jump shot made
+Q3,9:20,Russia,43,35,,Andrey Vorontsevich3pt jump shot missed
+Q3,9:20,Nigeria,43,35,RD,Ben Uzoh
+Q3,9:33,Russia,43,35,BR,Vladimir Ivlev
+Q3,9:33,Nigeria,43,35,ER,Josh Okogie
+Q3,9:50,Russia,43,35,AS,Mikhail Kulagin
+Q3,9:50,Russia,43,35,,Vitaly Fridzon3pt jump shot made
+Q4,0:03,Russia,82,77,RD,Vladimir Ivlev
+Q4,0:03,Nigeria,82,77,,Josh Okogie3pt jump shot missed
+Q4,0:06,Russia,82,77,substituicao_entra,Semen Antonov
+Q4,0:06,Russia,82,77,substituicao_sai,Mikhail Kulagin
+Q4,0:06,Russia,82,77,substituicao_entra,Vladimir Ivlev
+Q4,0:06,Russia,82,77,substituicao_sai,Vitaly Fridzon
+Q4,0:06,Russia,82,77,substituicao_entra,Evgenii Baburin
+Q4,0:06,Russia,82,77,substituicao_sai,Sergey Karasev
+Q4,0:06,Russia,82,77,LL_Pts_C,Mikhail Kulagin
+Q4,0:06,Russia,81,77,LL_Pts_C,Mikhail Kulagin
+Q4,0:06,Russia,80,77,FR,Mikhail Kulagin
+Q4,0:06,Nigeria,82,77,tempo_tecnico,
+Q4,0:06,Nigeria,80,77,substituicao_entra,Jordan Nwora
+Q4,0:06,Nigeria,80,77,substituicao_sai,Nnamdi Vincent
+Q4,0:06,Nigeria,80,77,FC,Nnamdi Vincent
+Q4,0:10,Russia,80,77,LL_Pts_T,Sergey Karasev
+Q4,0:10,Russia,80,77,LL_Pts_C,Sergey Karasev
+Q4,0:10,Russia,79,77,FR,Sergey Karasev
+Q4,0:10,Russia,79,77,substituicao_entra,Vitaly Fridzon
+Q4,0:10,Russia,79,77,substituicao_sai,Vladimir Ivlev
+Q4,0:10,Russia,79,77,substituicao_entra,Sergey Karasev
+Q4,0:10,Russia,79,77,substituicao_sai,Evgenii Baburin
+Q4,0:10,Russia,79,75,substituicao_entra,Mikhail Kulagin
+Q4,0:10,Russia,79,75,substituicao_sai,Andrey Vorontsevich
+Q4,0:10,Russia,79,75,FC,Andrey Vorontsevich
+Q4,0:10,Nigeria,79,77,FC_A,Josh Okogie
+Q4,0:10,Nigeria,79,77,substituicao_entra,Chimezie Metu
+Q4,0:10,Nigeria,79,77,substituicao_sai,Jordan Nwora
+Q4,0:10,Nigeria,79,77,LL_Pts_C,Ike Iroegbu
+Q4,0:10,Nigeria,79,76,LL_Pts_C,Ike Iroegbu
+Q4,0:10,Nigeria,79,75,FR,Ike Iroegbu
+Q4,0:13,Russia,79,75,substituicao_entra,Vladimir Ivlev
+Q4,0:13,Russia,79,75,substituicao_sai,Mikhail Kulagin
+Q4,0:13,Russia,79,75,LL_Pts_C,Andrey Vorontsevich
+Q4,0:13,Russia,78,75,LL_Pts_C,Andrey Vorontsevich
+Q4,0:13,Russia,77,75,tempo_tecnico,
+Q4,0:13,Russia,77,75,FR,Andrey Vorontsevich
+Q4,0:13,Russia,77,75,RD,
+Q4,0:13,Nigeria,79,75,tempo_tecnico,
+Q4,0:13,Nigeria,77,75,substituicao_entra,Ike Iroegbu
+Q4,0:13,Nigeria,77,75,substituicao_sai,Ike Diogu
+Q4,0:13,Nigeria,77,75,FC,Al-Farouq Aminu
+Q4,0:13,Nigeria,77,75,,Jordan Nworalayup missed
+Q4,0:31,Russia,77,75,LL_Pts_C,Mikhail Kulagin
+Q4,0:31,Russia,76,75,LL_Pts_C,Mikhail Kulagin
+Q4,0:31,Russia,75,75,substituicao_entra,Evgenii Baburin
+Q4,0:31,Russia,75,75,substituicao_sai,Vitaly Fridzon
+Q4,0:31,Russia,75,75,FR,Mikhail Kulagin
+Q4,0:31,Nigeria,75,75,FC,Josh Okogie
+Q4,0:48,Russia,75,75,BR,Andrey Vorontsevich
+Q4,0:48,Nigeria,75,75,ER,Josh Okogie
+Q4,10:00,Nigeria,0,0,muda_bola,
+Q4,1:04,Russia,75,75,ER,Mikhail Kulagin
+Q4,1:04,Nigeria,75,75,BR,Al-Farouq Aminu
+Q4,1:20,Nigeria,75,75,,Al-Farouq Aminulayup made
+Q4,1:38,Russia,75,73,,Andrey Vorontsevichlayup made
+Q4,1:52,Russia,73,71,FC,Andrey Zubkov
+Q4,1:52,Nigeria,73,73,LL_Pts_C,Al-Farouq Aminu
+Q4,1:52,Nigeria,73,72,LL_Pts_C,Al-Farouq Aminu
+Q4,1:52,Nigeria,73,71,FR,Al-Farouq Aminu
+Q4,2:12,Russia,73,71,,Andrey Zubkovlayup made
+Q4,2:25,Russia,71,71,RD,Mikhail Kulagin
+Q4,2:25,Nigeria,71,71,,Al-Farouq Aminu2pt jump shot missed
+Q4,2:38,Russia,71,71,LL_Pts_T,Nikita Kurbanov
+Q4,2:38,Russia,71,71,LL_Pts_C,Nikita Kurbanov
+Q4,2:38,Russia,70,71,FR,Nikita Kurbanov
+Q4,2:38,Nigeria,71,71,RD,Jordan Nwora
+Q4,2:38,Nigeria,70,71,substituicao_entra,Ike Diogu
+Q4,2:38,Nigeria,70,71,substituicao_sai,Chimezie Metu
+Q4,2:38,Nigeria,70,71,FC,Nnamdi Vincent
+Q4,2:40,Russia,70,71,RD,Nikita Kurbanov
+Q4,2:40,Nigeria,70,71,,Josh Okogielayup missed
+Q4,2:48,Russia,70,71,2_Pts_T,Vitaly Fridzon
+Q4,2:48,Nigeria,70,71,RD,Chimezie Metu
+Q4,2:48,Nigeria,70,71,TO,Josh Okogie
+Q4,2:57,Russia,70,71,RD,Andrey Zubkov
+Q4,2:57,Nigeria,70,71,,Josh Okogie3pt jump shot missed
+Q4,3:19,Russia,70,71,,Mikhail Kulagin3pt jump shot missed
+Q4,3:19,Nigeria,70,71,RD,Al-Farouq Aminu
+Q4,3:29,Russia,70,71,FR,Mikhail Kulagin
+Q4,3:29,Nigeria,70,71,FC,Chimezie Metu
+Q4,3:43,Russia,70,71,FR,Mikhail Kulagin
+Q4,3:43,Nigeria,70,71,FC,Jordan Nwora
+Q4,3:51,Russia,70,71,FR,Mikhail Kulagin
+Q4,3:51,Nigeria,70,71,substituicao_entra,Nnamdi Vincent
+Q4,3:51,Nigeria,70,71,substituicao_sai,Ben Uzoh
+Q4,3:51,Nigeria,70,71,substituicao_entra,Josh Okogie
+Q4,3:51,Nigeria,70,71,substituicao_sai,Ike Iroegbu
+Q4,3:51,Nigeria,70,71,FC_O,Ike Iroegbu
+Q4,4:01,Russia,70,71,FC,Nikita Kurbanov
+Q4,4:01,Nigeria,70,71,FR,Ike Iroegbu
+Q4,4:06,Russia,70,71,,Vitaly Fridzonlayup made
+Q4,4:08,Russia,68,71,BR,Vitaly Fridzon
+Q4,4:08,Nigeria,68,71,ER,Ben Uzoh
+Q4,4:13,Nigeria,68,71,substituicao_entra,Jordan Nwora
+Q4,4:13,Nigeria,68,71,substituicao_sai,Nnamdi Vincent
+Q4,4:13,Nigeria,68,71,substituicao_entra,Chimezie Metu
+Q4,4:13,Nigeria,68,71,substituicao_sai,Josh Okogie
+Q4,4:13,Nigeria,68,71,substituicao_entra,Ben Uzoh
+Q4,4:13,Nigeria,68,71,substituicao_sai,Ike Diogu
+Q4,4:13,Nigeria,68,71,tempo_tecnico,
+Q4,4:15,Russia,68,71,AS,Andrey Zubkov
+Q4,4:15,Russia,68,71,,Andrey Vorontsevich3pt jump shot made
+Q4,4:27,Russia,65,71,RD,Mikhail Kulagin
+Q4,4:27,Nigeria,65,71,,Josh Okogie2pt jump shot missed
+Q4,4:33,Russia,65,71,,Mikhail Kulagin3pt jump shot missed
+Q4,4:33,Nigeria,65,71,RD,Al-Farouq Aminu
+Q4,4:51,Russia,65,71,RD,Nikita Kurbanov
+Q4,4:51,Nigeria,65,71,3_Pts_T,Nnamdi Vincent
+Q4,5:07,Russia,65,71,AS,Vitaly Fridzon
+Q4,5:07,Russia,65,71,,Andrey Vorontsevichlayup made
+Q4,5:14,Russia,63,71,RD,Andrey Zubkov
+Q4,5:14,Nigeria,63,71,,Ike Diogulayup missed
+Q4,5:33,Russia,63,71,FC_O,Andrey Zubkov
+Q4,5:33,Nigeria,63,71,FR,Josh Okogie
+Q4,5:44,Nigeria,63,71,AS,Ike Iroegbu
+Q4,5:44,Nigeria,63,71,,Josh Okogie3pt jump shot made
+Q4,5:59,Russia,63,68,AS,Andrey Vorontsevich
+Q4,5:59,Russia,63,68,,Andrey Zubkov3pt jump shot made
+Q4,6:06,Russia,60,68,RO,Nikita Kurbanov
+Q4,6:06,Russia,60,68,,Vitaly Fridzon2pt jump shot missed
+Q4,6:25,Russia,60,68,FR,Mikhail Kulagin
+Q4,6:25,Nigeria,60,68,FC,Ike Iroegbu
+Q4,6:27,Russia,60,68,substituicao_entra,Andrey Zubkov
+Q4,6:27,Russia,60,68,substituicao_sai,Vladimir Ivlev
+Q4,6:27,Russia,60,68,tempo_tecnico,
+Q4,6:27,Nigeria,60,68,AS,Al-Farouq Aminu
+Q4,6:27,Nigeria,60,68,,Ike Iroegbulayup made
+Q4,6:31,Russia,60,66,ER,Andrey Vorontsevich
+Q4,6:31,Nigeria,60,66,BR,Nnamdi Vincent
+Q4,6:50,Russia,60,66,BR,Vladimir Ivlev
+Q4,6:50,Nigeria,60,66,ER,Al-Farouq Aminu
+Q4,6:57,Russia,60,66,substituicao_entra,Nikita Kurbanov
+Q4,6:57,Russia,60,66,substituicao_sai,Sergey Karasev
+Q4,6:57,Nigeria,60,66,substituicao_entra,Ike Diogu
+Q4,6:57,Nigeria,60,66,substituicao_sai,Jordan Nwora
+Q4,6:57,Nigeria,60,66,RD,
+Q4,6:59,Russia,60,66,,Mikhail Kulagin2pt jump shot missed
+Q4,7:25,Nigeria,60,66,AS,Josh Okogie
+Q4,7:25,Nigeria,60,66,,Nnamdi Vincent3pt jump shot made
+Q4,7:33,Russia,60,63,,Andrey Vorontsevichlayup missed
+Q4,7:33,Nigeria,60,63,RD,Jordan Nwora
+Q4,7:47,Russia,60,62,FC,Vladimir Ivlev
+Q4,7:47,Nigeria,60,63,LL_Pts_C,Josh Okogie
+Q4,7:47,Nigeria,60,62,LL_Pts_T,Josh Okogie
+Q4,7:47,Nigeria,60,62,substituicao_entra,Ike Iroegbu
+Q4,7:47,Nigeria,60,62,substituicao_sai,Ben Uzoh
+Q4,7:47,Nigeria,60,62,substituicao_entra,Al-Farouq Aminu
+Q4,7:47,Nigeria,60,62,substituicao_sai,Chimezie Metu
+Q4,7:47,Nigeria,60,62,FR,Josh Okogie
+Q4,7:49,Nigeria,60,62,RO,
+Q4,7:50,Nigeria,60,62,,Chimezie Metulayup missed
+Q4,8:08,Russia,60,62,substituicao_entra,Vitaly Fridzon
+Q4,8:08,Russia,60,62,substituicao_sai,Evgenii Baburin
+Q4,8:09,Russia,60,62,AS,Evgenii Baburin
+Q4,8:09,Russia,60,62,,Vladimir Ivlevdunk made
+Q4,8:25,Nigeria,58,62,AS,Josh Okogie
+Q4,8:25,Nigeria,58,62,,Chimezie Metulayup made
+Q4,8:38,Russia,58,60,,Mikhail Kulagin2pt jump shot missed
+Q4,8:38,Nigeria,58,60,RD,
+Q4,8:58,Nigeria,58,60,ER ,
+Q4,9:13,Russia,58,60,substituicao_entra,Vladimir Ivlev
+Q4,9:13,Russia,58,60,substituicao_sai,Semen Antonov
+Q4,9:13,Russia,58,60,FC,Andrey Vorontsevich
+Q4,9:13,Nigeria,58,60,FR,Nnamdi Vincent
+Q4,9:25,Russia,58,60,,Evgenii Baburin3pt jump shot missed
+Q4,9:25,Nigeria,58,60,RD,Ben Uzoh
+Q4,9:46,Nigeria,58,60,,Chimezie Metulayup made
+Q4,9:47,Nigeria,0,0,RO,Chimezie Metu
+Q4,9:47,Nigeria,0,0,,Josh Okogielayup missed

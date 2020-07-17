@@ -1,0 +1,621 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,New Zealand,20,21,substituicao_entra,Jordan Ngatai
+Q1,0:00,New Zealand,20,21,substituicao_sai,Shea Ili
+Q1,0:02,New Zealand,20,21,AS,Corey Webster
+Q1,0:02,New Zealand,20,21,,Alex Pledgerlayup made
+Q1,0:10,New Zealand,18,21,RD,Isaac Fotu
+Q1,0:10,Brazil,18,21,,Leandrinho Barbosa3pt jump shot missed
+Q1,0:10,Brazil,18,21,substituicao_entra,Leandrinho Barbosa
+Q1,0:10,Brazil,18,21,substituicao_sai,Didi Louzada
+Q1,0:23,Brazil,18,21,RO,Cristiano Felicio
+Q1,0:23,Brazil,18,21,,Cristiano Felicio2pt jump shot missed
+Q1,0:26,New Zealand,18,21,substituicao_entra,Isaac Fotu
+Q1,0:26,New Zealand,18,21,substituicao_sai,Finn Delany
+Q1,0:26,New Zealand,18,21,substituicao_entra,Corey Webster
+Q1,0:26,New Zealand,18,21,substituicao_sai,Tai Webster
+Q1,0:47,New Zealand,18,21,ER,Ethan Rusbatch
+Q1,0:56,Brazil,18,21,LL_Pts_C,Yago Mateus
+Q1,0:58,New Zealand,18,20,FC,Tai Webster
+Q1,0:58,Brazil,18,20,FR,Yago Mateus
+Q1,0:58,Brazil,18,20,,Yago Mateuslayup made
+Q1,10:00,Brazil,0,0,inicio_quarto,Bruno Caboclo
+Q1,1:05,New Zealand,18,18,ER,Tai Webster
+Q1,1:05,Brazil,18,18,BR,Didi Louzada
+Q1,1:24,Brazil,18,18,2_Pts_C,Marquinhos Sousa
+Q1,1:42,New Zealand,18,16,,Shea Ili3pt jump shot missed
+Q1,1:42,Brazil,18,16,RD,Didi Louzada
+Q1,1:51,New Zealand,18,16,RD,Finn Delany
+Q1,1:51,Brazil,18,16,,Yago Mateus3pt jump shot missed
+Q1,2:12,New Zealand,18,16,AS,Tai Webster
+Q1,2:12,New Zealand,18,16,,Ethan Rusbatch3pt jump shot made
+Q1,2:20,New Zealand,15,16,RD,Finn Delany
+Q1,2:20,Brazil,15,16,,Vítor Benite2pt jump shot missed
+Q1,2:37,New Zealand,15,16,LL_Pts_C,Shea Ili
+Q1,2:37,New Zealand,14,16,LL_Pts_C,Shea Ili
+Q1,2:37,New Zealand,13,16,FR,Shea Ili
+Q1,2:37,Brazil,13,16,FC,Yago Mateus
+Q1,2:41,New Zealand,13,14,FC,Shea Ili
+Q1,2:41,Brazil,13,16,substituicao_entra,Yago Mateus
+Q1,2:41,Brazil,13,16,substituicao_sai,Marcelinho Huertas
+Q1,2:41,Brazil,13,16,LL_Pts_C,Marcelinho Huertas
+Q1,2:41,Brazil,13,15,AS,Cristiano Felicio
+Q1,2:41,Brazil,13,15,LL_Pts_C,Marcelinho Huertas
+Q1,2:41,Brazil,13,14,FR,Marcelinho Huertas
+Q1,2:47,Brazil,13,14,RO,Didi Louzada
+Q1,2:47,Brazil,13,14,,Marquinhos Sousa3pt jump shot missed
+Q1,3:09,New Zealand,13,14,2_Pts_C,Corey Webster
+Q1,3:22,New Zealand,11,14,RD,Alex Pledger
+Q1,3:22,Brazil,11,14,3_Pts_T,Vítor Benite
+Q1,3:22,Brazil,11,14,substituicao_entra,Vítor Benite
+Q1,3:22,Brazil,11,14,substituicao_sai,Anderson Varejao
+Q1,3:22,Brazil,11,14,substituicao_entra,Cristiano Felicio
+Q1,3:22,Brazil,11,14,substituicao_sai,Rafa Luz
+Q1,3:38,New Zealand,11,14,3_Pts_T,Finn Delany
+Q1,3:48,New Zealand,11,14,RD,Finn Delany
+Q1,3:48,Brazil,11,14,,Marcelinho Huertas3pt jump shot missed
+Q1,3:49,New Zealand,11,14,substituicao_entra,Alex Pledger
+Q1,3:49,New Zealand,11,14,substituicao_sai,Rob Loe
+Q1,3:49,New Zealand,11,14,substituicao_entra,Ethan Rusbatch
+Q1,3:49,New Zealand,11,14,substituicao_sai,Tom Abercrombie
+Q1,4:07,New Zealand,11,14,ER,Finn Delany
+Q1,4:07,Brazil,11,14,BR,Didi Louzada
+Q1,4:21,Brazil,11,14,AS,Marcelinho Huertas
+Q1,4:21,Brazil,11,14,,Didi Louzada3pt jump shot made
+Q1,4:23,New Zealand,11,11,FC,Rob Loe
+Q1,4:23,Brazil,11,11,FR,Anderson Varejao
+Q1,4:51,New Zealand,11,11,AS,Shea Ili
+Q1,4:51,New Zealand,11,11,,Rob Loe2pt jump shot made
+Q1,4:58,New Zealand,9,11,RD,Shea Ili
+Q1,4:58,Brazil,9,11,3_Pts_T,Rafa Luz
+Q1,5:23,New Zealand,9,11,2_Pts_C,Shea Ili
+Q1,5:31,New Zealand,7,11,RD,Rob Loe
+Q1,5:31,Brazil,7,11,,Didi Louzada3pt jump shot missed
+Q1,5:56,New Zealand,7,11,,Tom Abercrombie3pt jump shot missed
+Q1,5:56,Brazil,7,11,RD,Anderson Varejao
+Q1,6:07,New Zealand,7,11,substituicao_entra,Shea Ili
+Q1,6:07,New Zealand,7,11,substituicao_sai,Isaac Fotu
+Q1,6:07,New Zealand,7,11,substituicao_entra,Finn Delany
+Q1,6:07,New Zealand,7,11,substituicao_sai,Tai Webster
+Q1,6:07,New Zealand,7,11,FR,Tom Abercrombie
+Q1,6:07,New Zealand,7,11,RO,Tom Abercrombie
+Q1,6:07,Brazil,7,11,substituicao_entra,Marquinhos Sousa
+Q1,6:07,Brazil,7,11,substituicao_sai,Bruno Caboclo
+Q1,6:07,Brazil,7,11,FC,Bruno Caboclo
+Q1,6:09,New Zealand,7,11,,Tai Webster3pt jump shot missed
+Q1,6:15,New Zealand,7,11,RD,Tom Abercrombie
+Q1,6:15,Brazil,7,11,,Marcelinho Huertas2pt jump shot missed
+Q1,6:24,New Zealand,7,11,,Corey Websterlayup missed
+Q1,6:24,Brazil,7,11,RD,Anderson Varejao
+Q1,6:33,Brazil,7,11,AS,Marcelinho Huertas
+Q1,6:33,Brazil,7,11,,Rafa Luzlayup made
+Q1,6:43,New Zealand,7,9,LL_Pts_T,Isaac Fotu
+Q1,6:43,Brazil,7,9,RD,Anderson Varejao
+Q1,6:44,New Zealand,7,9,FR,Isaac Fotu
+Q1,6:44,New Zealand,7,9,AS,Corey Webster
+Q1,6:44,New Zealand,7,9,,Isaac Fotulayup made
+Q1,6:44,Brazil,7,9,FC,Anderson Varejao
+Q1,6:50,Brazil,5,9,AS,Marcelinho Huertas
+Q1,6:50,Brazil,5,9,,Anderson Varejaolayup made
+Q1,7:04,New Zealand,5,7,2_Pts_T,Tai Webster
+Q1,7:04,Brazil,5,7,RD,Marcelinho Huertas
+Q1,7:16,New Zealand,5,7,FR,Isaac Fotu
+Q1,7:16,Brazil,5,7,FC_O,Bruno Caboclo
+Q1,7:29,New Zealand,5,7,,Isaac Fotutip in made
+Q1,7:29,New Zealand,3,7,RO,Isaac Fotu
+Q1,7:31,New Zealand,3,7,,Corey Webster3pt jump shot missed
+Q1,7:42,New Zealand,3,6,FC,Tai Webster
+Q1,7:42,Brazil,3,7,AS,Marcelinho Huertas
+Q1,7:42,Brazil,3,7,LL_Pts_C,Anderson Varejao
+Q1,7:42,Brazil,3,6,LL_Pts_T,Anderson Varejao
+Q1,7:42,Brazil,3,6,FR,Anderson Varejao
+Q1,7:59,New Zealand,3,6,,Tom Abercrombie3pt jump shot missed
+Q1,7:59,Brazil,3,6,RD,Anderson Varejao
+Q1,8:11,New Zealand,3,6,RD,Tai Webster
+Q1,8:11,Brazil,3,6,,Didi Louzada2pt jump shot missed
+Q1,8:28,New Zealand,3,6,AS,Rob Loe
+Q1,8:28,New Zealand,3,6,,Tai Webster3pt jump shot made
+Q1,8:36,New Zealand,0,6,RO,Rob Loe
+Q1,8:36,New Zealand,0,6,2_Pts_T,Corey Webster
+Q1,8:54,Brazil,0,6,,Rafa Luz3pt jump shot made
+Q1,9:07,New Zealand,0,3,ER,Tai Webster
+Q1,9:07,Brazil,0,3,BR,Bruno Caboclo
+Q1,9:11,New Zealand,0,3,FR,Corey Webster
+Q1,9:11,Brazil,0,3,FC,Rafa Luz
+Q1,9:18,Brazil,0,3,AS,Rafa Luz
+Q1,9:18,Brazil,0,3,,Didi Louzada3pt jump shot made
+Q1,9:32,New Zealand,0,0,2_Pts_T,Tai Webster
+Q1,9:32,Brazil,0,0,RD,Didi Louzada
+Q1,9:43,New Zealand,0,0,RD,Tai Webster
+Q1,9:43,Brazil,0,0,2_Pts_T,Anderson Varejao
+Q2,0:00,New Zealand,50,50,ER,Finn Delany
+Q2,0:00,Brazil,50,50,BR,Didi Louzada
+Q2,0:01,New Zealand,50,49,FC,Ethan Rusbatch
+Q2,0:01,Brazil,50,50,LL_Pts_T,Rafa Luz
+Q2,0:01,Brazil,50,49,substituicao_entra,Augusto Lima
+Q2,0:01,Brazil,50,49,substituicao_sai,Bruno Caboclo
+Q2,0:01,Brazil,50,49,substituicao_entra,Marquinhos Sousa
+Q2,0:01,Brazil,50,49,substituicao_sai,Vítor Benite
+Q2,0:01,Brazil,50,49,FR,Rafa Luz
+Q2,0:01,Brazil,50,49,,Rafa Luzlayup made
+Q2,0:03,Brazil,50,47,RO,Rafa Luz
+Q2,0:04,Brazil,50,47,2_Pts_T,Leandrinho Barbosa
+Q2,0:20,New Zealand,50,47,substituicao_entra,Finn Delany
+Q2,0:20,New Zealand,50,47,substituicao_sai,Isaac Fotu
+Q2,0:20,New Zealand,50,47,LL_Pts_C,Isaac Fotu
+Q2,0:20,New Zealand,49,47,LL_Pts_C,Isaac Fotu
+Q2,0:20,New Zealand,48,47,substituicao_entra,Tom Abercrombie
+Q2,0:20,New Zealand,48,47,substituicao_sai,Corey Webster
+Q2,0:20,New Zealand,48,47,FR,Isaac Fotu
+Q2,0:20,Brazil,48,47,substituicao_entra,Vítor Benite
+Q2,0:20,Brazil,48,47,substituicao_sai,Augusto Lima
+Q2,0:20,Brazil,48,47,tempo_tecnico,
+Q2,0:20,Brazil,48,47,FC,Bruno Caboclo
+Q2,0:21,New Zealand,48,47,RO,Isaac Fotu
+Q2,0:21,New Zealand,48,47,3_Pts_T,Corey Webster
+Q2,0:32,New Zealand,48,45,FC,Corey Webster
+Q2,0:32,Brazil,48,47,LL_Pts_C,Didi Louzada
+Q2,0:32,Brazil,48,46,LL_Pts_C,Didi Louzada
+Q2,0:32,Brazil,48,45,FR,Didi Louzada
+Q2,0:49,New Zealand,48,45,AS,Shea Ili
+Q2,0:49,New Zealand,48,45,,Corey Webster3pt jump shot made
+Q2,0:55,New Zealand,45,45,FR,Rob Loe
+Q2,0:55,New Zealand,45,45,RO,
+Q2,0:55,Brazil,45,45,FC,Augusto Lima
+Q2,0:56,New Zealand,45,45,,Corey Webster3pt jump shot missed
+Q2,10:00,New Zealand,0,0,muda_bola,
+Q2,1:15,Brazil,45,45,AS,Didi Louzada
+Q2,1:15,Brazil,45,45,,Bruno Caboclo3pt jump shot made
+Q2,1:38,New Zealand,45,42,3_Pts_C,Corey Webster
+Q2,1:59,New Zealand,42,42,substituicao_entra,Isaac Fotu
+Q2,1:59,New Zealand,42,42,substituicao_sai,Finn Delany
+Q2,1:59,Brazil,42,42,ER,Rafa Luz
+Q2,2:07,New Zealand,42,42,,Ethan Rusbatch3pt jump shot missed
+Q2,2:07,Brazil,42,42,RD,Leandrinho Barbosa
+Q2,2:16,New Zealand,42,42,RD,Ethan Rusbatch
+Q2,2:16,Brazil,42,42,2_Pts_T,Leandrinho Barbosa
+Q2,2:33,New Zealand,42,42,3_Pts_T,Rob Loe
+Q2,2:33,Brazil,42,42,RD,Bruno Caboclo
+Q2,2:45,New Zealand,42,39,substituicao_entra,Ethan Rusbatch
+Q2,2:45,New Zealand,42,39,substituicao_sai,Tom Abercrombie
+Q2,2:45,New Zealand,42,39,substituicao_entra,Shea Ili
+Q2,2:45,New Zealand,42,39,substituicao_sai,Tai Webster
+Q2,2:45,New Zealand,42,39,FC,Finn Delany
+Q2,2:45,Brazil,42,42,LL_Pts_C,Leandrinho Barbosa
+Q2,2:45,Brazil,42,41,LL_Pts_C,Leandrinho Barbosa
+Q2,2:45,Brazil,42,40,AS,Rafa Luz
+Q2,2:45,Brazil,42,40,LL_Pts_C,Leandrinho Barbosa
+Q2,2:45,Brazil,42,39,substituicao_entra,Didi Louzada
+Q2,2:45,Brazil,42,39,substituicao_sai,Vítor Benite
+Q2,2:45,Brazil,42,39,substituicao_entra,Augusto Lima
+Q2,2:45,Brazil,42,39,substituicao_sai,Cristiano Felicio
+Q2,2:45,Brazil,42,39,tempo_tecnico,
+Q2,2:45,Brazil,42,39,FR,Leandrinho Barbosa
+Q2,2:53,New Zealand,42,39,,Corey Webster3pt jump shot missed
+Q2,2:53,Brazil,42,39,RD,Rafa Luz
+Q2,3:09,New Zealand,42,39,RD,Corey Webster
+Q2,3:09,Brazil,42,39,3_Pts_T,Leandrinho Barbosa
+Q2,3:27,New Zealand,42,39,AS,Rob Loe
+Q2,3:27,New Zealand,42,39,,Corey Webster3pt jump shot made
+Q2,3:38,New Zealand,39,39,RD,Rob Loe
+Q2,3:39,Brazil,39,39,,Cristiano Felicio2pt jump shot missed
+Q2,3:40,Brazil,39,39,RO,Cristiano Felicio
+Q2,3:42,Brazil,39,39,,Bruno Caboclo3pt jump shot missed
+Q2,3:56,New Zealand,39,39,,Rob Loe3pt jump shot missed
+Q2,3:56,Brazil,39,39,RD,Vítor Benite
+Q2,4:06,Brazil,39,39,AS,Leandrinho Barbosa
+Q2,4:06,Brazil,39,39,,Bruno Caboclo3pt jump shot made
+Q2,4:23,New Zealand,39,36,LL_Pts_C,Tai Webster
+Q2,4:23,New Zealand,38,36,LL_Pts_C,Tai Webster
+Q2,4:23,New Zealand,37,36,substituicao_entra,Corey Webster
+Q2,4:23,New Zealand,37,36,substituicao_sai,Shea Ili
+Q2,4:23,New Zealand,37,36,FR,Tai Webster
+Q2,4:23,Brazil,37,36,FC,Rafa Luz
+Q2,4:35,Brazil,37,36,2_Pts_C,Leandrinho Barbosa
+Q2,4:55,New Zealand,37,34,,Tom Abercrombie2pt jump shot missed
+Q2,4:55,Brazil,37,34,RD,Cristiano Felicio
+Q2,5:02,New Zealand,37,34,BR,Shea Ili
+Q2,5:02,Brazil,37,34,ER,Rafa Luz
+Q2,5:20,New Zealand,37,34,,Shea Ili3pt jump shot made
+Q2,5:29,New Zealand,34,34,RD,Tai Webster
+Q2,5:29,Brazil,34,34,,Rafa Luz3pt jump shot missed
+Q2,5:38,New Zealand,34,34,FC,Finn Delany
+Q2,5:38,Brazil,34,34,substituicao_entra,Bruno Caboclo
+Q2,5:38,Brazil,34,34,substituicao_sai,Marquinhos Sousa
+Q2,5:38,Brazil,34,34,FR,Leandrinho Barbosa
+Q2,5:46,New Zealand,34,34,,Tom Abercrombie3pt jump shot missed
+Q2,5:46,Brazil,34,34,RD,Leandrinho Barbosa
+Q2,5:58,Brazil,34,34,AS,Cristiano Felicio
+Q2,5:58,Brazil,34,34,2_Pts_C,Marquinhos Sousa
+Q2,6:04,New Zealand,34,32,2_Pts_T,Tom Abercrombie
+Q2,6:04,Brazil,34,32,RD,Cristiano Felicio
+Q2,6:18,New Zealand,34,32,substituicao_entra,Tai Webster
+Q2,6:18,New Zealand,34,32,substituicao_sai,Corey Webster
+Q2,6:18,New Zealand,34,32,FR,Shea Ili
+Q2,6:18,Brazil,34,32,substituicao_entra,Rafa Luz
+Q2,6:18,Brazil,34,32,substituicao_sai,Yago Mateus
+Q2,6:18,Brazil,34,32,FC,Vítor Benite
+Q2,6:26,Brazil,34,32,,Vítor Benite3pt jump shot made
+Q2,6:39,New Zealand,34,29,AS,Shea Ili
+Q2,6:39,New Zealand,34,29,,Corey Webster3pt jump shot made
+Q2,6:53,Brazil,31,29,2_Pts_C,Cristiano Felicio
+Q2,6:53,Brazil,31,27,RO,Cristiano Felicio
+Q2,6:54,Brazil,31,27,2_Pts_T,Leandrinho Barbosa
+Q2,6:58,Brazil,31,27,AS,Leandrinho Barbosa
+Q2,7:11,New Zealand,31,27,AS,Shea Ili
+Q2,7:11,New Zealand,31,27,3_Pts_C,Corey Webster
+Q2,7:14,New Zealand,28,27,substituicao_entra,Rob Loe
+Q2,7:14,New Zealand,28,27,substituicao_sai,Isaac Fotu
+Q2,7:14,New Zealand,28,27,substituicao_entra,Finn Delany
+Q2,7:14,New Zealand,28,27,substituicao_sai,Tohi Smith-Milner
+Q2,7:21,Brazil,28,27,2_Pts_C,Leandrinho Barbosa
+Q2,7:30,New Zealand,28,25,,Corey Webster3pt jump shot missed
+Q2,7:30,Brazil,28,25,RD,Marquinhos Sousa
+Q2,7:38,New Zealand,28,25,RD,Tom Abercrombie
+Q2,7:38,New Zealand,28,25,TO,Shea Ili
+Q2,7:38,Brazil,28,25,2_Pts_T,Vítor Benite
+Q2,7:49,New Zealand,28,25,substituicao_entra,Shea Ili
+Q2,7:49,New Zealand,28,25,substituicao_sai,Ethan Rusbatch
+Q2,8:02,New Zealand,28,25,AS,Tom Abercrombie
+Q2,8:02,New Zealand,28,25,,Ethan Rusbatch3pt jump shot made
+Q2,8:13,Brazil,25,25,,Cristiano Feliciolayup made
+Q2,8:15,Brazil,25,23,RO,Cristiano Felicio
+Q2,8:15,Brazil,25,23,2_Pts_T,Yago Mateus
+Q2,8:34,New Zealand,25,23,AS,Corey Webster
+Q2,8:34,New Zealand,25,23,,Tohi Smith-Milner3pt jump shot made
+Q2,8:49,New Zealand,22,23,tempo_tecnico,
+Q2,8:49,New Zealand,22,21,FC,Ethan Rusbatch
+Q2,8:49,Brazil,22,23,LL_Pts_C,Vítor Benite
+Q2,8:49,Brazil,22,22,LL_Pts_C,Vítor Benite
+Q2,8:49,Brazil,22,21,FR,Vítor Benite
+Q2,8:57,New Zealand,22,21,,Corey Webster2pt jump shot missed
+Q2,8:57,Brazil,22,21,RD,Cristiano Felicio
+Q2,9:07,New Zealand,22,21,substituicao_entra,Tom Abercrombie
+Q2,9:07,New Zealand,22,21,substituicao_sai,Jordan Ngatai
+Q2,9:07,Brazil,22,21,ER,Yago Mateus
+Q2,9:19,New Zealand,22,21,FC_O,Jordan Ngatai
+Q2,9:19,Brazil,22,21,FR,Cristiano Felicio
+Q2,9:28,New Zealand,22,21,FR,Tohi Smith-Milner
+Q2,9:28,Brazil,22,21,FC_O,Cristiano Felicio
+Q2,9:47,New Zealand,22,21,2_Pts_C,Isaac Fotu
+Q3,0:00,New Zealand,62,78,3_Pts_T,Isaac Fotu
+Q3,0:08,Brazil,62,78,2_Pts_C,Leandrinho Barbosa
+Q3,0:31,New Zealand,62,76,,Ethan Rusbatch3pt jump shot missed
+Q3,0:31,Brazil,62,76,RD,Alex Garcia
+Q3,0:41,Brazil,62,76,2_Pts_C,Alex Garcia
+Q3,0:49,New Zealand,62,74,FC_O,Isaac Fotu
+Q3,0:49,Brazil,62,74,FR,Rafa Luz
+Q3,10:00,Brazil,0,0,muda_bola,
+Q3,1:05,Brazil,62,74,AS,Rafa Luz
+Q3,1:05,Brazil,62,74,,Marquinhos Sousa3pt jump shot made
+Q3,1:07,New Zealand,62,71,FC,Isaac Fotu
+Q3,1:07,Brazil,62,71,FR,Cristiano Felicio
+Q3,1:08,Brazil,62,71,RO,
+Q3,1:08,Brazil,62,71,,Rafa Luz3pt jump shot missed
+Q3,1:31,New Zealand,62,71,AS,Corey Webster
+Q3,1:31,New Zealand,62,71,2_Pts_C,Isaac Fotu
+Q3,1:46,New Zealand,60,71,substituicao_entra,Isaac Fotu
+Q3,1:46,New Zealand,60,71,substituicao_sai,Alex Pledger
+Q3,1:46,New Zealand,60,71,substituicao_entra,Tohi Smith-Milner
+Q3,1:46,New Zealand,60,71,substituicao_sai,Finn Delany
+Q3,1:46,Brazil,60,71,substituicao_entra,Cristiano Felicio
+Q3,1:46,Brazil,60,71,substituicao_sai,Anderson Varejao
+Q3,1:49,Brazil,60,71,AS,Anderson Varejao
+Q3,1:49,Brazil,60,71,,Rafa Luz3pt jump shot made
+Q3,2:02,New Zealand,60,68,,Shea Ili3pt jump shot missed
+Q3,2:02,Brazil,60,68,RD,Leandrinho Barbosa
+Q3,2:11,Brazil,60,68,AS,Alex Garcia
+Q3,2:11,Brazil,60,68,2_Pts_C,Rafa Luz
+Q3,2:19,New Zealand,60,66,,Ethan Rusbatch3pt jump shot missed
+Q3,2:19,Brazil,60,66,RD,Alex Garcia
+Q3,2:27,New Zealand,60,66,RD,Alex Pledger
+Q3,2:27,Brazil,60,66,,Alex Garcia3pt jump shot missed
+Q3,2:50,New Zealand,60,66,AS,Corey Webster
+Q3,2:50,New Zealand,60,66,,Alex Pledgerdunk made
+Q3,2:58,Brazil,58,66,AS,Rafa Luz
+Q3,2:58,Brazil,58,66,,Alex Garcia3pt jump shot made
+Q3,3:06,New Zealand,58,63,2_Pts_T,Corey Webster
+Q3,3:06,Brazil,58,63,RD,Anderson Varejao
+Q3,3:12,New Zealand,58,63,FR,Shea Ili
+Q3,3:12,Brazil,58,63,FC,Marquinhos Sousa
+Q3,3:28,New Zealand,58,63,tempo_tecnico,
+Q3,3:31,Brazil,58,63,,Leandrinho Barbosa3pt jump shot made
+Q3,3:40,New Zealand,58,60,LL_Pts_T,Shea Ili
+Q3,3:40,New Zealand,58,60,LL_Pts_T,Shea Ili
+Q3,3:40,New Zealand,58,60,substituicao_entra,Alex Pledger
+Q3,3:40,New Zealand,58,60,substituicao_sai,Rob Loe
+Q3,3:40,New Zealand,58,60,substituicao_entra,Ethan Rusbatch
+Q3,3:40,New Zealand,58,60,substituicao_sai,Tom Abercrombie
+Q3,3:40,New Zealand,58,60,substituicao_entra,Corey Webster
+Q3,3:40,New Zealand,58,60,substituicao_sai,Tai Webster
+Q3,3:40,New Zealand,58,60,FR,Shea Ili
+Q3,3:40,Brazil,58,60,RD,Anderson Varejao
+Q3,3:40,Brazil,58,60,FC,Alex Garcia
+Q3,3:43,New Zealand,58,60,RD,Tai Webster
+Q3,3:48,Brazil,58,60,,Marquinhos Sousa3pt jump shot made
+Q3,4:00,New Zealand,58,57,,Rob Loe3pt jump shot missed
+Q3,4:00,Brazil,58,57,RD,Rafa Luz
+Q3,4:23,Brazil,58,57,AS,Rafa Luz
+Q3,4:23,Brazil,58,57,2_Pts_C,Alex Garcia
+Q3,4:39,New Zealand,58,55,LL_Pts_T,Rob Loe
+Q3,4:39,New Zealand,58,55,AS,Tai Webster
+Q3,4:39,New Zealand,58,55,LL_Pts_C,Rob Loe
+Q3,4:39,New Zealand,57,55,FR,Rob Loe
+Q3,4:39,Brazil,58,55,RD,Anderson Varejao
+Q3,4:39,Brazil,57,55,substituicao_entra,Leandrinho Barbosa
+Q3,4:39,Brazil,57,55,substituicao_sai,Didi Louzada
+Q3,4:39,Brazil,57,55,substituicao_entra,Rafa Luz
+Q3,4:39,Brazil,57,55,substituicao_sai,Marcelinho Huertas
+Q3,4:39,Brazil,57,55,FC,Marquinhos Sousa
+Q3,4:43,New Zealand,57,55,RD,Tai Webster
+Q3,4:45,New Zealand,57,55,TO,Shea Ili
+Q3,4:45,Brazil,57,55,2_Pts_T,Marcelinho Huertas
+Q3,4:57,New Zealand,57,55,LL_Pts_C,Tai Webster
+Q3,4:57,New Zealand,56,55,LL_Pts_T,Tai Webster
+Q3,4:57,New Zealand,56,55,substituicao_entra,Finn Delany
+Q3,4:57,New Zealand,56,55,substituicao_sai,Isaac Fotu
+Q3,4:57,New Zealand,56,55,substituicao_entra,Shea Ili
+Q3,4:57,New Zealand,56,55,substituicao_sai,Corey Webster
+Q3,4:57,New Zealand,56,55,FR,Tai Webster
+Q3,4:57,Brazil,56,55,substituicao_entra,Marquinhos Sousa
+Q3,4:57,Brazil,56,55,substituicao_sai,Bruno Caboclo
+Q3,4:57,Brazil,56,55,FC,Bruno Caboclo
+Q3,5:10,Brazil,56,55,3_Pts_C,Alex Garcia
+Q3,5:31,New Zealand,56,52,,Rob Loe3pt jump shot missed
+Q3,5:31,Brazil,56,52,RD,Anderson Varejao
+Q3,5:46,Brazil,56,52,AS,Marcelinho Huertas
+Q3,5:46,Brazil,56,52,2_Pts_C,Alex Garcia
+Q3,5:50,Brazil,56,50,RD,Anderson Varejao
+Q3,5:51,New Zealand,56,50,,Rob Loetip in missed
+Q3,5:51,New Zealand,56,50,RO,Rob Loe
+Q3,5:51,New Zealand,56,50,2_Pts_T,Tai Webster
+Q3,6:08,New Zealand,56,50,RD,Rob Loe
+Q3,6:08,Brazil,56,50,2_Pts_T,Anderson Varejao
+Q3,6:28,New Zealand,56,50,,Tai Websterlayup made
+Q3,6:39,New Zealand,54,50,RO,Isaac Fotu
+Q3,6:39,New Zealand,54,50,2_Pts_T,Isaac Fotu
+Q3,6:49,New Zealand,54,50,RO,Isaac Fotu
+Q3,6:49,New Zealand,54,50,,Rob Loe2pt jump shot missed
+Q3,6:57,New Zealand,54,50,RO,Rob Loe
+Q3,6:57,New Zealand,54,50,2_Pts_T,Isaac Fotu
+Q3,6:57,Brazil,54,50,TO,Bruno Caboclo
+Q3,7:11,New Zealand,54,50,RD,Rob Loe
+Q3,7:11,New Zealand,54,50,TO,Tom Abercrombie
+Q3,7:11,Brazil,54,50,2_Pts_T,Alex Garcia
+Q3,7:21,New Zealand,54,50,ER,Tai Webster
+Q3,7:33,New Zealand,54,50,RD,Corey Webster
+Q3,7:33,Brazil,54,50,,Didi Louzadaalley oop missed
+Q3,7:42,New Zealand,54,50,2_Pts_C,Tai Webster
+Q3,7:50,New Zealand,52,50,RD,Tom Abercrombie
+Q3,7:50,Brazil,52,50,2_Pts_T,Marcelinho Huertas
+Q3,7:57,New Zealand,52,50,FC,Tom Abercrombie
+Q3,7:57,Brazil,52,50,FR,Bruno Caboclo
+Q3,7:57,Brazil,52,50,RO,
+Q3,7:57,Brazil,52,50,,Marcelinho Huertas3pt jump shot missed
+Q3,8:07,New Zealand,52,50,,Corey Webster2pt jump shot missed
+Q3,8:07,Brazil,52,50,RD,Didi Louzada
+Q3,8:19,New Zealand,52,50,BR,Rob Loe
+Q3,8:19,Brazil,52,50,ER,Alex Garcia
+Q3,8:21,Brazil,52,50,RO,Alex Garcia
+Q3,8:23,Brazil,52,50,2_Pts_T,Alex Garcia
+Q3,8:41,New Zealand,52,50,ER,Tai Webster
+Q3,8:41,Brazil,52,50,BR,Alex Garcia
+Q3,8:48,New Zealand,52,50,RD,Tai Webster
+Q3,8:48,Brazil,52,50,,Bruno Caboclo2pt jump shot missed
+Q3,8:50,New Zealand,52,50,FC,Rob Loe
+Q3,8:50,Brazil,52,50,FR,Anderson Varejao
+Q3,8:52,Brazil,52,50,RO,
+Q3,8:52,Brazil,52,50,,Didi Louzada3pt jump shot missed
+Q3,9:08,New Zealand,52,50,ER,Tom Abercrombie
+Q3,9:21,New Zealand,52,50,RD,
+Q3,9:21,New Zealand,52,50,TO,Rob Loe
+Q3,9:21,Brazil,52,50,2_Pts_T,Bruno Caboclo
+Q3,9:32,New Zealand,52,50,2_Pts_C,Isaac Fotu
+Q3,9:45,New Zealand,0,0,RD,Tom Abercrombie
+Q3,9:45,Brazil,0,0,,Bruno Caboclo3pt jump shot missed
+Q4,0:06,New Zealand,94,101,FC,Tom Abercrombie
+Q4,0:06,Brazil,94,102,LL_Pts_C,Bruno Caboclo
+Q4,0:06,Brazil,94,101,LL_Pts_T,Bruno Caboclo
+Q4,0:06,Brazil,94,101,FR,Bruno Caboclo
+Q4,0:08,New Zealand,94,100,FC_A,Rob Loe
+Q4,0:08,Brazil,94,101,tempo_tecnico,
+Q4,0:08,Brazil,94,101,LL_Pts_T,Didi Louzada
+Q4,0:08,Brazil,94,101,LL_Pts_C,Didi Louzada
+Q4,0:08,Brazil,94,100,FR,Didi Louzada
+Q4,0:14,New Zealand,94,100,,Tom Abercrombielayup made
+Q4,0:17,New Zealand,92,100,BR,Tom Abercrombie
+Q4,0:18,Brazil,92,100,ER,Leandrinho Barbosa
+Q4,0:28,New Zealand,92,100,ER,Tom Abercrombie
+Q4,0:28,Brazil,92,100,BR,Didi Louzada
+Q4,0:29,New Zealand,92,100,tempo_tecnico,
+Q4,0:29,New Zealand,92,98,FC,Tom Abercrombie
+Q4,0:29,Brazil,92,100,LL_Pts_C,Leandrinho Barbosa
+Q4,0:29,Brazil,92,99,LL_Pts_C,Leandrinho Barbosa
+Q4,0:29,Brazil,92,98,FR,Leandrinho Barbosa
+Q4,0:32,New Zealand,92,98,LL_Pts_T,Tom Abercrombie
+Q4,0:32,New Zealand,91,98,FR,Tom Abercrombie
+Q4,0:32,New Zealand,91,98,,Tom Abercrombietip in made
+Q4,0:32,New Zealand,89,98,RO,Tom Abercrombie
+Q4,0:32,Brazil,91,98,substituicao_entra,Leandrinho Barbosa
+Q4,0:32,Brazil,91,98,substituicao_sai,Vítor Benite
+Q4,0:32,Brazil,91,98,FC,Vítor Benite
+Q4,0:33,New Zealand,89,98,2_Pts_T,Finn Delany
+Q4,0:35,Brazil,89,98,ER,Alex Garcia
+Q4,0:38,New Zealand,89,97,FC_T,Shea Ili
+Q4,0:38,Brazil,89,98,LL_Pts_C,Vítor Benite
+Q4,0:41,New Zealand,89,97,LL_Pts_C,Rob Loe
+Q4,0:41,New Zealand,88,97,LL_Pts_C,Rob Loe
+Q4,0:41,New Zealand,87,97,FR,Rob Loe
+Q4,0:41,Brazil,87,97,FC,Didi Louzada
+Q4,0:43,New Zealand,87,97,RO,Rob Loe
+Q4,0:43,New Zealand,87,97,3_Pts_T,Corey Webster
+Q4,0:48,New Zealand,87,95,substituicao_entra,Corey Webster
+Q4,0:48,New Zealand,87,95,substituicao_sai,Tai Webster
+Q4,0:48,New Zealand,87,95,FC,Tai Webster
+Q4,0:48,Brazil,87,97,LL_Pts_C,Alex Garcia
+Q4,0:48,Brazil,87,96,LL_Pts_C,Alex Garcia
+Q4,0:48,Brazil,87,95,FR,Alex Garcia
+Q4,0:50,New Zealand,87,95,substituicao_entra,Finn Delany
+Q4,0:50,New Zealand,87,95,substituicao_sai,Isaac Fotu
+Q4,0:50,New Zealand,87,95,LL_Pts_C,Isaac Fotu
+Q4,0:50,New Zealand,86,95,LL_Pts_C,Isaac Fotu
+Q4,0:50,New Zealand,85,95,substituicao_entra,Tom Abercrombie
+Q4,0:50,New Zealand,85,95,substituicao_sai,Ethan Rusbatch
+Q4,0:50,New Zealand,85,95,substituicao_entra,Shea Ili
+Q4,0:50,New Zealand,85,95,substituicao_sai,Corey Webster
+Q4,0:50,New Zealand,85,95,FR,Isaac Fotu
+Q4,0:50,New Zealand,85,95,RD,
+Q4,0:50,Brazil,87,95,substituicao_entra,Vítor Benite
+Q4,0:50,Brazil,87,95,substituicao_sai,Cristiano Felicio
+Q4,0:50,Brazil,85,95,substituicao_entra,Didi Louzada
+Q4,0:50,Brazil,85,95,substituicao_sai,Leandrinho Barbosa
+Q4,0:50,Brazil,85,95,FC,Cristiano Felicio
+Q4,0:52,Brazil,85,95,,Bruno Caboclo3pt jump shot missed
+Q4,10:00,New Zealand,0,0,muda_bola,
+Q4,1:13,New Zealand,85,95,ER,Rob Loe
+Q4,1:13,Brazil,85,95,BR,Alex Garcia
+Q4,1:25,Brazil,85,95,AS,Leandrinho Barbosa
+Q4,1:25,Brazil,85,95,,Bruno Caboclolayup made
+Q4,1:32,New Zealand,85,93,2_Pts_C,Corey Webster
+Q4,1:32,Brazil,85,93,tempo_tecnico,
+Q4,1:38,New Zealand,83,93,RD,Corey Webster
+Q4,1:38,Brazil,83,93,2_Pts_T,Leandrinho Barbosa
+Q4,2:00,New Zealand,83,93,AS,Tai Webster
+Q4,2:00,New Zealand,83,93,,Rob Loe3pt jump shot made
+Q4,2:12,New Zealand,80,93,RD,Corey Webster
+Q4,2:12,Brazil,80,93,,Cristiano Feliciodunk missed
+Q4,2:28,New Zealand,80,93,,Tai Webster3pt jump shot missed
+Q4,2:28,Brazil,80,93,RD,Alex Garcia
+Q4,2:33,New Zealand,80,93,RO,Tai Webster
+Q4,2:33,New Zealand,80,93,,Corey Webster3pt jump shot missed
+Q4,2:43,New Zealand,80,91,substituicao_entra,Isaac Fotu
+Q4,2:43,New Zealand,80,91,substituicao_sai,Tohi Smith-Milner
+Q4,2:43,New Zealand,80,91,substituicao_entra,Tai Webster
+Q4,2:43,New Zealand,80,91,substituicao_sai,Shea Ili
+Q4,2:43,New Zealand,80,91,FC,Ethan Rusbatch
+Q4,2:43,Brazil,80,93,LL_Pts_C,Cristiano Felicio
+Q4,2:43,Brazil,80,92,LL_Pts_C,Cristiano Felicio
+Q4,2:43,Brazil,80,91,substituicao_entra,Rafa Luz
+Q4,2:43,Brazil,80,91,substituicao_sai,Marcelinho Huertas
+Q4,2:43,Brazil,80,91,FR,Cristiano Felicio
+Q4,3:04,New Zealand,80,91,AS,Shea Ili
+Q4,3:04,New Zealand,80,91,,Rob Loe3pt jump shot made
+Q4,3:11,New Zealand,77,91,RD,Shea Ili
+Q4,3:11,Brazil,77,91,,Alex Garcia3pt jump shot missed
+Q4,3:33,New Zealand,77,91,,Rob Loe3pt jump shot missed
+Q4,3:33,Brazil,77,91,RD,Bruno Caboclo
+Q4,3:44,Brazil,77,91,3_Pts_C,Leandrinho Barbosa
+Q4,4:03,New Zealand,77,88,AS,Corey Webster
+Q4,4:03,New Zealand,77,88,2_Pts_C,Shea Ili
+Q4,4:11,New Zealand,75,88,BR,Ethan Rusbatch
+Q4,4:11,Brazil,75,88,ER,Alex Garcia
+Q4,4:28,New Zealand,75,88,LL_Pts_T,Shea Ili
+Q4,4:28,New Zealand,75,88,LL_Pts_C,Shea Ili
+Q4,4:28,New Zealand,74,88,substituicao_entra,Ethan Rusbatch
+Q4,4:28,New Zealand,74,88,substituicao_sai,Isaac Fotu
+Q4,4:28,New Zealand,74,88,substituicao_entra,Rob Loe
+Q4,4:28,New Zealand,74,88,substituicao_sai,Tai Webster
+Q4,4:28,New Zealand,74,88,FR,Shea Ili
+Q4,4:28,Brazil,75,88,RD,
+Q4,4:28,Brazil,74,88,substituicao_entra,Alex Garcia
+Q4,4:28,Brazil,74,88,substituicao_sai,Vítor Benite
+Q4,4:28,Brazil,74,88,FC,Vítor Benite
+Q4,4:33,New Zealand,74,88,RD,Shea Ili
+Q4,4:34,Brazil,74,88,,Cristiano Felicio2pt jump shot missed
+Q4,4:35,Brazil,74,88,RO,Cristiano Felicio
+Q4,4:36,New Zealand,74,88,TO,Tohi Smith-Milner
+Q4,4:36,Brazil,74,88,,Marcelinho Huertas3pt jump shot blocked
+Q4,4:58,New Zealand,74,88,LL_Pts_C,Shea Ili
+Q4,4:58,New Zealand,73,88,AS,Tai Webster
+Q4,4:58,New Zealand,73,88,LL_Pts_C,Shea Ili
+Q4,4:58,New Zealand,72,88,FR,Shea Ili
+Q4,4:58,Brazil,72,88,FC,Cristiano Felicio
+Q4,5:05,New Zealand,72,88,RD,Tai Webster
+Q4,5:06,New Zealand,72,88,TO,Tohi Smith-Milner
+Q4,5:06,Brazil,72,88,2_Pts_T,Leandrinho Barbosa
+Q4,5:09,New Zealand,72,88,2_Pts_T,Isaac Fotu
+Q4,5:09,Brazil,72,88,RD,Cristiano Felicio
+Q4,5:09,Brazil,72,88,TO,Bruno Caboclo
+Q4,5:14,New Zealand,72,88,RD,Corey Webster
+Q4,5:14,Brazil,72,88,2_Pts_T,Cristiano Felicio
+Q4,5:19,Brazil,72,88,RO,Cristiano Felicio
+Q4,5:19,Brazil,72,88,,Cristiano Felicio2pt jump shot missed
+Q4,5:25,New Zealand,72,88,ER,Corey Webster
+Q4,5:25,Brazil,72,88,BR,Cristiano Felicio
+Q4,5:28,New Zealand,72,88,RD,Corey Webster
+Q4,5:28,Brazil,72,88,,Vítor Benite2pt jump shot missed
+Q4,5:30,New Zealand,72,88,ER,Tai Webster
+Q4,5:35,New Zealand,72,87,substituicao_entra,Corey Webster
+Q4,5:35,New Zealand,72,87,substituicao_sai,Tom Abercrombie
+Q4,5:35,New Zealand,72,87,tempo_tecnico,
+Q4,5:35,New Zealand,72,87,FC,Tai Webster
+Q4,5:35,Brazil,72,88,LL_Pts_C,Cristiano Felicio
+Q4,5:35,Brazil,72,87,LL_Pts_T,Cristiano Felicio
+Q4,5:35,Brazil,72,87,substituicao_entra,Marcelinho Huertas
+Q4,5:35,Brazil,72,87,substituicao_sai,Rafa Luz
+Q4,5:35,Brazil,72,87,FR,Cristiano Felicio
+Q4,5:37,Brazil,72,87,RO,Cristiano Felicio
+Q4,5:37,Brazil,72,87,,Vítor Benite3pt jump shot missed
+Q4,5:56,New Zealand,72,87,LL_Pts_T,Tohi Smith-Milner
+Q4,5:56,New Zealand,72,87,LL_Pts_C,Tohi Smith-Milner
+Q4,5:56,New Zealand,71,87,FR,Tohi Smith-Milner
+Q4,5:56,New Zealand,71,87,RD,
+Q4,5:56,Brazil,72,87,RD,Cristiano Felicio
+Q4,5:56,Brazil,71,87,FC,Cristiano Felicio
+Q4,5:57,Brazil,71,87,2_Pts_T,Leandrinho Barbosa
+Q4,6:16,Brazil,71,87,RD,Vítor Benite
+Q4,6:17,New Zealand,71,87,2_Pts_T,Tom Abercrombie
+Q4,6:27,New Zealand,71,85,substituicao_entra,Tohi Smith-Milner
+Q4,6:27,New Zealand,71,85,substituicao_sai,Rob Loe
+Q4,6:27,New Zealand,71,85,FC,Tom Abercrombie
+Q4,6:27,Brazil,71,87,LL_Pts_C,Leandrinho Barbosa
+Q4,6:27,Brazil,71,86,LL_Pts_C,Leandrinho Barbosa
+Q4,6:27,Brazil,71,85,FR,Leandrinho Barbosa
+Q4,6:44,New Zealand,71,85,2_Pts_C,Shea Ili
+Q4,6:52,Brazil,69,85,2_Pts_C,Rafa Luz
+Q4,7:04,New Zealand,69,83,2_Pts_T,Tai Webster
+Q4,7:04,Brazil,69,83,RD,Bruno Caboclo
+Q4,7:18,New Zealand,69,83,RD,Tom Abercrombie
+Q4,7:18,Brazil,69,83,,Bruno Caboclo3pt jump shot missed
+Q4,7:39,New Zealand,69,83,LL_Pts_C,Shea Ili
+Q4,7:39,New Zealand,68,83,LL_Pts_C,Shea Ili
+Q4,7:39,New Zealand,67,83,FR,Shea Ili
+Q4,7:39,Brazil,67,83,FC,Vítor Benite
+Q4,7:47,Brazil,67,83,AS,Bruno Caboclo
+Q4,7:47,Brazil,67,83,3_Pts_C,Leandrinho Barbosa
+Q4,7:59,New Zealand,67,80,LL_Pts_C,Isaac Fotu
+Q4,7:59,New Zealand,66,80,FR,Isaac Fotu
+Q4,7:59,New Zealand,66,80,AS,Shea Ili
+Q4,7:59,New Zealand,66,80,,Isaac Fotulayup made
+Q4,7:59,Brazil,67,80,substituicao_entra,Bruno Caboclo
+Q4,7:59,Brazil,67,80,substituicao_sai,Marquinhos Sousa
+Q4,7:59,Brazil,66,80,FC,Rafa Luz
+Q4,8:04,New Zealand,64,80,FR,Tai Webster
+Q4,8:04,Brazil,64,80,FC,Vítor Benite
+Q4,8:07,New Zealand,64,80,RD,Tai Webster
+Q4,8:08,New Zealand,64,80,TO,Tom Abercrombie
+Q4,8:08,New Zealand,64,80,FC,Rob Loe
+Q4,8:08,Brazil,64,80,,Leandrinho Barbosa2pt jump shot inside the paint blocked
+Q4,8:08,Brazil,64,80,substituicao_entra,Vítor Benite
+Q4,8:08,Brazil,64,80,substituicao_sai,Alex Garcia
+Q4,8:08,Brazil,64,80,FR,Cristiano Felicio
+Q4,8:08,Brazil,64,80,RO,
+Q4,8:09,Brazil,64,80,,Alex Garcia3pt fadeaway jump shot missed
+Q4,8:23,Brazil,64,80,RO,Cristiano Felicio
+Q4,8:23,Brazil,64,80,,Marquinhos Sousa3pt jump shot missed
+Q4,8:43,New Zealand,64,80,ER,Tai Webster
+Q4,8:43,Brazil,64,80,BR,Leandrinho Barbosa
+Q4,9:02,New Zealand,64,78,substituicao_entra,Tom Abercrombie
+Q4,9:02,New Zealand,64,78,substituicao_sai,Ethan Rusbatch
+Q4,9:02,New Zealand,64,78,FC,Tai Webster
+Q4,9:02,Brazil,64,80,LL_Pts_C,Marquinhos Sousa
+Q4,9:02,Brazil,64,79,AS,Rafa Luz
+Q4,9:02,Brazil,64,79,LL_Pts_C,Marquinhos Sousa
+Q4,9:02,Brazil,64,78,FR,Marquinhos Sousa
+Q4,9:09,New Zealand,64,78,2_Pts_T,Shea Ili
+Q4,9:09,Brazil,64,78,RD,Rafa Luz
+Q4,9:25,New Zealand,64,78,RD,Rob Loe
+Q4,9:25,Brazil,64,78,,Marquinhos Sousa3pt jump shot missed
+Q4,9:44,New Zealand,64,78,LL_Pts_C,Tai Webster
+Q4,9:44,New Zealand,63,78,LL_Pts_C,Tai Webster
+Q4,9:44,New Zealand,0,0,FR,Tai Webster
+Q4,9:44,Brazil,0,0,FC,Alex Garcia

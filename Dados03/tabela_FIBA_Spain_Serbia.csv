@@ -1,0 +1,521 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:02,Spain,13,20,,Pau Ribas3pt jump shot missed
+Q1,0:02,Serbia,13,20,RD,Marko Guduric
+Q1,0:14,Spain,13,20,FR,Pau Ribas
+Q1,0:14,Serbia,13,20,substituicao_entra,Boban Marjanovic
+Q1,0:14,Serbia,13,20,substituicao_sai,Stefan Jovic
+Q1,0:14,Serbia,13,20,substituicao_entra,Marko Guduric
+Q1,0:14,Serbia,13,20,substituicao_sai,Nikola Milutinov
+Q1,0:14,Serbia,13,20,substituicao_entra,Vasilije Micic
+Q1,0:14,Serbia,13,20,substituicao_sai,Bogdan Bogdanovic
+Q1,0:14,Serbia,13,20,FC,Stefan Jovic
+Q1,0:33,Spain,13,20,RD,Pau Ribas
+Q1,0:33,Serbia,13,20,3_Pts_T,Nemanja Bjelica
+Q1,0:59,Spain,13,20,3_Pts_T,Marc Gasol
+Q1,0:59,Serbia,13,20,RD,Nikola Jokic
+Q1,10:00,Serbia,0,0,inicio_quarto,Nikola Milutinov
+Q1,1:09,Spain,13,20,RD,Victor Claver
+Q1,1:09,Spain,13,20,TO,Willy Hernangomez Geuer
+Q1,1:09,Serbia,13,20,2_Pts_T,Nemanja Bjelica
+Q1,1:33,Spain,13,20,AS,Sergio Llull
+Q1,1:33,Spain,13,20,,Victor Claver2pt jump shot made
+Q1,2:03,Serbia,11,20,,Stefan Joviclayup made
+Q1,2:06,Spain,11,18,ER,Pau Ribas
+Q1,2:06,Serbia,11,18,BR,Stefan Jovic
+Q1,2:23,Serbia,11,18,AS,Nikola Jokic
+Q1,2:23,Serbia,11,18,,Bogdan Bogdanoviclayup made
+Q1,2:40,Spain,11,16,AS,Marc Gasol
+Q1,2:40,Spain,11,16,3_Pts_C,Pau Ribas
+Q1,3:03,Serbia,8,16,,Bogdan Bogdanovic3pt jump shot made
+Q1,3:07,Serbia,8,13,RO,Bogdan Bogdanovic
+Q1,3:07,Serbia,8,13,,Bogdan Bogdanoviclayup missed
+Q1,3:16,Spain,8,13,2_Pts_T,Sergio Llull
+Q1,3:16,Serbia,8,13,RD,Bogdan Bogdanovic
+Q1,3:21,Spain,8,13,substituicao_entra,Victor Claver
+Q1,3:21,Spain,8,13,substituicao_sai,Juancho Hernangomez
+Q1,3:21,Spain,8,13,FR,Marc Gasol
+Q1,3:21,Serbia,8,13,substituicao_entra,Nemanja Bjelica
+Q1,3:21,Serbia,8,13,substituicao_sai,Vladimir Lucic
+Q1,3:21,Serbia,8,13,FC,Vladimir Lucic
+Q1,3:41,Spain,8,13,RD,Juancho Hernangomez
+Q1,3:41,Serbia,8,13,,Nikola Jokic3pt jump shot missed
+Q1,3:42,Spain,8,13,substituicao_entra,Pau Ribas
+Q1,3:42,Spain,8,13,substituicao_sai,Ricky Rubio
+Q1,3:42,Serbia,8,13,RO,
+Q1,3:44,Spain,8,13,TO,Juancho Hernangomez
+Q1,3:44,Serbia,8,13,2_Pts_T,Bogdan Bogdanovic
+Q1,4:06,Spain,8,13,AS,Juancho Hernangomez
+Q1,4:06,Spain,8,13,,Marc Gasol2pt jump shot made
+Q1,4:21,Spain,6,12,substituicao_entra,Sergio Llull
+Q1,4:21,Spain,6,12,substituicao_sai,Rudy Fernandez
+Q1,4:21,Spain,6,12,tempo_tecnico,
+Q1,4:21,Spain,6,12,FC,Marc Gasol
+Q1,4:21,Serbia,6,13,LL_Pts_C,Vladimir Lucic
+Q1,4:21,Serbia,6,12,FR,Vladimir Lucic
+Q1,4:21,Serbia,6,12,AS,Bogdan Bogdanovic
+Q1,4:21,Serbia,6,12,,Vladimir Luciclayup made
+Q1,4:26,Spain,6,10,2_Pts_T,Ricky Rubio
+Q1,4:26,Serbia,6,10,RD,Bogdan Bogdanovic
+Q1,4:26,Serbia,6,10,TO,Stefan Jovic
+Q1,4:45,Serbia,6,10,,Bogdan Bogdanoviclayup made
+Q1,4:57,Spain,6,8,ER,Willy Hernangomez Geuer
+Q1,4:57,Serbia,6,8,BR,Vladimir Lucic
+Q1,5:10,Spain,6,8,RD,Marc Gasol
+Q1,5:10,Serbia,6,8,,Stefan Jovic3pt jump shot missed
+Q1,5:31,Spain,6,8,,Marc Gasol3pt jump shot missed
+Q1,5:31,Serbia,6,8,RD,Nikola Jokic
+Q1,5:46,Serbia,6,8,AS,Stefan Jovic
+Q1,5:46,Serbia,6,8,,Nikola Milutinovdunk made
+Q1,6:03,Spain,6,6,substituicao_entra,Willy Hernangomez Geuer
+Q1,6:03,Spain,6,6,substituicao_sai,Pierre Oriola
+Q1,6:03,Spain,6,6,ER,Juancho Hernangomez
+Q1,6:24,Serbia,6,6,AS,Stefan Jovic
+Q1,6:24,Serbia,6,6,,Bogdan Bogdanovicdunk made
+Q1,6:31,Spain,6,4,,Rudy Fernandez3pt jump shot missed
+Q1,6:31,Serbia,6,4,RD,Nikola Jokic
+Q1,6:49,Spain,6,4,RD,Marc Gasol
+Q1,6:49,Serbia,6,4,,Vladimir Lucic3pt jump shot missed
+Q1,7:02,Spain,6,4,FC,Juancho Hernangomez
+Q1,7:02,Serbia,6,4,FR,Nikola Milutinov
+Q1,7:14,Spain,6,4,FC,Pierre Oriola
+Q1,7:14,Serbia,6,4,FR,Vladimir Lucic
+Q1,7:33,Spain,6,4,LL_Pts_C,Pierre Oriola
+Q1,7:33,Spain,5,4,AS,Ricky Rubio
+Q1,7:33,Spain,5,4,LL_Pts_C,Pierre Oriola
+Q1,7:33,Spain,4,4,FR,Pierre Oriola
+Q1,7:33,Serbia,4,4,substituicao_entra,Nikola Jokic
+Q1,7:33,Serbia,4,4,substituicao_sai,Stefan Bircevic
+Q1,7:33,Serbia,4,4,FC,Stefan Bircevic
+Q1,7:46,Spain,4,4,RD,Juancho Hernangomez
+Q1,7:46,Spain,4,3,FC,Pierre Oriola
+Q1,7:46,Serbia,4,4,LL_Pts_T,Nikola Milutinov
+Q1,7:46,Serbia,4,4,AS,Bogdan Bogdanovic
+Q1,7:46,Serbia,4,4,LL_Pts_C,Nikola Milutinov
+Q1,7:46,Serbia,4,3,FR,Nikola Milutinov
+Q1,7:54,Spain,4,3,,Ricky Rubio2pt jump shot missed
+Q1,7:54,Serbia,4,3,RD,Nikola Milutinov
+Q1,8:09,Serbia,4,3,ER,Stefan Jovic
+Q1,8:33,Spain,4,3,AS,Marc Gasol
+Q1,8:33,Spain,4,3,,Pierre Orioladunk made
+Q1,8:48,Serbia,2,3,AS,Stefan Jovic
+Q1,8:48,Serbia,2,3,,Stefan Bircevic3pt jump shot made
+Q1,9:09,Spain,2,0,,Pierre Oriolalayup made
+Q1,9:15,Spain,0,0,RO,Pierre Oriola
+Q1,9:15,Spain,0,0,,Juancho Hernangomez3pt jump shot missed
+Q1,9:28,Spain,0,0,RO,Juancho Hernangomez
+Q1,9:28,Spain,0,0,,Marc Gasol3pt jump shot missed
+Q1,9:40,Spain,0,0,BR,Rudy Fernandez
+Q1,9:40,Serbia,0,0,ER,Stefan Bircevic
+Q2,0:04,Spain,45,37,,Sergio Llull3pt jump shot made
+Q2,0:14,Spain,42,37,substituicao_entra,Rudy Fernandez
+Q2,0:14,Spain,42,37,substituicao_sai,Victor Claver
+Q2,0:14,Spain,42,37,tempo_tecnico,
+Q2,0:16,Serbia,42,37,,Bogdan Bogdanovic2pt jump shot made
+Q2,0:19,Serbia,42,35,RO,Bogdan Bogdanovic
+Q2,0:19,Serbia,42,35,,Bogdan Bogdanovic3pt jump shot missed
+Q2,0:36,Spain,42,35,LL_Pts_C,Marc Gasol
+Q2,0:36,Spain,41,35,LL_Pts_T,Marc Gasol
+Q2,0:36,Spain,41,35,substituicao_entra,Pau Ribas
+Q2,0:36,Spain,41,35,substituicao_sai,Rudy Fernandez
+Q2,0:36,Spain,41,35,FR,Marc Gasol
+Q2,0:36,Serbia,41,35,FC,Nikola Milutinov
+Q2,0:48,Serbia,41,35,,Bogdan Bogdanovic2pt jump shot made
+Q2,0:56,Spain,41,33,,Ricky Rubio3pt jump shot missed
+Q2,0:56,Serbia,41,33,RD,Bogdan Bogdanovic
+Q2,10:00,Spain,13,20,muda_bola,
+Q2,1:12,Spain,41,31,substituicao_entra,Rudy Fernandez
+Q2,1:12,Spain,41,31,substituicao_sai,Juancho Hernangomez
+Q2,1:12,Spain,41,31,FC,Juancho Hernangomez
+Q2,1:12,Serbia,41,33,LL_Pts_C,Vladimir Lucic
+Q2,1:12,Serbia,41,32,AS,Bogdan Bogdanovic
+Q2,1:12,Serbia,41,32,LL_Pts_C,Vladimir Lucic
+Q2,1:12,Serbia,41,31,FR,Vladimir Lucic
+Q2,1:27,Spain,41,31,AS,Marc Gasol
+Q2,1:27,Spain,41,31,,Ricky Rubio3pt jump shot made
+Q2,1:45,Spain,38,29,FC,Juancho Hernangomez
+Q2,1:45,Serbia,38,31,LL_Pts_C,Vladimir Lucic
+Q2,1:45,Serbia,38,30,LL_Pts_C,Vladimir Lucic
+Q2,1:45,Serbia,38,29,FR,Vladimir Lucic
+Q2,1:46,Spain,38,29,AS,Marc Gasol
+Q2,1:46,Spain,38,29,,Ricky Rubio3pt jump shot made
+Q2,2:08,Serbia,35,29,AS,Bogdan Bogdanovic
+Q2,2:08,Serbia,35,29,,Nikola Milutinovdunk made
+Q2,2:24,Spain,35,27,ER,Victor Claver
+Q2,2:24,Serbia,35,27,BR,Nemanja Bjelica
+Q2,2:27,Spain,35,27,BR,Victor Claver
+Q2,2:27,Serbia,35,27,ER,Bogdan Bogdanovic
+Q2,2:40,Serbia,35,27,RO,Bogdan Bogdanovic
+Q2,2:40,Serbia,35,27,,Stefan Jovic3pt jump shot missed
+Q2,2:44,Spain,35,27,substituicao_entra,Sergio Llull
+Q2,2:44,Spain,35,27,substituicao_sai,Pau Ribas
+Q2,2:44,Spain,35,27,substituicao_entra,Victor Claver
+Q2,2:44,Spain,35,27,substituicao_sai,Rudy Fernandez
+Q2,2:44,Serbia,35,27,substituicao_entra,Nikola Milutinov
+Q2,2:44,Serbia,35,27,substituicao_sai,Miroslav Raduljica
+Q2,3:04,Spain,35,27,AS,Ricky Rubio
+Q2,3:04,Spain,35,27,,Marc Gasol2pt jump shot made
+Q2,3:18,Spain,33,27,BR,Ricky Rubio
+Q2,3:18,Serbia,33,27,ER,Stefan Jovic
+Q2,3:34,Spain,33,27,LL_Pts_C,Ricky Rubio
+Q2,3:34,Spain,32,27,LL_Pts_C,Ricky Rubio
+Q2,3:34,Spain,31,27,FR,Ricky Rubio
+Q2,3:34,Serbia,31,27,FC,Nemanja Bjelica
+Q2,3:48,Serbia,31,27,AS,Bogdan Bogdanovic
+Q2,3:48,Serbia,31,27,,Stefan Joviclayup made
+Q2,4:06,Spain,31,25,ER,Rudy Fernandez
+Q2,4:06,Serbia,31,25,substituicao_entra,Nemanja Bjelica
+Q2,4:06,Serbia,31,25,substituicao_sai,Nikola Jokic
+Q2,4:06,Serbia,31,25,tempo_tecnico,
+Q2,4:20,Spain,31,25,BR,Rudy Fernandez
+Q2,4:20,Serbia,31,25,ER,Nikola Jokic
+Q2,4:28,Spain,31,25,FC,Pau Ribas
+Q2,4:28,Serbia,31,25,FR,Bogdan Bogdanovic
+Q2,4:34,Spain,31,25,LL_Pts_C,Pau Ribas
+Q2,4:34,Spain,30,25,LL_Pts_C,Pau Ribas
+Q2,4:34,Spain,29,25,FR,Pau Ribas
+Q2,4:34,Spain,29,25,RD,
+Q2,4:34,Serbia,29,25,FC,Vladimir Lucic
+Q2,4:35,Serbia,29,25,,Stefan Jovic3pt jump shot missed
+Q2,4:40,Spain,29,25,FC,Rudy Fernandez
+Q2,4:40,Serbia,29,25,FR,Miroslav Raduljica
+Q2,4:58,Spain,29,25,AS,Ricky Rubio
+Q2,4:58,Spain,29,25,,Juancho Hernangomez3pt jump shot made
+Q2,5:02,Spain,26,25,substituicao_entra,Juancho Hernangomez
+Q2,5:02,Spain,26,25,substituicao_sai,Victor Claver
+Q2,5:02,Spain,26,25,substituicao_entra,Ricky Rubio
+Q2,5:02,Spain,26,25,substituicao_sai,Sergio Llull
+Q2,5:02,Spain,26,25,FR,Rudy Fernandez
+Q2,5:02,Serbia,26,25,FC,Bogdan Bogdanovic
+Q2,5:17,Spain,26,25,RD,Pau Ribas
+Q2,5:17,Serbia,26,25,,Nikola Jokiclayup missed
+Q2,5:29,Spain,26,25,,Sergio Llull3pt jump shot missed
+Q2,5:29,Serbia,26,25,RD,Bogdan Bogdanovic
+Q2,5:47,Spain,26,24,FC_T,Coach: 
+Q2,5:47,Serbia,26,25,LL_Pts_C,Bogdan Bogdanovic
+Q2,5:54,Serbia,26,24,,Nikola Jokiclayup made
+Q2,5:57,Spain,26,22,TO,Victor Claver
+Q2,5:57,Serbia,26,22,RO,Nikola Jokic
+Q2,5:57,Serbia,26,22,2_Pts_T,Miroslav Raduljica
+Q2,6:18,Spain,26,22,substituicao_entra,Marc Gasol
+Q2,6:18,Spain,26,22,substituicao_sai,Willy Hernangomez Geuer
+Q2,6:18,Spain,26,22,FC_O,Willy Hernangomez Geuer
+Q2,6:18,Serbia,26,22,substituicao_entra,Miroslav Raduljica
+Q2,6:18,Serbia,26,22,substituicao_sai,Nemanja Bjelica
+Q2,6:18,Serbia,26,22,FR,Vladimir Lucic
+Q2,6:34,Serbia,26,22,ER,Nemanja Bjelica
+Q2,6:41,Serbia,26,22,RO,Nemanja Bjelica
+Q2,6:41,Serbia,26,22,,Vladimir Lucic2pt jump shot missed
+Q2,7:00,Spain,26,22,,Willy Hernangomez Geuer3pt jump shot missed
+Q2,7:00,Serbia,26,22,RD,Stefan Jovic
+Q2,7:24,Spain,26,22,FR,Rudy Fernandez
+Q2,7:24,Serbia,26,22,substituicao_entra,Stefan Jovic
+Q2,7:24,Serbia,26,22,substituicao_sai,Marko Guduric
+Q2,7:24,Serbia,26,22,substituicao_entra,Vladimir Lucic
+Q2,7:24,Serbia,26,22,substituicao_sai,Vasilije Micic
+Q2,7:24,Serbia,26,22,FC,Nemanja Bjelica
+Q2,7:27,Spain,26,22,RD,Rudy Fernandez
+Q2,7:27,Serbia,26,22,,Bogdan Bogdanovic3pt jump shot missed
+Q2,7:44,Spain,26,22,,Sergio Llull3pt jump shot made
+Q2,7:51,Spain,23,22,RD,Pau Ribas
+Q2,7:51,Serbia,23,22,,Nemanja Bjelica3pt jump shot missed
+Q2,8:02,Spain,23,22,,Victor Claverlayup made
+Q2,8:06,Spain,21,22,RO,Victor Claver
+Q2,8:06,Spain,21,22,,Rudy Fernandez3pt jump shot missed
+Q2,8:28,Spain,21,22,BR,Victor Claver
+Q2,8:28,Serbia,21,22,ER,Marko Guduric
+Q2,8:44,Spain,21,22,AS,Sergio Llull
+Q2,8:44,Spain,21,22,,Victor Claverlayup made
+Q2,8:44,Serbia,21,22,substituicao_entra,Bogdan Bogdanovic
+Q2,8:44,Serbia,21,22,substituicao_sai,Boban Marjanovic
+Q2,8:44,Serbia,21,22,tempo_tecnico,
+Q2,8:49,Spain,19,22,BR,Willy Hernangomez Geuer
+Q2,8:49,Serbia,19,22,ER,Vasilije Micic
+Q2,9:02,Spain,19,22,AS,Sergio Llull
+Q2,9:02,Spain,19,22,,Rudy Fernandez3pt jump shot made
+Q2,9:18,Spain,16,20,FC,Rudy Fernandez
+Q2,9:18,Serbia,16,22,LL_Pts_C,Nikola Jokic
+Q2,9:18,Serbia,16,21,AS,Nemanja Bjelica
+Q2,9:18,Serbia,16,21,LL_Pts_C,Nikola Jokic
+Q2,9:18,Serbia,16,20,FR,Nikola Jokic
+Q2,9:33,Spain,16,20,LL_Pts_C,Willy Hernangomez Geuer
+Q2,9:33,Spain,15,20,FR,Willy Hernangomez Geuer
+Q2,9:33,Spain,15,20,AS,Victor Claver
+Q2,9:33,Spain,15,20,,Willy Hernangomez Geuerdunk made
+Q2,9:33,Serbia,15,20,FC,Boban Marjanovic
+Q2,9:45,Spain,13,20,FR,Sergio Llull
+Q2,9:45,Serbia,13,20,FC,Vasilije Micic
+Q3,0:00,Spain,67,56,3_Pts_T,Sergio Llull
+Q3,0:05,Spain,67,53,substituicao_entra,Juancho Hernangomez
+Q3,0:05,Spain,67,53,substituicao_sai,Willy Hernangomez Geuer
+Q3,0:05,Spain,67,53,FC,Willy Hernangomez Geuer
+Q3,0:05,Serbia,67,56,LL_Pts_C,Vasilije Micic
+Q3,0:05,Serbia,67,55,LL_Pts_C,Vasilije Micic
+Q3,0:05,Serbia,67,54,LL_Pts_C,Vasilije Micic
+Q3,0:05,Serbia,67,53,substituicao_entra,Vladimir Lucic
+Q3,0:05,Serbia,67,53,substituicao_sai,Miroslav Raduljica
+Q3,0:05,Serbia,67,53,FR,Vasilije Micic
+Q3,0:27,Spain,67,53,LL_Pts_T,Willy Hernangomez Geuer
+Q3,0:27,Serbia,67,53,RD,Nemanja Bjelica
+Q3,0:29,Spain,67,53,FR,Willy Hernangomez Geuer
+Q3,0:29,Spain,67,53,AS,Pau Ribas
+Q3,0:29,Spain,67,53,,Willy Hernangomez Geuerlayup made
+Q3,0:29,Serbia,67,53,FC,Miroslav Raduljica
+Q3,0:50,Serbia,65,53,AS,Miroslav Raduljica
+Q3,0:50,Serbia,65,53,,Bogdan Bogdanovicdunk made
+Q3,0:54,Spain,65,51,,Willy Hernangomez Geuerlayup missed
+Q3,0:54,Serbia,65,51,RD,Bogdan Bogdanovic
+Q3,0:55,Spain,65,51,RO,Willy Hernangomez Geuer
+Q3,0:55,Spain,65,51,2_Pts_T,Sergio Llull
+Q3,0:55,Serbia,65,51,TO,Miroslav Raduljica
+Q3,10:00,Serbia,45,37,muda_bola,
+Q3,1:16,Spain,65,51,RD,Willy Hernangomez Geuer
+Q3,1:16,Serbia,65,51,,Marko Guduric3pt jump shot missed
+Q3,1:24,Spain,65,51,,Victor Claver3pt jump shot missed
+Q3,1:24,Serbia,65,51,RD,Bogdan Bogdanovic
+Q3,1:46,Spain,65,49,substituicao_entra,Rudy Fernandez
+Q3,1:46,Spain,65,49,substituicao_sai,Juancho Hernangomez
+Q3,1:46,Spain,65,49,FC,Willy Hernangomez Geuer
+Q3,1:46,Serbia,65,51,LL_Pts_C,Miroslav Raduljica
+Q3,1:46,Serbia,65,50,LL_Pts_C,Miroslav Raduljica
+Q3,1:46,Serbia,65,49,FR,Miroslav Raduljica
+Q3,1:54,Spain,65,49,,Willy Hernangomez Geuerlayup made
+Q3,1:56,Spain,63,49,RO,Willy Hernangomez Geuer
+Q3,1:56,Spain,63,49,,Willy Hernangomez Geuertip in missed
+Q3,1:57,Spain,63,49,RO,Willy Hernangomez Geuer
+Q3,1:57,Spain,63,49,,Sergio Llulllayup missed
+Q3,2:20,Serbia,63,49,,Bogdan Bogdanovicdunk made
+Q3,2:29,Spain,63,47,,Sergio Llull3pt jump shot missed
+Q3,2:29,Serbia,63,47,RD,Bogdan Bogdanovic
+Q3,2:44,Serbia,63,47,ER,Nemanja Bjelica
+Q3,2:59,Spain,63,47,ER,Juancho Hernangomez
+Q3,3:13,Spain,63,46,tempo_tecnico,
+Q3,3:13,Spain,63,46,FC,Willy Hernangomez Geuer
+Q3,3:13,Serbia,63,47,LL_Pts_C,Miroslav Raduljica
+Q3,3:13,Serbia,63,46,FR,Miroslav Raduljica
+Q3,3:13,Serbia,63,46,AS,Bogdan Bogdanovic
+Q3,3:13,Serbia,63,46,,Miroslav Raduljicalayup made
+Q3,3:28,Spain,63,44,substituicao_entra,Willy Hernangomez Geuer
+Q3,3:28,Spain,63,44,substituicao_sai,Marc Gasol
+Q3,3:28,Spain,63,44,FC_O,Victor Claver
+Q3,3:28,Serbia,63,44,substituicao_entra,Miroslav Raduljica
+Q3,3:28,Serbia,63,44,substituicao_sai,Nikola Milutinov
+Q3,3:28,Serbia,63,44,substituicao_entra,Bogdan Bogdanovic
+Q3,3:28,Serbia,63,44,substituicao_sai,Marko Simonovic
+Q3,3:28,Serbia,63,44,FR,Vasilije Micic
+Q3,3:38,Spain,63,44,BR,Pau Ribas
+Q3,3:38,Serbia,63,44,ER,Vasilije Micic
+Q3,3:44,Spain,63,44,ER,Sergio Llull
+Q3,3:44,Serbia,63,44,BR,Vasilije Micic
+Q3,4:08,Spain,63,42,FC,Marc Gasol
+Q3,4:08,Serbia,63,44,LL_Pts_C,Nemanja Bjelica
+Q3,4:08,Serbia,63,43,LL_Pts_C,Nemanja Bjelica
+Q3,4:08,Serbia,63,42,FR,Nemanja Bjelica
+Q3,4:23,Spain,63,42,substituicao_entra,Pau Ribas
+Q3,4:23,Spain,63,42,substituicao_sai,Ricky Rubio
+Q3,4:23,Spain,63,42,LL_Pts_C,Ricky Rubio
+Q3,4:23,Spain,62,42,LL_Pts_C,Ricky Rubio
+Q3,4:23,Spain,61,42,FR,Ricky Rubio
+Q3,4:23,Spain,61,42,RD,
+Q3,4:23,Serbia,61,42,FC,Marko Guduric
+Q3,4:24,Serbia,61,42,3_Pts_T,Vasilije Micic
+Q3,4:33,Spain,61,42,LL_Pts_C,Marc Gasol
+Q3,4:33,Spain,60,42,LL_Pts_C,Marc Gasol
+Q3,4:33,Spain,59,42,substituicao_entra,Sergio Llull
+Q3,4:33,Spain,59,42,substituicao_sai,Rudy Fernandez
+Q3,4:33,Spain,59,42,FR,Marc Gasol
+Q3,4:33,Serbia,59,42,FC,Nikola Milutinov
+Q3,4:54,Serbia,59,42,AS,Vasilije Micic
+Q3,4:54,Serbia,59,42,,Nikola Milutinovlayup made
+Q3,5:07,Spain,59,40,2_Pts_C,Marc Gasol
+Q3,5:25,Spain,57,40,RD,Marc Gasol
+Q3,5:25,Spain,57,39,FC,Victor Claver
+Q3,5:25,Serbia,57,40,LL_Pts_T,Nemanja Bjelica
+Q3,5:25,Serbia,57,40,LL_Pts_C,Nemanja Bjelica
+Q3,5:25,Serbia,57,39,FR,Nemanja Bjelica
+Q3,5:29,Spain,57,39,ER,Ricky Rubio
+Q3,5:29,Serbia,57,39,BR,Marko Guduric
+Q3,5:42,Serbia,57,39,substituicao_entra,Marko Guduric
+Q3,5:42,Serbia,57,39,substituicao_sai,Bogdan Bogdanovic
+Q3,5:42,Serbia,57,39,ER,Marko Simonovic
+Q3,5:53,Spain,57,39,AS,Ricky Rubio
+Q3,5:53,Spain,57,39,,Victor Claver3pt jump shot made
+Q3,6:03,Spain,54,39,BR,Rudy Fernandez
+Q3,6:03,Serbia,54,39,ER,Marko Simonovic
+Q3,6:16,Serbia,54,39,RO,Vasilije Micic
+Q3,6:16,Serbia,54,39,3_Pts_T,Bogdan Bogdanovic
+Q3,6:27,Spain,54,39,LL_Pts_C,Ricky Rubio
+Q3,6:27,Spain,53,39,AS,Victor Claver
+Q3,6:27,Spain,53,39,LL_Pts_C,Ricky Rubio
+Q3,6:27,Spain,52,39,FR,Ricky Rubio
+Q3,6:27,Serbia,52,39,substituicao_entra,Vasilije Micic
+Q3,6:27,Serbia,52,39,substituicao_sai,Stefan Jovic
+Q3,6:27,Serbia,52,39,FC,Stefan Jovic
+Q3,6:40,Spain,52,39,LL_Pts_C,Ricky Rubio
+Q3,6:40,Spain,51,39,substituicao_entra,Victor Claver
+Q3,6:40,Spain,51,39,substituicao_sai,Pierre Oriola
+Q3,6:40,Spain,51,39,muda_bola,
+Q3,6:40,Spain,51,39,BR,Marc Gasol
+Q3,6:40,Serbia,51,39,substituicao_entra,Nemanja Bjelica
+Q3,6:40,Serbia,51,39,substituicao_sai,Nikola Jokic
+Q3,6:40,Serbia,51,39,FC_T,Nikola Jokic
+Q3,6:40,Serbia,51,39,ER,Nikola Jokic
+Q3,6:57,Spain,51,39,FC_O,Rudy Fernandez
+Q3,6:57,Serbia,51,39,substituicao_entra,Marko Simonovic
+Q3,6:57,Serbia,51,39,substituicao_sai,Vladimir Lucic
+Q3,6:57,Serbia,51,39,FR,Vladimir Lucic
+Q3,6:58,Spain,51,39,FR,Juancho Hernangomez
+Q3,6:58,Spain,51,39,RO,
+Q3,6:58,Serbia,51,39,FC,Bogdan Bogdanovic
+Q3,7:00,Spain,51,39,,Marc Gasol3pt jump shot missed
+Q3,7:14,Serbia,51,39,,Nikola Jokiclayup made
+Q3,7:20,Serbia,51,37,RO,Nikola Jokic
+Q3,7:20,Serbia,51,37,,Vladimir Lucic3pt jump shot missed
+Q3,7:34,Spain,51,37,FC,Ricky Rubio
+Q3,7:34,Serbia,51,37,FR,Nikola Milutinov
+Q3,7:42,Spain,51,37,,Pierre Oriola3pt jump shot missed
+Q3,7:42,Serbia,51,37,RD,Vladimir Lucic
+Q3,7:55,Spain,51,37,FR,Ricky Rubio
+Q3,7:55,Serbia,51,37,FC_O,Stefan Jovic
+Q3,8:17,Spain,51,37,AS,Rudy Fernandez
+Q3,8:17,Spain,51,37,,Ricky Rubio2pt jump shot made
+Q3,8:32,Spain,49,37,RO,Juancho Hernangomez
+Q3,8:32,Spain,49,37,,Rudy Fernandez3pt jump shot missed
+Q3,8:44,Spain,49,37,LL_Pts_C,Rudy Fernandez
+Q3,8:44,Spain,48,37,LL_Pts_C,Rudy Fernandez
+Q3,8:44,Spain,47,37,FR,Rudy Fernandez
+Q3,8:44,Serbia,47,37,FC_A,Nikola Jokic
+Q3,8:45,Spain,47,37,BR,Rudy Fernandez
+Q3,8:45,Serbia,47,37,ER,Nikola Jokic
+Q3,8:51,Spain,47,37,FC,Ricky Rubio
+Q3,8:51,Serbia,47,37,FR,Stefan Jovic
+Q3,9:14,Spain,47,37,AS,Pierre Oriola
+Q3,9:14,Spain,47,37,,Marc Gasollayup made
+Q3,9:37,Spain,45,37,RD,Ricky Rubio
+Q3,9:37,Serbia,45,37,,Nikola Milutinov2pt jump shot missed
+Q3,9:39,Serbia,45,37,RO,Nikola Milutinov
+Q3,9:39,Serbia,45,37,,Vladimir Lucic2pt jump shot missed
+Q4,0:15,Spain,81,69,BR,Victor Claver
+Q4,0:15,Serbia,81,69,ER,Marko Guduric
+Q4,0:21,Spain,81,69,ER,Marc Gasol
+Q4,0:21,Serbia,81,69,BR,Vladimir Lucic
+Q4,0:42,Spain,81,69,RD,Victor Claver
+Q4,0:42,Serbia,81,69,,Stefan Birceviclayup missed
+Q4,0:59,Spain,81,69,substituicao_entra,Pau Ribas
+Q4,0:59,Spain,81,69,substituicao_sai,Rudy Fernandez
+Q4,0:59,Spain,81,69,LL_Pts_C,Victor Claver
+Q4,0:59,Spain,80,69,LL_Pts_C,Victor Claver
+Q4,0:59,Spain,79,69,FR,Victor Claver
+Q4,0:59,Serbia,81,69,substituicao_entra,Nikola Milutinov
+Q4,0:59,Serbia,81,69,substituicao_sai,Miroslav Raduljica
+Q4,0:59,Serbia,81,69,substituicao_entra,Stefan Bircevic
+Q4,0:59,Serbia,81,69,substituicao_sai,Bogdan Bogdanovic
+Q4,0:59,Serbia,79,69,FC,Miroslav Raduljica
+Q4,10:00,Serbia,67,56,muda_bola,
+Q4,1:05,Spain,79,69,RO,Victor Claver
+Q4,1:05,Spain,79,69,,Sergio Llull3pt jump shot missed
+Q4,1:26,Spain,79,69,RD,Victor Claver
+Q4,1:26,Serbia,79,69,,Miroslav Raduljicalayup missed
+Q4,1:33,Serbia,79,69,RO,Vladimir Lucic
+Q4,1:33,Serbia,79,69,,Vasilije Micic3pt jump shot missed
+Q4,1:41,Spain,79,69,2_Pts_C,Ricky Rubio
+Q4,1:58,Spain,77,68,FC,Victor Claver
+Q4,1:58,Serbia,77,69,LL_Pts_C,Vladimir Lucic
+Q4,1:58,Serbia,77,68,LL_Pts_T,Vladimir Lucic
+Q4,1:58,Serbia,77,68,FR,Vladimir Lucic
+Q4,1:58,Serbia,77,68,RD,
+Q4,2:00,Spain,77,68,,Ricky Rubio2pt jump shot missed
+Q4,2:20,Spain,77,68,RD,
+Q4,2:21,Spain,77,68,TO,Victor Claver
+Q4,2:21,Serbia,77,68,2_Pts_T,Miroslav Raduljica
+Q4,2:41,Spain,77,68,LL_Pts_T,Marc Gasol
+Q4,2:41,Spain,77,68,LL_Pts_T,Marc Gasol
+Q4,2:41,Spain,77,68,substituicao_entra,Rudy Fernandez
+Q4,2:41,Spain,77,68,substituicao_sai,Pau Ribas
+Q4,2:41,Spain,77,68,FR,Marc Gasol
+Q4,2:41,Serbia,77,68,RD,Vladimir Lucic
+Q4,2:41,Serbia,77,68,substituicao_entra,Marko Guduric
+Q4,2:41,Serbia,77,68,substituicao_sai,Stefan Jovic
+Q4,2:41,Serbia,77,68,FC,Stefan Jovic
+Q4,2:56,Spain,77,68,RO,Ricky Rubio
+Q4,2:56,Spain,77,68,,Sergio Llull3pt jump shot missed
+Q4,3:08,Spain,77,68,FR,Victor Claver
+Q4,3:08,Serbia,77,68,FC,Vladimir Lucic
+Q4,3:10,Spain,77,68,RO,Victor Claver
+Q4,3:10,Spain,77,68,,Marc Gasol2pt jump shot missed
+Q4,3:22,Spain,77,68,muda_bola,
+Q4,3:27,Spain,77,68,RO,Ricky Rubio
+Q4,3:27,Spain,77,68,,Victor Claver2pt jump shot missed
+Q4,3:30,Spain,77,68,RO,Victor Claver
+Q4,3:30,Spain,77,68,,Ricky Rubio2pt jump shot missed
+Q4,3:56,Serbia,77,68,,Bogdan Bogdanovic3pt jump shot made
+Q4,4:17,Spain,77,65,LL_Pts_C,Victor Claver
+Q4,4:17,Spain,76,65,FR,Victor Claver
+Q4,4:17,Spain,76,65,AS,Marc Gasol
+Q4,4:17,Spain,76,65,,Victor Claverlayup made
+Q4,4:17,Serbia,76,65,substituicao_entra,Vladimir Lucic
+Q4,4:17,Serbia,76,65,substituicao_sai,Nemanja Bjelica
+Q4,4:17,Serbia,76,65,tempo_tecnico,
+Q4,4:17,Serbia,76,65,FC,Nemanja Bjelica
+Q4,4:32,Spain,74,65,RD,Marc Gasol
+Q4,4:32,Serbia,74,65,,Miroslav Raduljica2pt jump shot missed
+Q4,4:49,Spain,74,65,,Ricky Rubiolayup missed
+Q4,4:49,Serbia,74,65,RD,Miroslav Raduljica
+Q4,4:56,Spain,74,65,FR,Marc Gasol
+Q4,4:56,Serbia,74,65,FC,Stefan Jovic
+Q4,5:07,Serbia,74,65,,Vasilije Miciclayup made
+Q4,5:22,Spain,74,63,FC,Ricky Rubio
+Q4,5:22,Serbia,74,63,FR,Vasilije Micic
+Q4,5:38,Spain,74,63,AS,Pau Ribas
+Q4,5:38,Spain,74,63,,Ricky Rubiolayup made
+Q4,6:02,Serbia,72,63,ER,Stefan Jovic
+Q4,6:08,Spain,72,63,ER,Marc Gasol
+Q4,6:08,Serbia,72,63,BR,Miroslav Raduljica
+Q4,6:36,Spain,72,63,substituicao_entra,Pau Ribas
+Q4,6:36,Spain,72,63,substituicao_sai,Juancho Hernangomez
+Q4,6:36,Spain,72,61,FC,Juancho Hernangomez
+Q4,6:36,Serbia,72,63,LL_Pts_C,Bogdan Bogdanovic
+Q4,6:36,Serbia,72,62,AS,Miroslav Raduljica
+Q4,6:36,Serbia,72,62,LL_Pts_C,Bogdan Bogdanovic
+Q4,6:36,Serbia,72,61,FR,Bogdan Bogdanovic
+Q4,6:42,Spain,72,61,2_Pts_T,Ricky Rubio
+Q4,6:42,Serbia,72,61,RD,Vasilije Micic
+Q4,7:01,Spain,72,58,FC,Sergio Llull
+Q4,7:01,Serbia,72,61,LL_Pts_C,Bogdan Bogdanovic
+Q4,7:01,Serbia,72,60,LL_Pts_C,Bogdan Bogdanovic
+Q4,7:01,Serbia,72,59,AS,Miroslav Raduljica
+Q4,7:01,Serbia,72,59,LL_Pts_C,Bogdan Bogdanovic
+Q4,7:01,Serbia,72,58,FR,Bogdan Bogdanovic
+Q4,7:04,Spain,72,58,substituicao_entra,Juancho Hernangomez
+Q4,7:04,Spain,72,58,substituicao_sai,Rudy Fernandez
+Q4,7:04,Spain,72,58,FC,Sergio Llull
+Q4,7:04,Serbia,72,58,FR,Bogdan Bogdanovic
+Q4,7:09,Spain,72,58,,Sergio Llull3pt jump shot missed
+Q4,7:09,Serbia,72,58,RD,Miroslav Raduljica
+Q4,7:25,Spain,72,58,RD,Marc Gasol
+Q4,7:25,Spain,72,58,TO,Rudy Fernandez
+Q4,7:25,Serbia,72,58,2_Pts_T,Vasilije Micic
+Q4,7:44,Serbia,72,58,substituicao_entra,Stefan Jovic
+Q4,7:44,Serbia,72,58,substituicao_sai,Marko Guduric
+Q4,7:44,Serbia,72,58,tempo_tecnico,
+Q4,7:45,Spain,72,58,AS,Rudy Fernandez
+Q4,7:45,Spain,72,58,,Sergio Llull3pt jump shot made
+Q4,8:10,Spain,69,58,RD,Ricky Rubio
+Q4,8:10,Serbia,69,58,,Nemanja Bjelica3pt jump shot missed
+Q4,8:19,Spain,69,58,,Ricky Rubio2pt jump shot missed
+Q4,8:19,Serbia,69,58,RD,Vasilije Micic
+Q4,8:36,Spain,69,58,RD,Ricky Rubio
+Q4,8:36,Serbia,69,58,,Vasilije Miciclayup missed
+Q4,8:40,Spain,69,58,substituicao_entra,Ricky Rubio
+Q4,8:40,Spain,69,58,substituicao_sai,Pau Ribas
+Q4,8:48,Spain,69,58,LL_Pts_C,Rudy Fernandez
+Q4,8:48,Spain,68,58,AS,Marc Gasol
+Q4,8:48,Spain,68,58,LL_Pts_C,Rudy Fernandez
+Q4,8:48,Spain,67,58,FR,Rudy Fernandez
+Q4,8:48,Serbia,67,58,FC,Miroslav Raduljica
+Q4,9:04,Serbia,67,58,,Miroslav Raduljicadunk made
+Q4,9:18,Spain,67,56,,Marc Gasol3pt jump shot missed
+Q4,9:18,Serbia,67,56,RD,Nemanja Bjelica
+Q4,9:42,Spain,67,56,RD,Marc Gasol
+Q4,9:42,Serbia,67,56,,Marko Guduriclayup missed
+Q4,9:46,Serbia,67,56,RO,Marko Guduric
+Q4,9:46,Serbia,67,56,,Nemanja Bjelica3pt jump shot missed

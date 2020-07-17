@@ -1,0 +1,452 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Tunisia,29,19,ER,Michael Roll
+Q1,0:00,Iran,29,19,BR,Sajjad Mashayekhi
+Q1,0:08,Tunisia,29,19,RD,
+Q1,0:09,Iran,29,19,,Behnam Yakhchalidehkordi3pt jump shot missed
+Q1,0:34,Tunisia,29,19,ER ,
+Q1,0:59,Tunisia,29,19,RD,Makram Ben Romdhane
+Q1,0:59,Iran,29,19,2_Pts_T,Aaron Geramipoor
+Q1,10:00,Tunisia,0,0,inicio_quarto,Salah Mejri
+Q1,1:12,Tunisia,29,19,ER,Ziyed Chennoufi
+Q1,1:12,Iran,29,19,BR,Michael Rostampour
+Q1,1:22,Tunisia,29,19,FR,Salah Mejri
+Q1,1:22,Iran,29,19,substituicao_entra,Arman Zangeneh
+Q1,1:22,Iran,29,19,substituicao_sai,Hamed Haddadi
+Q1,1:22,Iran,29,19,FC_O,Hamed Haddadi
+Q1,1:33,Tunisia,29,19,,Salah Mejri3pt jump shot missed
+Q1,1:33,Iran,29,19,RD,Aaron Geramipoor
+Q1,1:38,Tunisia,29,19,substituicao_entra,Nizar Knioua
+Q1,1:38,Tunisia,29,19,substituicao_sai,Mourad El Mabrouk
+Q1,1:38,Tunisia,29,19,substituicao_entra,Ziyed Chennoufi
+Q1,1:38,Tunisia,29,19,substituicao_sai,Omar Abada
+Q1,1:47,Tunisia,29,19,RD,Mourad El Mabrouk
+Q1,1:47,Iran,29,19,,Behnam Yakhchalidehkordi3pt jump shot missed
+Q1,1:52,Iran,29,19,RO,Sajjad Mashayekhi
+Q1,1:52,Iran,29,19,,Hamed Haddadi3pt jump shot missed
+Q1,2:15,Tunisia,29,19,AS,Makram Ben Romdhane
+Q1,2:15,Tunisia,29,19,,Salah Mejri3pt jump shot made
+Q1,2:29,Iran,26,19,AS,Aaron Geramipoor
+Q1,2:29,Iran,26,19,,Behnam Yakhchalidehkordi2pt jump shot made
+Q1,2:50,Tunisia,26,17,AS,Michael Roll
+Q1,2:50,Tunisia,26,17,2_Pts_C,Makram Ben Romdhane
+Q1,2:50,Tunisia,24,17,BR,Makram Ben Romdhane
+Q1,2:50,Iran,26,17,substituicao_entra,Michael Rostampour
+Q1,2:50,Iran,26,17,substituicao_sai,Mohammadsamad Nik Khahbahrami
+Q1,2:50,Iran,26,17,tempo_tecnico,
+Q1,2:50,Iran,24,17,ER,Hamed Haddadi
+Q1,3:00,Tunisia,24,17,,Michael Roll2pt jump shot missed
+Q1,3:00,Iran,24,17,RD,Hamed Haddadi
+Q1,3:12,Iran,24,17,,Aaron Geramipoor2pt jump shot made
+Q1,3:21,Tunisia,24,15,FC,Mourad El Mabrouk
+Q1,3:21,Tunisia,24,15,ER,Mourad El Mabrouk
+Q1,3:21,Iran,24,15,FR,Sajjad Mashayekhi
+Q1,3:21,Iran,24,15,BR,Sajjad Mashayekhi
+Q1,3:22,Tunisia,24,15,RD,Salah Mejri
+Q1,3:22,Iran,24,15,2_Pts_T,Hamed Haddadi
+Q1,3:39,Tunisia,24,15,LL_Pts_C,Makram Ben Romdhane
+Q1,3:39,Tunisia,23,15,LL_Pts_T,Makram Ben Romdhane
+Q1,3:39,Tunisia,23,15,FR,Makram Ben Romdhane
+Q1,3:39,Iran,23,15,substituicao_entra,Aaron Geramipoor
+Q1,3:39,Iran,23,15,substituicao_sai,Mohammad Hassanzadeh
+Q1,3:39,Iran,23,15,FC,Mohammad Hassanzadeh
+Q1,3:44,Tunisia,23,15,RD,Makram Ben Romdhane
+Q1,3:44,Tunisia,23,15,TO,Salah Mejri
+Q1,3:44,Iran,23,15,2_Pts_T,Sajjad Mashayekhi
+Q1,4:00,Tunisia,23,15,AS,Omar Abada
+Q1,4:00,Tunisia,23,15,3_Pts_C,Makram Ben Romdhane
+Q1,4:16,Tunisia,20,15,LL_Pts_C,Omar Abada
+Q1,4:16,Tunisia,19,15,LL_Pts_C,Omar Abada
+Q1,4:16,Tunisia,18,15,FR,Omar Abada
+Q1,4:16,Tunisia,18,15,BR,Mourad El Mabrouk
+Q1,4:16,Iran,18,15,substituicao_entra,Sajjad Mashayekhi
+Q1,4:16,Iran,18,15,substituicao_sai,Mohammad Jamshidijafarabadi
+Q1,4:16,Iran,18,15,FC_A,Mohammad Jamshidijafarabadi
+Q1,4:16,Iran,18,15,ER,Mohammad Jamshidijafarabadi
+Q1,4:33,Tunisia,18,15,AS,Michael Roll
+Q1,4:33,Tunisia,18,15,,Salah Mejri3pt jump shot made
+Q1,4:50,Iran,15,15,AS,Mohammad Jamshidijafarabadi
+Q1,4:50,Iran,15,15,,Behnam Yakhchalidehkordi3pt jump shot made
+Q1,5:10,Tunisia,15,12,AS,Makram Ben Romdhane
+Q1,5:10,Tunisia,15,12,,Salah Mejri3pt jump shot made
+Q1,5:33,Iran,12,12,AS,Hamed Haddadi
+Q1,5:33,Iran,12,12,,Mohammad Jamshidijafarabadi2pt jump shot made
+Q1,5:48,Tunisia,12,10,2_Pts_C,Michael Roll
+Q1,5:56,Iran,10,10,AS,Behnam Yakhchalidehkordi
+Q1,5:56,Iran,10,10,,Hamed Haddadi2pt jump shot made
+Q1,6:17,Tunisia,10,8,FR,Omar Abada
+Q1,6:20,Tunisia,10,8,LL_Pts_C,Omar Abada
+Q1,6:20,Tunisia,9,8,LL_Pts_C,Omar Abada
+Q1,6:20,Tunisia,8,8,LL_Pts_C,Omar Abada
+Q1,6:20,Tunisia,7,8,RO,Makram Ben Romdhane
+Q1,6:20,Tunisia,7,8,,Michael Roll2pt jump shot missed
+Q1,6:20,Iran,7,8,FC,Mohammad Jamshidijafarabadi
+Q1,6:30,Tunisia,7,8,BR,Makram Ben Romdhane
+Q1,6:35,Iran,7,8,ER,Mohammadsamad Nik Khahbahrami
+Q1,6:48,Tunisia,7,8,2_Pts_T,Salah Mejri
+Q1,6:48,Iran,7,8,ER,Mohammadsamad Nik Khahbahrami
+Q1,6:48,Iran,7,8,RD,Hamed Haddadi
+Q1,6:48,Iran,7,8,TO,Hamed Haddadi
+Q1,6:57,Tunisia,7,8,RO,Salah Mejri
+Q1,6:57,Tunisia,7,8,,Mourad El Mabrouk3pt jump shot missed
+Q1,7:20,Tunisia,7,8,2_Pts_T,Makram Ben Romdhane
+Q1,7:20,Iran,7,8,TO,Hamed Haddadi
+Q1,7:43,Iran,7,8,AS,Hamed Haddadi
+Q1,7:43,Iran,7,8,,Behnam Yakhchalidehkordilayup made
+Q1,7:55,Tunisia,7,6,AS,Michael Roll
+Q1,7:55,Tunisia,7,6,2_Pts_C,Mourad El Mabrouk
+Q1,8:19,Iran,5,6,AS,Mohammadsamad Nik Khahbahrami
+Q1,8:19,Iran,5,6,,Hamed Haddadilayup made
+Q1,8:35,Tunisia,5,4,AS,Mourad El Mabrouk
+Q1,8:35,Tunisia,5,4,,Makram Ben Romdhane3pt jump shot made
+Q1,8:48,Iran,2,4,AS,Hamed Haddadi
+Q1,8:48,Iran,2,4,,Mohammad Hassanzadeh2pt jump shot made
+Q1,9:03,Tunisia,2,2,AS,Makram Ben Romdhane
+Q1,9:03,Tunisia,2,2,LL_Pts_C,Salah Mejri
+Q1,9:03,Tunisia,1,2,LL_Pts_C,Salah Mejri
+Q1,9:03,Tunisia,0,2,FR,Salah Mejri
+Q1,9:03,Iran,0,2,FC,Mohammadsamad Nik Khahbahrami
+Q1,9:07,Tunisia,0,2,RD,Salah Mejri
+Q1,9:07,Iran,0,2,2_Pts_T,Mohammad Hassanzadeh
+Q1,9:19,Tunisia,0,2,2_Pts_T,Omar Abada
+Q1,9:19,Iran,0,2,RD,Hamed Haddadi
+Q1,9:31,Iran,0,2,2_Pts_C,Hamed Haddadi
+Q1,9:47,Tunisia,0,0,,Mourad El Mabrouk3pt jump shot missed
+Q1,9:47,Iran,0,0,RD,Mohammadsamad Nik Khahbahrami
+Q2,0:00,Iran,44,35,,Mohammad Jamshidijafarabadi3pt jump shot missed
+Q2,0:06,Tunisia,44,35,,Salah Mejri3pt jump shot missed
+Q2,0:06,Iran,44,35,RD,Hamed Haddadi
+Q2,0:26,Tunisia,44,35,BR,Salah Mejri
+Q2,0:26,Iran,44,35,ER,Aaron Geramipoor
+Q2,0:50,Tunisia,44,35,ER ,
+Q2,0:50,Iran,44,35,tempo_tecnico,
+Q2,10:00,Iran,0,0,muda_bola,
+Q2,1:06,Iran,44,35,ER,Mohammadsamad Nik Khahbahrami
+Q2,1:24,Tunisia,44,35,ER,Mourad El Mabrouk
+Q2,1:41,Tunisia,44,35,FR,Makram Ben Romdhane
+Q2,1:41,Tunisia,44,35,BR,Omar Abada
+Q2,1:41,Iran,44,35,substituicao_entra,Aaron Geramipoor
+Q2,1:41,Iran,44,35,substituicao_sai,Arman Zangeneh
+Q2,1:41,Iran,44,35,FC,Arman Zangeneh
+Q2,1:41,Iran,44,35,ER,Arman Zangeneh
+Q2,2:01,Tunisia,44,35,AS,Salah Mejri
+Q2,2:01,Tunisia,44,35,,Omar Abada3pt jump shot made
+Q2,2:10,Tunisia,41,35,RD,Mourad El Mabrouk
+Q2,2:10,Tunisia,41,35,TO,Salah Mejri
+Q2,2:10,Iran,41,35,2_Pts_T,Mohammadsamad Nik Khahbahrami
+Q2,2:20,Tunisia,41,35,substituicao_entra,Mourad El Mabrouk
+Q2,2:20,Tunisia,41,35,substituicao_sai,Radhouane Slimane
+Q2,2:20,Tunisia,41,35,ER,Radhouane Slimane
+Q2,2:20,Iran,41,35,substituicao_entra,Arman Zangeneh
+Q2,2:20,Iran,41,35,substituicao_sai,Michael Rostampour
+Q2,2:37,Iran,41,35,3_Pts_C,Mohammadsamad Nik Khahbahrami
+Q2,2:52,Tunisia,41,32,2_Pts_C,Michael Roll
+Q2,3:03,Tunisia,39,32,FR,Makram Ben Romdhane
+Q2,3:03,Tunisia,39,32,substituicao_entra,Radhouane Slimane
+Q2,3:03,Tunisia,39,32,substituicao_sai,Mourad El Mabrouk
+Q2,3:03,Iran,39,32,FC,Michael Rostampour
+Q2,3:06,Tunisia,39,32,RO,Omar Abada
+Q2,3:06,Tunisia,39,32,,Salah Mejri3pt jump shot missed
+Q2,3:06,Tunisia,39,32,substituicao_entra,Salah Mejri
+Q2,3:06,Tunisia,39,32,substituicao_sai,Radhouane Slimane
+Q2,3:29,Tunisia,39,32,RD,Michael Roll
+Q2,3:29,Iran,39,32,2_Pts_T,Mohammad Jamshidijafarabadi
+Q2,3:37,Tunisia,39,32,,Radhouane Slimane3pt jump shot missed
+Q2,3:37,Iran,39,32,RD,Hamed Haddadi
+Q2,3:49,Tunisia,39,32,RO,Makram Ben Romdhane
+Q2,3:49,Tunisia,39,32,,Michael Rolllayup missed
+Q2,3:59,Tunisia,39,32,substituicao_entra,Mourad El Mabrouk
+Q2,3:59,Tunisia,39,32,substituicao_sai,Mohamed Hadidane
+Q2,3:59,Iran,39,32,substituicao_entra,Behnam Yakhchalidehkordi
+Q2,3:59,Iran,39,32,substituicao_sai,Sajjad Mashayekhi
+Q2,4:03,Tunisia,39,32,RO,
+Q2,4:03,Tunisia,39,32,,Makram Ben Romdhane3pt jump shot missed
+Q2,4:18,Tunisia,39,32,BR,Makram Ben Romdhane
+Q2,4:18,Iran,39,32,ER,Hamed Haddadi
+Q2,4:25,Tunisia,39,31,FC,Radhouane Slimane
+Q2,4:25,Iran,39,32,RO,Michael Rostampour
+Q2,4:25,Iran,39,32,LL_Pts_T,Hamed Haddadi
+Q2,4:25,Iran,39,32,LL_Pts_C,Hamed Haddadi
+Q2,4:25,Iran,39,31,FR,Hamed Haddadi
+Q2,4:42,Tunisia,39,31,ER ,
+Q2,4:57,Tunisia,39,31,FR,Omar Abada
+Q2,4:57,Iran,39,31,substituicao_entra,Mohammad Jamshidijafarabadi
+Q2,4:57,Iran,39,31,substituicao_sai,Hamed Hosseinzadeh
+Q2,4:57,Iran,39,31,FC,Michael Rostampour
+Q2,5:14,Iran,39,31,ER ,
+Q2,5:30,Iran,39,31,RO,Sajjad Mashayekhi
+Q2,5:30,Iran,39,31,,Sajjad Mashayekhifree throw missed
+Q2,5:31,Tunisia,39,31,FC,Radhouane Slimane
+Q2,5:31,Iran,39,31,substituicao_entra,Mohammadsamad Nik Khahbahrami
+Q2,5:31,Iran,39,31,substituicao_sai,Aaron Geramipoor
+Q2,5:31,Iran,39,31,FR,Sajjad Mashayekhi
+Q2,5:31,Iran,39,31,,Sajjad Mashayekhi3pt jump shot made
+Q2,5:34,Iran,39,28,RO,Sajjad Mashayekhi
+Q2,5:34,Iran,39,28,,Michael Rostampour3pt jump shot missed
+Q2,5:45,Tunisia,39,28,AS,Makram Ben Romdhane
+Q2,5:45,Tunisia,39,28,,Mohamed Hadidanelayup made
+Q2,6:12,Tunisia,37,28,RD,Mohamed Hadidane
+Q2,6:12,Tunisia,37,27,FC,Michael Roll
+Q2,6:12,Iran,37,28,LL_Pts_T,Sajjad Mashayekhi
+Q2,6:12,Iran,37,28,LL_Pts_C,Sajjad Mashayekhi
+Q2,6:12,Iran,37,27,FR,Sajjad Mashayekhi
+Q2,6:18,Tunisia,37,27,substituicao_entra,Radhouane Slimane
+Q2,6:18,Tunisia,37,27,substituicao_sai,Nizar Knioua
+Q2,6:18,Tunisia,37,27,substituicao_entra,Mohamed Hadidane
+Q2,6:18,Tunisia,37,27,substituicao_sai,Salah Mejri
+Q2,6:18,Tunisia,37,27,substituicao_entra,Omar Abada
+Q2,6:18,Tunisia,37,27,substituicao_sai,Ziyed Chennoufi
+Q2,6:18,Iran,37,27,substituicao_entra,Hamed Hosseinzadeh
+Q2,6:18,Iran,37,27,substituicao_sai,Behnam Yakhchalidehkordi
+Q2,6:21,Tunisia,37,27,FC,Ziyed Chennoufi
+Q2,6:21,Iran,37,27,FR,Michael Rostampour
+Q2,6:33,Tunisia,37,27,AS,Makram Ben Romdhane
+Q2,6:33,Tunisia,37,27,,Michael Roll3pt jump shot made
+Q2,6:40,Tunisia,34,27,RO,Makram Ben Romdhane
+Q2,6:40,Tunisia,34,27,,Salah Mejri3pt jump shot missed
+Q2,6:58,Iran,34,27,2_Pts_C,Sajjad Mashayekhi
+Q2,7:09,Tunisia,34,25,FC,Ziyed Chennoufi
+Q2,7:09,Iran,34,25,FR,Behnam Yakhchalidehkordi
+Q2,7:12,Tunisia,34,25,ER,Ziyed Chennoufi
+Q2,7:12,Iran,34,25,BR,Hamed Haddadi
+Q2,7:25,Iran,34,25,,Aaron Geramipoorlayup made
+Q2,7:30,Iran,34,23,RO,Aaron Geramipoor
+Q2,7:30,Iran,34,23,2_Pts_T,Hamed Haddadi
+Q2,7:56,Tunisia,34,23,,Salah Mejri3pt jump shot made
+Q2,8:09,Iran,31,23,,Sajjad Mashayekhi2pt jump shot made
+Q2,8:16,Tunisia,31,21,,Salah Mejrilayup missed
+Q2,8:16,Iran,31,21,RD,Hamed Haddadi
+Q2,8:25,Iran,31,21,substituicao_entra,Hamed Haddadi
+Q2,8:25,Iran,31,21,substituicao_sai,Arman Zangeneh
+Q2,8:43,Tunisia,31,21,RD,Salah Mejri
+Q2,8:43,Iran,31,21,,Aaron Geramipoor2pt jump shot missed
+Q2,9:03,Tunisia,31,21,AS,Salah Mejri
+Q2,9:03,Tunisia,31,21,,Makram Ben Romdhane2pt jump shot made
+Q2,9:15,Tunisia,29,21,FR,Michael Roll
+Q2,9:15,Iran,29,21,FC,Michael Rostampour
+Q2,9:21,Tunisia,29,21,RO,Michael Roll
+Q2,9:21,Tunisia,29,21,,Makram Ben Romdhane3pt jump shot missed
+Q2,9:33,Iran,29,21,,Aaron Geramipoortip in made
+Q2,9:44,Iran,0,0,RO,Aaron Geramipoor
+Q2,9:44,Iran,0,0,2_Pts_T,Arman Zangeneh
+Q3,0:00,Tunisia,59,48,,Salah Mejritip in missed
+Q3,0:00,Tunisia,59,48,RO,Salah Mejri
+Q3,0:00,Tunisia,59,48,2_Pts_T,Omar Abada
+Q3,0:18,Iran,59,48,AS,Hamed Haddadi
+Q3,0:18,Iran,59,48,,Aaron Geramipoordunk made
+Q3,0:31,Tunisia,59,46,2_Pts_T,Omar Abada
+Q3,0:31,Iran,59,46,RD,Sajjad Mashayekhi
+Q3,0:58,Tunisia,59,45,FC,Ziyed Chennoufi
+Q3,0:58,Iran,59,46,LL_Pts_T,Behnam Yakhchalidehkordi
+Q3,0:58,Iran,59,45,FR,Behnam Yakhchalidehkordi
+Q3,0:58,Iran,59,45,AS,Hamed Haddadi
+Q3,0:58,Iran,59,45,,Behnam Yakhchalidehkordi2pt jump shot made
+Q3,0:59,Tunisia,59,43,TO,Salah Mejri
+Q3,0:59,Iran,59,43,RO,
+Q3,0:59,Iran,59,43,2_Pts_T,Aaron Geramipoor
+Q3,0:59,Iran,59,43,RO,Aaron Geramipoor
+Q3,0:59,Iran,59,43,,Hamed Haddadi2pt jump shot missed
+Q3,10:00,Tunisia,0,0,muda_bola,
+Q3,1:07,Tunisia,59,43,FC,Mourad El Mabrouk
+Q3,1:07,Iran,59,43,FR,Behnam Yakhchalidehkordi
+Q3,1:18,Tunisia,59,43,LL_Pts_C,Salah Mejri
+Q3,1:18,Tunisia,58,43,LL_Pts_T,Salah Mejri
+Q3,1:18,Tunisia,58,43,FR,Salah Mejri
+Q3,1:18,Iran,58,43,FC,Sajjad Mashayekhi
+Q3,1:26,Tunisia,58,43,RO,Salah Mejri
+Q3,1:26,Tunisia,58,43,2_Pts_T,Ziyed Chennoufi
+Q3,1:42,Tunisia,58,43,substituicao_entra,Mohamed Hadidane
+Q3,1:42,Tunisia,58,43,substituicao_sai,Makram Ben Romdhane
+Q3,1:42,Tunisia,58,43,FR,Makram Ben Romdhane
+Q3,1:42,Iran,58,43,FC,Hamed Haddadi
+Q3,1:45,Tunisia,58,43,RO,Mourad El Mabrouk
+Q3,1:45,Tunisia,58,43,,Ziyed Chennoufi3pt jump shot missed
+Q3,1:48,Tunisia,58,43,RO,Salah Mejri
+Q3,1:48,Tunisia,58,43,,Makram Ben Romdhane2pt jump shot missed
+Q3,1:52,Iran,58,43,substituicao_entra,Hamed Hosseinzadeh
+Q3,1:52,Iran,58,43,substituicao_sai,Mohammad Jamshidijafarabadi
+Q3,2:05,Iran,58,43,2_Pts_C,Aaron Geramipoor
+Q3,2:21,Tunisia,58,41,substituicao_entra,Ziyed Chennoufi
+Q3,2:21,Tunisia,58,41,substituicao_sai,Michael Roll
+Q3,2:21,Tunisia,58,41,FC,Makram Ben Romdhane
+Q3,2:21,Iran,58,41,FR,Mohammad Jamshidijafarabadi
+Q3,2:23,Tunisia,58,41,,Makram Ben Romdhane3pt jump shot missed
+Q3,2:23,Iran,58,41,RD,Hamed Haddadi
+Q3,2:42,Tunisia,58,41,RD,Salah Mejri
+Q3,2:42,Iran,58,41,,Hamed Haddadi2pt jump shot missed
+Q3,3:01,Tunisia,58,41,AS,Omar Abada
+Q3,3:01,Tunisia,58,41,,Michael Roll3pt jump shot made
+Q3,3:24,Tunisia,55,41,RD,Salah Mejri
+Q3,3:24,Iran,55,41,,Sajjad Mashayekhi2pt jump shot missed
+Q3,3:30,Tunisia,55,41,,Michael Roll3pt jump shot missed
+Q3,3:30,Iran,55,41,RD,Behnam Yakhchalidehkordi
+Q3,3:57,Tunisia,55,41,RD,Salah Mejri
+Q3,3:57,Iran,55,41,,Mohammad Jamshidijafarabadi3pt jump shot missed
+Q3,4:06,Tunisia,55,41,2_Pts_T,Michael Roll
+Q3,4:06,Iran,55,41,RD,Aaron Geramipoor
+Q3,4:29,Iran,55,41,AS,Hamed Haddadi
+Q3,4:29,Iran,55,41,,Aaron Geramipoordunk made
+Q3,4:35,Tunisia,55,39,FC,Salah Mejri
+Q3,4:35,Iran,55,39,FR,Hamed Haddadi
+Q3,4:35,Iran,55,39,RO,
+Q3,4:35,Iran,55,39,2_Pts_T,Mohammad Jamshidijafarabadi
+Q3,4:53,Tunisia,55,39,,Salah Mejritip in made
+Q3,4:53,Tunisia,53,39,RO,Salah Mejri
+Q3,4:53,Tunisia,53,39,,Michael Roll3pt jump shot missed
+Q3,4:53,Tunisia,53,39,RD,Mourad El Mabrouk
+Q3,4:53,Iran,55,39,substituicao_entra,Mohammad Jamshidijafarabadi
+Q3,4:53,Iran,55,39,substituicao_sai,Michael Rostampour
+Q3,4:53,Iran,55,39,substituicao_entra,Sajjad Mashayekhi
+Q3,4:53,Iran,55,39,substituicao_sai,Mohammadsamad Nik Khahbahrami
+Q3,4:53,Iran,55,39,tempo_tecnico,
+Q3,4:53,Iran,53,39,,Aaron Geramipoor2pt jump shot missed
+Q3,5:04,Tunisia,53,39,TO,Salah Mejri
+Q3,5:04,Iran,53,39,RO,Aaron Geramipoor
+Q3,5:04,Iran,53,39,2_Pts_T,Mohammadsamad Nik Khahbahrami
+Q3,5:17,Tunisia,53,39,FC,Makram Ben Romdhane
+Q3,5:17,Iran,53,39,FR,Mohammadsamad Nik Khahbahrami
+Q3,5:17,Iran,53,39,RO,
+Q3,5:17,Iran,53,39,,Michael Rostampour3pt jump shot missed
+Q3,5:37,Tunisia,53,39,AS,Omar Abada
+Q3,5:37,Tunisia,53,39,,Mourad El Mabrouk3pt jump shot made
+Q3,5:57,Iran,50,39,ER,Mohammadsamad Nik Khahbahrami
+Q3,6:21,Tunisia,50,39,LL_Pts_C,Makram Ben Romdhane
+Q3,6:21,Tunisia,49,39,AS,Mourad El Mabrouk
+Q3,6:21,Tunisia,49,39,LL_Pts_T,Makram Ben Romdhane
+Q3,6:21,Tunisia,49,39,FR,Makram Ben Romdhane
+Q3,6:21,Iran,50,39,substituicao_entra,Mohammadsamad Nik Khahbahrami
+Q3,6:21,Iran,50,39,substituicao_sai,Sajjad Mashayekhi
+Q3,6:21,Iran,49,39,FC,Sajjad Mashayekhi
+Q3,6:22,Tunisia,49,39,BR,Michael Roll
+Q3,6:22,Iran,49,39,ER,Hamed Haddadi
+Q3,6:41,Tunisia,49,39,AS,Mourad El Mabrouk
+Q3,6:41,Tunisia,49,39,,Salah Mejri3pt jump shot made
+Q3,6:58,Tunisia,46,39,FR,Salah Mejri
+Q3,6:58,Iran,46,39,substituicao_entra,Michael Rostampour
+Q3,6:58,Iran,46,39,substituicao_sai,Mohammad Jamshidijafarabadi
+Q3,6:58,Iran,46,39,FC,Hamed Haddadi
+Q3,6:58,Iran,46,39,,Aaron Geramipoorlayup made
+Q3,7:17,Tunisia,46,37,2_Pts_T,Makram Ben Romdhane
+Q3,7:17,Iran,46,37,RD,Behnam Yakhchalidehkordi
+Q3,7:31,Tunisia,46,37,RD,Salah Mejri
+Q3,7:31,Tunisia,46,37,TO,Mourad El Mabrouk
+Q3,7:31,Iran,46,37,2_Pts_T,Mohammad Jamshidijafarabadi
+Q3,7:48,Tunisia,46,37,,Michael Roll3pt jump shot missed
+Q3,7:48,Iran,46,37,RD,Hamed Haddadi
+Q3,8:10,Iran,46,37,AS,Hamed Haddadi
+Q3,8:10,Iran,46,37,,Aaron Geramipoorlayup made
+Q3,8:27,Tunisia,46,35,,Omar Abada3pt jump shot missed
+Q3,8:27,Iran,46,35,RD,Mohammad Jamshidijafarabadi
+Q3,8:49,Tunisia,46,35,FR,Makram Ben Romdhane
+Q3,8:49,Iran,46,35,FC,Aaron Geramipoor
+Q3,9:06,Tunisia,46,35,,Omar Abadalayup made
+Q3,9:11,Tunisia,0,0,BR,Salah Mejri
+Q3,9:11,Iran,0,0,ER,Sajjad Mashayekhi
+Q3,9:22,Tunisia,0,0,ER,Makram Ben Romdhane
+Q3,9:22,Iran,0,0,BR,Aaron Geramipoor
+Q3,9:38,Iran,0,0,ER,Sajjad Mashayekhi
+Q3,9:43,Tunisia,0,0,,Mourad El Mabrouk3pt jump shot missed
+Q3,9:43,Iran,0,0,RD,Aaron Geramipoor
+Q4,0:00,Tunisia,79,67,,Makram Ben Romdhanetip in made
+Q4,0:00,Iran,79,67,,Rasoul Mozafarivanani3pt jump shot missed
+Q4,0:03,Tunisia,77,67,RO,Michael Roll
+Q4,0:03,Tunisia,77,67,,Michael Roll2pt jump shot missed
+Q4,0:23,Tunisia,77,67,FR,Omar Abada
+Q4,0:23,Iran,77,67,FC,Sajjad Mashayekhi
+Q4,0:25,Iran,77,67,AS,Michael Rostampour
+Q4,0:25,Iran,77,67,,Sajjad Mashayekhi2pt jump shot made
+Q4,0:30,Tunisia,77,65,ER,Michael Roll
+Q4,0:30,Iran,77,65,BR,Michael Rostampour
+Q4,0:38,Tunisia,77,65,substituicao_entra,Mohamed Hadidane
+Q4,0:38,Tunisia,77,65,substituicao_sai,Salah Mejri
+Q4,0:38,Iran,77,65,AS,Rasoul Mozafarivanani
+Q4,0:38,Iran,77,65,,Aaron Geramipoordunk made
+Q4,0:53,Tunisia,77,63,AS,Omar Abada
+Q4,0:53,Tunisia,77,63,,Makram Ben Romdhane2pt jump shot made
+Q4,10:00,Iran,0,0,muda_bola,
+Q4,1:07,Iran,75,63,,Rasoul Mozafarivanani3pt jump shot made
+Q4,1:19,Iran,75,60,RO,Rasoul Mozafarivanani
+Q4,1:19,Iran,75,60,,Behnam Yakhchalidehkordi3pt jump shot missed
+Q4,1:36,Tunisia,75,60,AS,Michael Roll
+Q4,1:36,Tunisia,75,60,,Salah Mejrialley oop made
+Q4,2:06,Tunisia,73,60,RD,Salah Mejri
+Q4,2:06,Iran,73,60,,Sajjad Mashayekhi2pt jump shot missed
+Q4,2:21,Iran,73,60,substituicao_entra,Rasoul Mozafarivanani
+Q4,2:21,Iran,73,60,substituicao_sai,Mohammad Jamshidijafarabadi
+Q4,2:21,Iran,73,60,tempo_tecnico,
+Q4,2:22,Tunisia,73,60,2_Pts_C,Michael Roll
+Q4,2:36,Tunisia,71,60,RD,Salah Mejri
+Q4,2:36,Iran,71,60,2_Pts_T,Mohammad Jamshidijafarabadi
+Q4,2:58,Tunisia,71,60,,Mourad El Mabrouk3pt jump shot missed
+Q4,2:58,Iran,71,60,RD,Sajjad Mashayekhi
+Q4,3:11,Tunisia,71,60,FR,Makram Ben Romdhane
+Q4,3:11,Iran,71,60,substituicao_entra,Michael Rostampour
+Q4,3:11,Iran,71,60,substituicao_sai,Hamed Haddadi
+Q4,3:11,Iran,71,60,FC,Hamed Haddadi
+Q4,3:20,Tunisia,71,60,RD,Michael Roll
+Q4,3:20,Iran,71,60,,Hamed Haddadi3pt jump shot missed
+Q4,3:25,Iran,71,60,RO,
+Q4,3:34,Tunisia,71,60,TO,Salah Mejri
+Q4,3:34,Iran,71,60,2_Pts_T,Behnam Yakhchalidehkordi
+Q4,3:56,Tunisia,71,60,AS,Michael Roll
+Q4,3:56,Tunisia,71,60,,Mourad El Mabrouk3pt jump shot made
+Q4,4:20,Tunisia,68,59,FC,Makram Ben Romdhane
+Q4,4:20,Tunisia,68,59,,Michael Roll3pt jump shot missed
+Q4,4:20,Iran,68,60,LL_Pts_C,Mohammad Jamshidijafarabadi
+Q4,4:20,Iran,68,59,LL_Pts_T,Mohammad Jamshidijafarabadi
+Q4,4:20,Iran,68,59,FR,Mohammad Jamshidijafarabadi
+Q4,4:37,Tunisia,68,58,FC,Michael Roll
+Q4,4:37,Iran,68,59,LL_Pts_C,Mohammad Jamshidijafarabadi
+Q4,4:37,Iran,68,58,LL_Pts_T,Mohammad Jamshidijafarabadi
+Q4,4:37,Iran,68,58,FR,Mohammad Jamshidijafarabadi
+Q4,4:53,Tunisia,68,58,2_Pts_C,Omar Abada
+Q4,4:58,Tunisia,66,58,BR,Makram Ben Romdhane
+Q4,4:58,Iran,66,58,ER,Aaron Geramipoor
+Q4,5:25,Tunisia,66,58,AS,Omar Abada
+Q4,5:25,Tunisia,66,58,,Mourad El Mabrouk3pt jump shot made
+Q4,5:36,Tunisia,63,58,FR,Mourad El Mabrouk
+Q4,5:36,Iran,63,58,FC,Sajjad Mashayekhi
+Q4,5:51,Tunisia,63,58,tempo_tecnico,
+Q4,5:51,Iran,63,58,,Hamed Haddaditip in made
+Q4,5:52,Iran,63,56,RO,Hamed Haddadi
+Q4,5:52,Iran,63,56,,Hamed Haddadilayup missed
+Q4,6:09,Tunisia,63,56,,Omar Abada2pt jump shot missed
+Q4,6:09,Iran,63,56,RD,Hamed Haddadi
+Q4,6:25,Tunisia,63,54,FC,Makram Ben Romdhane
+Q4,6:25,Iran,63,56,LL_Pts_C,Behnam Yakhchalidehkordi
+Q4,6:25,Iran,63,55,LL_Pts_C,Behnam Yakhchalidehkordi
+Q4,6:25,Iran,63,54,FR,Behnam Yakhchalidehkordi
+Q4,6:45,Tunisia,63,54,FC,Salah Mejri
+Q4,6:45,Iran,63,54,substituicao_entra,Mohammad Jamshidijafarabadi
+Q4,6:45,Iran,63,54,substituicao_sai,Hamed Hosseinzadeh
+Q4,6:45,Iran,63,54,FR,Hamed Haddadi
+Q4,6:46,Tunisia,63,54,3_Pts_T,Michael Roll
+Q4,6:46,Iran,63,54,RD,Hamed Haddadi
+Q4,6:58,Tunisia,63,54,RD,Salah Mejri
+Q4,6:58,Iran,63,54,,Behnam Yakhchalidehkordi3pt jump shot missed
+Q4,7:26,Tunisia,63,54,AS,Salah Mejri
+Q4,7:26,Tunisia,63,54,2_Pts_C,Michael Roll
+Q4,7:46,Iran,61,54,AS,Hamed Hosseinzadeh
+Q4,7:46,Iran,61,54,2_Pts_C,Hamed Haddadi
+Q4,8:07,Tunisia,61,52,,Salah Mejri2pt jump shot missed
+Q4,8:07,Iran,61,52,RD,Aaron Geramipoor
+Q4,8:22,Tunisia,61,52,muda_bola,
+Q4,8:22,Iran,61,52,ER,Hamed Hosseinzadeh
+Q4,8:39,Tunisia,61,52,2_Pts_C,Michael Roll
+Q4,8:50,Tunisia,59,52,FR,Makram Ben Romdhane
+Q4,8:50,Tunisia,59,52,RO,Makram Ben Romdhane
+Q4,8:50,Tunisia,59,52,,Omar Abada3pt jump shot missed
+Q4,8:50,Iran,59,52,FC,Aaron Geramipoor
+Q4,9:06,Iran,59,52,AS,Hamed Haddadi
+Q4,9:06,Iran,59,52,2_Pts_C,Behnam Yakhchalidehkordi
+Q4,9:18,Tunisia,59,50,FC,Michael Roll
+Q4,9:18,Iran,59,50,FR,Behnam Yakhchalidehkordi
+Q4,9:23,Tunisia,59,50,,Mourad El Mabrouk3pt jump shot missed
+Q4,9:23,Iran,59,50,RD,Sajjad Mashayekhi
+Q4,9:45,Tunisia,59,50,substituicao_entra,Michael Roll
+Q4,9:45,Tunisia,59,50,substituicao_sai,Mohamed Hadidane
+Q4,9:45,Tunisia,59,50,substituicao_entra,Makram Ben Romdhane
+Q4,9:45,Tunisia,59,50,substituicao_sai,Ziyed Chennoufi
+Q4,9:45,Tunisia,0,0,FC,Salah Mejri
+Q4,9:45,Iran,59,50,LL_Pts_C,Hamed Haddadi
+Q4,9:45,Iran,59,49,LL_Pts_C,Hamed Haddadi
+Q4,9:45,Iran,0,0,FR,Hamed Haddadi

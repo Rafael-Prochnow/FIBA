@@ -1,0 +1,529 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Dominican Republic,24,19,,Luis Montero3pt jump shot missed
+Q1,0:15,Australia,24,19,AS,Joe Ingles
+Q1,0:15,Australia,24,19,,Andrew Bogutlayup made
+Q1,0:38,Dominican Republic,22,19,,Rigoberto Mendoza2pt jump shot made
+Q1,0:47,Australia,22,17,ER,Andrew Bogut
+Q1,0:47,Dominican Republic,22,17,BR,Rigoberto Mendoza
+Q1,0:53,Australia,22,17,RD,Andrew Bogut
+Q1,0:53,Dominican Republic,22,17,,Rigoberto Mendoza2pt jump shot missed
+Q1,10:00,Australia,0,0,inicio_quarto,Aron Baynes
+Q1,1:05,Dominican Republic,22,17,RO,Rigoberto Mendoza
+Q1,1:05,Dominican Republic,22,17,,Ronald Roberts2pt jump shot missed
+Q1,1:29,Australia,22,17,AS,Andrew Bogut
+Q1,1:29,Australia,22,17,,Nathan Sobeylayup made
+Q1,1:44,Australia,20,16,FC,Nathan Sobey
+Q1,1:44,Dominican Republic,20,17,LL_Pts_C,Ronald Ramon
+Q1,1:44,Dominican Republic,20,16,LL_Pts_T,Ronald Ramon
+Q1,1:44,Dominican Republic,20,16,FR,Ronald Ramon
+Q1,2:01,Australia,20,16,,Joe Ingles3pt jump shot missed
+Q1,2:01,Dominican Republic,20,16,RD,Luis Montero
+Q1,2:14,Australia,20,14,FC,Andrew Bogut
+Q1,2:14,Dominican Republic,20,16,LL_Pts_C,Ronald Roberts
+Q1,2:14,Dominican Republic,20,15,AS,Gelvis Solano
+Q1,2:14,Dominican Republic,20,15,LL_Pts_C,Ronald Roberts
+Q1,2:14,Dominican Republic,20,14,substituicao_entra,Luis Montero
+Q1,2:14,Dominican Republic,20,14,substituicao_sai,Gelvis Solano
+Q1,2:14,Dominican Republic,20,14,substituicao_entra,Ronald Ramon
+Q1,2:14,Dominican Republic,20,14,substituicao_sai,Eulis Baez
+Q1,2:14,Dominican Republic,20,14,substituicao_entra,Sadiel Rojas
+Q1,2:14,Dominican Republic,20,14,substituicao_sai,Victor Liz
+Q1,2:14,Dominican Republic,20,14,FR,Ronald Roberts
+Q1,2:28,Australia,20,14,3_Pts_T,Andrew Bogut
+Q1,2:28,Dominican Republic,20,14,RD,Gelvis Solano
+Q1,2:46,Australia,20,14,RO,Nic Kay
+Q1,2:46,Australia,20,14,,Chris Goulding3pt jump shot missed
+Q1,3:06,Dominican Republic,20,14,2_Pts_C,Victor Liz
+Q1,3:23,Australia,20,12,2_Pts_T,Chris Goulding
+Q1,3:23,Dominican Republic,20,12,RD,Rigoberto Mendoza
+Q1,3:38,Australia,20,12,RD,Nic Kay
+Q1,3:38,Australia,20,11,substituicao_entra,Joe Ingles
+Q1,3:38,Australia,20,11,substituicao_sai,Patty Mills
+Q1,3:38,Australia,20,11,FC,Patty Mills
+Q1,3:38,Dominican Republic,20,12,LL_Pts_T,Victor Liz
+Q1,3:38,Dominican Republic,20,12,LL_Pts_C,Victor Liz
+Q1,3:38,Dominican Republic,20,11,FR,Victor Liz
+Q1,3:53,Australia,20,11,LL_Pts_C,Patty Mills
+Q1,3:53,Australia,19,11,LL_Pts_C,Patty Mills
+Q1,3:53,Australia,18,11,AS,Andrew Bogut
+Q1,3:53,Australia,18,11,LL_Pts_C,Patty Mills
+Q1,3:53,Australia,17,11,substituicao_entra,Nathan Sobey
+Q1,3:53,Australia,17,11,substituicao_sai,Matthew Dellavedova
+Q1,3:53,Australia,17,11,FR,Patty Mills
+Q1,3:53,Dominican Republic,17,11,substituicao_entra,Ronald Roberts
+Q1,3:53,Dominican Republic,17,11,substituicao_sai,Eloy Vargas
+Q1,3:53,Dominican Republic,17,11,substituicao_entra,Rigoberto Mendoza
+Q1,3:53,Dominican Republic,17,11,substituicao_sai,Sadiel Rojas
+Q1,3:53,Dominican Republic,17,11,tempo_tecnico,
+Q1,3:53,Dominican Republic,17,11,FC,Victor Liz
+Q1,4:04,Australia,17,11,BR,Matthew Dellavedova
+Q1,4:04,Dominican Republic,17,11,ER,Gelvis Solano
+Q1,4:22,Australia,17,11,AS,Matthew Dellavedova
+Q1,4:22,Australia,17,11,,Andrew Bogutalley oop made
+Q1,4:28,Australia,15,11,substituicao_entra,Andrew Bogut
+Q1,4:28,Australia,15,11,substituicao_sai,Aron Baynes
+Q1,4:34,Australia,15,11,RD,Chris Goulding
+Q1,4:34,Dominican Republic,15,11,2_Pts_T,Eloy Vargas
+Q1,4:53,Australia,15,11,AS,Nic Kay
+Q1,4:53,Australia,15,11,,Patty Mills3pt jump shot made
+Q1,5:06,Dominican Republic,12,11,AS,Gelvis Solano
+Q1,5:06,Dominican Republic,12,11,,Eloy Vargaslayup made
+Q1,5:23,Australia,12,9,FC,Patty Mills
+Q1,5:23,Dominican Republic,12,9,FR,Sadiel Rojas
+Q1,5:35,Australia,12,9,AS,Patty Mills
+Q1,5:35,Australia,12,9,,Chris Goulding3pt jump shot made
+Q1,5:41,Australia,9,9,substituicao_entra,Chris Goulding
+Q1,5:41,Australia,9,9,substituicao_sai,Joe Ingles
+Q1,5:41,Australia,9,9,FR,Nic Kay
+Q1,5:41,Dominican Republic,9,9,FC,Gelvis Solano
+Q1,5:57,Dominican Republic,9,9,AS,Gelvis Solano
+Q1,5:57,Dominican Republic,9,9,2_Pts_C,Eloy Vargas
+Q1,6:17,Australia,9,7,AS,Patty Mills
+Q1,6:17,Australia,9,7,,Aron Bayneslayup made
+Q1,6:23,Australia,7,7,FR,Patty Mills
+Q1,6:23,Dominican Republic,7,7,FC,Eloy Vargas
+Q1,6:38,Dominican Republic,7,7,2_Pts_C,Victor Liz
+Q1,6:42,Australia,7,5,ER,Matthew Dellavedova
+Q1,6:42,Dominican Republic,7,5,BR,Victor Liz
+Q1,6:55,Australia,7,5,RD,Nic Kay
+Q1,6:55,Australia,7,4,substituicao_entra,Nic Kay
+Q1,6:55,Australia,7,4,substituicao_sai,Jock  Landale
+Q1,6:55,Australia,7,4,FC,Jock  Landale
+Q1,6:55,Dominican Republic,7,5,LL_Pts_T,Victor Liz
+Q1,6:55,Dominican Republic,7,5,LL_Pts_C,Victor Liz
+Q1,6:55,Dominican Republic,7,4,FR,Victor Liz
+Q1,6:57,Dominican Republic,7,4,RO,Victor Liz
+Q1,6:57,Dominican Republic,7,4,2_Pts_T,Eulis Baez
+Q1,7:01,Australia,7,4,FC,Jock  Landale
+Q1,7:01,Dominican Republic,7,4,FR,Eulis Baez
+Q1,7:01,Dominican Republic,7,4,RO,
+Q1,7:03,Dominican Republic,7,4,2_Pts_T,Gelvis Solano
+Q1,7:21,Australia,7,4,2_Pts_C,Jock  Landale
+Q1,7:39,Dominican Republic,5,4,,Eulis Baezlayup made
+Q1,7:41,Dominican Republic,5,2,RO,Eulis Baez
+Q1,7:42,Dominican Republic,5,2,,Eloy Vargas2pt jump shot missed
+Q1,7:48,Australia,5,2,FC,Joe Ingles
+Q1,7:48,Dominican Republic,5,2,FR,Victor Liz
+Q1,8:07,Australia,5,2,AS,Matthew Dellavedova
+Q1,8:07,Australia,5,2,2_Pts_C,Aron Baynes
+Q1,8:21,Dominican Republic,3,2,2_Pts_C,Victor Liz
+Q1,8:27,Australia,3,0,ER,Jock  Landale
+Q1,8:27,Dominican Republic,3,0,BR,Victor Liz
+Q1,8:42,Australia,3,0,RD,Joe Ingles
+Q1,8:42,Dominican Republic,3,0,3_Pts_T,Eulis Baez
+Q1,9:05,Australia,3,0,AS,Patty Mills
+Q1,9:05,Australia,3,0,,Matthew Dellavedova3pt jump shot made
+Q1,9:12,Australia,0,0,BR,Jock  Landale
+Q1,9:12,Dominican Republic,0,0,ER,Gelvis Solano
+Q1,9:30,Australia,0,0,2_Pts_T,Jock  Landale
+Q1,9:30,Dominican Republic,0,0,RD,Eulis Baez
+Q1,9:30,Dominican Republic,0,0,TO,Eulis Baez
+Q1,9:36,Australia,0,0,RD,Aron Baynes
+Q1,9:36,Dominican Republic,0,0,2_Pts_T,Victor Liz
+Q1,9:40,Australia,0,0,ER,Patty Mills
+Q1,9:40,Dominican Republic,0,0,BR,Victor Liz
+Q1,9:53,Australia,0,0,FR,Joe Ingles
+Q1,9:53,Dominican Republic,0,0,FC,Sadiel Rojas
+Q2,0:00,Dominican Republic,40,38,AS,Dagoberto Peña
+Q2,0:00,Dominican Republic,40,38,,Luis Montero3pt jump shot made
+Q2,0:05,Australia,40,35,ER,Joe Ingles
+Q2,0:05,Dominican Republic,40,35,BR,Dagoberto Peña
+Q2,0:22,Australia,40,35,substituicao_entra,Aron Baynes
+Q2,0:22,Australia,40,35,substituicao_sai,Andrew Bogut
+Q2,0:22,Australia,40,33,FC,Joe Ingles
+Q2,0:22,Dominican Republic,40,35,LL_Pts_C,Eloy Vargas
+Q2,0:22,Dominican Republic,40,34,AS,Ronald Ramon
+Q2,0:22,Dominican Republic,40,34,LL_Pts_C,Eloy Vargas
+Q2,0:22,Dominican Republic,40,33,substituicao_entra,Juan Miguel Suero
+Q2,0:22,Dominican Republic,40,33,substituicao_sai,Ronald Ramon
+Q2,0:22,Dominican Republic,40,33,FR,Eloy Vargas
+Q2,0:46,Australia,40,33,AS,Nic Kay
+Q2,0:46,Australia,40,33,,Chris Goulding3pt jump shot made
+Q2,0:51,Australia,37,33,RO,Nic Kay
+Q2,0:51,Australia,37,33,,Matthew Dellavedova3pt jump shot missed
+Q2,10:00,Australia,24,19,FC_T,Joe Ingles
+Q2,10:00,Dominican Republic,24,19,muda_bola,
+Q2,10:00,Dominican Republic,24,19,FC_T,Sadiel Rojas
+Q2,1:08,Dominican Republic,37,33,substituicao_entra,Ronald Ramon
+Q2,1:08,Dominican Republic,37,33,substituicao_sai,Gelvis Solano
+Q2,1:08,Dominican Republic,37,33,ER,Gelvis Solano
+Q2,1:20,Australia,37,33,2_Pts_T,Andrew Bogut
+Q2,1:20,Dominican Republic,37,33,RD,Eloy Vargas
+Q2,1:30,Australia,37,31,substituicao_entra,Matthew Dellavedova
+Q2,1:30,Australia,37,31,substituicao_sai,Patty Mills
+Q2,1:30,Australia,37,31,FC,Andrew Bogut
+Q2,1:30,Dominican Republic,37,33,LL_Pts_C,Eloy Vargas
+Q2,1:30,Dominican Republic,37,32,AS,Gelvis Solano
+Q2,1:30,Dominican Republic,37,32,LL_Pts_C,Eloy Vargas
+Q2,1:30,Dominican Republic,37,31,FR,Eloy Vargas
+Q2,1:43,Australia,37,31,AS,Joe Ingles
+Q2,1:43,Australia,37,31,2_Pts_C,Andrew Bogut
+Q2,1:54,Australia,35,31,RD,Joe Ingles
+Q2,1:54,Dominican Republic,35,31,,Luis Montero2pt jump shot missed
+Q2,2:16,Australia,35,31,substituicao_entra,Nic Kay
+Q2,2:16,Australia,35,31,substituicao_sai,Mitch Creek
+Q2,2:16,Australia,35,31,ER ,
+Q2,2:17,Australia,35,31,,Chris Goulding3pt jump shot missed
+Q2,2:43,Australia,35,31,RD,Andrew Bogut
+Q2,2:43,Dominican Republic,35,31,LL_Pts_T,Gelvis Solano
+Q2,2:44,Australia,35,31,substituicao_entra,Joe Ingles
+Q2,2:44,Australia,35,31,substituicao_sai,Aron Baynes
+Q2,2:44,Australia,35,31,substituicao_entra,Andrew Bogut
+Q2,2:44,Australia,35,31,substituicao_sai,Matthew Dellavedova
+Q2,2:44,Australia,35,31,FC,Aron Baynes
+Q2,2:44,Dominican Republic,35,31,substituicao_entra,Luis Montero
+Q2,2:44,Dominican Republic,35,31,substituicao_sai,Eulis Baez
+Q2,2:44,Dominican Republic,35,31,substituicao_entra,Dagoberto Peña
+Q2,2:44,Dominican Republic,35,31,substituicao_sai,Rigoberto Mendoza
+Q2,2:44,Dominican Republic,35,31,FR,Gelvis Solano
+Q2,2:44,Dominican Republic,35,31,2_Pts_C,Gelvis Solano
+Q2,2:51,Australia,35,29,,Aron Baynes2pt jump shot missed
+Q2,2:51,Dominican Republic,35,29,RD,Eloy Vargas
+Q2,3:02,Australia,35,29,RD,Aron Baynes
+Q2,3:02,Dominican Republic,35,29,2_Pts_T,Eloy Vargas
+Q2,3:31,Australia,35,29,AS,Aron Baynes
+Q2,3:31,Australia,35,29,,Chris Goulding3pt jump shot made
+Q2,3:48,Australia,32,29,RD,Matthew Dellavedova
+Q2,3:48,Dominican Republic,32,29,,Eulis Baez3pt jump shot missed
+Q2,4:11,Australia,32,29,,Aron Baynes3pt jump shot missed
+Q2,4:11,Dominican Republic,32,29,RD,Eloy Vargas
+Q2,4:21,Australia,32,29,RD,Aron Baynes
+Q2,4:21,Dominican Republic,32,29,,Victor Liz3pt jump shot missed
+Q2,4:38,Australia,32,29,LL_Pts_C,Chris Goulding
+Q2,4:38,Australia,31,29,AS,Aron Baynes
+Q2,4:38,Australia,31,29,LL_Pts_C,Chris Goulding
+Q2,4:38,Australia,30,29,FR,Chris Goulding
+Q2,4:38,Dominican Republic,32,29,substituicao_entra,Eloy Vargas
+Q2,4:38,Dominican Republic,32,29,substituicao_sai,Ronald Roberts
+Q2,4:38,Dominican Republic,30,29,FC,Ronald Roberts
+Q2,4:54,Australia,30,29,RD,Aron Baynes
+Q2,4:54,Dominican Republic,30,29,2_Pts_T,Eulis Baez
+Q2,5:16,Australia,30,29,,Patty Mills3pt jump shot missed
+Q2,5:16,Dominican Republic,30,29,RD,Rigoberto Mendoza
+Q2,5:25,Australia,30,29,RD,Patty Mills
+Q2,5:25,Dominican Republic,30,29,2_Pts_T,Gelvis Solano
+Q2,5:47,Australia,30,29,substituicao_entra,Chris Goulding
+Q2,5:47,Australia,30,29,substituicao_sai,Jock  Landale
+Q2,5:47,Australia,30,29,ER,Jock  Landale
+Q2,5:56,Dominican Republic,30,29,,Gelvis Solano2pt jump shot made
+Q2,6:15,Australia,30,27,ER,Jock  Landale
+Q2,6:15,Dominican Republic,30,27,BR,Victor Liz
+Q2,6:23,Australia,30,27,FR,Aron Baynes
+Q2,6:23,Dominican Republic,30,27,FC,Ronald Roberts
+Q2,6:32,Australia,30,27,RD,Aron Baynes
+Q2,6:32,Australia,30,27,FC,Aron Baynes
+Q2,6:32,Dominican Republic,30,27,LL_Pts_T,Gelvis Solano
+Q2,6:32,Dominican Republic,30,27,LL_Pts_T,Gelvis Solano
+Q2,6:32,Dominican Republic,30,27,FR,Gelvis Solano
+Q2,6:48,Australia,30,27,substituicao_entra,Mitch Creek
+Q2,6:48,Australia,30,27,substituicao_sai,Joe Ingles
+Q2,6:48,Australia,30,27,ER,Patty Mills
+Q2,6:59,Dominican Republic,30,27,AS,Gelvis Solano
+Q2,6:59,Dominican Republic,30,27,,Ronald Robertsdunk made
+Q2,7:17,Australia,30,25,AS,Joe Ingles
+Q2,7:17,Australia,30,25,2_Pts_C,Aron Baynes
+Q2,7:30,Dominican Republic,28,25,2_Pts_C,Gelvis Solano
+Q2,7:43,Australia,28,23,,Matthew Dellavedova3pt jump shot missed
+Q2,7:43,Dominican Republic,28,23,RD,Eulis Baez
+Q2,7:45,Australia,28,23,RO,
+Q2,7:47,Australia,28,23,2_Pts_T,Matthew Dellavedova
+Q2,7:47,Dominican Republic,28,23,TO,Ronald Roberts
+Q2,8:13,Dominican Republic,28,23,AS,Gelvis Solano
+Q2,8:13,Dominican Republic,28,23,,Ronald Robertsdunk made
+Q2,8:28,Australia,28,21,substituicao_entra,Jock  Landale
+Q2,8:28,Australia,28,21,substituicao_sai,Nic Kay
+Q2,8:28,Australia,28,21,AS,Matthew Dellavedova
+Q2,8:28,Australia,28,21,,Nic Kaylayup made
+Q2,8:28,Dominican Republic,28,21,substituicao_entra,Eulis Baez
+Q2,8:28,Dominican Republic,28,21,substituicao_sai,Ronald Ramon
+Q2,8:28,Dominican Republic,28,21,substituicao_entra,Victor Liz
+Q2,8:28,Dominican Republic,28,21,substituicao_sai,Sadiel Rojas
+Q2,8:28,Dominican Republic,28,21,tempo_tecnico,
+Q2,8:38,Australia,26,21,RD,Nic Kay
+Q2,8:38,Dominican Republic,26,21,,Sadiel Rojas3pt jump shot missed
+Q2,8:50,Australia,26,21,AS,Matthew Dellavedova
+Q2,8:50,Australia,26,21,,Patty Millslayup made
+Q2,8:54,Australia,24,21,substituicao_entra,Aron Baynes
+Q2,8:54,Australia,24,21,substituicao_sai,Andrew Bogut
+Q2,8:54,Australia,24,21,substituicao_entra,Patty Mills
+Q2,8:54,Australia,24,21,substituicao_sai,Chris Goulding
+Q2,8:54,Australia,24,21,FR,Joe Ingles
+Q2,8:54,Dominican Republic,24,21,substituicao_entra,Gelvis Solano
+Q2,8:54,Dominican Republic,24,21,substituicao_sai,Luis Montero
+Q2,8:54,Dominican Republic,24,21,substituicao_entra,Luis Montero
+Q2,8:54,Dominican Republic,24,21,substituicao_sai,Ronald Roberts
+Q2,8:54,Dominican Republic,24,21,FC,Luis Montero
+Q2,9:05,Australia,24,21,RD,Joe Ingles
+Q2,9:06,Dominican Republic,24,21,,Gelvis Solano3pt jump shot missed
+Q2,9:19,Australia,24,21,2_Pts_T,Andrew Bogut
+Q2,9:19,Dominican Republic,24,21,RD,Gelvis Solano
+Q2,9:39,Dominican Republic,24,21,2_Pts_C,Sadiel Rojas
+Q3,0:04,Australia,57,52,,Chris Goulding3pt jump shot missed
+Q3,0:04,Dominican Republic,57,52,RD,Victor Liz
+Q3,0:23,Australia,57,52,RD,Nic Kay
+Q3,0:23,Dominican Republic,57,52,,Rigoberto Mendoza2pt jump shot missed
+Q3,0:32,Australia,57,52,substituicao_entra,Jock  Landale
+Q3,0:32,Australia,57,52,substituicao_sai,Andrew Bogut
+Q3,0:32,Dominican Republic,57,52,substituicao_entra,Gelvis Solano
+Q3,0:32,Dominican Republic,57,52,substituicao_sai,Sadiel Rojas
+Q3,0:37,Australia,57,52,ER,Chris Goulding
+Q3,0:37,Dominican Republic,57,52,BR,Sadiel Rojas
+Q3,0:40,Australia,57,52,RD,Chris Goulding
+Q3,0:41,Dominican Republic,57,52,2_Pts_T,Victor Liz
+Q3,0:50,Australia,57,52,,Nic Kay2pt jump shot missed
+Q3,0:50,Dominican Republic,57,52,RD,Luis Montero
+Q3,10:00,Australia,40,38,muda_bola,
+Q3,1:16,Dominican Republic,57,52,2_Pts_C,Rigoberto Mendoza
+Q3,1:33,Dominican Republic,57,50,RD,Luis Montero
+Q3,1:34,Australia,57,50,,Chris Goulding3pt jump shot missed
+Q3,1:37,Australia,57,50,RO,Andrew Bogut
+Q3,1:39,Australia,57,50,,Andrew Boguttip in missed
+Q3,1:39,Australia,57,50,RO,Andrew Bogut
+Q3,1:39,Australia,57,50,2_Pts_T,Chris Goulding
+Q3,1:49,Australia,57,50,RO,Andrew Bogut
+Q3,1:49,Australia,57,50,,Joe Ingles3pt jump shot missed
+Q3,2:13,Dominican Republic,57,50,2_Pts_C,Rigoberto Mendoza
+Q3,2:30,Australia,57,48,2_Pts_C,Nic Kay
+Q3,2:30,Australia,55,48,RO,Nic Kay
+Q3,2:31,Australia,55,48,,Nic Kay2pt jump shot missed
+Q3,2:46,Australia,55,48,RD,Joe Ingles
+Q3,2:46,Dominican Republic,55,48,3_Pts_T,Ronald Roberts
+Q3,3:14,Australia,55,48,AS,Andrew Bogut
+Q3,3:14,Australia,55,48,,Joe Ingleslayup made
+Q3,3:27,Australia,53,46,substituicao_entra,Mitch Creek
+Q3,3:27,Australia,53,46,substituicao_sai,Patty Mills
+Q3,3:27,Australia,53,46,FC,Patty Mills
+Q3,3:27,Dominican Republic,53,48,LL_Pts_C,Victor Liz
+Q3,3:27,Dominican Republic,53,47,LL_Pts_C,Victor Liz
+Q3,3:27,Dominican Republic,53,46,substituicao_entra,Victor Liz
+Q3,3:27,Dominican Republic,53,46,substituicao_sai,Ronald Ramon
+Q3,3:27,Dominican Republic,53,46,FR,Ronald Ramon
+Q3,3:32,Australia,53,46,FC,Nic Kay
+Q3,3:32,Dominican Republic,53,46,substituicao_entra,Luis Montero
+Q3,3:32,Dominican Republic,53,46,substituicao_sai,Eulis Baez
+Q3,3:32,Dominican Republic,53,46,FR,Eulis Baez
+Q3,3:44,Australia,53,46,LL_Pts_C,Nic Kay
+Q3,3:44,Australia,52,46,FR,Nic Kay
+Q3,3:44,Australia,52,46,AS,Patty Mills
+Q3,3:44,Australia,52,46,,Nic Kaylayup made
+Q3,3:44,Dominican Republic,52,46,FC,Rigoberto Mendoza
+Q3,3:48,Australia,50,46,BR,Patty Mills
+Q3,3:48,Dominican Republic,50,46,ER,Rigoberto Mendoza
+Q3,4:05,Australia,50,46,substituicao_entra,Joe Ingles
+Q3,4:05,Australia,50,46,substituicao_sai,Matthew Dellavedova
+Q3,4:05,Dominican Republic,50,46,substituicao_entra,Ronald Ramon
+Q3,4:05,Dominican Republic,50,46,substituicao_sai,Gelvis Solano
+Q3,4:05,Dominican Republic,50,46,substituicao_entra,Sadiel Rojas
+Q3,4:05,Dominican Republic,50,46,substituicao_sai,Victor Liz
+Q3,4:05,Dominican Republic,50,46,tempo_tecnico,
+Q3,4:06,Australia,50,46,AS,Andrew Bogut
+Q3,4:06,Australia,50,46,,Patty Mills2pt jump shot made
+Q3,4:21,Australia,48,46,RD,Nic Kay
+Q3,4:21,Dominican Republic,48,46,2_Pts_T,Gelvis Solano
+Q3,4:41,Australia,48,46,AS,Andrew Bogut
+Q3,4:41,Australia,48,46,,Patty Millslayup made
+Q3,4:51,Australia,46,46,substituicao_entra,Nic Kay
+Q3,4:51,Australia,46,46,substituicao_sai,Jock  Landale
+Q3,4:51,Australia,46,46,tempo_tecnico,
+Q3,4:51,Dominican Republic,46,46,substituicao_entra,Ronald Roberts
+Q3,4:51,Dominican Republic,46,46,substituicao_sai,Eloy Vargas
+Q3,4:51,Dominican Republic,46,46,substituicao_entra,Rigoberto Mendoza
+Q3,4:51,Dominican Republic,46,46,substituicao_sai,Sadiel Rojas
+Q3,4:51,Dominican Republic,46,46,AS,Gelvis Solano
+Q3,4:51,Dominican Republic,46,46,,Eulis Baezlayup made
+Q3,5:00,Australia,46,44,,Chris Goulding3pt jump shot missed
+Q3,5:00,Dominican Republic,46,44,RD,Gelvis Solano
+Q3,5:23,Dominican Republic,46,44,AS,Victor Liz
+Q3,5:23,Dominican Republic,46,44,2_Pts_C,Eloy Vargas
+Q3,5:44,Australia,46,42,2_Pts_T,Andrew Bogut
+Q3,5:44,Dominican Republic,46,42,RD,Eloy Vargas
+Q3,6:04,Australia,46,42,RD,Andrew Bogut
+Q3,6:04,Australia,46,42,substituicao_entra,Andrew Bogut
+Q3,6:04,Australia,46,42,substituicao_sai,Aron Baynes
+Q3,6:04,Australia,46,42,substituicao_entra,Chris Goulding
+Q3,6:04,Australia,46,42,substituicao_sai,Joe Ingles
+Q3,6:04,Australia,46,42,FC_T,Aron Baynes
+Q3,6:04,Australia,46,42,FC,Aron Baynes
+Q3,6:04,Dominican Republic,46,42,LL_Pts_T,Gelvis Solano
+Q3,6:04,Dominican Republic,46,42,LL_Pts_T,Gelvis Solano
+Q3,6:04,Dominican Republic,46,42,FC_T,Gelvis Solano
+Q3,6:04,Dominican Republic,46,42,FR,Gelvis Solano
+Q3,6:21,Australia,46,42,AS,Matthew Dellavedova
+Q3,6:21,Australia,46,42,,Aron Baynesdunk made
+Q3,6:33,Dominican Republic,44,42,AS,Eulis Baez
+Q3,6:33,Dominican Republic,44,42,2_Pts_C,Sadiel Rojas
+Q3,6:49,Australia,44,40,ER,Joe Ingles
+Q3,7:04,Australia,44,40,RD,Joe Ingles
+Q3,7:04,Dominican Republic,44,40,2_Pts_T,Eulis Baez
+Q3,7:21,Australia,44,40,ER,Matthew Dellavedova
+Q3,7:21,Dominican Republic,44,40,BR,Eloy Vargas
+Q3,7:32,Australia,44,40,FR,Jock  Landale
+Q3,7:32,Australia,44,40,RD,
+Q3,7:32,Dominican Republic,44,40,FC,Eulis Baez
+Q3,7:33,Dominican Republic,44,40,,Gelvis Solano3pt jump shot missed
+Q3,7:59,Australia,44,40,AS,Patty Mills
+Q3,7:59,Australia,44,40,,Jock  Landaledunk made
+Q3,8:05,Australia,42,40,RD,Patty Mills
+Q3,8:06,Australia,42,40,TO,Aron Baynes
+Q3,8:06,Dominican Republic,42,40,2_Pts_T,Victor Liz
+Q3,8:27,Australia,42,40,AS,Matthew Dellavedova
+Q3,8:27,Australia,42,40,2_Pts_C,Aron Baynes
+Q3,8:37,Australia,40,40,BR,Joe Ingles
+Q3,8:37,Dominican Republic,40,40,ER,Victor Liz
+Q3,8:44,Australia,40,40,,Aron Baynes3pt jump shot missed
+Q3,8:44,Dominican Republic,40,40,RD,Victor Liz
+Q3,9:02,Dominican Republic,40,40,AS,Gelvis Solano
+Q3,9:02,Dominican Republic,40,40,2_Pts_C,Victor Liz
+Q3,9:16,Dominican Republic,40,38,RD,Sadiel Rojas
+Q3,9:17,Australia,40,38,,Patty Mills3pt jump shot missed
+Q3,9:28,Australia,40,38,RD,Matthew Dellavedova
+Q3,9:28,Dominican Republic,40,38,,Eloy Vargas2pt jump shot missed
+Q3,9:45,Australia,40,38,FC,Aron Baynes
+Q3,9:45,Dominican Republic,40,38,FR,Eloy Vargas
+Q3,9:45,Dominican Republic,40,38,RD,Eloy Vargas
+Q3,9:46,Australia,40,38,2_Pts_T,Matthew Dellavedova
+Q4,0:03,Dominican Republic,82,76,AS,Dagoberto Peña
+Q4,0:03,Dominican Republic,82,76,,Eulis Baez3pt jump shot made
+Q4,0:08,Australia,82,73,substituicao_entra,Chris Goulding
+Q4,0:08,Australia,82,73,substituicao_sai,Jock  Landale
+Q4,0:08,Australia,82,73,substituicao_entra,Nathan Sobey
+Q4,0:08,Australia,82,73,substituicao_sai,Patty Mills
+Q4,0:08,Australia,82,73,FC,Jock  Landale
+Q4,0:08,Dominican Republic,82,73,FR,Eulis Baez
+Q4,0:10,Australia,82,73,,Patty Mills3pt jump shot missed
+Q4,0:10,Dominican Republic,82,73,RD,Eulis Baez
+Q4,0:14,Australia,82,73,RO,Patty Mills
+Q4,0:14,Australia,82,73,2_Pts_T,Patty Mills
+Q4,0:36,Dominican Republic,82,73,,Ronald Robertsdunk made
+Q4,0:37,Dominican Republic,82,71,RO,Ronald Roberts
+Q4,0:37,Dominican Republic,82,71,,Dagoberto Peña3pt jump shot missed
+Q4,0:46,Dominican Republic,82,71,RD,Rigoberto Mendoza
+Q4,0:47,Australia,82,71,2_Pts_T,Mitch Creek
+Q4,0:47,Dominican Republic,82,71,TO,Eulis Baez
+Q4,0:49,Australia,82,71,RO,Mitch Creek
+Q4,0:49,Australia,82,71,LL_Pts_T,Patty Mills
+Q4,0:49,Australia,82,71,LL_Pts_C,Patty Mills
+Q4,0:49,Australia,81,71,substituicao_entra,Mitch Creek
+Q4,0:49,Australia,81,71,substituicao_sai,Joe Ingles
+Q4,0:49,Australia,81,71,FR,Patty Mills
+Q4,0:49,Dominican Republic,81,71,substituicao_entra,Dagoberto Peña
+Q4,0:49,Dominican Republic,81,71,substituicao_sai,Gelvis Solano
+Q4,0:49,Dominican Republic,81,71,FC,Gelvis Solano
+Q4,0:55,Dominican Republic,81,71,AS,Gelvis Solano
+Q4,0:55,Dominican Republic,81,71,2_Pts_C,Rigoberto Mendoza
+Q4,10:00,Dominican Republic,57,52,muda_bola,
+Q4,1:15,Australia,81,69,AS,Patty Mills
+Q4,1:15,Australia,81,69,LL_Pts_C,Jock  Landale
+Q4,1:15,Australia,80,69,LL_Pts_T,Jock  Landale
+Q4,1:15,Australia,80,69,FR,Jock  Landale
+Q4,1:15,Dominican Republic,80,69,FC,Eulis Baez
+Q4,1:34,Australia,80,69,BR,Patty Mills
+Q4,1:34,Dominican Republic,80,69,ER,Ronald Roberts
+Q4,1:43,Australia,80,69,ER,Patty Mills
+Q4,1:43,Dominican Republic,80,69,BR,Eulis Baez
+Q4,1:48,Australia,80,69,RD,Patty Mills
+Q4,1:48,Dominican Republic,80,69,,Eulis Baez3pt jump shot missed
+Q4,1:56,Australia,80,69,AS,Patty Mills
+Q4,1:56,Australia,80,69,,Matthew Dellavedova3pt jump shot made
+Q4,1:56,Dominican Republic,80,69,tempo_tecnico,
+Q4,2:17,Australia,77,69,RD,Joe Ingles
+Q4,2:18,Australia,77,69,TO,Jock  Landale
+Q4,2:18,Dominican Republic,77,69,2_Pts_T,Rigoberto Mendoza
+Q4,2:27,Australia,77,69,substituicao_entra,Matthew Dellavedova
+Q4,2:27,Australia,77,69,substituicao_sai,Chris Goulding
+Q4,2:27,Australia,77,69,LL_Pts_C,Chris Goulding
+Q4,2:27,Australia,76,69,LL_Pts_C,Chris Goulding
+Q4,2:27,Australia,75,69,substituicao_entra,Jock  Landale
+Q4,2:27,Australia,75,69,substituicao_sai,Andrew Bogut
+Q4,2:27,Australia,75,69,FR,Chris Goulding
+Q4,2:27,Dominican Republic,75,69,substituicao_entra,Ronald Roberts
+Q4,2:27,Dominican Republic,75,69,substituicao_sai,Eloy Vargas
+Q4,2:27,Dominican Republic,75,69,substituicao_entra,Gelvis Solano
+Q4,2:27,Dominican Republic,75,69,substituicao_sai,Sadiel Rojas
+Q4,2:27,Dominican Republic,75,69,FC,Sadiel Rojas
+Q4,2:32,Australia,75,69,BR,Joe Ingles
+Q4,2:32,Dominican Republic,75,69,ER,Sadiel Rojas
+Q4,2:35,Dominican Republic,75,69,RO,Sadiel Rojas
+Q4,2:35,Dominican Republic,75,69,,Victor Liz3pt jump shot missed
+Q4,2:44,Australia,75,69,2_Pts_T,Patty Mills
+Q4,2:44,Dominican Republic,75,69,RD,Eloy Vargas
+Q4,3:07,Dominican Republic,75,69,2_Pts_C,Rigoberto Mendoza
+Q4,3:24,Australia,75,67,,Chris Goulding3pt jump shot missed
+Q4,3:24,Dominican Republic,75,67,RD,Rigoberto Mendoza
+Q4,3:32,Australia,75,67,RO,Andrew Bogut
+Q4,3:32,Australia,75,67,2_Pts_T,Andrew Bogut
+Q4,3:45,Australia,75,67,RD,Andrew Bogut
+Q4,3:45,Dominican Republic,75,67,,Victor Liz2pt jump shot missed
+Q4,3:57,Australia,75,67,ER,Nic Kay
+Q4,3:57,Dominican Republic,75,67,BR,Rigoberto Mendoza
+Q4,4:10,Dominican Republic,75,67,ER,Eloy Vargas
+Q4,4:27,Australia,75,67,LL_Pts_C,Chris Goulding
+Q4,4:27,Australia,74,67,AS,Andrew Bogut
+Q4,4:27,Australia,74,67,LL_Pts_C,Chris Goulding
+Q4,4:27,Australia,73,67,FR,Chris Goulding
+Q4,4:27,Dominican Republic,73,67,FC,Eulis Baez
+Q4,4:35,Australia,73,67,RO,Joe Ingles
+Q4,4:35,Australia,73,67,,Nic Kay3pt jump shot missed
+Q4,4:46,Australia,73,65,substituicao_entra,Joe Ingles
+Q4,4:46,Australia,73,65,substituicao_sai,Matthew Dellavedova
+Q4,4:46,Australia,73,65,FC,Andrew Bogut
+Q4,4:46,Dominican Republic,73,67,LL_Pts_C,Victor Liz
+Q4,4:46,Dominican Republic,73,66,LL_Pts_C,Victor Liz
+Q4,4:46,Dominican Republic,73,65,FR,Victor Liz
+Q4,5:02,Australia,73,65,AS,Matthew Dellavedova
+Q4,5:02,Australia,73,65,,Andrew Bogutlayup made
+Q4,5:25,Dominican Republic,71,65,AS,Victor Liz
+Q4,5:25,Dominican Republic,71,65,,Eulis Baez3pt jump shot made
+Q4,5:40,Australia,71,62,,Patty Mills3pt jump shot missed
+Q4,5:40,Dominican Republic,71,62,RD,Eloy Vargas
+Q4,5:49,Australia,71,62,substituicao_entra,Andrew Bogut
+Q4,5:49,Australia,71,62,substituicao_sai,Jock  Landale
+Q4,5:49,Australia,71,62,FR,Matthew Dellavedova
+Q4,5:49,Dominican Republic,71,62,substituicao_entra,Sadiel Rojas
+Q4,5:49,Dominican Republic,71,62,substituicao_sai,Gelvis Solano
+Q4,5:49,Dominican Republic,71,62,FC,Gelvis Solano
+Q4,5:54,Dominican Republic,71,62,AS,Victor Liz
+Q4,5:54,Dominican Republic,71,62,,Eloy Vargasdunk made
+Q4,6:06,Australia,71,60,substituicao_entra,Nic Kay
+Q4,6:06,Australia,71,60,substituicao_sai,Mitch Creek
+Q4,6:06,Australia,71,60,substituicao_entra,Chris Goulding
+Q4,6:06,Australia,71,60,substituicao_sai,Joe Ingles
+Q4,6:06,Australia,71,60,AS,Mitch Creek
+Q4,6:06,Australia,71,60,,Jock  Landalealley oop made
+Q4,6:06,Dominican Republic,71,60,substituicao_entra,Eulis Baez
+Q4,6:06,Dominican Republic,71,60,substituicao_sai,Luis Montero
+Q4,6:06,Dominican Republic,71,60,tempo_tecnico,
+Q4,6:14,Australia,69,60,BR,Joe Ingles
+Q4,6:14,Dominican Republic,69,60,ER,Gelvis Solano
+Q4,6:22,Australia,69,60,ER,Matthew Dellavedova
+Q4,6:22,Dominican Republic,69,60,BR,Rigoberto Mendoza
+Q4,6:26,Australia,69,60,BR,Matthew Dellavedova
+Q4,6:26,Dominican Republic,69,60,ER,Eloy Vargas
+Q4,6:39,Australia,69,60,AS,Patty Mills
+Q4,6:39,Australia,69,60,,Jock  Landale3pt jump shot made
+Q4,6:52,Dominican Republic,66,60,2_Pts_C,Eloy Vargas
+Q4,7:05,Australia,66,58,2_Pts_C,Patty Mills
+Q4,7:25,Australia,64,56,FC,Matthew Dellavedova
+Q4,7:25,Dominican Republic,64,58,LL_Pts_C,Luis Montero
+Q4,7:25,Dominican Republic,64,57,LL_Pts_C,Luis Montero
+Q4,7:25,Dominican Republic,64,56,FR,Luis Montero
+Q4,7:31,Dominican Republic,64,56,RD,Victor Liz
+Q4,7:32,Australia,64,56,2_Pts_T,Joe Ingles
+Q4,7:32,Dominican Republic,64,56,TO,Eloy Vargas
+Q4,7:47,Australia,64,56,FR,Matthew Dellavedova
+Q4,7:47,Dominican Republic,64,56,FC,Gelvis Solano
+Q4,7:50,Dominican Republic,64,56,ER,Rigoberto Mendoza
+Q4,8:04,Australia,64,56,ER double dribble,Patty Mills
+Q4,8:09,Australia,64,56,RD,Jock  Landale
+Q4,8:09,Dominican Republic,64,56,,Gelvis Solano2pt jump shot missed
+Q4,8:30,Australia,64,56,3_Pts_C,Patty Mills
+Q4,8:48,Australia,61,56,LL_Pts_C,Patty Mills
+Q4,8:48,Australia,60,56,substituicao_entra,Matthew Dellavedova
+Q4,8:48,Australia,60,56,substituicao_sai,Nic Kay
+Q4,8:48,Dominican Republic,60,56,FC_T,Victor Liz
+Q4,8:54,Dominican Republic,60,56,AS,Victor Liz
+Q4,8:54,Dominican Republic,60,56,,Rigoberto Mendozalayup made
+Q4,9:22,Australia,60,54,AS,Patty Mills
+Q4,9:22,Australia,60,54,,Jock  Landale3pt jump shot made
+Q4,9:38,Dominican Republic,57,54,AS,Rigoberto Mendoza
+Q4,9:38,Dominican Republic,57,54,2_Pts_C,Eloy Vargas

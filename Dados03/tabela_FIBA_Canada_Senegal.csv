@@ -1,0 +1,501 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Senegal,11,22,,Mouhammad Faye3pt jump shot missed
+Q1,0:03,Canada,11,22,ER ,
+Q1,0:03,Canada,11,22,,Conor Morgan3pt jump shot missed
+Q1,0:19,Canada,11,22,FR,Owen Klassen
+Q1,0:19,Senegal,11,22,FC,Xane Dalmeida
+Q1,0:31,Canada,11,22,RD,Owen Klassen
+Q1,0:31,Senegal,11,22,3_Pts_T,Xane Dalmeida
+Q1,0:50,Canada,11,22,2_Pts_C,Cory Joseph
+Q1,10:00,Canada,0,0,inicio_quarto,Khem Birch
+Q1,1:03,Canada,9,22,tempo_tecnico,
+Q1,1:03,Senegal,9,22,AS,Xane Dalmeida
+Q1,1:03,Senegal,9,22,,Mouhammad Faye3pt jump shot made
+Q1,1:10,Canada,9,19,2_Pts_T,Phil Scrubb
+Q1,1:10,Senegal,9,19,RD,Xane Dalmeida
+Q1,1:10,Senegal,9,19,TO,Hamady Ndiaye
+Q1,1:36,Senegal,9,19,2_Pts_C,Djibril Thiam
+Q1,1:52,Canada,9,17,substituicao_entra,Thomas Scrubb
+Q1,1:52,Canada,9,17,substituicao_sai,Kyle Wiltjer
+Q1,1:52,Canada,9,17,substituicao_entra,Conor Morgan
+Q1,1:52,Canada,9,17,substituicao_sai,Melvin Ejim
+Q1,1:52,Canada,9,17,substituicao_entra,Cory Joseph
+Q1,1:52,Canada,9,17,substituicao_sai,Kevin Pangos
+Q1,1:52,Senegal,9,17,substituicao_entra,Hamady Ndiaye
+Q1,1:52,Senegal,9,17,substituicao_sai,Youssoupha Ndoye
+Q1,1:52,Senegal,9,17,substituicao_entra,Babacar Toure
+Q1,1:52,Senegal,9,17,substituicao_sai,Lamine Sambe
+Q1,1:52,Senegal,9,17,substituicao_entra,Djibril Thiam
+Q1,1:52,Senegal,9,17,substituicao_sai,Maurice Ndour
+Q1,1:52,Senegal,9,17,RD,
+Q1,1:52,Senegal,9,17,TO,Xane Dalmeida
+Q1,1:54,Canada,9,17,,Owen Klassen2pt jump shot missed
+Q1,2:07,Canada,9,17,RD,Kevin Pangos
+Q1,2:07,Senegal,9,17,,Youssoupha Ndoye3pt jump shot missed
+Q1,2:28,Canada,9,17,,Phil Scrubb3pt jump shot missed
+Q1,2:28,Senegal,9,17,RD,Maurice Ndour
+Q1,2:34,Canada,9,17,RO,Owen Klassen
+Q1,2:34,Canada,9,17,,Owen Klassen2pt jump shot missed
+Q1,2:50,Senegal,9,17,2_Pts_C,Xane Dalmeida
+Q1,2:57,Canada,9,15,,Kevin Pangos3pt jump shot missed
+Q1,2:57,Senegal,9,15,RD,Maurice Ndour
+Q1,3:04,Canada,9,15,RO,Owen Klassen
+Q1,3:04,Canada,9,15,2_Pts_T,Kyle Wiltjer
+Q1,3:12,Canada,9,15,RD,Kyle Wiltjer
+Q1,3:12,Senegal,9,15,,Youssoupha Ndoye2pt jump shot missed
+Q1,3:31,Canada,9,15,,Melvin Ejim2pt jump shot missed
+Q1,3:31,Senegal,9,15,RD,Youssoupha Ndoye
+Q1,3:50,Senegal,9,15,2_Pts_C,Mouhammad Faye
+Q1,4:07,Canada,9,13,3_Pts_T,Phil Scrubb
+Q1,4:07,Senegal,9,13,RD,Youssoupha Ndoye
+Q1,4:18,Canada,9,12,substituicao_entra,Phil Scrubb
+Q1,4:18,Canada,9,12,substituicao_sai,Khem Birch
+Q1,4:18,Canada,9,12,substituicao_entra,Owen Klassen
+Q1,4:18,Canada,9,12,substituicao_sai,Cory Joseph
+Q1,4:18,Canada,9,12,FC,Melvin Ejim
+Q1,4:18,Senegal,9,13,LL_Pts_C,Mouhammad Faye
+Q1,4:18,Senegal,9,12,LL_Pts_T,Mouhammad Faye
+Q1,4:18,Senegal,9,12,FR,Mouhammad Faye
+Q1,4:34,Canada,9,12,,Kyle Wiltjer3pt jump shot missed
+Q1,4:34,Senegal,9,12,RD,Mouhammad Faye
+Q1,4:49,Senegal,9,12,AS,Xane Dalmeida
+Q1,4:49,Senegal,9,12,,Youssoupha Ndoyelayup made
+Q1,5:06,Canada,9,10,2_Pts_C,Kevin Pangos
+Q1,5:15,Canada,7,10,RD,Melvin Ejim
+Q1,5:15,Senegal,7,10,2_Pts_T,Mouhammad Faye
+Q1,5:37,Canada,7,10,ER,Khem Birch
+Q1,5:54,Senegal,7,10,AS,Lamine Sambe
+Q1,5:54,Senegal,7,10,,Youssoupha Ndoye2pt jump shot made
+Q1,6:11,Canada,7,8,2_Pts_C,Kyle Wiltjer
+Q1,6:17,Canada,5,8,RO,Kyle Wiltjer
+Q1,6:17,Canada,5,8,,Kyle Wiltjer3pt jump shot missed
+Q1,6:27,Canada,5,8,FR,Khem Birch
+Q1,6:27,Senegal,5,8,FC,Youssoupha Ndoye
+Q1,6:44,Canada,5,8,FR,Melvin Ejim
+Q1,6:44,Senegal,5,8,FC_O,Mouhammad Faye
+Q1,6:55,Canada,5,8,AS,Kyle Wiltjer
+Q1,6:55,Canada,5,8,,Khem Birchdunk made
+Q1,7:04,Canada,3,8,RD,Melvin Ejim
+Q1,7:04,Canada,3,8,TO,Melvin Ejim
+Q1,7:04,Senegal,3,8,2_Pts_T,Maurice Ndour
+Q1,7:10,Senegal,3,8,RO,Maurice Ndour
+Q1,7:10,Senegal,3,8,2_Pts_T,Xane Dalmeida
+Q1,7:21,Canada,3,8,2_Pts_T,Cory Joseph
+Q1,7:21,Senegal,3,8,RD,Mouhammad Faye
+Q1,7:33,Canada,3,8,RO,Kevin Pangos
+Q1,7:33,Canada,3,8,,Kyle Wiltjer3pt jump shot missed
+Q1,7:47,Senegal,3,8,AS,Lamine Sambe
+Q1,7:47,Senegal,3,8,,Mouhammad Faye3pt jump shot made
+Q1,8:02,Canada,3,5,,Khem Birchlayup missed
+Q1,8:02,Senegal,3,5,RD,Maurice Ndour
+Q1,8:13,Canada,3,3,FC,Kevin Pangos
+Q1,8:13,Senegal,3,5,LL_Pts_C,Xane Dalmeida
+Q1,8:13,Senegal,3,4,LL_Pts_T,Xane Dalmeida
+Q1,8:13,Senegal,3,4,AS,Youssoupha Ndoye
+Q1,8:13,Senegal,3,4,LL_Pts_C,Xane Dalmeida
+Q1,8:13,Senegal,3,3,FR,Xane Dalmeida
+Q1,8:37,Canada,3,3,AS,Melvin Ejim
+Q1,8:37,Canada,3,3,,Kyle Wiltjer3pt jump shot made
+Q1,8:46,Canada,0,3,RD,Melvin Ejim
+Q1,8:46,Senegal,0,3,,Lamine Sambe3pt jump shot missed
+Q1,9:08,Canada,0,3,ER,Kyle Wiltjer
+Q1,9:30,Senegal,0,3,AS,Lamine Sambe
+Q1,9:30,Senegal,0,3,,Mouhammad Faye3pt jump shot made
+Q1,9:45,Canada,0,0,2_Pts_T,Khem Birch
+Q1,9:45,Senegal,0,0,RD,Maurice Ndour
+Q2,0:00,Canada,33,32,,Kevin Pangos3pt jump shot missed
+Q2,0:01,Canada,33,32,BR,Kyle Wiltjer
+Q2,0:01,Senegal,33,32,ER,Xane Dalmeida
+Q2,0:25,Canada,33,32,substituicao_entra,Thomas Scrubb
+Q2,0:25,Canada,33,32,substituicao_sai,Cory Joseph
+Q2,0:25,Canada,33,32,ER,Cory Joseph
+Q2,0:37,Canada,33,32,RD,Kevin Pangos
+Q2,0:37,Canada,33,31,FC,Cory Joseph
+Q2,0:37,Senegal,33,32,LL_Pts_T,Momar Ndoye
+Q2,0:37,Senegal,33,32,LL_Pts_C,Momar Ndoye
+Q2,0:37,Senegal,33,31,FR,Momar Ndoye
+Q2,0:57,Canada,33,31,3_Pts_T,Kevin Pangos
+Q2,0:57,Senegal,33,31,RD,Djibril Thiam
+Q2,10:00,Senegal,0,0,muda_bola,
+Q2,1:25,Senegal,33,31,AS,Xane Dalmeida
+Q2,1:25,Senegal,33,31,,Babacar Toure3pt jump shot made
+Q2,1:42,Canada,33,28,2_Pts_C,Cory Joseph
+Q2,1:55,Canada,31,28,substituicao_entra,Kyle Wiltjer
+Q2,1:55,Canada,31,28,substituicao_sai,Brady Heslip
+Q2,1:55,Canada,31,28,tempo_tecnico,
+Q2,1:55,Canada,31,28,RO,
+Q2,1:55,Senegal,31,28,substituicao_entra,Babacar Toure
+Q2,1:55,Senegal,31,28,substituicao_sai,Youssoupha Ndoye
+Q2,1:55,Senegal,31,28,substituicao_entra,Hamady Ndiaye
+Q2,1:55,Senegal,31,28,substituicao_sai,Lamine Sambe
+Q2,1:55,Senegal,31,28,substituicao_entra,Djibril Thiam
+Q2,1:55,Senegal,31,28,substituicao_sai,Maurice Ndour
+Q2,1:56,Canada,31,28,2_Pts_T,Cory Joseph
+Q2,2:14,Canada,31,28,RD,Khem Birch
+Q2,2:14,Senegal,31,28,2_Pts_T,Xane Dalmeida
+Q2,2:24,Canada,31,28,3_Pts_T,Cory Joseph
+Q2,2:24,Senegal,31,28,RD,Xane Dalmeida
+Q2,2:39,Canada,31,28,RD,Brady Heslip
+Q2,2:39,Senegal,31,28,,Maurice Ndour3pt jump shot missed
+Q2,2:52,Canada,31,28,,Melvin Ejim3pt jump shot missed
+Q2,2:52,Senegal,31,28,RD,Youssoupha Ndoye
+Q2,3:01,Canada,31,28,BR,Cory Joseph
+Q2,3:01,Senegal,31,28,ER,Maurice Ndour
+Q2,3:18,Canada,31,28,,Brady Heslip3pt jump shot missed
+Q2,3:18,Senegal,31,28,RD,Youssoupha Ndoye
+Q2,3:29,Senegal,31,28,ER ,
+Q2,3:35,Canada,31,28,TO,Khem Birch
+Q2,3:35,Senegal,31,28,substituicao_entra,Momar Ndoye
+Q2,3:35,Senegal,31,28,substituicao_sai,Mouhammad Faye
+Q2,3:35,Senegal,31,28,RO,
+Q2,3:35,Senegal,31,28,2_Pts_T,Lamine Sambe
+Q2,3:47,Senegal,31,28,RO,Xane Dalmeida
+Q2,3:47,Senegal,31,28,,Lamine Sambe3pt jump shot missed
+Q2,4:06,Canada,31,28,AS,Cory Joseph
+Q2,4:06,Canada,31,28,,Kevin Pangos3pt jump shot made
+Q2,4:13,Canada,28,28,RO,Melvin Ejim
+Q2,4:13,Canada,28,28,,Khem Birch3pt jump shot missed
+Q2,4:17,Canada,28,28,BR,Khem Birch
+Q2,4:17,Senegal,28,28,ER,Mouhammad Faye
+Q2,4:46,Canada,28,28,AS,Khem Birch
+Q2,4:46,Canada,28,28,,Brady Heslip3pt jump shot made
+Q2,4:53,Canada,25,28,RD,Khem Birch
+Q2,4:53,Senegal,25,28,,Mouhammad Faye3pt jump shot missed
+Q2,5:16,Canada,25,28,2_Pts_C,Cory Joseph
+Q2,5:25,Canada,23,28,RO,Khem Birch
+Q2,5:25,Canada,23,28,,Brady Heslip3pt jump shot missed
+Q2,5:32,Senegal,23,28,AS,Maurice Ndour
+Q2,5:32,Senegal,23,28,,Lamine Sambelayup made
+Q2,5:48,Canada,23,26,FC,Cory Joseph
+Q2,5:48,Senegal,23,26,FR,Youssoupha Ndoye
+Q2,5:55,Canada,23,26,,Melvin Ejim3pt jump shot missed
+Q2,5:55,Senegal,23,26,RD,Maurice Ndour
+Q2,6:02,Canada,23,26,RD,Brady Heslip
+Q2,6:02,Senegal,23,26,2_Pts_T,Maurice Ndour
+Q2,6:23,Canada,23,26,AS,Melvin Ejim
+Q2,6:23,Canada,23,26,,Khem Birchdunk made
+Q2,6:23,Canada,21,26,BR,Melvin Ejim
+Q2,6:23,Senegal,23,26,tempo_tecnico,
+Q2,6:23,Senegal,21,26,ER,Maurice Ndour
+Q2,6:40,Canada,21,26,LL_Pts_C,Cory Joseph
+Q2,6:40,Canada,20,26,LL_Pts_C,Cory Joseph
+Q2,6:40,Canada,19,26,LL_Pts_C,Cory Joseph
+Q2,6:40,Canada,18,26,FR,Cory Joseph
+Q2,6:40,Senegal,18,26,FC,Mouhammad Faye
+Q2,6:45,Canada,18,26,RD,Melvin Ejim
+Q2,6:45,Senegal,18,26,,Mouhammad Faye3pt jump shot missed
+Q2,6:55,Canada,18,26,ER,Melvin Ejim
+Q2,6:55,Senegal,18,26,BR,Youssoupha Ndoye
+Q2,7:04,Canada,18,26,BR,Khem Birch
+Q2,7:04,Senegal,18,26,ER,Maurice Ndour
+Q2,7:17,Canada,18,26,LL_Pts_C,Khem Birch
+Q2,7:17,Canada,17,26,LL_Pts_T,Khem Birch
+Q2,7:17,Canada,17,26,substituicao_entra,Melvin Ejim
+Q2,7:17,Canada,17,26,substituicao_sai,Thomas Scrubb
+Q2,7:17,Canada,17,26,substituicao_entra,Kevin Pangos
+Q2,7:17,Canada,17,26,substituicao_sai,Conor Morgan
+Q2,7:17,Canada,17,26,FR,Khem Birch
+Q2,7:17,Canada,17,26,RO,Khem Birch
+Q2,7:17,Canada,17,26,2_Pts_T,Cory Joseph
+Q2,7:17,Senegal,18,26,substituicao_entra,Youssoupha Ndoye
+Q2,7:17,Senegal,18,26,substituicao_sai,Babacar Toure
+Q2,7:17,Senegal,18,26,substituicao_entra,Mouhammad Faye
+Q2,7:17,Senegal,18,26,substituicao_sai,Hamady Ndiaye
+Q2,7:17,Senegal,17,26,substituicao_entra,Xane Dalmeida
+Q2,7:17,Senegal,17,26,substituicao_sai,Djibril Thiam
+Q2,7:17,Senegal,17,26,FC,Babacar Toure
+Q2,7:17,Senegal,17,26,TO,Hamady Ndiaye
+Q2,7:29,Canada,17,26,RD,Thomas Scrubb
+Q2,7:29,Senegal,17,26,2_Pts_T,Babacar Toure
+Q2,7:47,Canada,17,26,2_Pts_T,Brady Heslip
+Q2,7:47,Senegal,17,26,RD,Maurice Ndour
+Q2,8:07,Senegal,17,26,2_Pts_C,Lamine Sambe
+Q2,8:23,Canada,17,24,LL_Pts_C,Brady Heslip
+Q2,8:23,Canada,16,24,LL_Pts_C,Brady Heslip
+Q2,8:23,Canada,15,24,AS,Cory Joseph
+Q2,8:23,Canada,15,24,LL_Pts_C,Brady Heslip
+Q2,8:23,Canada,14,24,FR,Brady Heslip
+Q2,8:23,Senegal,14,24,FC,Djibril Thiam
+Q2,8:32,Senegal,14,24,substituicao_entra,Lamine Sambe
+Q2,8:32,Senegal,14,24,substituicao_sai,Mouhammad Faye
+Q2,8:32,Senegal,14,24,substituicao_entra,Maurice Ndour
+Q2,8:32,Senegal,14,24,substituicao_sai,Xane Dalmeida
+Q2,8:32,Senegal,14,24,ER ,
+Q2,8:32,Senegal,14,24,,Djibril Thiam3pt jump shot missed
+Q2,9:00,Canada,14,24,AS,Thomas Scrubb
+Q2,9:00,Canada,14,24,,Conor Morgan3pt jump shot made
+Q2,9:05,Canada,11,24,muda_bola,
+Q2,9:05,Canada,11,24,RO,Khem Birch
+Q2,9:05,Canada,11,24,,Cory Joseph2pt jump shot missed
+Q2,9:09,Canada,11,24,RO,Cory Joseph
+Q2,9:09,Canada,11,24,,Khem Birch2pt turnaround jump shot blocked
+Q2,9:09,Senegal,11,24,TO,Hamady Ndiaye
+Q2,9:30,Senegal,11,24,AS,Djibril Thiam
+Q2,9:30,Senegal,11,24,,Hamady Ndiayedunk made
+Q2,9:44,Canada,0,0,FC,Thomas Scrubb
+Q2,9:44,Senegal,0,0,FR,Babacar Toure
+Q3,0:00,Senegal,59,46,,Lamine Sambe3pt jump shot missed
+Q3,0:04,Canada,59,46,ER,Conor Morgan
+Q3,0:04,Senegal,59,46,BR,Lamine Sambe
+Q3,0:08,Canada,59,46,FR,Kevin Pangos
+Q3,0:08,Senegal,59,46,FC,Lamine Sambe
+Q3,0:28,Canada,59,46,substituicao_entra,Kyle Wiltjer
+Q3,0:28,Canada,59,46,substituicao_sai,Thomas Scrubb
+Q3,0:28,Canada,59,46,substituicao_entra,Phil Scrubb
+Q3,0:28,Canada,59,46,substituicao_sai,Owen Klassen
+Q3,0:28,Senegal,59,46,substituicao_entra,Lamine Sambe
+Q3,0:28,Senegal,59,46,substituicao_sai,Momar Ndoye
+Q3,0:28,Senegal,59,46,substituicao_entra,Djibril Thiam
+Q3,0:28,Senegal,59,46,substituicao_sai,Mouhammad Faye
+Q3,0:28,Senegal,59,46,ER ,
+Q3,0:28,Senegal,59,46,,Mouhammad Faye3pt jump shot missed
+Q3,0:31,Canada,59,46,TO,Conor Morgan
+Q3,0:31,Senegal,59,46,RO,Mouhammad Faye
+Q3,0:31,Senegal,59,46,3_Pts_T,Xane Dalmeida
+Q3,0:53,Canada,59,46,,Kevin Pangos3pt jump shot made
+Q3,10:00,Senegal,0,0,muda_bola,
+Q3,1:02,Senegal,56,46,,Babacar Tourelayup made
+Q3,1:05,Senegal,56,44,RO,Hamady Ndiaye
+Q3,1:05,Senegal,56,44,,Momar Ndoyelayup missed
+Q3,1:11,Canada,56,44,ER,Conor Morgan
+Q3,1:11,Senegal,56,44,BR,Mouhammad Faye
+Q3,1:22,Canada,56,44,RO,Thomas Scrubb
+Q3,1:22,Canada,56,44,,Conor Morgan2pt jump shot missed
+Q3,1:30,Canada,56,44,RO,Conor Morgan
+Q3,1:30,Canada,56,44,2_Pts_T,Kevin Pangos
+Q3,1:34,Canada,56,44,BR,Kevin Pangos
+Q3,1:34,Senegal,56,44,ER,Xane Dalmeida
+Q3,1:48,Canada,56,44,FC,Owen Klassen
+Q3,1:48,Canada,56,44,,Brady Heslip3pt jump shot missed
+Q3,1:48,Senegal,56,44,FR,Hamady Ndiaye
+Q3,1:48,Senegal,56,44,RD,
+Q3,1:52,Canada,56,44,RO,Owen Klassen
+Q3,1:52,Canada,56,44,,Conor Morgan3pt jump shot missed
+Q3,2:12,Senegal,56,44,ER,Mouhammad Faye
+Q3,2:17,Canada,56,44,ER,Conor Morgan
+Q3,2:17,Senegal,56,44,BR,Momar Ndoye
+Q3,2:23,Canada,56,44,RO,Conor Morgan
+Q3,2:23,Canada,56,44,LL_Pts_T,Thomas Scrubb
+Q3,2:23,Canada,56,44,LL_Pts_C,Thomas Scrubb
+Q3,2:23,Canada,55,44,LL_Pts_T,Thomas Scrubb
+Q3,2:23,Canada,55,44,FR,Thomas Scrubb
+Q3,2:23,Senegal,55,44,FC,Mouhammad Faye
+Q3,2:33,Canada,55,44,RO,Brady Heslip
+Q3,2:33,Canada,55,44,2_Pts_T,Kevin Pangos
+Q3,2:42,Senegal,55,44,AS,Momar Ndoye
+Q3,2:42,Senegal,55,44,,Mouhammad Faye2pt jump shot made
+Q3,3:03,Canada,55,42,AS,Thomas Scrubb
+Q3,3:03,Canada,55,42,,Kevin Pangos3pt jump shot made
+Q3,3:11,Canada,52,42,substituicao_entra,Brady Heslip
+Q3,3:11,Canada,52,42,substituicao_sai,Cory Joseph
+Q3,3:11,Canada,52,42,FR,Owen Klassen
+Q3,3:11,Canada,52,42,AS,Conor Morgan
+Q3,3:11,Canada,52,42,2_Pts_C,Kevin Pangos
+Q3,3:11,Senegal,52,42,tempo_tecnico,
+Q3,3:11,Senegal,52,42,FC,Xane Dalmeida
+Q3,3:21,Canada,50,42,RD,Owen Klassen
+Q3,3:21,Senegal,50,42,,Mouhammad Faye3pt jump shot missed
+Q3,3:36,Canada,50,42,FC_O,Owen Klassen
+Q3,3:36,Senegal,50,42,FR,Xane Dalmeida
+Q3,3:39,Canada,50,42,RO,
+Q3,3:39,Canada,50,42,2_Pts_T,Cory Joseph
+Q3,3:47,Senegal,50,42,substituicao_entra,Babacar Toure
+Q3,3:47,Senegal,50,42,substituicao_sai,Youssoupha Ndoye
+Q3,3:59,Canada,50,42,substituicao_entra,Thomas Scrubb
+Q3,3:59,Canada,50,42,substituicao_sai,Kyle Wiltjer
+Q3,3:59,Canada,50,42,substituicao_entra,Owen Klassen
+Q3,3:59,Canada,50,42,substituicao_sai,Khem Birch
+Q3,3:59,Canada,50,42,substituicao_entra,Conor Morgan
+Q3,3:59,Canada,50,42,substituicao_sai,Melvin Ejim
+Q3,3:59,Senegal,50,42,substituicao_entra,Momar Ndoye
+Q3,3:59,Senegal,50,42,substituicao_sai,Lamine Sambe
+Q3,3:59,Senegal,50,42,substituicao_entra,Hamady Ndiaye
+Q3,3:59,Senegal,50,42,substituicao_sai,Maurice Ndour
+Q3,3:59,Senegal,50,42,ER,Lamine Sambe
+Q3,4:28,Canada,50,42,AS,Kevin Pangos
+Q3,4:28,Canada,50,42,,Cory Joseph3pt jump shot made
+Q3,4:40,Canada,47,42,RD,Kevin Pangos
+Q3,4:40,Senegal,47,42,2_Pts_T,Maurice Ndour
+Q3,4:52,Canada,47,42,2_Pts_C,Melvin Ejim
+Q3,5:23,Senegal,45,42,3_Pts_C,Lamine Sambe
+Q3,5:40,Canada,45,39,AS,Kevin Pangos
+Q3,5:40,Canada,45,39,,Cory Joseph3pt jump shot made
+Q3,5:54,Canada,42,37,FC,Kevin Pangos
+Q3,5:54,Senegal,42,39,LL_Pts_C,Youssoupha Ndoye
+Q3,5:54,Senegal,42,38,AS,Xane Dalmeida
+Q3,5:54,Senegal,42,38,LL_Pts_C,Youssoupha Ndoye
+Q3,5:54,Senegal,42,37,FR,Youssoupha Ndoye
+Q3,6:04,Canada,42,37,,Kyle Wiltjer3pt jump shot missed
+Q3,6:04,Senegal,42,37,RD,Maurice Ndour
+Q3,6:11,Canada,42,37,RD,Melvin Ejim
+Q3,6:11,Senegal,42,37,,Youssoupha Ndoye2pt jump shot missed
+Q3,6:32,Canada,42,37,,Cory Joseph3pt jump shot made
+Q3,6:45,Senegal,39,37,AS,Lamine Sambe
+Q3,6:45,Senegal,39,37,,Maurice Ndouralley oop made
+Q3,6:49,Canada,39,35,AS,Kevin Pangos
+Q3,6:49,Canada,39,35,,Melvin Ejimlayup made
+Q3,6:55,Canada,37,35,RD,Khem Birch
+Q3,6:55,Senegal,37,35,,Lamine Sambe3pt jump shot missed
+Q3,7:14,Canada,37,35,2_Pts_C,Cory Joseph
+Q3,7:35,Canada,35,35,BR,Kevin Pangos
+Q3,7:35,Canada,35,35,muda_bola,
+Q3,7:35,Senegal,35,35,ER,Xane Dalmeida
+Q3,7:47,Canada,35,35,FC_O,Khem Birch
+Q3,7:47,Senegal,35,35,FR,Lamine Sambe
+Q3,8:02,Senegal,35,35,3_Pts_C,Lamine Sambe
+Q3,8:35,Canada,35,32,AS,Kevin Pangos
+Q3,8:35,Canada,35,32,,Melvin Ejim2pt jump shot made
+Q3,8:42,Canada,0,0,RO,Khem Birch
+Q3,8:42,Canada,0,0,,Kyle Wiltjer3pt jump shot missed
+Q3,9:07,Senegal,0,0,ER,Maurice Ndour
+Q3,9:19,Canada,0,0,,Kyle Wiltjer3pt jump shot missed
+Q3,9:19,Senegal,0,0,RD,Maurice Ndour
+Q3,9:44,Canada,0,0,RD,Melvin Ejim
+Q3,9:44,Senegal,0,0,,Lamine Sambe3pt jump shot missed
+Q4,0:21,Canada,82,60,LL_Pts_C,Andrew Nembhard
+Q4,0:21,Canada,81,60,LL_Pts_C,Andrew Nembhard
+Q4,0:21,Canada,80,60,FR,Andrew Nembhard
+Q4,0:21,Senegal,80,60,FC,Maurice Ndour
+Q4,0:37,Canada,80,59,substituicao_entra,Thomas Scrubb
+Q4,0:37,Canada,80,59,substituicao_sai,Owen Klassen
+Q4,0:37,Canada,80,59,FC,Owen Klassen
+Q4,0:37,Senegal,80,60,LL_Pts_C,Hamady Ndiaye
+Q4,0:37,Senegal,80,59,LL_Pts_T,Hamady Ndiaye
+Q4,0:37,Senegal,80,59,FR,Hamady Ndiaye
+Q4,0:47,Canada,80,59,LL_Pts_T,Owen Klassen
+Q4,0:47,Canada,80,59,LL_Pts_C,Owen Klassen
+Q4,0:47,Canada,79,59,FR,Owen Klassen
+Q4,0:47,Senegal,80,59,RD,Maurice Ndour
+Q4,0:47,Senegal,79,59,FC,Lamine Sambe
+Q4,10:00,Senegal,0,0,muda_bola,
+Q4,1:01,Canada,79,59,RD,
+Q4,1:02,Senegal,79,59,,Maurice Ndour3pt jump shot missed
+Q4,1:16,Canada,79,59,,Owen Klassenalley oop missed
+Q4,1:16,Senegal,79,59,RD,Hamady Ndiaye
+Q4,1:29,Senegal,79,59,AS,Djibril Thiam
+Q4,1:29,Senegal,79,59,,Maurice Ndour3pt jump shot made
+Q4,1:53,Canada,79,56,AS,Andrew Nembhard
+Q4,1:53,Canada,79,56,,Kaza Kajami-Keane3pt jump shot made
+Q4,2:03,Canada,76,56,tempo_tecnico,
+Q4,2:05,Canada,76,56,substituicao_entra,Owen Klassen
+Q4,2:05,Canada,76,56,substituicao_sai,Khem Birch
+Q4,2:05,Canada,76,56,substituicao_entra,Conor Morgan
+Q4,2:05,Canada,76,56,substituicao_sai,Melvin Ejim
+Q4,2:05,Canada,76,56,substituicao_entra,Kaza Kajami-Keane
+Q4,2:05,Canada,76,56,substituicao_sai,Kevin Pangos
+Q4,2:05,Senegal,76,56,substituicao_entra,Djibril Thiam
+Q4,2:05,Senegal,76,56,substituicao_sai,Xane Dalmeida
+Q4,2:07,Senegal,76,56,AS,Lamine Sambe
+Q4,2:07,Senegal,76,56,,Xane Dalmeida3pt jump shot made
+Q4,2:25,Canada,76,53,AS,Kevin Pangos
+Q4,2:25,Canada,76,53,,Andrew Nembhard3pt jump shot made
+Q4,2:49,Canada,73,53,RD,Phil Scrubb
+Q4,2:49,Senegal,73,53,,Xane Dalmeida3pt jump shot missed
+Q4,3:08,Canada,73,53,ER,Andrew Nembhard
+Q4,3:08,Senegal,73,53,BR,Pape Diop
+Q4,3:15,Canada,73,53,RD,Andrew Nembhard
+Q4,3:15,Canada,73,53,TO,Khem Birch
+Q4,3:15,Senegal,73,53,2_Pts_T,Lamine Sambe
+Q4,3:32,Canada,73,53,2_Pts_T,Khem Birch
+Q4,3:32,Senegal,73,53,RD,Pape Diop
+Q4,3:45,Canada,73,53,RD,Andrew Nembhard
+Q4,3:45,Senegal,73,53,,Pape Diop2pt jump shot missed
+Q4,4:01,Senegal,73,53,RO,Maurice Ndour
+Q4,4:01,Senegal,73,53,,Lamine Sambe3pt jump shot missed
+Q4,4:07,Senegal,73,53,RO,Pape Diop
+Q4,4:07,Senegal,73,53,2_Pts_T,Maurice Ndour
+Q4,4:20,Canada,73,53,substituicao_entra,Andrew Nembhard
+Q4,4:20,Canada,73,53,substituicao_sai,Cory Joseph
+Q4,4:20,Senegal,73,53,substituicao_entra,Pape Diop
+Q4,4:20,Senegal,73,53,substituicao_sai,Momar Ndoye
+Q4,4:20,Senegal,73,53,tempo_tecnico,
+Q4,4:22,Canada,73,53,2_Pts_C,Melvin Ejim
+Q4,4:31,Canada,71,53,RO,Kevin Pangos
+Q4,4:31,Canada,71,53,3_Pts_T,Khem Birch
+Q4,4:43,Senegal,71,53,AS,Xane Dalmeida
+Q4,4:43,Senegal,71,53,,Maurice Ndour2pt jump shot made
+Q4,4:55,Canada,71,51,AS,Phil Scrubb
+Q4,4:55,Canada,71,51,,Cory Josephlayup made
+Q4,5:00,Canada,69,51,RO,
+Q4,5:00,Senegal,69,51,substituicao_entra,Lamine Sambe
+Q4,5:00,Senegal,69,51,substituicao_sai,Djibril Thiam
+Q4,5:01,Canada,69,51,3_Pts_T,Cory Joseph
+Q4,5:11,Canada,69,51,RO,Khem Birch
+Q4,5:11,Canada,69,51,,Kevin Pangos3pt jump shot missed
+Q4,5:19,Canada,69,51,RO,Khem Birch
+Q4,5:19,Canada,69,51,2_Pts_T,Melvin Ejim
+Q4,5:23,Canada,69,51,BR,Khem Birch
+Q4,5:23,Senegal,69,51,ER,Djibril Thiam
+Q4,5:36,Canada,69,51,LL_Pts_C,Melvin Ejim
+Q4,5:36,Canada,68,51,FR,Melvin Ejim
+Q4,5:36,Canada,68,51,2_Pts_C,Melvin Ejim
+Q4,5:36,Senegal,68,51,substituicao_entra,Hamady Ndiaye
+Q4,5:36,Senegal,68,51,substituicao_sai,Youssoupha Ndoye
+Q4,5:36,Senegal,68,51,FC,Maurice Ndour
+Q4,5:46,Canada,66,51,RD,Khem Birch
+Q4,5:46,Canada,66,51,TO,Khem Birch
+Q4,5:46,Senegal,66,51,2_Pts_T,Djibril Thiam
+Q4,5:59,Senegal,66,51,RO,Momar Ndoye
+Q4,5:59,Senegal,66,51,,Djibril Thiam3pt jump shot missed
+Q4,6:21,Canada,66,51,AS,Brady Heslip
+Q4,6:21,Canada,66,51,LL_Pts_C,Khem Birch
+Q4,6:21,Canada,65,51,LL_Pts_T,Khem Birch
+Q4,6:21,Canada,65,51,substituicao_entra,Kevin Pangos
+Q4,6:21,Canada,65,51,substituicao_sai,Brady Heslip
+Q4,6:21,Canada,65,51,FR,Khem Birch
+Q4,6:21,Senegal,65,51,FC,Youssoupha Ndoye
+Q4,6:38,Canada,65,49,FC,Phil Scrubb
+Q4,6:38,Senegal,65,51,LL_Pts_C,Maurice Ndour
+Q4,6:38,Senegal,65,50,AS,Xane Dalmeida
+Q4,6:38,Senegal,65,50,LL_Pts_C,Maurice Ndour
+Q4,6:38,Senegal,65,49,substituicao_entra,Momar Ndoye
+Q4,6:38,Senegal,65,49,substituicao_sai,Mouhammad Faye
+Q4,6:38,Senegal,65,49,FR,Maurice Ndour
+Q4,6:56,Canada,65,49,AS,Khem Birch
+Q4,6:56,Canada,65,49,,Phil Scrubb3pt jump shot made
+Q4,7:08,Canada,62,48,FC,Khem Birch
+Q4,7:08,Senegal,62,49,LL_Pts_C,Youssoupha Ndoye
+Q4,7:08,Senegal,62,48,LL_Pts_T,Youssoupha Ndoye
+Q4,7:08,Senegal,62,48,FR,Youssoupha Ndoye
+Q4,7:21,Canada,62,48,2_Pts_T,Melvin Ejim
+Q4,7:21,Senegal,62,48,RD,
+Q4,7:25,Canada,62,48,RO,Melvin Ejim
+Q4,7:25,Canada,62,48,,Brady Heslip3pt jump shot missed
+Q4,7:32,Canada,62,48,RD,Cory Joseph
+Q4,7:32,Senegal,62,48,,Mouhammad Faye3pt jump shot missed
+Q4,7:40,Canada,62,48,substituicao_entra,Khem Birch
+Q4,7:40,Canada,62,48,substituicao_sai,Owen Klassen
+Q4,7:40,Canada,62,48,substituicao_entra,Melvin Ejim
+Q4,7:40,Canada,62,48,substituicao_sai,Conor Morgan
+Q4,7:40,Canada,62,48,FC,Owen Klassen
+Q4,7:40,Senegal,62,48,FR,Youssoupha Ndoye
+Q4,7:50,Canada,62,48,ER backcourt violation,Conor Morgan
+Q4,7:54,Canada,62,48,FR,Cory Joseph
+Q4,7:54,Senegal,62,48,substituicao_entra,Mouhammad Faye
+Q4,7:54,Senegal,62,48,substituicao_sai,Lamine Sambe
+Q4,7:54,Senegal,62,48,FC,Lamine Sambe
+Q4,8:08,Senegal,62,48,AS,Xane Dalmeida
+Q4,8:08,Senegal,62,48,,Djibril Thiam2pt jump shot made
+Q4,8:16,Canada,62,46,,Cory Joseph2pt jump shot missed
+Q4,8:16,Senegal,62,46,RD,Maurice Ndour
+Q4,8:32,Senegal,62,46,ER,Maurice Ndour
+Q4,8:34,Canada,62,46,ER,Owen Klassen
+Q4,8:40,Canada,62,46,BR,Cory Joseph
+Q4,8:40,Senegal,62,46,ER,Lamine Sambe
+Q4,8:56,Canada,62,46,FC,Owen Klassen
+Q4,8:56,Senegal,62,46,FR,Youssoupha Ndoye
+Q4,9:14,Canada,62,46,AS,Cory Joseph
+Q4,9:14,Canada,62,46,LL_Pts_C,Owen Klassen
+Q4,9:14,Canada,61,46,LL_Pts_T,Owen Klassen
+Q4,9:14,Canada,61,46,FR,Owen Klassen
+Q4,9:14,Senegal,61,46,FC,Maurice Ndour
+Q4,9:25,Canada,61,46,FR,Conor Morgan
+Q4,9:25,Senegal,61,46,substituicao_entra,Youssoupha Ndoye
+Q4,9:25,Senegal,61,46,substituicao_sai,Babacar Toure
+Q4,9:25,Senegal,61,46,substituicao_entra,Maurice Ndour
+Q4,9:25,Senegal,61,46,substituicao_sai,Hamady Ndiaye
+Q4,9:25,Senegal,61,46,FC_O,Hamady Ndiaye
+Q4,9:40,Canada,61,46,AS,Phil Scrubb
+Q4,9:40,Canada,61,46,,Cory Josephlayup made
+Q4,9:45,Canada,0,0,RD,Phil Scrubb
+Q4,9:45,Senegal,0,0,,Xane Dalmeida3pt jump shot missed

@@ -1,0 +1,488 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Jordan,22,16,,Jordan Al-Dasuqi3pt jump shot missed
+Q1,0:01,Jordan,22,16,BR,Mohammad Hussein
+Q1,0:01,Senegal,22,16,ER,Lamine Sambe
+Q1,0:09,Jordan,22,16,ER,Mahmoud Abdeen
+Q1,0:29,Jordan,22,16,RD,Mohammad Hussein
+Q1,0:29,Senegal,22,16,,Maurice Ndour2pt jump shot missed
+Q1,0:48,Jordan,22,16,substituicao_entra,Mousa Alawadi
+Q1,0:48,Jordan,22,16,substituicao_sai,Dar Tucker
+Q1,0:48,Jordan,22,16,LL_Pts_C,Dar Tucker
+Q1,0:48,Jordan,21,16,FR,Dar Tucker
+Q1,0:48,Jordan,21,16,2_Pts_C,Dar Tucker
+Q1,0:48,Senegal,21,16,FC,Maurice Ndour
+Q1,0:50,Jordan,19,16,BR,Dar Tucker
+Q1,0:50,Senegal,19,16,ER,Lamine Sambe
+Q1,0:57,Jordan,19,16,substituicao_entra,Jordan Al-Dasuqi
+Q1,0:57,Jordan,19,16,substituicao_sai,Amin Abu Hawwas
+Q1,0:57,Jordan,19,16,FC,Mahmoud Abdeen
+Q1,0:57,Jordan,19,16,,Mahmoud Abdeen3pt jump shot made
+Q1,0:57,Senegal,19,16,substituicao_entra,Mouhammad Faye
+Q1,0:57,Senegal,19,16,substituicao_sai,Youssoupha Ndoye
+Q1,0:57,Senegal,19,16,FR,Lamine Sambe
+Q1,10:00,Senegal,0,0,inicio_quarto,Youssoupha Ndoye
+Q1,1:26,Senegal,16,16,AS,Ibrahima Faye
+Q1,1:26,Senegal,16,16,,Youssoupha Ndoyedunk made
+Q1,1:30,Jordan,16,14,ER,Amin Abu Hawwas
+Q1,1:30,Senegal,16,14,BR,Maurice Ndour
+Q1,1:41,Jordan,16,14,RD,Dar Tucker
+Q1,1:41,Senegal,16,14,3_Pts_T,Ibrahima Faye
+Q1,2:04,Jordan,16,14,substituicao_entra,Amin Abu Hawwas
+Q1,2:04,Jordan,16,14,substituicao_sai,Mousa Alawadi
+Q1,2:04,Jordan,16,14,LL_Pts_C,Dar Tucker
+Q1,2:04,Jordan,15,14,LL_Pts_C,Dar Tucker
+Q1,2:04,Jordan,14,14,LL_Pts_C,Dar Tucker
+Q1,2:04,Jordan,13,14,FR,Dar Tucker
+Q1,2:04,Senegal,16,14,substituicao_entra,Lamine Sambe
+Q1,2:04,Senegal,16,14,substituicao_sai,Mouhammad Faye
+Q1,2:04,Senegal,16,14,substituicao_entra,Pape Diop
+Q1,2:04,Senegal,16,14,substituicao_sai,Xane Dalmeida
+Q1,2:04,Senegal,13,14,FC,Mouhammad Faye
+Q1,2:13,Jordan,13,14,substituicao_entra,Mohammad Hussein
+Q1,2:13,Jordan,13,14,substituicao_sai,Yousef AbuWazaneh
+Q1,2:13,Jordan,13,14,substituicao_entra,Mahmoud Abdeen
+Q1,2:13,Jordan,13,14,substituicao_sai,Freddy Ibrahim
+Q1,2:13,Senegal,13,14,substituicao_entra,Ibrahima Faye
+Q1,2:13,Senegal,13,14,substituicao_sai,Lamine Sambe
+Q1,2:20,Jordan,13,14,RD,Dar Tucker
+Q1,2:20,Senegal,13,14,,Youssoupha Ndoye2pt jump shot missed
+Q1,2:41,Jordan,13,14,AS,Freddy Ibrahim
+Q1,2:41,Jordan,13,14,,Mousa Alawadi2pt jump shot made
+Q1,3:04,Senegal,11,14,AS,Xane Dalmeida
+Q1,3:04,Senegal,11,14,,Mouhammad Faye3pt jump shot made
+Q1,3:10,Jordan,11,11,2_Pts_T,Freddy Ibrahim
+Q1,3:10,Senegal,11,11,RD,Xane Dalmeida
+Q1,3:32,Jordan,11,11,RD,Dar Tucker
+Q1,3:32,Senegal,11,11,3_Pts_T,Maurice Ndour
+Q1,3:45,Jordan,11,11,2_Pts_C,Dar Tucker
+Q1,3:56,Senegal,9,11,ER,Lamine Sambe
+Q1,4:06,Jordan,9,11,2_Pts_T,Freddy Ibrahim
+Q1,4:06,Senegal,9,11,RD,Xane Dalmeida
+Q1,4:22,Jordan,9,11,RD,Dar Tucker
+Q1,4:22,Senegal,9,11,,Lamine Sambe3pt jump shot missed
+Q1,4:28,Senegal,9,11,RO,
+Q1,4:30,Senegal,9,11,,Maurice Ndourlayup missed
+Q1,4:48,Jordan,9,11,2_Pts_C,Freddy Ibrahim
+Q1,4:56,Jordan,7,11,RD,Freddy Ibrahim
+Q1,4:56,Senegal,7,11,2_Pts_T,Youssoupha Ndoye
+Q1,5:10,Jordan,7,11,LL_Pts_C,Freddy Ibrahim
+Q1,5:10,Jordan,6,11,LL_Pts_C,Freddy Ibrahim
+Q1,5:10,Jordan,5,11,FR,Freddy Ibrahim
+Q1,5:10,Senegal,5,11,FC,Xane Dalmeida
+Q1,5:15,Jordan,5,11,RO,Ahmad Alhamarsheh
+Q1,5:15,Jordan,5,11,,Mousa Alawadi3pt jump shot missed
+Q1,5:30,Jordan,5,11,RD,Dar Tucker
+Q1,5:30,Senegal,5,11,LL_Pts_T,Mouhammad Faye
+Q1,5:31,Jordan,5,11,substituicao_entra,Ahmad Alhamarsheh
+Q1,5:31,Jordan,5,11,substituicao_sai,Zaid Abbas
+Q1,5:31,Jordan,5,11,FC,Zaid Abbas
+Q1,5:31,Senegal,5,11,FR,Mouhammad Faye
+Q1,5:31,Senegal,5,11,,Mouhammad Faye3pt jump shot made
+Q1,5:50,Jordan,5,8,2_Pts_C,Dar Tucker
+Q1,5:55,Jordan,3,8,BR,Dar Tucker
+Q1,5:55,Senegal,3,8,ER,Maurice Ndour
+Q1,6:14,Jordan,3,8,FC_O,Zaid Abbas
+Q1,6:14,Senegal,3,8,FR,Youssoupha Ndoye
+Q1,6:25,Senegal,3,8,AS,Xane Dalmeida
+Q1,6:25,Senegal,3,8,,Youssoupha Ndoyelayup made
+Q1,6:39,Jordan,3,6,,Yousef AbuWazanehlayup missed
+Q1,6:39,Senegal,3,6,RD,Xane Dalmeida
+Q1,6:45,Jordan,3,6,FR,Zaid Abbas
+Q1,6:45,Senegal,3,6,FC,Lamine Sambe
+Q1,7:00,Jordan,3,4,FC,Yousef AbuWazaneh
+Q1,7:00,Senegal,3,6,LL_Pts_C,Youssoupha Ndoye
+Q1,7:00,Senegal,3,5,LL_Pts_C,Youssoupha Ndoye
+Q1,7:00,Senegal,3,4,FR,Youssoupha Ndoye
+Q1,7:14,Jordan,3,4,,Dar Tucker3pt jump shot missed
+Q1,7:14,Senegal,3,4,RD,Xane Dalmeida
+Q1,7:21,Jordan,3,4,RO,Dar Tucker
+Q1,7:21,Jordan,3,4,2_Pts_T,Yousef AbuWazaneh
+Q1,7:21,Senegal,3,4,TO,Mouhammad Faye
+Q1,7:30,Jordan,3,4,FR,Zaid Abbas
+Q1,7:30,Senegal,3,4,FC,Youssoupha Ndoye
+Q1,7:45,Senegal,3,4,AS,Xane Dalmeida
+Q1,7:45,Senegal,3,4,2_Pts_C,Maurice Ndour
+Q1,7:54,Jordan,3,2,,Dar Tucker2pt jump shot inside the paint blocked
+Q1,7:54,Senegal,3,2,RD,Youssoupha Ndoye
+Q1,7:54,Senegal,3,2,TO,Youssoupha Ndoye
+Q1,8:08,Jordan,3,2,RO,Yousef AbuWazaneh
+Q1,8:08,Jordan,3,2,,Mousa Alawadi3pt jump shot missed
+Q1,8:17,Senegal,3,2,ER,Maurice Ndour
+Q1,8:27,Senegal,3,2,RD,
+Q1,8:30,Jordan,3,2,3_Pts_T,Dar Tucker
+Q1,8:43,Jordan,3,2,RD,Zaid Abbas
+Q1,8:43,Senegal,3,2,,Mouhammad Faye3pt jump shot missed
+Q1,9:02,Jordan,3,2,AS,Dar Tucker
+Q1,9:02,Jordan,3,2,,Mousa Alawadi3pt jump shot made
+Q1,9:19,Senegal,0,2,AS,Lamine Sambe
+Q1,9:19,Senegal,0,2,2_Pts_C,Xane Dalmeida
+Q1,9:41,Jordan,0,0,2_Pts_T,Zaid Abbas
+Q1,9:41,Senegal,0,0,RD,Lamine Sambe
+Q1,9:41,Senegal,0,0,TO,Youssoupha Ndoye
+Q1,9:56,Senegal,0,0,ER,Mouhammad Faye
+Q2,0:00,Jordan,35,36,2_Pts_T,Dar Tucker
+Q2,0:00,Senegal,35,36,TO,Ibrahima Faye
+Q2,0:11,Jordan,35,34,FC,Mousa Alawadi
+Q2,0:11,Senegal,35,36,LL_Pts_C,Xane Dalmeida
+Q2,0:11,Senegal,35,35,LL_Pts_C,Xane Dalmeida
+Q2,0:11,Senegal,35,34,FR,Xane Dalmeida
+Q2,0:22,Jordan,35,34,2_Pts_T,Mousa Alawadi
+Q2,0:22,Senegal,35,34,RD,Youssoupha Ndoye
+Q2,0:36,Jordan,35,34,substituicao_entra,Mohammad Hussein
+Q2,0:36,Jordan,35,34,substituicao_sai,Yousef AbuWazaneh
+Q2,0:36,Senegal,35,34,substituicao_entra,Pape Diop
+Q2,0:36,Senegal,35,34,substituicao_sai,Mouhammad Faye
+Q2,0:43,Jordan,35,34,BR,Yousef AbuWazaneh
+Q2,0:43,Senegal,35,34,ER,Xane Dalmeida
+Q2,10:00,Jordan,0,0,muda_bola,
+Q2,1:04,Jordan,35,34,2_Pts_C,Dar Tucker
+Q2,1:18,Senegal,33,34,ER,Youssoupha Ndoye
+Q2,1:38,Jordan,33,34,,Yousef AbuWazanehtip in made
+Q2,1:38,Jordan,31,34,RO,Yousef AbuWazaneh
+Q2,1:38,Jordan,31,34,,Mousa Alawadi2pt jump shot missed
+Q2,1:57,Jordan,31,34,substituicao_entra,Mousa Alawadi
+Q2,1:57,Jordan,31,34,substituicao_sai,Amin Abu Hawwas
+Q2,1:57,Jordan,31,34,RD,
+Q2,2:00,Senegal,31,34,2_Pts_T,Xane Dalmeida
+Q2,2:10,Senegal,31,34,RO,Makhtar Gueye
+Q2,2:10,Senegal,31,34,,Mouhammad Faye3pt jump shot missed
+Q2,2:16,Jordan,31,34,ER ,
+Q2,2:22,Jordan,31,34,,Freddy Ibrahim3pt jump shot missed
+Q2,2:38,Jordan,31,34,FR,Yousef AbuWazaneh
+Q2,2:38,Senegal,31,34,FC,Ibrahima Faye
+Q2,2:50,Jordan,31,34,tempo_tecnico,
+Q2,2:51,Senegal,31,34,AS,Xane Dalmeida
+Q2,2:51,Senegal,31,34,,Mouhammad Faye3pt jump shot made
+Q2,2:57,Jordan,31,31,2_Pts_T,Dar Tucker
+Q2,2:57,Senegal,31,31,RD,Mouhammad Faye
+Q2,2:57,Senegal,31,31,TO,Youssoupha Ndoye
+Q2,3:14,Senegal,31,31,AS,Mouhammad Faye
+Q2,3:14,Senegal,31,31,,Makhtar Gueye3pt jump shot made
+Q2,3:33,Jordan,31,28,substituicao_entra,Ahmad Alhamarsheh
+Q2,3:33,Jordan,31,28,substituicao_sai,Zaid Abbas
+Q2,3:33,Jordan,31,28,FC_O,Zaid Abbas
+Q2,3:33,Senegal,31,28,FR,Ibrahima Faye
+Q2,3:40,Jordan,31,28,RD,Freddy Ibrahim
+Q2,3:40,Senegal,31,28,,Ibrahima Faye3pt jump shot missed
+Q2,4:04,Jordan,31,28,LL_Pts_C,Dar Tucker
+Q2,4:04,Jordan,30,28,LL_Pts_T,Dar Tucker
+Q2,4:04,Jordan,30,28,FR,Dar Tucker
+Q2,4:04,Senegal,30,28,FC,Ibrahima Faye
+Q2,4:05,Jordan,30,28,BR,Freddy Ibrahim
+Q2,4:05,Senegal,30,28,ER,Xane Dalmeida
+Q2,4:09,Jordan,30,28,substituicao_entra,Zaid Abbas
+Q2,4:09,Jordan,30,28,substituicao_sai,Ahmad Alhamarsheh
+Q2,4:09,Senegal,30,28,muda_bola,
+Q2,4:21,Jordan,30,28,,Ahmad Alhamarsheh3pt jump shot missed
+Q2,4:21,Senegal,30,28,RD,Makhtar Gueye
+Q2,4:42,Senegal,30,28,,Maurice Ndourlayup made
+Q2,4:44,Senegal,30,26,RO,
+Q2,4:44,Senegal,30,26,,Youssoupha Ndoyelayup missed
+Q2,4:49,Jordan,30,26,substituicao_entra,Amin Abu Hawwas
+Q2,4:49,Jordan,30,26,substituicao_sai,Mousa Alawadi
+Q2,4:51,Jordan,30,26,FC,Ahmad Alhamarsheh
+Q2,4:51,Senegal,30,26,FR,Youssoupha Ndoye
+Q2,5:03,Jordan,30,26,,Dar Tucker3pt jump shot made
+Q2,5:20,Jordan,27,25,FC,Ahmad Alhamarsheh
+Q2,5:20,Senegal,27,26,LL_Pts_T,Mouhammad Faye
+Q2,5:20,Senegal,27,25,substituicao_entra,Makhtar Gueye
+Q2,5:20,Senegal,27,25,substituicao_sai,Pape Diop
+Q2,5:20,Senegal,27,25,FR,Mouhammad Faye
+Q2,5:20,Senegal,27,25,,Mouhammad Fayelayup made
+Q2,5:22,Senegal,27,23,RO,Mouhammad Faye
+Q2,5:22,Senegal,27,23,2_Pts_T,Mouhammad Faye
+Q2,5:45,Jordan,27,23,LL_Pts_T,Yousef AbuWazaneh
+Q2,5:45,Jordan,27,23,AS,Mousa Alawadi
+Q2,5:45,Jordan,27,23,LL_Pts_C,Yousef AbuWazaneh
+Q2,5:45,Jordan,26,23,FR,Yousef AbuWazaneh
+Q2,5:45,Senegal,27,23,RD,Ibrahima Faye
+Q2,5:45,Senegal,26,23,FC,Youssoupha Ndoye
+Q2,6:00,Jordan,26,23,substituicao_entra,Ahmad Alhamarsheh
+Q2,6:00,Jordan,26,23,substituicao_sai,Zaid Abbas
+Q2,6:00,Senegal,26,23,ER,Xane Dalmeida
+Q2,6:07,Jordan,26,23,,Zaid Abbas2pt jump shot missed
+Q2,6:07,Senegal,26,23,RD,Mouhammad Faye
+Q2,6:30,Senegal,26,23,AS,Mouhammad Faye
+Q2,6:30,Senegal,26,23,2_Pts_C,Youssoupha Ndoye
+Q2,6:48,Jordan,26,21,AS,Freddy Ibrahim
+Q2,6:48,Jordan,26,21,,Zaid Abbasdunk made
+Q2,6:54,Jordan,24,21,BR,Dar Tucker
+Q2,6:54,Senegal,24,21,ER,Ibrahima Faye
+Q2,7:04,Jordan,24,21,ER,Mousa Alawadi
+Q2,7:04,Senegal,24,21,BR,Mouhammad Faye
+Q2,7:30,Senegal,24,21,AS,Ibrahima Faye
+Q2,7:30,Senegal,24,21,,Pape Diop2pt jump shot made
+Q2,7:48,Senegal,24,19,RD,
+Q2,7:49,Jordan,24,19,,Zaid Abbas2pt jump shot missed
+Q2,8:07,Jordan,24,19,RD,Zaid Abbas
+Q2,8:07,Senegal,24,19,3_Pts_T,Ibrahima Faye
+Q2,8:20,Jordan,24,19,substituicao_entra,Zaid Abbas
+Q2,8:20,Jordan,24,19,substituicao_sai,Ahmad Alhamarsheh
+Q2,8:20,Jordan,24,19,LL_Pts_C,Dar Tucker
+Q2,8:20,Jordan,23,19,LL_Pts_C,Dar Tucker
+Q2,8:20,Jordan,22,19,FR,Dar Tucker
+Q2,8:20,Senegal,22,19,substituicao_entra,Youssoupha Ndoye
+Q2,8:20,Senegal,22,19,substituicao_sai,Maurice Ndour
+Q2,8:20,Senegal,22,19,FC,Maurice Ndour
+Q2,8:34,Jordan,22,19,RO,Mousa Alawadi
+Q2,8:34,Jordan,22,19,2_Pts_T,Dar Tucker
+Q2,8:34,Senegal,22,19,TO,Ibrahima Faye
+Q2,8:38,Jordan,22,19,BR,Mousa Alawadi
+Q2,8:38,Senegal,22,19,ER,Xane Dalmeida
+Q2,8:44,Jordan,22,19,2_Pts_T,Freddy Ibrahim
+Q2,8:44,Senegal,22,19,RD,Pape Diop
+Q2,8:54,Senegal,22,19,ER ,
+Q2,9:18,Senegal,22,19,RD,
+Q2,9:21,Jordan,22,19,,Mousa Alawadi3pt jump shot missed
+Q2,9:39,Jordan,22,18,substituicao_entra,Freddy Ibrahim
+Q2,9:39,Jordan,22,18,substituicao_sai,Mahmoud Abdeen
+Q2,9:39,Jordan,22,18,substituicao_entra,Yousef AbuWazaneh
+Q2,9:39,Jordan,22,18,substituicao_sai,Mohammad Hussein
+Q2,9:39,Jordan,22,18,substituicao_entra,Dar Tucker
+Q2,9:39,Jordan,22,18,substituicao_sai,Jordan Al-Dasuqi
+Q2,9:39,Jordan,22,18,FC,Jordan Al-Dasuqi
+Q2,9:39,Senegal,22,19,LL_Pts_C,Pape Diop
+Q2,9:39,Senegal,22,18,FR,Pape Diop
+Q2,9:39,Senegal,22,18,2_Pts_C,Pape Diop
+Q2,9:43,Jordan,0,0,ER,Mohammad Hussein
+Q2,9:43,Senegal,0,0,BR,Pape Diop
+Q3,0:00,Senegal,55,56,2_Pts_T,Xane Dalmeida
+Q3,0:03,Jordan,55,56,ER,Freddy Ibrahim
+Q3,0:03,Senegal,55,56,BR,Mouhammad Faye
+Q3,0:11,Jordan,55,56,BR,Freddy Ibrahim
+Q3,0:11,Senegal,55,56,ER,Ibrahima Faye
+Q3,0:16,Senegal,55,56,RO,Ibrahima Faye
+Q3,0:16,Senegal,55,56,,Mouhammad Faye3pt jump shot missed
+Q3,0:38,Jordan,55,56,LL_Pts_C,Freddy Ibrahim
+Q3,0:38,Jordan,54,56,LL_Pts_C,Freddy Ibrahim
+Q3,0:38,Jordan,53,56,substituicao_entra,Mohammad Hussein
+Q3,0:38,Jordan,53,56,substituicao_sai,Dar Tucker
+Q3,0:38,Jordan,53,56,FR,Freddy Ibrahim
+Q3,0:38,Senegal,53,56,substituicao_entra,Makhtar Gueye
+Q3,0:38,Senegal,53,56,substituicao_sai,Pape Diop
+Q3,0:38,Senegal,53,56,FC,Pape Diop
+Q3,0:49,Jordan,53,56,RD,Freddy Ibrahim
+Q3,0:49,Senegal,53,56,,Lamine Sambe3pt jump shot missed
+Q3,0:55,Senegal,53,56,RO,Ibrahima Faye
+Q3,0:55,Senegal,53,56,,Pape Diop2pt jump shot missed
+Q3,0:59,Senegal,53,56,RO,Ibrahima Faye
+Q3,0:59,Senegal,53,56,2_Pts_T,Xane Dalmeida
+Q3,10:00,Jordan,0,0,muda_bola,
+Q3,1:14,Jordan,53,56,ER,Dar Tucker
+Q3,1:20,Jordan,53,56,substituicao_entra,Mousa Alawadi
+Q3,1:20,Jordan,53,56,substituicao_sai,Jordan Al-Dasuqi
+Q3,1:20,Jordan,53,56,FR,Dar Tucker
+Q3,1:20,Senegal,53,56,FC,Pape Diop
+Q3,1:25,Jordan,53,56,RD,Zaid Abbas
+Q3,1:25,Senegal,53,56,,Ibrahima Fayelayup missed
+Q3,1:36,Jordan,53,56,AS,Freddy Ibrahim
+Q3,1:36,Jordan,53,56,2_Pts_C,Ahmad Alhamarsheh
+Q3,1:53,Jordan,51,56,RD,Dar Tucker
+Q3,1:53,Jordan,51,56,substituicao_entra,Zaid Abbas
+Q3,1:53,Jordan,51,56,substituicao_sai,Yousef AbuWazaneh
+Q3,1:53,Jordan,51,56,FC,Freddy Ibrahim
+Q3,1:53,Senegal,51,56,LL_Pts_T,Mouhammad Faye
+Q3,1:53,Senegal,51,56,LL_Pts_T,Mouhammad Faye
+Q3,1:53,Senegal,51,56,FR,Mouhammad Faye
+Q3,1:54,Senegal,51,56,RO,Ibrahima Faye
+Q3,1:54,Senegal,51,56,,Pape Diop2pt jump shot missed
+Q3,2:13,Jordan,51,56,2_Pts_T,Dar Tucker
+Q3,2:13,Senegal,51,56,RD,
+Q3,2:13,Senegal,51,56,TO,Mouhammad Faye
+Q3,2:27,Senegal,51,56,substituicao_entra,Pape Diop
+Q3,2:27,Senegal,51,56,substituicao_sai,Youssoupha Ndoye
+Q3,2:28,Jordan,51,56,substituicao_entra,Ahmad Alhamarsheh
+Q3,2:28,Jordan,51,56,substituicao_sai,Mousa Alawadi
+Q3,2:28,Jordan,51,56,substituicao_entra,Jordan Al-Dasuqi
+Q3,2:28,Jordan,51,56,substituicao_sai,Zaid Abbas
+Q3,2:28,Jordan,51,56,FR,Freddy Ibrahim
+Q3,2:28,Senegal,51,56,FC_O,Youssoupha Ndoye
+Q3,2:32,Jordan,51,56,ER,Yousef AbuWazaneh
+Q3,2:32,Senegal,51,56,BR,Ibrahima Faye
+Q3,2:35,Jordan,51,56,BR,Yousef AbuWazaneh
+Q3,2:35,Senegal,51,56,ER,Mouhammad Faye
+Q3,2:56,Jordan,51,56,AS,Freddy Ibrahim
+Q3,2:56,Jordan,51,56,,Mousa Alawadi3pt jump shot made
+Q3,3:13,Jordan,48,55,FC,Yousef AbuWazaneh
+Q3,3:13,Senegal,48,56,LL_Pts_C,Ibrahima Faye
+Q3,3:13,Senegal,48,55,LL_Pts_T,Ibrahima Faye
+Q3,3:13,Senegal,48,55,FR,Ibrahima Faye
+Q3,3:33,Jordan,48,55,2_Pts_C,Mousa Alawadi
+Q3,3:47,Senegal,46,55,,Mouhammad Fayelayup made
+Q3,3:53,Senegal,46,53,RO,Mouhammad Faye
+Q3,3:53,Senegal,46,53,,Lamine Sambe3pt jump shot missed
+Q3,4:10,Jordan,46,53,3_Pts_T,Freddy Ibrahim
+Q3,4:10,Senegal,46,53,RD,Ibrahima Faye
+Q3,4:15,Jordan,46,52,FC_T,Bench: 
+Q3,4:15,Jordan,46,52,FR,Dar Tucker
+Q3,4:15,Senegal,46,53,LL_Pts_C,Mouhammad Faye
+Q3,4:15,Senegal,46,52,FC,Youssoupha Ndoye
+Q3,4:30,Senegal,46,52,2_Pts_C,Xane Dalmeida
+Q3,4:42,Senegal,46,50,RD,
+Q3,4:44,Jordan,46,50,2_Pts_T,Zaid Abbas
+Q3,5:10,Senegal,46,50,AS,Lamine Sambe
+Q3,5:10,Senegal,46,50,,Youssoupha Ndoyelayup made
+Q3,5:29,Jordan,46,48,AS,Freddy Ibrahim
+Q3,5:29,Jordan,46,48,,Mousa Alawadi3pt jump shot made
+Q3,5:42,Senegal,43,48,AS,Xane Dalmeida
+Q3,5:42,Senegal,43,48,,Mouhammad Fayedunk made
+Q3,5:45,Jordan,43,46,ER,Freddy Ibrahim
+Q3,5:45,Senegal,43,46,BR,Xane Dalmeida
+Q3,5:58,Jordan,43,46,RD,Zaid Abbas
+Q3,5:58,Senegal,43,46,,Youssoupha Ndoye2pt jump shot missed
+Q3,6:15,Jordan,43,46,2_Pts_C,Dar Tucker
+Q3,6:36,Jordan,41,46,tempo_tecnico,
+Q3,6:36,Senegal,41,46,AS,Mouhammad Faye
+Q3,6:36,Senegal,41,46,,Youssoupha Ndoyedunk made
+Q3,6:37,Jordan,41,44,2_Pts_T,Freddy Ibrahim
+Q3,6:37,Senegal,41,44,RD,Ibrahima Faye
+Q3,6:39,Jordan,41,44,RD,Dar Tucker
+Q3,6:39,Senegal,41,44,2_Pts_T,Youssoupha Ndoye
+Q3,6:50,Senegal,41,44,RO,Youssoupha Ndoye
+Q3,6:50,Senegal,41,44,2_Pts_T,Mouhammad Faye
+Q3,6:58,Jordan,41,44,,Dar Tucker3pt jump shot missed
+Q3,6:58,Senegal,41,44,RD,Youssoupha Ndoye
+Q3,7:13,Senegal,41,44,2_Pts_C,Xane Dalmeida
+Q3,7:33,Jordan,41,42,,Yousef AbuWazanehdunk made
+Q3,7:37,Jordan,39,42,BR,Yousef AbuWazaneh
+Q3,7:37,Senegal,39,42,ER,Xane Dalmeida
+Q3,7:49,Jordan,39,42,AS,Freddy Ibrahim
+Q3,7:49,Jordan,39,42,,Dar Tuckerdunk made
+Q3,7:55,Jordan,37,42,RD,Yousef AbuWazaneh
+Q3,7:55,Senegal,37,42,2_Pts_T,Lamine Sambe
+Q3,8:04,Jordan,37,42,2_Pts_C,Freddy Ibrahim
+Q3,8:11,Senegal,35,42,2_Pts_C,Youssoupha Ndoye
+Q3,8:21,Senegal,35,40,RO,Youssoupha Ndoye
+Q3,8:21,Senegal,35,40,2_Pts_T,Ibrahima Faye
+Q3,8:43,Jordan,35,40,ER,Zaid Abbas
+Q3,9:02,Senegal,35,40,AS,Xane Dalmeida
+Q3,9:02,Senegal,35,40,,Youssoupha Ndoye2pt jump shot made
+Q3,9:18,Jordan,35,38,2_Pts_T,Dar Tucker
+Q3,9:18,Senegal,35,38,RD,Youssoupha Ndoye
+Q3,9:33,Senegal,35,38,AS,Lamine Sambe
+Q3,9:33,Senegal,35,38,,Youssoupha Ndoyedunk made
+Q3,9:41,Jordan,0,0,2_Pts_T,Zaid Abbas
+Q3,9:41,Senegal,0,0,RD,Ibrahima Faye
+Q4,0:01,Jordan,79,77,tempo_tecnico,
+Q4,0:01,Senegal,79,77,,Youssoupha Ndoyelayup made
+Q4,0:04,Senegal,79,75,RO,Youssoupha Ndoye
+Q4,0:04,Senegal,79,75,,Makhtar Gueye3pt jump shot missed
+Q4,0:06,Jordan,79,75,LL_Pts_C,Dar Tucker
+Q4,0:06,Jordan,78,75,LL_Pts_C,Dar Tucker
+Q4,0:06,Jordan,77,75,FR,Dar Tucker
+Q4,0:06,Jordan,77,75,RD,Dar Tucker
+Q4,0:06,Senegal,79,75,tempo_tecnico,
+Q4,0:06,Senegal,77,75,FC,Makhtar Gueye
+Q4,0:06,Senegal,77,75,,Youssoupha Ndoye3pt jump shot missed
+Q4,0:20,Senegal,77,75,RO,Lamine Sambe
+Q4,0:20,Senegal,77,75,,Lamine Sambe3pt jump shot missed
+Q4,0:27,Jordan,77,75,LL_Pts_T,Ahmad Alhamarsheh
+Q4,0:27,Jordan,77,75,LL_Pts_C,Ahmad Alhamarsheh
+Q4,0:27,Jordan,76,75,FR,Ahmad Alhamarsheh
+Q4,0:27,Senegal,77,75,RD,
+Q4,0:27,Senegal,76,75,substituicao_entra,Xane Dalmeida
+Q4,0:27,Senegal,76,75,substituicao_sai,Ibrahima Faye
+Q4,0:27,Senegal,76,75,FC,Ibrahima Faye
+Q4,0:30,Senegal,76,75,,Lamine Sambe3pt jump shot made
+Q4,0:36,Jordan,76,72,2_Pts_C,Dar Tucker
+Q4,0:46,Senegal,74,72,2_Pts_C,Lamine Sambe
+Q4,0:51,Jordan,74,70,LL_Pts_C,Dar Tucker
+Q4,0:51,Jordan,73,70,FR,Dar Tucker
+Q4,0:51,Jordan,73,70,2_Pts_C,Dar Tucker
+Q4,0:51,Senegal,73,70,FC,Makhtar Gueye
+Q4,10:00,Senegal,0,0,muda_bola,
+Q4,1:07,Senegal,71,70,,Lamine Sambe3pt jump shot made
+Q4,1:17,Jordan,71,67,,Ahmad Alhamarsheh3pt jump shot missed
+Q4,1:17,Senegal,71,67,RD,Youssoupha Ndoye
+Q4,1:27,Jordan,71,67,FR,Freddy Ibrahim
+Q4,1:27,Senegal,71,67,FC,Lamine Sambe
+Q4,1:31,Jordan,71,67,FR,Dar Tucker
+Q4,1:31,Senegal,71,67,FC,Ibrahima Faye
+Q4,1:40,Senegal,71,67,AS,Ibrahima Faye
+Q4,1:40,Senegal,71,67,,Makhtar Gueye3pt jump shot made
+Q4,1:49,Senegal,71,64,RO,
+Q4,1:52,Senegal,71,64,,Pape Diop3pt jump shot missed
+Q4,2:04,Jordan,71,64,FC,Mousa Alawadi
+Q4,2:04,Senegal,71,64,substituicao_entra,Pape Diop
+Q4,2:04,Senegal,71,64,substituicao_sai,Xane Dalmeida
+Q4,2:04,Senegal,71,64,FR,Xane Dalmeida
+Q4,2:09,Jordan,71,64,AS,Freddy Ibrahim
+Q4,2:09,Jordan,71,64,2_Pts_C,Mousa Alawadi
+Q4,2:33,Jordan,69,64,RD,Dar Tucker
+Q4,2:33,Senegal,69,64,3_Pts_T,Makhtar Gueye
+Q4,2:45,Jordan,69,64,LL_Pts_C,Dar Tucker
+Q4,2:45,Jordan,68,64,FR,Dar Tucker
+Q4,2:45,Jordan,68,64,AS,Zaid Abbas
+Q4,2:45,Jordan,68,64,2_Pts_C,Dar Tucker
+Q4,2:45,Senegal,68,64,substituicao_entra,Lamine Sambe
+Q4,2:45,Senegal,68,64,substituicao_sai,Pape Diop
+Q4,2:45,Senegal,68,64,tempo_tecnico,
+Q4,2:45,Senegal,68,64,FC,Makhtar Gueye
+Q4,3:05,Jordan,66,64,RD,Zaid Abbas
+Q4,3:05,Senegal,66,64,3_Pts_T,Ibrahima Faye
+Q4,3:15,Jordan,66,64,AS,Freddy Ibrahim
+Q4,3:15,Jordan,66,64,,Zaid Abbas2pt jump shot made
+Q4,3:32,Senegal,64,64,ER,Xane Dalmeida
+Q4,3:42,Jordan,64,64,substituicao_entra,Ahmad Alhamarsheh
+Q4,3:42,Jordan,64,64,substituicao_sai,Yousef AbuWazaneh
+Q4,3:42,Jordan,64,64,FC,Yousef AbuWazaneh
+Q4,3:42,Senegal,64,64,FR,Xane Dalmeida
+Q4,3:52,Jordan,64,64,3_Pts_T,Zaid Abbas
+Q4,3:52,Senegal,64,64,RD,Youssoupha Ndoye
+Q4,4:16,Senegal,64,64,AS,Pape Diop
+Q4,4:16,Senegal,64,64,,Youssoupha Ndoyelayup made
+Q4,4:27,Jordan,64,62,2_Pts_T,Yousef AbuWazaneh
+Q4,4:27,Senegal,64,62,RD,Xane Dalmeida
+Q4,4:48,Senegal,64,62,2_Pts_C,Makhtar Gueye
+Q4,5:01,Jordan,64,60,AS,Freddy Ibrahim
+Q4,5:12,Jordan,64,60,2_Pts_C,Zaid Abbas
+Q4,5:29,Jordan,62,60,substituicao_entra,Freddy Ibrahim
+Q4,5:29,Jordan,62,60,substituicao_sai,Mahmoud Abdeen
+Q4,5:29,Jordan,62,60,tempo_tecnico,
+Q4,5:29,Senegal,62,60,AS,Xane Dalmeida
+Q4,5:29,Senegal,62,60,,Makhtar Gueye3pt jump shot made
+Q4,5:39,Jordan,62,57,,Mousa Alawadi3pt jump shot missed
+Q4,5:39,Senegal,62,57,RD,Youssoupha Ndoye
+Q4,5:49,Jordan,62,57,RD,Dar Tucker
+Q4,5:49,Senegal,62,57,,Ibrahima Faye3pt jump shot missed
+Q4,6:02,Senegal,62,57,substituicao_entra,Youssoupha Ndoye
+Q4,6:02,Senegal,62,57,substituicao_sai,Momar Ndoye
+Q4,6:02,Senegal,62,57,substituicao_entra,Pape Diop
+Q4,6:02,Senegal,62,57,substituicao_sai,Mouhammad Faye
+Q4,6:02,Senegal,62,57,RO,
+Q4,6:02,Senegal,62,57,,Makhtar Gueye3pt jump shot missed
+Q4,6:12,Jordan,62,57,2_Pts_T,Dar Tucker
+Q4,6:12,Senegal,62,57,RD,Youssoupha Ndoye
+Q4,6:26,Jordan,62,56,substituicao_entra,Yousef AbuWazaneh
+Q4,6:26,Jordan,62,56,substituicao_sai,Ahmad Alhamarsheh
+Q4,6:26,Jordan,62,56,FC,Ahmad Alhamarsheh
+Q4,6:26,Senegal,62,57,LL_Pts_C,Ibrahima Faye
+Q4,6:26,Senegal,62,56,LL_Pts_T,Ibrahima Faye
+Q4,6:26,Senegal,62,56,FR,Ibrahima Faye
+Q4,6:41,Jordan,62,56,2_Pts_C,Dar Tucker
+Q4,6:56,Jordan,60,56,RD,Ahmad Alhamarsheh
+Q4,6:56,Senegal,60,56,2_Pts_T,Makhtar Gueye
+Q4,7:06,Jordan,60,56,FC,Mahmoud Abdeen
+Q4,7:06,Senegal,60,56,FR,Xane Dalmeida
+Q4,7:13,Senegal,60,56,RO,Mouhammad Faye
+Q4,7:13,Senegal,60,56,,Ibrahima Faye3pt jump shot missed
+Q4,7:39,Jordan,60,56,substituicao_entra,Mahmoud Abdeen
+Q4,7:39,Jordan,60,56,substituicao_sai,Freddy Ibrahim
+Q4,7:39,Senegal,60,56,RD,
+Q4,7:41,Jordan,60,56,3_Pts_T,Mousa Alawadi
+Q4,7:57,Senegal,60,56,ER ,
+Q4,7:57,Senegal,60,56,,Xane Dalmeida3pt jump shot missed
+Q4,8:16,Jordan,60,56,2_Pts_T,Freddy Ibrahim
+Q4,8:16,Senegal,60,56,RD,Ibrahima Faye
+Q4,8:23,Jordan,60,56,RD,Mousa Alawadi
+Q4,8:36,Jordan,60,56,TO,Ahmad Alhamarsheh
+Q4,8:36,Senegal,60,56,2_Pts_T,Xane Dalmeida
+Q4,8:52,Jordan,60,56,2_Pts_C,Zaid Abbas
+Q4,9:12,Jordan,58,56,FR,Zaid Abbas
+Q4,9:12,Jordan,58,56,RD,Zaid Abbas
+Q4,9:12,Senegal,58,56,FC,Ibrahima Faye
+Q4,9:12,Senegal,58,56,2_Pts_T,Mouhammad Faye
+Q4,9:27,Jordan,58,56,AS,Dar Tucker
+Q4,9:27,Jordan,58,56,,Mousa Alawadi3pt jump shot made
+Q4,9:44,Jordan,0,0,RD,Zaid Abbas
+Q4,9:44,Senegal,0,0,2_Pts_T,Makhtar Gueye

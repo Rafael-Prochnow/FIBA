@@ -1,0 +1,482 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:07,USA,28,14,2_Pts_T,Derrick White
+Q1,0:07,Poland,28,14,RD,Michal Sokolowski
+Q1,0:31,USA,28,14,RD,Mason Plumlee
+Q1,0:31,Poland,28,14,2_Pts_T,Lukasz Koszarek
+Q1,0:50,USA,28,14,,Jaylen Brown3pt jump shot missed
+Q1,0:50,Poland,28,14,RD,Aleksander Roman Balcerowski
+Q1,10:00,USA,0,0,inicio_quarto,Myles Turner
+Q1,1:05,USA,28,14,RD,Mason Plumlee
+Q1,1:05,Poland,28,14,,Michal Sokolowski3pt jump shot missed
+Q1,1:15,USA,28,14,AS,Derrick White
+Q1,1:15,USA,28,14,,Khris Middletonlayup made
+Q1,1:21,USA,26,14,BR,Derrick White
+Q1,1:21,Poland,26,14,ER,Karol Gruszecki
+Q1,1:27,USA,26,14,ER,Mason Plumlee
+Q1,1:27,Poland,26,14,BR,Karol Gruszecki
+Q1,1:42,USA,26,14,RD,
+Q1,1:44,Poland,26,14,,Karol Gruszecki3pt jump shot missed
+Q1,1:55,USA,26,14,AS,Jaylen Brown
+Q1,1:55,USA,26,14,2_Pts_C,Derrick White
+Q1,2:06,USA,24,14,RD,Jaylen Brown
+Q1,2:06,Poland,24,14,,Damian Kulig3pt jump shot missed
+Q1,2:17,USA,24,14,,Brook Lopezlayup missed
+Q1,2:17,Poland,24,14,RD,Karol Gruszecki
+Q1,2:30,USA,24,14,RD,
+Q1,2:31,Poland,24,14,,Damian Kuliglayup missed
+Q1,2:52,USA,24,14,LL_Pts_C,Derrick White
+Q1,2:52,USA,23,14,FR,Derrick White
+Q1,2:52,USA,23,14,AS,Khris Middleton
+Q1,2:52,USA,23,14,,Derrick Whitelayup made
+Q1,2:52,Poland,23,14,FC,Michal Sokolowski
+Q1,3:07,USA,21,14,substituicao_entra,Mason Plumlee
+Q1,3:07,USA,21,14,substituicao_sai,Harrison Barnes
+Q1,3:07,USA,21,14,substituicao_entra,Derrick White
+Q1,3:07,USA,21,14,substituicao_sai,Donovan Mitchell
+Q1,3:07,Poland,21,14,substituicao_entra,Karol Gruszecki
+Q1,3:07,Poland,21,14,substituicao_sai,Adam Waczynski
+Q1,3:07,Poland,21,14,ER,Michal Sokolowski
+Q1,3:23,USA,21,14,AS,Harrison Barnes
+Q1,3:23,USA,21,14,,Khris Middleton3pt jump shot made
+Q1,3:41,Poland,18,14,,Aleksander Roman Balcerowskidunk made
+Q1,3:48,Poland,18,12,RO,Adam Waczynski
+Q1,3:48,Poland,18,12,,Adam Waczynski3pt jump shot missed
+Q1,3:58,USA,18,12,substituicao_entra,Jaylen Brown
+Q1,3:58,USA,18,12,substituicao_sai,Joe Harris
+Q1,3:58,USA,18,12,FC,Joe Harris
+Q1,3:58,USA,18,12,2_Pts_T,Donovan Mitchell
+Q1,3:58,Poland,18,12,substituicao_entra,Lukasz Koszarek
+Q1,3:58,Poland,18,12,substituicao_sai,Mateusz Ponitka
+Q1,3:58,Poland,18,12,substituicao_entra,Michal Sokolowski
+Q1,3:58,Poland,18,12,substituicao_sai,A.J. Slaughter
+Q1,3:58,Poland,18,12,FR,Mateusz Ponitka
+Q1,3:58,Poland,18,12,RD,
+Q1,4:10,Poland,18,12,2_Pts_C,Mateusz Ponitka
+Q1,4:20,USA,18,10,,Brook Lopez3pt jump shot missed
+Q1,4:20,Poland,18,10,RD,Damian Kulig
+Q1,4:37,USA,18,10,BR,Donovan Mitchell
+Q1,4:37,Poland,18,10,ER,A.J. Slaughter
+Q1,4:55,USA,18,10,AS,Joe Harris
+Q1,4:55,USA,18,10,,Khris Middleton2pt jump shot made
+Q1,4:57,Poland,16,10,substituicao_entra,Damian Kulig
+Q1,4:57,Poland,16,10,substituicao_sai,Adam Hrycaniuk
+Q1,4:57,Poland,16,10,substituicao_entra,Aleksander Roman Balcerowski
+Q1,4:57,Poland,16,10,substituicao_sai,Aaron Cel
+Q1,5:01,USA,16,10,RD,Donovan Mitchell
+Q1,5:01,Poland,16,10,,A.J. Slaughter3pt jump shot missed
+Q1,5:15,USA,16,10,,Harrison Barneslayup made
+Q1,5:20,USA,14,10,substituicao_entra,Brook Lopez
+Q1,5:20,USA,14,10,substituicao_sai,Myles Turner
+Q1,5:20,USA,14,10,FR,Myles Turner
+Q1,5:20,Poland,14,10,FC,Adam Hrycaniuk
+Q1,5:29,USA,14,10,substituicao_entra,Khris Middleton
+Q1,5:29,USA,14,10,substituicao_sai,Derrick White
+Q1,5:29,Poland,14,10,AS,Aaron Cel
+Q1,5:29,Poland,14,10,,Adam Waczynskilayup made
+Q1,5:43,USA,14,8,AS,Derrick White
+Q1,5:43,USA,14,8,,Donovan Mitchell3pt jump shot made
+Q1,5:54,Poland,11,8,2_Pts_C,Adam Waczynski
+Q1,6:04,USA,11,6,ER,Joe Harris
+Q1,6:04,Poland,11,6,BR,Adam Waczynski
+Q1,6:25,Poland,11,6,ER,A.J. Slaughter
+Q1,6:33,USA,11,6,AS,Derrick White
+Q1,6:33,USA,11,6,,Joe Harrislayup made
+Q1,6:59,Poland,9,6,2_Pts_C,A.J. Slaughter
+Q1,7:17,USA,9,4,AS,Donovan Mitchell
+Q1,7:17,USA,9,4,,Harrison Barnes3pt jump shot made
+Q1,7:35,USA,6,2,FC,Myles Turner
+Q1,7:35,Poland,6,4,LL_Pts_C,Adam Waczynski
+Q1,7:35,Poland,6,3,AS,Adam Hrycaniuk
+Q1,7:35,Poland,6,3,LL_Pts_C,Adam Waczynski
+Q1,7:35,Poland,6,2,FR,Adam Waczynski
+Q1,7:44,USA,6,2,FC,Joe Harris
+Q1,7:44,Poland,6,2,FR,Mateusz Ponitka
+Q1,8:02,USA,6,2,AS,Derrick White
+Q1,8:02,USA,6,2,,Donovan Mitchell3pt jump shot made
+Q1,8:07,USA,3,2,RO,Harrison Barnes
+Q1,8:07,USA,3,2,2_Pts_T,Harrison Barnes
+Q1,8:18,USA,3,2,RD,Harrison Barnes
+Q1,8:18,Poland,3,2,,Adam Waczynski3pt jump shot missed
+Q1,8:44,USA,3,2,AS,Derrick White
+Q1,8:44,USA,3,2,,Joe Harris3pt jump shot made
+Q1,8:50,USA,0,2,RD,Harrison Barnes
+Q1,8:50,Poland,0,2,2_Pts_T,A.J. Slaughter
+Q1,9:03,USA,0,2,2_Pts_T,Joe Harris
+Q1,9:03,Poland,0,2,RD,Mateusz Ponitka
+Q1,9:26,Poland,0,2,2_Pts_C,Mateusz Ponitka
+Q1,9:43,USA,0,0,,Myles Turner2pt jump shot missed
+Q1,9:43,Poland,0,0,RD,Adam Waczynski
+Q2,0:16,USA,47,30,2_Pts_C,Donovan Mitchell
+Q2,0:35,Poland,45,30,AS,Kamil  Laczynski
+Q2,0:35,Poland,45,30,2_Pts_C,Adam Hrycaniuk
+Q2,0:51,USA,45,28,ER,Mason Plumlee
+Q2,10:00,Poland,28,14,muda_bola,
+Q2,1:06,USA,45,28,RD,Khris Middleton
+Q2,1:06,Poland,45,28,,Michal Sokolowski3pt jump shot missed
+Q2,1:16,USA,45,28,LL_Pts_C,Khris Middleton
+Q2,1:16,USA,44,28,LL_Pts_C,Khris Middleton
+Q2,1:16,USA,43,28,FR,Khris Middleton
+Q2,1:16,Poland,43,28,FC,Michal Sokolowski
+Q2,1:28,Poland,43,28,AS,Lukasz Koszarek
+Q2,1:28,Poland,43,28,,Michal Sokolowski3pt jump shot made
+Q2,1:50,USA,43,25,LL_Pts_C,Derrick White
+Q2,1:50,USA,42,25,AS,Khris Middleton
+Q2,1:50,USA,42,25,LL_Pts_C,Derrick White
+Q2,1:50,USA,41,25,substituicao_entra,Mason Plumlee
+Q2,1:50,USA,41,25,substituicao_sai,Myles Turner
+Q2,1:50,USA,41,25,FR,Derrick White
+Q2,1:50,Poland,41,25,FC,Kamil  Laczynski
+Q2,2:04,USA,41,25,RD,Myles Turner
+Q2,2:04,Poland,41,25,,Michal Sokolowski3pt jump shot missed
+Q2,2:15,USA,41,25,FC,Derrick White
+Q2,2:15,Poland,41,25,substituicao_entra,Adam Hrycaniuk
+Q2,2:15,Poland,41,25,substituicao_sai,Dominik Olejniczak
+Q2,2:15,Poland,41,25,substituicao_entra,Aleksander Roman Balcerowski
+Q2,2:15,Poland,41,25,substituicao_sai,Aaron Cel
+Q2,2:15,Poland,41,25,FR,Aaron Cel
+Q2,2:22,USA,41,25,,Harrison Barneslayup missed
+Q2,2:22,Poland,41,25,RD,Dominik Olejniczak
+Q2,2:31,USA,41,25,RD,Khris Middleton
+Q2,2:31,USA,41,25,TO,Myles Turner
+Q2,2:31,Poland,41,25,2_Pts_T,Dominik Olejniczak
+Q2,2:45,USA,41,25,LL_Pts_T,Myles Turner
+Q2,2:45,USA,41,25,LL_Pts_T,Myles Turner
+Q2,2:45,USA,41,25,FR,Myles Turner
+Q2,2:45,Poland,41,25,RD,Aaron Cel
+Q2,2:45,Poland,41,25,FC,Dominik Olejniczak
+Q2,2:56,Poland,41,25,2_Pts_C,Michal Sokolowski
+Q2,3:01,Poland,41,23,RO,Michal Sokolowski
+Q2,3:01,Poland,41,23,,Dominik Olejniczak2pt jump shot missed
+Q2,3:14,USA,41,23,substituicao_entra,Khris Middleton
+Q2,3:14,USA,41,23,substituicao_sai,Joe Harris
+Q2,3:14,USA,41,23,FC_O,Joe Harris
+Q2,3:14,Poland,41,23,substituicao_entra,Lukasz Koszarek
+Q2,3:14,Poland,41,23,substituicao_sai,Mateusz Ponitka
+Q2,3:14,Poland,41,23,FR,Kamil  Laczynski
+Q2,3:21,USA,41,23,BR,Derrick White
+Q2,3:21,Poland,41,23,ER,Mateusz Ponitka
+Q2,3:46,USA,41,23,AS,Donovan Mitchell
+Q2,3:46,USA,41,23,,Myles Turner3pt jump shot made
+Q2,3:56,USA,38,23,RD,Myles Turner
+Q2,3:56,Poland,38,23,,Kamil  Laczynski3pt jump shot missed
+Q2,4:09,Poland,38,23,RO,Mateusz Ponitka
+Q2,4:09,Poland,38,23,,Kamil  Laczynskilayup missed
+Q2,4:11,Poland,38,23,RO,Kamil  Laczynski
+Q2,4:11,Poland,38,23,2_Pts_T,Aaron Cel
+Q2,4:13,USA,38,23,TO,Myles Turner
+Q2,4:13,Poland,38,23,RO,Aaron Cel
+Q2,4:13,Poland,38,23,,Dominik Olejniczakdunk blocked
+Q2,4:32,USA,38,23,ER,Derrick White
+Q2,4:32,Poland,38,23,BR,Kamil  Laczynski
+Q2,4:36,USA,38,23,FR,Derrick White
+Q2,4:36,Poland,38,23,substituicao_entra,Michal Sokolowski
+Q2,4:36,Poland,38,23,substituicao_sai,Adam Waczynski
+Q2,4:36,Poland,38,23,FC,Kamil  Laczynski
+Q2,4:41,USA,38,23,RD,Derrick White
+Q2,4:41,Poland,38,23,3_Pts_T,Aaron Cel
+Q2,4:53,Poland,38,23,RD,
+Q2,4:55,USA,38,23,3_Pts_T,Myles Turner
+Q2,5:10,USA,38,23,substituicao_entra,Derrick White
+Q2,5:10,USA,38,23,substituicao_sai,Jaylen Brown
+Q2,5:10,USA,38,23,tempo_tecnico,
+Q2,5:10,Poland,38,23,substituicao_entra,Kamil  Laczynski
+Q2,5:10,Poland,38,23,substituicao_sai,A.J. Slaughter
+Q2,5:11,Poland,38,23,,Mateusz Ponitka2pt jump shot made
+Q2,5:21,USA,38,21,,Harrison Barnes3pt jump shot missed
+Q2,5:21,Poland,38,21,RD,Aaron Cel
+Q2,5:36,Poland,38,21,AS,Adam Waczynski
+Q2,5:36,Poland,38,21,,Dominik Olejniczak2pt jump shot made
+Q2,5:47,USA,38,19,ER,Jaylen Brown
+Q2,5:47,Poland,38,19,BR,A.J. Slaughter
+Q2,5:52,USA,38,19,RD,Jaylen Brown
+Q2,5:52,Poland,38,19,3_Pts_T,A.J. Slaughter
+Q2,6:10,USA,38,19,LL_Pts_C,Harrison Barnes
+Q2,6:10,USA,37,19,LL_Pts_C,Harrison Barnes
+Q2,6:10,USA,36,19,substituicao_entra,Joe Harris
+Q2,6:10,USA,36,19,substituicao_sai,Khris Middleton
+Q2,6:10,USA,36,19,FR,Harrison Barnes
+Q2,6:10,Poland,36,19,substituicao_entra,Dominik Olejniczak
+Q2,6:10,Poland,36,19,substituicao_sai,Damian Kulig
+Q2,6:10,Poland,36,19,FC,Damian Kulig
+Q2,6:21,USA,36,19,RD,Myles Turner
+Q2,6:21,Poland,36,19,2_Pts_T,A.J. Slaughter
+Q2,6:38,USA,36,19,AS,Donovan Mitchell
+Q2,6:38,USA,36,19,,Jaylen Brown3pt jump shot made
+Q2,6:47,USA,33,19,RO,
+Q2,6:47,USA,33,19,2_Pts_T,Jaylen Brown
+Q2,6:47,Poland,33,19,TO,Damian Kulig
+Q2,6:59,USA,33,19,RD,
+Q2,7:00,Poland,33,19,,Mateusz Ponitka3pt jump shot missed
+Q2,7:23,USA,33,19,2_Pts_C,Khris Middleton
+Q2,7:41,USA,31,19,substituicao_entra,Harrison Barnes
+Q2,7:41,USA,31,19,substituicao_sai,Mason Plumlee
+Q2,7:41,USA,31,18,substituicao_entra,Myles Turner
+Q2,7:41,USA,31,18,substituicao_sai,Brook Lopez
+Q2,7:41,USA,31,18,FC,Jaylen Brown
+Q2,7:41,Poland,31,19,LL_Pts_C,Damian Kulig
+Q2,7:41,Poland,31,18,substituicao_entra,Aaron Cel
+Q2,7:41,Poland,31,18,substituicao_sai,Aleksander Roman Balcerowski
+Q2,7:41,Poland,31,18,FR,Damian Kulig
+Q2,7:41,Poland,31,18,AS,A.J. Slaughter
+Q2,7:41,Poland,31,18,,Damian Kuliglayup made
+Q2,7:57,USA,31,16,3_Pts_T,Brook Lopez
+Q2,7:57,Poland,31,16,RD,Mateusz Ponitka
+Q2,8:12,Poland,31,16,AS,Damian Kulig
+Q2,8:12,Poland,31,16,,A.J. Slaughter2pt jump shot made
+Q2,8:24,USA,31,14,2_Pts_T,Khris Middleton
+Q2,8:24,Poland,31,14,RD,Mateusz Ponitka
+Q2,8:38,USA,31,14,FR,Jaylen Brown
+Q2,8:38,Poland,31,14,FC,Mateusz Ponitka
+Q2,8:43,USA,31,14,RD,Jaylen Brown
+Q2,8:43,Poland,31,14,,Adam Waczynski3pt jump shot missed
+Q2,8:54,USA,31,14,substituicao_entra,Donovan Mitchell
+Q2,8:54,USA,31,14,substituicao_sai,Derrick White
+Q2,8:54,Poland,31,14,tempo_tecnico,
+Q2,8:58,USA,31,14,AS,Khris Middleton
+Q2,8:58,USA,31,14,,Brook Lopez3pt jump shot made
+Q2,9:13,USA,28,14,RD,
+Q2,9:13,Poland,28,14,,A.J. Slaughter2pt jump shot missed
+Q2,9:31,USA,28,14,,Mason Plumleelayup missed
+Q2,9:31,Poland,28,14,RD,A.J. Slaughter
+Q2,9:41,USA,28,14,RD,Khris Middleton
+Q2,9:41,Poland,28,14,,Aleksander Roman Balcerowski3pt jump shot missed
+Q3,0:00,USA,63,55,,Khris Middleton2pt jump shot missed
+Q3,0:21,Poland,63,55,AS,Lukasz Koszarek
+Q3,0:21,Poland,63,55,,Damian Kulig3pt jump shot made
+Q3,0:35,USA,63,52,2_Pts_T,Derrick White
+Q3,0:35,Poland,63,52,RD,Aleksander Roman Balcerowski
+Q3,0:57,Poland,63,52,AS,Damian Kulig
+Q3,0:57,Poland,63,52,,Adam Waczynski3pt jump shot made
+Q3,10:00,USA,47,30,muda_bola,
+Q3,1:16,USA,63,49,AS,Khris Middleton
+Q3,1:16,USA,63,49,,Mason Plumleealley oop made
+Q3,1:30,USA,61,49,FR,Mason Plumlee
+Q3,1:30,Poland,61,49,FC,Michal Sokolowski
+Q3,1:31,USA,61,49,RD,Mason Plumlee
+Q3,1:31,Poland,61,49,,Damian Kuliglayup missed
+Q3,1:45,USA,61,49,LL_Pts_T,Mason Plumlee
+Q3,1:45,Poland,61,49,RD,Aleksander Roman Balcerowski
+Q3,1:46,USA,61,49,FR,Mason Plumlee
+Q3,1:46,USA,61,49,AS,Jaylen Brown
+Q3,1:46,USA,61,49,,Mason Plumleelayup made
+Q3,1:46,Poland,61,49,FC,Damian Kulig
+Q3,1:49,USA,59,49,substituicao_entra,Derrick White
+Q3,1:49,USA,59,49,substituicao_sai,Donovan Mitchell
+Q3,1:49,USA,59,49,FR,Joe Harris
+Q3,1:49,Poland,59,49,FC,Adam Waczynski
+Q3,1:55,Poland,59,49,2_Pts_C,Adam Waczynski
+Q3,2:02,Poland,59,47,RO,Aleksander Roman Balcerowski
+Q3,2:02,Poland,59,47,2_Pts_T,Damian Kulig
+Q3,2:23,USA,59,47,FC,Mason Plumlee
+Q3,2:23,Poland,59,47,substituicao_entra,Lukasz Koszarek
+Q3,2:23,Poland,59,47,substituicao_sai,Mateusz Ponitka
+Q3,2:23,Poland,59,47,substituicao_entra,Michal Sokolowski
+Q3,2:23,Poland,59,47,substituicao_sai,A.J. Slaughter
+Q3,2:23,Poland,59,47,FR,A.J. Slaughter
+Q3,2:25,USA,59,47,3_Pts_T,Khris Middleton
+Q3,2:25,Poland,59,47,RD,A.J. Slaughter
+Q3,2:43,USA,59,47,RD,Donovan Mitchell
+Q3,2:43,Poland,59,47,2_Pts_T,Mateusz Ponitka
+Q3,2:48,USA,59,47,ER,Donovan Mitchell
+Q3,2:48,Poland,59,47,BR,Mateusz Ponitka
+Q3,2:57,USA,59,47,RD,Khris Middleton
+Q3,2:57,Poland,59,47,,Aleksander Roman Balcerowski2pt jump shot missed
+Q3,3:17,USA,59,47,ER,Khris Middleton
+Q3,3:18,Poland,59,47,ER,Aleksander Roman Balcerowski
+Q3,3:21,Poland,59,47,substituicao_entra,Damian Kulig
+Q3,3:21,Poland,59,47,substituicao_sai,Adam Hrycaniuk
+Q3,3:21,Poland,59,47,substituicao_entra,Aleksander Roman Balcerowski
+Q3,3:21,Poland,59,47,substituicao_sai,Aaron Cel
+Q3,3:21,Poland,59,47,tempo_tecnico,
+Q3,3:22,USA,59,47,AS,Jaylen Brown
+Q3,3:22,USA,59,47,,Donovan Mitchell3pt jump shot made
+Q3,3:27,USA,56,47,RD,Joe Harris
+Q3,3:27,Poland,56,47,,Aaron Cel2pt jump shot missed
+Q3,3:45,USA,56,47,AS,Donovan Mitchell
+Q3,3:45,USA,56,47,,Khris Middleton2pt jump shot made
+Q3,3:51,USA,54,47,substituicao_entra,Khris Middleton
+Q3,3:51,USA,54,47,substituicao_sai,Brook Lopez
+Q3,3:51,USA,54,47,substituicao_entra,Mason Plumlee
+Q3,3:51,USA,54,47,substituicao_sai,Harrison Barnes
+Q3,4:07,Poland,54,47,AS,A.J. Slaughter
+Q3,4:07,Poland,54,47,,Adam Waczynski3pt jump shot made
+Q3,4:16,USA,54,44,,Joe Harris3pt jump shot missed
+Q3,4:16,Poland,54,44,RD,Mateusz Ponitka
+Q3,4:32,USA,54,44,substituicao_entra,Donovan Mitchell
+Q3,4:32,USA,54,44,substituicao_sai,Derrick White
+Q3,4:32,USA,54,44,tempo_tecnico,
+Q3,4:35,Poland,54,44,2_Pts_C,A.J. Slaughter
+Q3,4:40,USA,54,42,ER,Brook Lopez
+Q3,4:40,Poland,54,42,BR,A.J. Slaughter
+Q3,5:04,Poland,54,42,3_Pts_C,Adam Waczynski
+Q3,5:13,USA,54,39,2_Pts_T,Brook Lopez
+Q3,5:13,Poland,54,39,RD,Adam Waczynski
+Q3,5:26,Poland,54,39,AS,A.J. Slaughter
+Q3,5:26,Poland,54,39,2_Pts_C,Adam Hrycaniuk
+Q3,5:36,USA,54,37,FC,Jaylen Brown
+Q3,5:36,Poland,54,37,FR,Mateusz Ponitka
+Q3,5:53,USA,54,37,AS,Derrick White
+Q3,5:53,USA,54,37,,Joe Harris3pt jump shot made
+Q3,6:07,USA,51,37,substituicao_entra,Joe Harris
+Q3,6:07,USA,51,37,substituicao_sai,Donovan Mitchell
+Q3,6:07,USA,51,37,FR,Donovan Mitchell
+Q3,6:07,Poland,51,37,FC,Aaron Cel
+Q3,6:14,USA,51,37,RD,Brook Lopez
+Q3,6:14,Poland,51,37,2_Pts_T,A.J. Slaughter
+Q3,6:27,USA,51,37,substituicao_entra,Brook Lopez
+Q3,6:27,USA,51,37,substituicao_sai,Khris Middleton
+Q3,6:27,USA,51,37,substituicao_entra,Jaylen Brown
+Q3,6:27,USA,51,37,substituicao_sai,Myles Turner
+Q3,6:27,USA,51,37,FC_O,Myles Turner
+Q3,6:27,Poland,51,37,FR,A.J. Slaughter
+Q3,6:37,USA,51,37,RD,Myles Turner
+Q3,6:37,Poland,51,37,,Adam Waczynski3pt jump shot missed
+Q3,6:49,USA,51,37,ER,Khris Middleton
+Q3,6:49,Poland,51,37,BR,Aaron Cel
+Q3,7:07,Poland,51,37,,Mateusz Ponitkadunk made
+Q3,7:11,USA,51,35,ER,Myles Turner
+Q3,7:11,Poland,51,35,BR,Mateusz Ponitka
+Q3,7:29,Poland,51,35,ER,Mateusz Ponitka
+Q3,7:35,USA,51,35,,Myles Turnerlayup missed
+Q3,7:35,Poland,51,35,RD,Mateusz Ponitka
+Q3,7:52,Poland,51,35,,Mateusz Ponitkalayup made
+Q3,8:01,USA,51,33,,Harrison Barnes3pt jump shot missed
+Q3,8:01,Poland,51,33,RD,Mateusz Ponitka
+Q3,8:14,USA,51,33,RD,Myles Turner
+Q3,8:14,Poland,51,33,2_Pts_T,Aaron Cel
+Q3,8:31,USA,51,33,AS,Khris Middleton
+Q3,8:31,USA,51,33,,Myles Turnerlayup made
+Q3,8:51,Poland,49,33,ER,A.J. Slaughter
+Q3,9:06,USA,49,33,AS,Khris Middleton
+Q3,9:06,USA,49,33,,Myles Turnerdunk made
+Q3,9:24,Poland,47,33,3_Pts_C,A.J. Slaughter
+Q3,9:38,USA,47,30,2_Pts_T,Myles Turner
+Q3,9:38,Poland,47,30,RD,Aaron Cel
+Q4,0:26,USA,87,74,RD,Myles Turner
+Q4,0:26,Poland,87,74,,Adam Waczynski3pt jump shot missed
+Q4,0:43,USA,87,74,LL_Pts_C,Donovan Mitchell
+Q4,0:43,USA,86,74,LL_Pts_T,Donovan Mitchell
+Q4,0:43,USA,86,74,FR,Donovan Mitchell
+Q4,0:43,Poland,86,74,FC,A.J. Slaughter
+Q4,0:44,USA,86,72,FC,Myles Turner
+Q4,0:44,Poland,86,74,LL_Pts_C,A.J. Slaughter
+Q4,0:44,Poland,86,73,LL_Pts_C,A.J. Slaughter
+Q4,0:44,Poland,86,72,FR,A.J. Slaughter
+Q4,0:56,Poland,86,72,RO,Adam Waczynski
+Q4,0:56,Poland,86,72,2_Pts_T,Adam Waczynski
+Q4,10:00,Poland,63,55,muda_bola,
+Q4,1:16,USA,86,72,AS,Derrick White
+Q4,1:16,USA,86,72,,Donovan Mitchell3pt jump shot made
+Q4,1:31,USA,83,72,substituicao_entra,Derrick White
+Q4,1:31,USA,83,72,substituicao_sai,Jaylen Brown
+Q4,1:31,Poland,83,72,2_Pts_C,Mateusz Ponitka
+Q4,1:45,USA,83,70,AS,Donovan Mitchell
+Q4,1:45,USA,83,70,,Jaylen Brownlayup made
+Q4,2:05,USA,81,70,RD,Harrison Barnes
+Q4,2:05,Poland,81,70,,A.J. Slaughter3pt jump shot missed
+Q4,2:15,USA,81,70,,Myles Turner3pt jump shot missed
+Q4,2:15,Poland,81,70,RD,A.J. Slaughter
+Q4,2:30,Poland,81,70,2_Pts_C,A.J. Slaughter
+Q4,2:51,USA,81,68,AS,Donovan Mitchell
+Q4,2:51,USA,81,68,,Joe Harris2pt jump shot made
+Q4,3:07,Poland,79,68,2_Pts_C,A.J. Slaughter
+Q4,3:26,USA,79,66,LL_Pts_C,Joe Harris
+Q4,3:26,USA,78,66,AS,Donovan Mitchell
+Q4,3:26,USA,78,66,LL_Pts_C,Joe Harris
+Q4,3:26,USA,77,66,FR,Joe Harris
+Q4,3:26,Poland,77,66,FC,Damian Kulig
+Q4,3:31,USA,77,66,AS,Donovan Mitchell
+Q4,3:31,USA,77,66,LL_Pts_C,Harrison Barnes
+Q4,3:31,USA,76,66,LL_Pts_T,Harrison Barnes
+Q4,3:31,USA,76,66,FR,Harrison Barnes
+Q4,3:31,Poland,76,66,substituicao_entra,Damian Kulig
+Q4,3:31,Poland,76,66,substituicao_sai,Adam Hrycaniuk
+Q4,3:31,Poland,76,66,FC_A,Adam Hrycaniuk
+Q4,3:35,USA,76,66,RD,Myles Turner
+Q4,3:35,USA,76,66,TO,Myles Turner
+Q4,3:35,Poland,76,66,2_Pts_T,Adam Hrycaniuk
+Q4,3:54,USA,76,66,LL_Pts_T,Donovan Mitchell
+Q4,3:54,USA,76,66,LL_Pts_C,Donovan Mitchell
+Q4,3:54,USA,75,66,FR,Donovan Mitchell
+Q4,3:54,Poland,76,66,RD,Adam Hrycaniuk
+Q4,3:54,Poland,75,66,FC,Mateusz Ponitka
+Q4,4:08,Poland,75,66,AS,A.J. Slaughter
+Q4,4:08,Poland,75,66,,Mateusz Ponitka3pt jump shot made
+Q4,4:15,USA,75,63,ER,Donovan Mitchell
+Q4,4:15,Poland,75,63,BR,Michal Sokolowski
+Q4,4:28,USA,75,63,FR,Harrison Barnes
+Q4,4:28,Poland,75,63,FC,Adam Hrycaniuk
+Q4,4:32,USA,75,63,BR,Harrison Barnes
+Q4,4:32,Poland,75,63,ER,Mateusz Ponitka
+Q4,4:48,USA,75,63,AS,Donovan Mitchell
+Q4,4:48,USA,75,63,,Joe Harrislayup made
+Q4,5:03,USA,73,63,RD,Harrison Barnes
+Q4,5:03,Poland,73,63,,A.J. Slaughter2pt jump shot missed
+Q4,5:14,USA,73,63,AS,Donovan Mitchell
+Q4,5:14,USA,73,63,,Jaylen Brown3pt jump shot made
+Q4,5:21,Poland,70,63,substituicao_entra,Adam Hrycaniuk
+Q4,5:21,Poland,70,63,substituicao_sai,Damian Kulig
+Q4,5:34,USA,70,62,substituicao_entra,Joe Harris
+Q4,5:34,USA,70,62,substituicao_sai,Derrick White
+Q4,5:34,USA,70,62,FC,Derrick White
+Q4,5:34,Poland,70,63,LL_Pts_C,Damian Kulig
+Q4,5:34,Poland,70,62,FR,Damian Kulig
+Q4,5:34,Poland,70,62,AS,A.J. Slaughter
+Q4,5:34,Poland,70,62,,Damian Kuliglayup made
+Q4,5:48,USA,70,60,,Derrick White3pt jump shot missed
+Q4,5:48,Poland,70,60,RD,A.J. Slaughter
+Q4,5:52,USA,70,60,RO,Donovan Mitchell
+Q4,5:52,USA,70,60,,Harrison Barnes3pt jump shot missed
+Q4,5:59,USA,70,60,RD,Myles Turner
+Q4,5:59,USA,70,60,TO,Myles Turner
+Q4,5:59,Poland,70,60,2_Pts_T,A.J. Slaughter
+Q4,6:15,Poland,70,60,tempo_tecnico,
+Q4,6:17,USA,70,60,2_Pts_C,Derrick White
+Q4,6:26,USA,68,60,RO,Derrick White
+Q4,6:26,USA,68,60,,Myles Turneralley oop missed
+Q4,6:38,USA,68,60,substituicao_entra,Jaylen Brown
+Q4,6:38,USA,68,60,substituicao_sai,Khris Middleton
+Q4,6:38,Poland,68,60,ER,Mateusz Ponitka
+Q4,6:54,USA,68,60,ER,Khris Middleton
+Q4,7:10,USA,68,58,substituicao_entra,Myles Turner
+Q4,7:10,USA,68,58,substituicao_sai,Joe Harris
+Q4,7:10,USA,68,58,FC,Joe Harris
+Q4,7:10,Poland,68,60,LL_Pts_C,Michal Sokolowski
+Q4,7:10,Poland,68,59,LL_Pts_C,Michal Sokolowski
+Q4,7:10,Poland,68,58,FR,Michal Sokolowski
+Q4,7:11,Poland,68,58,RO,Michal Sokolowski
+Q4,7:11,Poland,68,58,,Adam Waczynskitip in missed
+Q4,7:14,Poland,68,58,RO,Adam Waczynski
+Q4,7:14,Poland,68,58,,Adam Waczynskilayup missed
+Q4,7:28,USA,68,58,FC,Harrison Barnes
+Q4,7:28,Poland,68,58,FR,Mateusz Ponitka
+Q4,7:28,Poland,68,58,RD,
+Q4,7:29,USA,68,58,,Joe Harris3pt jump shot missed
+Q4,7:41,USA,68,58,RD,Harrison Barnes
+Q4,7:41,Poland,68,58,,Adam Waczynski3pt jump shot missed
+Q4,7:49,Poland,68,58,RO,Damian Kulig
+Q4,7:49,Poland,68,58,,A.J. Slaughter3pt jump shot missed
+Q4,8:01,USA,68,58,LL_Pts_C,Derrick White
+Q4,8:01,USA,67,58,FR,Derrick White
+Q4,8:01,USA,67,58,AS,Harrison Barnes
+Q4,8:01,USA,67,58,,Derrick Whitelayup made
+Q4,8:01,Poland,67,58,substituicao_entra,Adam Waczynski
+Q4,8:01,Poland,67,58,substituicao_sai,Lukasz Koszarek
+Q4,8:01,Poland,67,58,substituicao_entra,A.J. Slaughter
+Q4,8:01,Poland,67,58,substituicao_sai,Aleksander Roman Balcerowski
+Q4,8:01,Poland,67,58,FC,Lukasz Koszarek
+Q4,8:21,USA,65,58,RD,Joe Harris
+Q4,8:21,Poland,65,58,,Lukasz Koszarek2pt jump shot missed
+Q4,8:31,USA,65,58,,Harrison Barnes2pt jump shot missed
+Q4,8:31,Poland,65,58,RD,Damian Kulig
+Q4,8:43,USA,65,58,RO,Khris Middleton
+Q4,8:43,USA,65,58,,Joe Harris3pt jump shot missed
+Q4,8:52,USA,65,57,FC,Khris Middleton
+Q4,8:52,Poland,65,58,LL_Pts_C,Mateusz Ponitka
+Q4,8:52,Poland,65,57,FR,Mateusz Ponitka
+Q4,8:52,Poland,65,57,,Mateusz Ponitkadunk made
+Q4,9:01,USA,65,55,FC,Donovan Mitchell
+Q4,9:01,Poland,65,55,FR,Aleksander Roman Balcerowski
+Q4,9:28,USA,65,55,,Harrison Barnes2pt jump shot made
+Q4,9:42,USA,63,55,RD,Khris Middleton
+Q4,9:42,Poland,63,55,3_Pts_T,Mateusz Ponitka

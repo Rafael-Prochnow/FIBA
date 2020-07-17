@@ -1,0 +1,510 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Poland,23,23,,Damian Kuligtip in made
+Q1,0:00,Poland,21,23,RO,Damian Kulig
+Q1,0:00,Poland,21,23,,Adam Waczynskilayup missed
+Q1,0:25,Czech Republic,21,23,AS,Blake Schilb
+Q1,0:25,Czech Republic,21,23,,Martin Peterkalayup made
+Q1,0:42,Poland,21,21,AS,Adam Waczynski
+Q1,0:42,Poland,21,21,,Damian Kuliglayup made
+Q1,0:53,Poland,19,21,BR,Damian Kulig
+Q1,0:53,Czech Republic,19,21,ER,Martin Peterka
+Q1,10:00,Czech Republic,0,0,inicio_quarto,Ondrej Balvín
+Q1,1:07,Poland,19,21,substituicao_entra,Lukasz Koszarek
+Q1,1:07,Poland,19,21,substituicao_sai,A.J. Slaughter
+Q1,1:07,Czech Republic,19,21,RO,
+Q1,1:09,Czech Republic,19,21,,Jakub Sirina3pt jump shot missed
+Q1,1:19,Poland,19,21,,Damian Kuliglayup missed
+Q1,1:19,Czech Republic,19,21,RD,Vojtech Hruban
+Q1,1:39,Czech Republic,19,21,AS,Jakub Sirina
+Q1,1:39,Czech Republic,19,21,,Martin Peterka3pt jump shot made
+Q1,1:51,Poland,19,18,FC,Michal Sokolowski
+Q1,1:51,Czech Republic,19,18,RO,Vojtech Hruban
+Q1,1:51,Czech Republic,19,18,LL_Pts_T,Jakub Sirina
+Q1,1:51,Czech Republic,19,18,LL_Pts_T,Jakub Sirina
+Q1,1:51,Czech Republic,19,18,substituicao_entra,Blake Schilb
+Q1,1:51,Czech Republic,19,18,substituicao_sai,Patrik Auda
+Q1,1:51,Czech Republic,19,18,FR,Jakub Sirina
+Q1,1:53,Poland,19,18,ER,A.J. Slaughter
+Q1,1:53,Czech Republic,19,18,BR,Patrik Auda
+Q1,2:01,Poland,19,18,RO,A.J. Slaughter
+Q1,2:01,Poland,19,18,2_Pts_T,A.J. Slaughter
+Q1,2:10,Poland,19,18,RD,A.J. Slaughter
+Q1,2:10,Poland,19,18,TO,Damian Kulig
+Q1,2:10,Czech Republic,19,18,2_Pts_T,Patrik Auda
+Q1,2:20,Poland,19,18,2_Pts_T,Michal Sokolowski
+Q1,2:20,Czech Republic,19,18,RD,Vojtech Hruban
+Q1,2:30,Poland,19,18,substituicao_entra,Michal Sokolowski
+Q1,2:30,Poland,19,18,substituicao_sai,Mateusz Ponitka
+Q1,2:46,Poland,19,18,FR,Adam Waczynski
+Q1,2:46,Czech Republic,19,18,FC_O,Patrik Auda
+Q1,2:54,Poland,19,18,,Damian Kuligtip in made
+Q1,2:54,Poland,17,18,RO,Damian Kulig
+Q1,2:54,Poland,17,18,2_Pts_T,A.J. Slaughter
+Q1,3:17,Czech Republic,17,18,AS,Jakub Sirina
+Q1,3:17,Czech Republic,17,18,2_Pts_C,Vojtech Hruban
+Q1,3:21,Poland,17,16,substituicao_entra,Damian Kulig
+Q1,3:21,Poland,17,16,substituicao_sai,Adam Hrycaniuk
+Q1,3:21,Poland,17,16,substituicao_entra,Aleksander Roman Balcerowski
+Q1,3:21,Poland,17,16,substituicao_sai,Aaron Cel
+Q1,3:21,Poland,17,16,FC,Adam Hrycaniuk
+Q1,3:21,Czech Republic,17,16,substituicao_entra,Martin Peterka
+Q1,3:21,Czech Republic,17,16,substituicao_sai,Jaromir Bohacik
+Q1,3:21,Czech Republic,17,16,substituicao_entra,Jakub Sirina
+Q1,3:21,Czech Republic,17,16,substituicao_sai,Ondrej Balvín
+Q1,3:21,Czech Republic,17,16,substituicao_entra,Pavel Pumprla
+Q1,3:21,Czech Republic,17,16,substituicao_sai,Tomas Satoransky
+Q1,3:21,Czech Republic,17,16,FR,Jaromir Bohacik
+Q1,3:36,Poland,17,16,2_Pts_C,Adam Hrycaniuk
+Q1,4:04,Czech Republic,15,16,AS,Tomas Satoransky
+Q1,4:04,Czech Republic,15,16,,Vojtech Hruban3pt jump shot made
+Q1,4:15,Poland,15,13,3_Pts_T,Aaron Cel
+Q1,4:15,Czech Republic,15,13,RD,Ondrej Balvín
+Q1,4:30,Czech Republic,15,13,AS,Tomas Satoransky
+Q1,4:30,Czech Republic,15,13,,Ondrej Balvínalley oop made
+Q1,4:39,Poland,15,11,2_Pts_T,Adam Waczynski
+Q1,4:39,Czech Republic,15,11,RD,Ondrej Balvín
+Q1,5:05,Czech Republic,15,11,,Tomas Satoranskydunk made
+Q1,5:10,Poland,15,9,2_Pts_T,Mateusz Ponitka
+Q1,5:10,Czech Republic,15,9,RD,Ondrej Balvín
+Q1,5:36,Czech Republic,15,9,AS,Jaromir Bohacik
+Q1,5:36,Czech Republic,15,9,,Tomas Satoransky3pt jump shot made
+Q1,5:46,Poland,15,6,LL_Pts_C,Adam Waczynski
+Q1,5:46,Poland,14,6,FR,Adam Waczynski
+Q1,5:46,Poland,14,6,2_Pts_C,Adam Waczynski
+Q1,5:46,Czech Republic,14,6,tempo_tecnico,
+Q1,5:46,Czech Republic,14,6,FC,Patrik Auda
+Q1,5:55,Poland,12,6,FR,Adam Waczynski
+Q1,5:55,Czech Republic,12,6,substituicao_entra,Patrik Auda
+Q1,5:55,Czech Republic,12,6,substituicao_sai,Martin Kriz
+Q1,5:55,Czech Republic,12,6,FC,Jaromir Bohacik
+Q1,6:11,Poland,12,6,RD,Adam Hrycaniuk
+Q1,6:11,Czech Republic,12,6,,Martin Kriz2pt jump shot missed
+Q1,6:22,Czech Republic,12,6,RO,Martin Kriz
+Q1,6:22,Czech Republic,12,6,,Jaromir Bohacik3pt jump shot missed
+Q1,6:27,Czech Republic,12,6,RO,Martin Kriz
+Q1,6:27,Czech Republic,12,6,,Vojtech Hruban3pt jump shot missed
+Q1,6:43,Poland,12,6,AS,Adam Waczynski
+Q1,6:43,Poland,12,6,,Aaron Cel3pt jump shot made
+Q1,6:57,Poland,9,6,BR,Aaron Cel
+Q1,6:57,Czech Republic,9,6,ER,Ondrej Balvín
+Q1,7:14,Poland,9,6,AS,Mateusz Ponitka
+Q1,7:14,Poland,9,6,2_Pts_C,A.J. Slaughter
+Q1,7:30,Czech Republic,7,6,AS,Martin Kriz
+Q1,7:30,Czech Republic,7,6,2_Pts_C,Jaromir Bohacik
+Q1,7:49,Poland,7,4,ER,Mateusz Ponitka
+Q1,8:01,Czech Republic,7,4,,Tomas Satoranskylayup made
+Q1,8:07,Czech Republic,7,2,RO,Tomas Satoransky
+Q1,8:07,Czech Republic,7,2,2_Pts_T,Ondrej Balvín
+Q1,8:24,Poland,7,2,AS,A.J. Slaughter
+Q1,8:24,Poland,7,2,,Mateusz Ponitkalayup made
+Q1,8:40,Czech Republic,5,2,2_Pts_C,Vojtech Hruban
+Q1,8:56,Poland,5,0,LL_Pts_T,Adam Hrycaniuk
+Q1,8:56,Poland,5,0,FR,Adam Hrycaniuk
+Q1,8:56,Poland,5,0,AS,A.J. Slaughter
+Q1,8:56,Poland,5,0,,Adam Hrycaniuklayup made
+Q1,8:56,Czech Republic,5,0,RD,Vojtech Hruban
+Q1,8:56,Czech Republic,5,0,FC,Jaromir Bohacik
+Q1,9:04,Poland,3,0,RD,Aaron Cel
+Q1,9:04,Czech Republic,3,0,,Martin Kriz2pt jump shot missed
+Q1,9:28,Poland,3,0,AS,Adam Hrycaniuk
+Q1,9:28,Poland,3,0,,Adam Waczynski3pt jump shot made
+Q1,9:36,Poland,0,0,RO,Mateusz Ponitka
+Q1,9:36,Poland,0,0,,Adam Waczynski3pt jump shot missed
+Q1,9:44,Poland,0,0,BR,A.J. Slaughter
+Q1,9:44,Czech Republic,0,0,ER,Tomas Satoransky
+Q2,0:00,Poland,35,43,2_Pts_C,Adam Waczynski
+Q2,0:06,Poland,33,43,RD,
+Q2,0:06,Czech Republic,33,43,2_Pts_T,Tomas Satoransky
+Q2,0:24,Poland,33,43,,Adam Waczynskitip in missed
+Q2,0:24,Czech Republic,33,43,RD,Martin Peterka
+Q2,0:31,Poland,33,43,RO,Adam Waczynski
+Q2,0:31,Poland,33,43,,Damian Kulig3pt jump shot missed
+Q2,0:41,Poland,33,42,FC,Damian Kulig
+Q2,0:41,Czech Republic,33,43,AS,Tomas Satoransky
+Q2,0:41,Czech Republic,33,43,LL_Pts_C,Patrik Auda
+Q2,0:41,Czech Republic,33,42,LL_Pts_T,Patrik Auda
+Q2,0:41,Czech Republic,33,42,substituicao_entra,Jakub Sirina
+Q2,0:41,Czech Republic,33,42,substituicao_sai,Jaromir Bohacik
+Q2,0:41,Czech Republic,33,42,substituicao_entra,Pavel Pumprla
+Q2,0:41,Czech Republic,33,42,substituicao_sai,Vojtech Hruban
+Q2,0:41,Czech Republic,33,42,FR,Patrik Auda
+Q2,0:50,Poland,33,42,ER,Damian Kulig
+Q2,0:50,Czech Republic,33,42,BR,Vojtech Hruban
+Q2,10:00,Poland,23,23,muda_bola,
+Q2,1:10,Poland,33,42,FR,Adam Waczynski
+Q2,1:10,Poland,33,42,BR,Damian Kulig
+Q2,1:10,Czech Republic,33,42,substituicao_entra,Martin Peterka
+Q2,1:10,Czech Republic,33,42,substituicao_sai,Ondrej Balvín
+Q2,1:10,Czech Republic,33,42,FC,Ondrej Balvín
+Q2,1:10,Czech Republic,33,42,ER,Ondrej Balvín
+Q2,1:30,Poland,33,42,ER,Adam Waczynski
+Q2,1:48,Czech Republic,33,42,AS,Patrik Auda
+Q2,1:48,Czech Republic,33,42,,Vojtech Hruban2pt jump shot made
+Q2,1:58,Poland,33,40,,Aaron Cel3pt jump shot missed
+Q2,1:58,Czech Republic,33,40,RD,Tomas Satoransky
+Q2,2:19,Czech Republic,33,40,AS,Ondrej Balvín
+Q2,2:19,Czech Republic,33,40,,Jaromir Bohacik3pt jump shot made
+Q2,2:33,Poland,33,37,2_Pts_T,Aaron Cel
+Q2,2:33,Czech Republic,33,37,RD,Vojtech Hruban
+Q2,2:33,Czech Republic,33,37,TO,Ondrej Balvín
+Q2,2:49,Poland,33,37,substituicao_entra,Damian Kulig
+Q2,2:49,Poland,33,37,substituicao_sai,Adam Hrycaniuk
+Q2,2:49,Poland,33,37,tempo_tecnico,
+Q2,2:49,Czech Republic,33,37,AS,Tomas Satoransky
+Q2,2:49,Czech Republic,33,37,,Jaromir Bohacik3pt jump shot made
+Q2,2:54,Poland,33,34,ER,Mateusz Ponitka
+Q2,2:54,Czech Republic,33,34,BR,Patrik Auda
+Q2,3:16,Czech Republic,33,34,AS,Jaromir Bohacik
+Q2,3:16,Czech Republic,33,34,,Tomas Satoransky3pt jump shot made
+Q2,3:32,Poland,33,31,LL_Pts_T,Adam Hrycaniuk
+Q2,3:32,Poland,33,31,AS,A.J. Slaughter
+Q2,3:32,Poland,33,31,LL_Pts_C,Adam Hrycaniuk
+Q2,3:32,Poland,32,31,FR,Adam Hrycaniuk
+Q2,3:32,Czech Republic,33,31,RD,Patrik Auda
+Q2,3:32,Czech Republic,32,31,FC,Ondrej Balvín
+Q2,3:51,Czech Republic,32,31,2_Pts_C,Tomas Satoransky
+Q2,4:08,Poland,32,29,FC,Adam Hrycaniuk
+Q2,4:08,Czech Republic,32,29,FR,Patrik Auda
+Q2,4:11,Poland,32,29,2_Pts_T,A.J. Slaughter
+Q2,4:11,Czech Republic,32,29,RD,
+Q2,4:33,Czech Republic,32,29,ER,Tomas Satoransky
+Q2,4:46,Poland,32,29,tempo_tecnico,
+Q2,4:46,Poland,32,29,ER ,
+Q2,5:14,Czech Republic,32,29,AS,Ondrej Balvín
+Q2,5:14,Czech Republic,32,29,,Jaromir Bohacik3pt jump shot made
+Q2,5:22,Poland,32,26,substituicao_entra,Adam Waczynski
+Q2,5:22,Poland,32,26,substituicao_sai,Lukasz Koszarek
+Q2,5:22,Poland,32,26,substituicao_entra,A.J. Slaughter
+Q2,5:22,Poland,32,26,substituicao_sai,Karol Gruszecki
+Q2,5:22,Poland,32,26,FC,Mateusz Ponitka
+Q2,5:22,Czech Republic,32,26,FR,Ondrej Balvín
+Q2,5:39,Poland,32,26,3_Pts_C,Lukasz Koszarek
+Q2,5:50,Poland,29,26,RD,Karol Gruszecki
+Q2,5:50,Czech Republic,29,26,,Tomas Satoranskylayup missed
+Q2,5:59,Poland,29,26,2_Pts_T,Mateusz Ponitka
+Q2,5:59,Czech Republic,29,26,RD,Vojtech Hruban
+Q2,6:16,Poland,29,26,RD,Karol Gruszecki
+Q2,6:16,Czech Republic,29,26,2_Pts_T,Ondrej Balvín
+Q2,6:27,Poland,29,26,substituicao_entra,Adam Hrycaniuk
+Q2,6:27,Poland,29,26,substituicao_sai,Damian Kulig
+Q2,6:27,Czech Republic,29,26,RO,
+Q2,6:27,Czech Republic,29,26,2_Pts_T,Jaromir Bohacik
+Q2,6:35,Poland,29,26,substituicao_entra,Aaron Cel
+Q2,6:35,Poland,29,26,substituicao_sai,Michal Sokolowski
+Q2,6:35,Poland,29,26,FC,Michal Sokolowski
+Q2,6:35,Czech Republic,29,26,substituicao_entra,Patrik Auda
+Q2,6:35,Czech Republic,29,26,substituicao_sai,Blake Schilb
+Q2,6:35,Czech Republic,29,26,FR,Ondrej Balvín
+Q2,6:35,Czech Republic,29,26,RO,
+Q2,6:35,Czech Republic,29,26,,Jaromir Bohacik3pt jump shot missed
+Q2,7:01,Poland,29,26,LL_Pts_C,Karol Gruszecki
+Q2,7:01,Poland,28,26,LL_Pts_C,Karol Gruszecki
+Q2,7:01,Poland,27,26,FR,Karol Gruszecki
+Q2,7:01,Czech Republic,27,26,FC,Vojtech Hruban
+Q2,7:25,Poland,27,26,FR,Mateusz Ponitka
+Q2,7:25,Czech Republic,27,26,substituicao_entra,Tomas Satoransky
+Q2,7:25,Czech Republic,27,26,substituicao_sai,Jakub Sirina
+Q2,7:25,Czech Republic,27,26,substituicao_entra,Vojtech Hruban
+Q2,7:25,Czech Republic,27,26,substituicao_sai,Pavel Pumprla
+Q2,7:25,Czech Republic,27,26,FC,Jakub Sirina
+Q2,7:27,Poland,27,26,RD,Mateusz Ponitka
+Q2,7:27,Poland,27,26,TO,Damian Kulig
+Q2,7:27,Czech Republic,27,26,2_Pts_T,Pavel Pumprla
+Q2,7:46,Poland,27,26,2_Pts_C,Karol Gruszecki
+Q2,7:56,Poland,25,26,BR,Michal Sokolowski
+Q2,7:56,Czech Republic,25,26,ER,Pavel Pumprla
+Q2,8:15,Poland,25,26,ER,Mateusz Ponitka
+Q2,8:15,Czech Republic,25,26,substituicao_entra,Ondrej Balvín
+Q2,8:15,Czech Republic,25,26,substituicao_sai,Martin Peterka
+Q2,8:27,Czech Republic,25,26,ER,Jakub Sirina
+Q2,8:32,Poland,25,26,,Karol Gruszecki3pt jump shot missed
+Q2,8:32,Czech Republic,25,26,RD,Pavel Pumprla
+Q2,8:53,Czech Republic,25,26,,Jakub Sirina3pt jump shot made
+Q2,9:15,Poland,25,23,AS,Michal Sokolowski
+Q2,9:15,Poland,25,23,,Damian Kuliglayup made
+Q2,9:31,Poland,23,23,RD,Damian Kulig
+Q2,9:31,Czech Republic,23,23,,Pavel Pumprlaalley oop missed
+Q2,9:38,Poland,23,23,2_Pts_T,Lukasz Koszarek
+Q2,9:38,Czech Republic,23,23,RD,Jaromir Bohacik
+Q3,0:01,Poland,63,64,BR,Damian Kulig
+Q3,0:01,Czech Republic,63,64,ER,Ondrej Balvín
+Q3,0:05,Poland,63,64,FC,Lukasz Koszarek
+Q3,0:05,Czech Republic,63,64,FR,Lukas Palyza
+Q3,0:12,Poland,63,64,3_Pts_T,Karol Gruszecki
+Q3,0:12,Czech Republic,63,64,RD,Vojtech Hruban
+Q3,0:32,Poland,63,64,RD,Damian Kulig
+Q3,0:32,Czech Republic,63,64,,Lukas Palyza3pt jump shot missed
+Q3,0:42,Poland,63,64,substituicao_entra,Karol Gruszecki
+Q3,0:42,Poland,63,64,substituicao_sai,Adam Waczynski
+Q3,0:42,Poland,63,64,substituicao_entra,Mateusz Ponitka
+Q3,0:42,Poland,63,64,substituicao_sai,A.J. Slaughter
+Q3,0:42,Poland,63,64,FC,Lukasz Koszarek
+Q3,0:42,Czech Republic,63,64,FR,Tomas Satoransky
+Q3,0:45,Poland,63,64,2_Pts_T,A.J. Slaughter
+Q3,0:45,Czech Republic,63,64,RD,Lukas Palyza
+Q3,0:55,Czech Republic,63,64,2_Pts_C,Tomas Satoransky
+Q3,10:00,Czech Republic,35,43,muda_bola,
+Q3,1:04,Poland,63,62,,A.J. Slaughterlayup made
+Q3,1:20,Poland,61,62,FR,A.J. Slaughter
+Q3,1:20,Czech Republic,61,62,FC,Pavel Pumprla
+Q3,1:22,Poland,61,62,RD,A.J. Slaughter
+Q3,1:22,Czech Republic,61,62,,Tomas Satoransky3pt jump shot missed
+Q3,1:28,Czech Republic,61,62,RO,Ondrej Balvín
+Q3,1:28,Czech Republic,61,62,,Vojtech Hruban2pt jump shot missed
+Q3,1:32,Poland,61,62,TO,Damian Kulig
+Q3,1:32,Czech Republic,61,62,RO,Vojtech Hruban
+Q3,1:32,Czech Republic,61,62,,Pavel Pumprladunk blocked
+Q3,1:48,Czech Republic,61,62,substituicao_entra,Lukas Palyza
+Q3,1:48,Czech Republic,61,62,substituicao_sai,Jaromir Bohacik
+Q3,1:49,Poland,61,62,LL_Pts_C,Michal Sokolowski
+Q3,1:49,Poland,60,62,LL_Pts_C,Michal Sokolowski
+Q3,1:49,Poland,59,62,FR,Michal Sokolowski
+Q3,1:49,Czech Republic,59,62,FC,Pavel Pumprla
+Q3,2:02,Poland,59,62,RD,Damian Kulig
+Q3,2:02,Czech Republic,59,62,2_Pts_T,Vojtech Hruban
+Q3,2:15,Poland,59,62,2_Pts_T,A.J. Slaughter
+Q3,2:15,Czech Republic,59,62,RD,Ondrej Balvín
+Q3,2:35,Czech Republic,59,62,AS,Vojtech Hruban
+Q3,2:35,Czech Republic,59,62,,Ondrej Balvíndunk made
+Q3,2:50,Poland,59,60,substituicao_entra,Lukasz Koszarek
+Q3,2:50,Poland,59,60,substituicao_sai,Mateusz Ponitka
+Q3,2:50,Poland,59,60,AS,A.J. Slaughter
+Q3,2:50,Poland,59,60,,Adam Waczynskilayup made
+Q3,2:50,Czech Republic,59,60,substituicao_entra,Ondrej Balvín
+Q3,2:50,Czech Republic,59,60,substituicao_sai,Martin Peterka
+Q3,2:50,Czech Republic,59,60,substituicao_entra,Tomas Satoransky
+Q3,2:50,Czech Republic,59,60,substituicao_sai,Jakub Sirina
+Q3,2:50,Czech Republic,59,60,substituicao_entra,Pavel Pumprla
+Q3,2:50,Czech Republic,59,60,substituicao_sai,Patrik Auda
+Q3,2:50,Czech Republic,59,60,tempo_tecnico,
+Q3,3:00,Poland,57,60,RD,Adam Waczynski
+Q3,3:00,Czech Republic,57,60,,Jakub Sirina3pt jump shot missed
+Q3,3:18,Poland,57,60,AS,A.J. Slaughter
+Q3,3:18,Poland,57,60,,Damian Kuliglayup made
+Q3,3:36,Poland,55,60,RD,Adam Waczynski
+Q3,3:36,Czech Republic,55,60,,Jaromir Bohacik3pt jump shot missed
+Q3,3:51,Poland,55,60,,Adam Waczynski3pt jump shot missed
+Q3,3:51,Czech Republic,55,60,RD,Jaromir Bohacik
+Q3,4:03,Poland,55,60,RD,Damian Kulig
+Q3,4:03,Czech Republic,55,60,2_Pts_T,Jaromir Bohacik
+Q3,4:27,Poland,55,60,2_Pts_C,Damian Kulig
+Q3,4:47,Poland,53,60,substituicao_entra,Damian Kulig
+Q3,4:47,Poland,53,60,substituicao_sai,Adam Hrycaniuk
+Q3,4:47,Poland,53,60,substituicao_entra,Michal Sokolowski
+Q3,4:47,Poland,53,60,substituicao_sai,Aaron Cel
+Q3,4:47,Poland,53,60,tempo_tecnico,
+Q3,4:47,Czech Republic,53,60,substituicao_entra,Jakub Sirina
+Q3,4:47,Czech Republic,53,60,substituicao_sai,Tomas Satoransky
+Q3,4:47,Czech Republic,53,60,substituicao_entra,Patrik Auda
+Q3,4:47,Czech Republic,53,60,substituicao_sai,Pavel Pumprla
+Q3,4:47,Czech Republic,53,60,AS,Tomas Satoransky
+Q3,4:47,Czech Republic,53,60,,Jaromir Bohacik3pt jump shot made
+Q3,4:53,Poland,53,57,2_Pts_T,Adam Hrycaniuk
+Q3,4:53,Czech Republic,53,57,RD,Martin Peterka
+Q3,5:18,Czech Republic,53,57,AS,Tomas Satoransky
+Q3,5:18,Czech Republic,53,57,,Vojtech Hruban3pt jump shot made
+Q3,5:27,Poland,53,54,2_Pts_T,Adam Waczynski
+Q3,5:27,Czech Republic,53,54,RD,Tomas Satoransky
+Q3,5:46,Poland,53,54,RD,Adam Hrycaniuk
+Q3,5:46,Czech Republic,53,54,,Jaromir Bohaciklayup missed
+Q3,5:54,Poland,53,54,AS,A.J. Slaughter
+Q3,5:54,Poland,53,54,,Adam Hrycaniuklayup made
+Q3,6:13,Czech Republic,51,54,AS,Martin Peterka
+Q3,6:13,Czech Republic,51,54,,Tomas Satoranskylayup made
+Q3,6:27,Poland,51,52,AS,Adam Waczynski
+Q3,6:27,Poland,51,52,,Mateusz Ponitka3pt jump shot made
+Q3,6:33,Poland,48,52,RO,Mateusz Ponitka
+Q3,6:33,Poland,48,52,3_Pts_T,A.J. Slaughter
+Q3,6:53,Czech Republic,48,52,AS,Tomas Satoransky
+Q3,6:53,Czech Republic,48,52,,Martin Peterkalayup made
+Q3,6:59,Poland,48,50,FC,A.J. Slaughter
+Q3,6:59,Poland,48,50,LL_Pts_C,Adam Hrycaniuk
+Q3,6:59,Czech Republic,48,50,FR,Tomas Satoransky
+Q3,7:07,Poland,47,50,LL_Pts_C,Adam Hrycaniuk
+Q3,7:07,Poland,46,50,FR,Adam Hrycaniuk
+Q3,7:07,Czech Republic,46,50,substituicao_entra,Martin Peterka
+Q3,7:07,Czech Republic,46,50,substituicao_sai,Ondrej Balvín
+Q3,7:07,Czech Republic,46,50,FC,Ondrej Balvín
+Q3,7:30,Czech Republic,46,50,AS,Tomas Satoransky
+Q3,7:30,Czech Republic,46,50,2_Pts_C,Vojtech Hruban
+Q3,7:41,Poland,46,48,AS,Mateusz Ponitka
+Q3,7:41,Poland,46,48,,Adam Waczynski3pt jump shot made
+Q3,7:41,Czech Republic,46,48,tempo_tecnico,
+Q3,7:52,Poland,43,48,RD,Adam Hrycaniuk
+Q3,7:52,Czech Republic,43,48,,Tomas Satoransky3pt jump shot missed
+Q3,8:14,Poland,43,48,AS,A.J. Slaughter
+Q3,8:14,Poland,43,48,,Aaron Cel3pt jump shot made
+Q3,8:29,Poland,40,48,muda_bola,
+Q3,8:34,Poland,40,48,RD,Aaron Cel
+Q3,8:34,Czech Republic,40,48,,Vojtech Hruban3pt jump shot missed
+Q3,8:41,Czech Republic,40,48,RO,Vojtech Hruban
+Q3,8:41,Czech Republic,40,48,2_Pts_T,Pavel Pumprla
+Q3,8:59,Poland,40,48,AS,A.J. Slaughter
+Q3,8:59,Poland,40,48,3_Pts_C,Adam Waczynski
+Q3,9:16,Czech Republic,37,48,AS,Tomas Satoransky
+Q3,9:16,Czech Republic,37,48,3_Pts_C,Vojtech Hruban
+Q3,9:31,Poland,37,45,AS,A.J. Slaughter
+Q3,9:31,Poland,37,45,,Mateusz Ponitkaalley oop made
+Q3,9:45,Czech Republic,35,45,AS,Tomas Satoransky
+Q3,9:45,Czech Republic,35,45,,Ondrej Balvínalley oop made
+Q4,0:05,Poland,84,92,FC,Michal Sokolowski
+Q4,0:05,Czech Republic,84,94,substituicao_entra,Martin Peterka
+Q4,0:05,Czech Republic,84,94,substituicao_sai,Tomas Satoransky
+Q4,0:05,Czech Republic,84,94,LL_Pts_C,Tomas Satoransky
+Q4,0:05,Czech Republic,84,93,LL_Pts_C,Tomas Satoransky
+Q4,0:05,Czech Republic,84,92,substituicao_entra,Lukas Palyza
+Q4,0:05,Czech Republic,84,92,substituicao_sai,Martin Kriz
+Q4,0:05,Czech Republic,84,92,substituicao_entra,Jakub Sirina
+Q4,0:05,Czech Republic,84,92,substituicao_sai,Jaromir Bohacik
+Q4,0:05,Czech Republic,84,92,substituicao_entra,Tomas Vyoral
+Q4,0:05,Czech Republic,84,92,substituicao_sai,Vojtech Hruban
+Q4,0:05,Czech Republic,84,92,substituicao_entra,Patrik Auda
+Q4,0:05,Czech Republic,84,92,substituicao_sai,Pavel Pumprla
+Q4,0:05,Czech Republic,84,92,FR,Tomas Satoransky
+Q4,0:08,Poland,84,92,2_Pts_T,Michal Sokolowski
+Q4,0:08,Czech Republic,84,92,RD,Vojtech Hruban
+Q4,0:16,Poland,84,90,FC,Mateusz Ponitka
+Q4,0:16,Czech Republic,84,92,LL_Pts_C,Jaromir Bohacik
+Q4,0:16,Czech Republic,84,91,LL_Pts_C,Jaromir Bohacik
+Q4,0:16,Czech Republic,84,90,FR,Jaromir Bohacik
+Q4,0:17,Poland,84,90,2_Pts_C,Adam Waczynski
+Q4,0:24,Poland,82,90,substituicao_entra,Damian Kulig
+Q4,0:24,Poland,82,90,substituicao_sai,Adam Hrycaniuk
+Q4,0:24,Poland,82,90,tempo_tecnico,
+Q4,0:24,Czech Republic,82,90,substituicao_entra,Martin Kriz
+Q4,0:24,Czech Republic,82,90,substituicao_sai,Ondrej Balvín
+Q4,0:24,Czech Republic,82,90,2_Pts_C,Vojtech Hruban
+Q4,0:29,Poland,82,88,,A.J. Slaughter3pt jump shot missed
+Q4,0:29,Czech Republic,82,88,RD,Jaromir Bohacik
+Q4,0:39,Czech Republic,82,88,AS,Vojtech Hruban
+Q4,0:39,Czech Republic,82,88,,Tomas Satoranskylayup made
+Q4,0:44,Czech Republic,79,84,substituicao_entra,Jaromir Bohacik
+Q4,0:44,Czech Republic,79,84,substituicao_sai,Ondrej Balvín
+Q4,0:49,Poland,82,86,LL_Pts_C,Adam Waczynski
+Q4,0:49,Poland,81,86,LL_Pts_C,Adam Waczynski
+Q4,0:49,Poland,80,86,FR,Adam Waczynski
+Q4,0:49,Poland,80,86,BR,Adam Waczynski
+Q4,0:49,Czech Republic,80,86,substituicao_entra,Ondrej Balvín
+Q4,0:49,Czech Republic,80,86,substituicao_sai,Martin Peterka
+Q4,0:49,Czech Republic,80,86,FC,Jaromir Bohacik
+Q4,0:49,Czech Republic,80,86,ER,Tomas Satoransky
+Q4,0:51,Poland,80,86,TO,Michal Sokolowski
+Q4,0:51,Czech Republic,80,86,RO,
+Q4,0:51,Czech Republic,80,86,2_Pts_T,Martin Peterka
+Q4,0:57,Czech Republic,80,86,RO,Martin Peterka
+Q4,0:57,Czech Republic,80,86,2_Pts_T,Jaromir Bohacik
+Q4,10:00,Czech Republic,63,64,muda_bola,
+Q4,1:20,Poland,80,86,ER,Adam Waczynski
+Q4,1:31,Czech Republic,80,86,substituicao_entra,Martin Peterka
+Q4,1:31,Czech Republic,80,86,substituicao_sai,Ondrej Balvín
+Q4,1:31,Czech Republic,80,86,AS,Vojtech Hruban
+Q4,1:31,Czech Republic,80,86,,Pavel Pumprladunk made
+Q4,1:50,Poland,80,84,LL_Pts_C,Mateusz Ponitka
+Q4,1:50,Poland,79,84,LL_Pts_T,Mateusz Ponitka
+Q4,1:50,Poland,79,84,FR,Mateusz Ponitka
+Q4,1:50,Poland,79,84,RD,
+Q4,1:50,Czech Republic,79,84,substituicao_entra,Jaromir Bohacik
+Q4,1:50,Czech Republic,79,84,substituicao_sai,Patrik Auda
+Q4,1:50,Czech Republic,79,84,substituicao_entra,Ondrej Balvín
+Q4,1:50,Czech Republic,79,84,substituicao_sai,Martin Peterka
+Q4,1:50,Czech Republic,79,84,FC,Pavel Pumprla
+Q4,1:50,Czech Republic,79,84,,Vojtech Hruban3pt jump shot missed
+Q4,2:04,Czech Republic,79,84,RO,Vojtech Hruban
+Q4,2:04,Czech Republic,79,84,2_Pts_T,Tomas Satoransky
+Q4,2:22,Poland,79,84,2_Pts_T,Adam Waczynski
+Q4,2:22,Czech Republic,79,84,RD,Martin Peterka
+Q4,2:46,Poland,79,84,substituicao_entra,Adam Hrycaniuk
+Q4,2:46,Poland,79,84,substituicao_sai,Damian Kulig
+Q4,2:46,Poland,79,84,substituicao_entra,Michal Sokolowski
+Q4,2:46,Poland,79,84,substituicao_sai,Aaron Cel
+Q4,2:46,Poland,79,84,tempo_tecnico,
+Q4,2:46,Czech Republic,79,84,,Vojtech Hruban3pt jump shot made
+Q4,3:00,Poland,79,81,2_Pts_T,A.J. Slaughter
+Q4,3:00,Czech Republic,79,81,RD,Pavel Pumprla
+Q4,3:21,Poland,79,80,FC,Mateusz Ponitka
+Q4,3:21,Czech Republic,79,81,substituicao_entra,Pavel Pumprla
+Q4,3:21,Czech Republic,79,81,substituicao_sai,Ondrej Balvín
+Q4,3:21,Czech Republic,79,81,LL_Pts_C,Ondrej Balvín
+Q4,3:21,Czech Republic,79,80,FR,Ondrej Balvín
+Q4,3:21,Czech Republic,79,80,2_Pts_C,Ondrej Balvín
+Q4,3:41,Poland,79,78,2_Pts_C,A.J. Slaughter
+Q4,4:01,Poland,77,76,FC,Aaron Cel
+Q4,4:01,Czech Republic,77,78,LL_Pts_C,Martin Peterka
+Q4,4:01,Czech Republic,77,77,AS,Tomas Satoransky
+Q4,4:01,Czech Republic,77,77,LL_Pts_C,Martin Peterka
+Q4,4:01,Czech Republic,77,76,FR,Martin Peterka
+Q4,4:05,Poland,77,76,2_Pts_T,Adam Waczynski
+Q4,4:05,Czech Republic,77,76,RD,Vojtech Hruban
+Q4,4:05,Czech Republic,77,76,TO,Vojtech Hruban
+Q4,4:30,Czech Republic,77,76,2_Pts_C,Jaromir Bohacik
+Q4,4:54,Poland,77,74,AS,A.J. Slaughter
+Q4,4:54,Poland,77,74,3_Pts_C,Aaron Cel
+Q4,5:10,Poland,74,72,FC,Aaron Cel
+Q4,5:10,Czech Republic,74,74,LL_Pts_C,Tomas Satoransky
+Q4,5:10,Czech Republic,74,73,LL_Pts_C,Tomas Satoransky
+Q4,5:10,Czech Republic,74,72,FR,Tomas Satoransky
+Q4,5:23,Poland,74,72,LL_Pts_C,Adam Waczynski
+Q4,5:23,Poland,73,72,LL_Pts_C,Adam Waczynski
+Q4,5:23,Poland,72,72,FR,Adam Waczynski
+Q4,5:23,Czech Republic,72,72,substituicao_entra,Martin Peterka
+Q4,5:23,Czech Republic,72,72,substituicao_sai,Lukas Palyza
+Q4,5:23,Czech Republic,72,72,substituicao_entra,Vojtech Hruban
+Q4,5:23,Czech Republic,72,72,substituicao_sai,Pavel Pumprla
+Q4,5:23,Czech Republic,72,72,FC,Jaromir Bohacik
+Q4,5:33,Poland,72,72,RD,Adam Waczynski
+Q4,5:33,Czech Republic,72,72,2_Pts_T,Pavel Pumprla
+Q4,5:53,Poland,72,72,2_Pts_C,A.J. Slaughter
+Q4,6:09,Czech Republic,70,72,AS,Lukas Palyza
+Q4,6:09,Czech Republic,70,72,,Jaromir Bohacik3pt jump shot made
+Q4,6:25,Poland,70,69,LL_Pts_C,A.J. Slaughter
+Q4,6:25,Poland,69,69,LL_Pts_C,A.J. Slaughter
+Q4,6:25,Poland,68,69,FR,A.J. Slaughter
+Q4,6:25,Czech Republic,68,69,substituicao_entra,Ondrej Balvín
+Q4,6:25,Czech Republic,68,69,substituicao_sai,Patrik Auda
+Q4,6:25,Czech Republic,68,69,FC,Patrik Auda
+Q4,6:39,Poland,68,69,BR,Mateusz Ponitka
+Q4,6:39,Czech Republic,68,69,ER,Patrik Auda
+Q4,6:52,Poland,68,69,FC,Mateusz Ponitka
+Q4,6:52,Czech Republic,68,69,FR,Patrik Auda
+Q4,7:04,Poland,68,69,2_Pts_C,A.J. Slaughter
+Q4,7:13,Poland,66,69,RD,Damian Kulig
+Q4,7:13,Czech Republic,66,69,2_Pts_T,Tomas Satoransky
+Q4,7:25,Poland,66,69,AS,Adam Waczynski
+Q4,7:25,Poland,66,69,,Mateusz Ponitka3pt jump shot made
+Q4,7:44,Poland,63,69,substituicao_entra,Damian Kulig
+Q4,7:44,Poland,63,69,substituicao_sai,Adam Hrycaniuk
+Q4,7:44,Poland,63,69,substituicao_entra,Adam Waczynski
+Q4,7:44,Poland,63,69,substituicao_sai,Michal Sokolowski
+Q4,7:44,Poland,63,69,FR,Mateusz Ponitka
+Q4,7:44,Czech Republic,63,69,substituicao_entra,Tomas Satoransky
+Q4,7:44,Czech Republic,63,69,substituicao_sai,Jaromir Bohacik
+Q4,7:44,Czech Republic,63,69,substituicao_entra,Ondrej Balvín
+Q4,7:44,Czech Republic,63,69,substituicao_sai,Tomas Satoransky
+Q4,7:44,Czech Republic,63,69,substituicao_entra,Jaromir Bohacik
+Q4,7:44,Czech Republic,63,69,substituicao_sai,Vojtech Hruban
+Q4,7:44,Czech Republic,63,69,FC,Vojtech Hruban
+Q4,7:46,Poland,63,69,RD,Mateusz Ponitka
+Q4,7:46,Czech Republic,63,69,2_Pts_T,Pavel Pumprla
+Q4,8:09,Poland,63,69,,A.J. Slaughter3pt jump shot missed
+Q4,8:09,Czech Republic,63,69,RD,Pavel Pumprla
+Q4,8:30,Poland,63,69,FR,A.J. Slaughter
+Q4,8:30,Czech Republic,63,69,FC_O,Patrik Auda
+Q4,8:39,Poland,63,69,substituicao_entra,Aaron Cel
+Q4,8:39,Poland,63,69,substituicao_sai,Karol Gruszecki
+Q4,8:39,Poland,63,69,FC,Michal Sokolowski
+Q4,8:39,Czech Republic,63,69,FR,Lukas Palyza
+Q4,8:45,Poland,63,68,substituicao_entra,A.J. Slaughter
+Q4,8:45,Poland,63,68,substituicao_sai,Lukasz Koszarek
+Q4,8:45,Poland,63,68,FC,Adam Hrycaniuk
+Q4,8:45,Czech Republic,63,69,RO,Lukas Palyza
+Q4,8:45,Czech Republic,63,69,LL_Pts_T,Pavel Pumprla
+Q4,8:45,Czech Republic,63,69,AS,Tomas Satoransky
+Q4,8:45,Czech Republic,63,69,LL_Pts_C,Pavel Pumprla
+Q4,8:45,Czech Republic,63,68,FR,Pavel Pumprla
+Q4,8:47,Poland,63,68,ER,Adam Hrycaniuk
+Q4,8:47,Czech Republic,63,68,BR,Pavel Pumprla
+Q4,9:12,Czech Republic,63,68,2_Pts_C,Vojtech Hruban
+Q4,9:27,Poland,63,66,,Karol Gruszecki3pt jump shot missed
+Q4,9:27,Czech Republic,63,66,RD,Tomas Satoransky
+Q4,9:49,Czech Republic,63,66,AS,Lukas Palyza
+Q4,9:49,Czech Republic,63,66,2_Pts_C,Pavel Pumprla

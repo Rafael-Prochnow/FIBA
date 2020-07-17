@@ -1,0 +1,487 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:01,USA,14,17,,Derrick Whitelayup missed
+Q1,0:10,Czech Republic,14,17,substituicao_entra,Tomas Vyoral
+Q1,0:10,Czech Republic,14,17,substituicao_sai,Jakub Sirina
+Q1,0:10,Czech Republic,14,17,FC,Jakub Sirina
+Q1,0:10,USA,14,17,FR,Kemba Walker
+Q1,0:31,Czech Republic,14,17,AS,Jakub Sirina
+Q1,0:31,Czech Republic,14,17,,Blake Schilb3pt jump shot made
+Q1,0:53,USA,11,17,AS,Kemba Walker
+Q1,0:53,USA,11,17,,Derrick Whitedunk made
+Q1,0:57,Czech Republic,11,15,ER,Jakub Sirina
+Q1,0:57,USA,11,15,BR,Derrick White
+Q1,10:00,USA,0,0,inicio_quarto,Myles Turner
+Q1,1:12,Czech Republic,11,15,RD,Pavel Pumprla
+Q1,1:12,USA,11,15,2_Pts_T,Joe Harris
+Q1,1:28,Czech Republic,11,15,ER,Martin Peterka
+Q1,1:52,USA,11,15,2_Pts_C,Joe Harris
+Q1,1:58,Czech Republic,11,13,tempo_tecnico,
+Q1,1:58,USA,11,13,substituicao_entra,Derrick White
+Q1,1:58,USA,11,13,substituicao_sai,Khris Middleton
+Q1,1:58,USA,11,13,RO,
+Q1,1:59,USA,11,13,,Khris Middleton3pt jump shot missed
+Q1,2:18,Czech Republic,11,13,substituicao_entra,Martin Kriz
+Q1,2:18,Czech Republic,11,13,substituicao_sai,Tomas Satoransky
+Q1,2:18,Czech Republic,11,13,substituicao_entra,Jakub Sirina
+Q1,2:18,Czech Republic,11,13,substituicao_sai,Patrik Auda
+Q1,2:18,Czech Republic,11,13,FC,Patrik Auda
+Q1,2:18,Czech Republic,11,13,,Tomas Satoransky2pt jump shot missed
+Q1,2:18,USA,11,13,FR,Jaylen Brown
+Q1,2:18,USA,11,13,RD,
+Q1,2:25,Czech Republic,11,13,BR,Pavel Pumprla
+Q1,2:25,USA,11,13,ER,Khris Middleton
+Q1,2:32,Czech Republic,11,13,2_Pts_T,Pavel Pumprla
+Q1,2:32,USA,11,13,RD,Joe Harris
+Q1,2:57,USA,11,13,2_Pts_C,Harrison Barnes
+Q1,3:16,Czech Republic,11,11,ER,Tomas Satoransky
+Q1,3:16,USA,11,11,substituicao_entra,Kemba Walker
+Q1,3:16,USA,11,11,substituicao_sai,Marcus Smart
+Q1,3:29,Czech Republic,11,9,FC,Patrik Auda
+Q1,3:29,USA,11,11,LL_Pts_C,Harrison Barnes
+Q1,3:29,USA,11,10,AS,Khris Middleton
+Q1,3:29,USA,11,10,LL_Pts_C,Harrison Barnes
+Q1,3:29,USA,11,9,FR,Harrison Barnes
+Q1,3:39,Czech Republic,11,9,2_Pts_T,Pavel Pumprla
+Q1,3:39,USA,11,9,RD,Jaylen Brown
+Q1,4:01,Czech Republic,11,9,RD,
+Q1,4:01,USA,11,9,substituicao_entra,Harrison Barnes
+Q1,4:01,USA,11,9,substituicao_sai,Brook Lopez
+Q1,4:01,USA,11,9,3_Pts_T,Marcus Smart
+Q1,4:05,Czech Republic,11,9,substituicao_entra,Martin Peterka
+Q1,4:05,Czech Republic,11,9,substituicao_sai,Jaromir Bohacik
+Q1,4:05,Czech Republic,11,9,substituicao_entra,Pavel Pumprla
+Q1,4:05,Czech Republic,11,9,substituicao_sai,Ondrej Balvín
+Q1,4:09,Czech Republic,11,9,FC,Jaromir Bohacik
+Q1,4:09,USA,11,9,FR,Khris Middleton
+Q1,4:17,Czech Republic,11,9,,Tomas Satoransky3pt jump shot missed
+Q1,4:17,USA,11,9,RD,Brook Lopez
+Q1,4:27,Czech Republic,11,9,substituicao_entra,Blake Schilb
+Q1,4:27,Czech Republic,11,9,substituicao_sai,Vojtech Hruban
+Q1,4:27,Czech Republic,11,9,2_Pts_T,Patrik Auda
+Q1,4:27,USA,11,9,substituicao_entra,Brook Lopez
+Q1,4:27,USA,11,9,substituicao_sai,Myles Turner
+Q1,4:27,USA,11,9,substituicao_entra,Joe Harris
+Q1,4:27,USA,11,9,substituicao_sai,Donovan Mitchell
+Q1,4:27,USA,11,9,muda_bola,
+Q1,4:27,USA,11,9,RD,
+Q1,4:27,USA,11,9,TO,Jaylen Brown
+Q1,4:44,USA,11,9,2_Pts_C,Donovan Mitchell
+Q1,4:50,Czech Republic,11,7,ER,Tomas Satoransky
+Q1,4:50,USA,11,7,BR,Khris Middleton
+Q1,5:00,Czech Republic,11,7,RD,Ondrej Balvín
+Q1,5:00,USA,11,7,,Myles Turner2pt jump shot missed
+Q1,5:17,Czech Republic,11,7,AS,Patrik Auda
+Q1,5:17,Czech Republic,11,7,2_Pts_C,Ondrej Balvín
+Q1,5:40,Czech Republic,9,7,RD,Jaromir Bohacik
+Q1,5:40,USA,9,7,,Donovan Mitchell3pt jump shot missed
+Q1,6:01,Czech Republic,9,7,AS,Ondrej Balvín
+Q1,6:01,Czech Republic,9,7,,Tomas Satoranskylayup made
+Q1,6:14,Czech Republic,7,7,RD,Patrik Auda
+Q1,6:14,USA,7,7,,Khris Middleton3pt jump shot missed
+Q1,6:28,Czech Republic,7,7,LL_Pts_T,Tomas Satoransky
+Q1,6:28,Czech Republic,6,7,FR,Tomas Satoransky
+Q1,6:28,Czech Republic,6,7,2_Pts_C,Tomas Satoransky
+Q1,6:28,USA,6,7,substituicao_entra,Khris Middleton
+Q1,6:28,USA,6,7,substituicao_sai,Jayson  Tatum
+Q1,6:28,USA,6,7,tempo_tecnico,
+Q1,6:28,USA,6,7,FC,Jayson  Tatum
+Q1,6:34,Czech Republic,4,7,RO,Ondrej Balvín
+Q1,6:34,Czech Republic,4,7,2_Pts_T,Patrik Auda
+Q1,6:34,USA,4,7,TO,Myles Turner
+Q1,6:45,Czech Republic,4,7,RD,Jaromir Bohacik
+Q1,6:45,USA,4,7,2_Pts_T,Donovan Mitchell
+Q1,7:04,Czech Republic,4,7,AS,Jaromir Bohacik
+Q1,7:04,Czech Republic,4,7,,Vojtech Hrubanlayup made
+Q1,7:17,USA,2,7,ER,Jaylen Brown
+Q1,7:20,Czech Republic,2,7,,Tomas Satoranskylayup missed
+Q1,7:20,USA,2,7,RD,Myles Turner
+Q1,7:22,USA,2,7,substituicao_entra,Jaylen Brown
+Q1,7:22,USA,2,7,substituicao_sai,Kemba Walker
+Q1,7:22,USA,2,7,substituicao_entra,Marcus Smart
+Q1,7:22,USA,2,7,substituicao_sai,Harrison Barnes
+Q1,7:35,Czech Republic,2,7,FR,Tomas Satoransky
+Q1,7:35,Czech Republic,2,7,RD,
+Q1,7:35,USA,2,7,FC,Harrison Barnes
+Q1,7:35,USA,2,7,,Myles Turnerlayup missed
+Q1,7:45,Czech Republic,2,7,2_Pts_T,Patrik Auda
+Q1,7:45,USA,2,7,RD,Myles Turner
+Q1,7:45,USA,2,7,TO,Myles Turner
+Q1,7:47,Czech Republic,2,7,FR,Patrik Auda
+Q1,7:47,USA,2,7,FC,Kemba Walker
+Q1,8:06,USA,2,7,2_Pts_C,Kemba Walker
+Q1,8:21,Czech Republic,2,5,LL_Pts_C,Vojtech Hruban
+Q1,8:21,Czech Republic,1,5,LL_Pts_C,Vojtech Hruban
+Q1,8:21,Czech Republic,0,5,FR,Vojtech Hruban
+Q1,8:21,USA,0,5,FC,Jayson  Tatum
+Q1,8:32,USA,0,5,AS,Kemba Walker
+Q1,8:32,USA,0,5,,Jayson  Tatum3pt jump shot made
+Q1,8:44,Czech Republic,0,2,,Vojtech Hruban3pt jump shot missed
+Q1,8:44,USA,0,2,RD,Harrison Barnes
+Q1,9:04,USA,0,2,2_Pts_C,Kemba Walker
+Q1,9:11,Czech Republic,0,0,2_Pts_T,Tomas Satoransky
+Q1,9:11,USA,0,0,RD,Myles Turner
+Q1,9:18,Czech Republic,0,0,RD,Ondrej Balvín
+Q1,9:18,USA,0,0,,Harrison Barnes2pt jump shot missed
+Q1,9:30,Czech Republic,0,0,ER,Patrik Auda
+Q1,9:43,Czech Republic,0,0,RD,Patrik Auda
+Q1,9:43,USA,0,0,,Myles Turner2pt jump shot missed
+Q2,0:01,Czech Republic,29,43,2_Pts_T,Tomas Satoransky
+Q2,0:01,USA,29,43,,Kemba Walker3pt floating jump shot missed
+Q2,0:01,USA,29,43,RD,Kemba Walker
+Q2,0:17,USA,29,43,2_Pts_C,Kemba Walker
+Q2,0:40,Czech Republic,29,41,AS,Tomas Satoransky
+Q2,0:40,Czech Republic,29,41,2_Pts_C,Martin Peterka
+Q2,0:58,USA,27,41,AS,Jaylen Brown
+Q2,0:58,USA,27,41,2_Pts_C,Kemba Walker
+Q2,10:00,USA,0,0,muda_bola,
+Q2,1:20,Czech Republic,27,39,LL_Pts_T,Patrik Auda
+Q2,1:20,USA,27,39,RD,Donovan Mitchell
+Q2,1:21,Czech Republic,27,39,FR,Patrik Auda
+Q2,1:21,Czech Republic,27,39,AS,Pavel Pumprla
+Q2,1:21,Czech Republic,27,39,,Patrik Audalayup made
+Q2,1:21,USA,27,39,substituicao_entra,Jaylen Brown
+Q2,1:21,USA,27,39,substituicao_sai,Khris Middleton
+Q2,1:21,USA,27,39,substituicao_entra,Joe Harris
+Q2,1:21,USA,27,39,substituicao_sai,Brook Lopez
+Q2,1:21,USA,27,39,tempo_tecnico,
+Q2,1:21,USA,27,39,FC,Donovan Mitchell
+Q2,1:33,Czech Republic,25,39,RD,Pavel Pumprla
+Q2,1:33,USA,25,39,,Khris Middleton2pt jump shot missed
+Q2,1:51,Czech Republic,25,39,AS,Tomas Satoransky
+Q2,1:51,Czech Republic,25,39,,Vojtech Hrubanlayup made
+Q2,2:06,USA,23,39,AS,Donovan Mitchell
+Q2,2:06,USA,23,39,,Harrison Barnes3pt jump shot made
+Q2,2:23,Czech Republic,23,36,AS,Vojtech Hruban
+Q2,2:23,Czech Republic,23,36,,Tomas Satoransky3pt jump shot made
+Q2,2:29,Czech Republic,20,36,RO,Vojtech Hruban
+Q2,2:29,Czech Republic,20,36,3_Pts_T,Patrik Auda
+Q2,2:38,Czech Republic,20,36,substituicao_entra,Martin Peterka
+Q2,2:38,Czech Republic,20,36,substituicao_sai,Ondrej Balvín
+Q2,2:38,Czech Republic,20,36,FR,Pavel Pumprla
+Q2,2:38,USA,20,36,substituicao_entra,Kemba Walker
+Q2,2:38,USA,20,36,substituicao_sai,Jayson  Tatum
+Q2,2:38,USA,20,36,substituicao_entra,Harrison Barnes
+Q2,2:38,USA,20,36,substituicao_sai,Marcus Smart
+Q2,2:38,USA,20,36,FC,Donovan Mitchell
+Q2,2:59,USA,20,36,2_Pts_C,Jayson  Tatum
+Q2,3:09,Czech Republic,20,34,2_Pts_T,Patrik Auda
+Q2,3:09,USA,20,34,RD,Marcus Smart
+Q2,3:15,Czech Republic,20,34,RD,Patrik Auda
+Q2,3:15,USA,20,34,2_Pts_T,Jayson  Tatum
+Q2,3:24,Czech Republic,20,34,2_Pts_T,Pavel Pumprla
+Q2,3:24,USA,20,34,RD,Jayson  Tatum
+Q2,3:24,USA,20,34,TO,Brook Lopez
+Q2,3:31,Czech Republic,20,34,RO,Pavel Pumprla
+Q2,3:31,Czech Republic,20,34,2_Pts_T,Pavel Pumprla
+Q2,3:50,USA,20,34,2_Pts_C,Brook Lopez
+Q2,4:08,Czech Republic,20,32,,Vojtech Hruban2pt jump shot missed
+Q2,4:08,USA,20,32,RD,Khris Middleton
+Q2,4:15,Czech Republic,20,32,FR,Tomas Satoransky
+Q2,4:15,USA,20,32,FC,Marcus Smart
+Q2,4:31,USA,20,32,ER,Marcus Smart
+Q2,4:41,Czech Republic,20,32,substituicao_entra,Pavel Pumprla
+Q2,4:41,Czech Republic,20,32,substituicao_sai,Jaromir Bohacik
+Q2,4:41,Czech Republic,20,32,FC,Tomas Satoransky
+Q2,4:41,Czech Republic,20,32,,Vojtech Hruban3pt jump shot missed
+Q2,4:41,USA,20,32,FR,Jayson  Tatum
+Q2,4:41,USA,20,32,RD,Jayson  Tatum
+Q2,4:55,Czech Republic,20,32,RD,Ondrej Balvín
+Q2,4:55,USA,20,32,,Jayson  Tatum3pt jump shot missed
+Q2,5:09,Czech Republic,20,32,2_Pts_C,Tomas Satoransky
+Q2,5:12,USA,18,32,substituicao_entra,Brook Lopez
+Q2,5:12,USA,18,32,substituicao_sai,Myles Turner
+Q2,5:19,Czech Republic,18,32,FR,Tomas Satoransky
+Q2,5:26,Czech Republic,18,32,substituicao_entra,Tomas Satoransky
+Q2,5:26,Czech Republic,18,32,substituicao_sai,Blake Schilb
+Q2,5:26,USA,18,32,FC_O,Myles Turner
+Q2,5:33,Czech Republic,18,32,,Jaromir Bohacik3pt jump shot missed
+Q2,5:33,USA,18,32,RD,Myles Turner
+Q2,5:50,Czech Republic,18,32,substituicao_entra,Patrik Auda
+Q2,5:50,Czech Republic,18,32,substituicao_sai,Martin Kriz
+Q2,5:50,Czech Republic,18,32,tempo_tecnico,
+Q2,5:50,USA,18,32,2_Pts_C,Jayson  Tatum
+Q2,6:09,Czech Republic,18,30,2_Pts_T,Jaromir Bohacik
+Q2,6:09,USA,18,30,RD,
+Q2,6:19,Czech Republic,18,30,RO,
+Q2,6:19,Czech Republic,18,30,2_Pts_T,Martin Kriz
+Q2,6:19,USA,18,30,substituicao_entra,Khris Middleton
+Q2,6:19,USA,18,30,substituicao_sai,Derrick White
+Q2,6:19,USA,18,30,TO,Jayson  Tatum
+Q2,6:32,USA,18,30,AS,Jayson  Tatum
+Q2,6:32,USA,18,30,,Donovan Mitchell3pt jump shot made
+Q2,6:44,Czech Republic,18,27,AS,Martin Kriz
+Q2,6:44,Czech Republic,18,27,2_Pts_C,Ondrej Balvín
+Q2,6:51,Czech Republic,16,27,RD,Vojtech Hruban
+Q2,6:51,USA,16,27,,Myles Turner2pt jump shot missed
+Q2,6:57,USA,16,27,RO,Myles Turner
+Q2,6:57,USA,16,27,,Jayson  Tatum3pt jump shot missed
+Q2,7:05,Czech Republic,16,27,substituicao_entra,Jaromir Bohacik
+Q2,7:05,Czech Republic,16,27,substituicao_sai,Tomas Satoransky
+Q2,7:05,Czech Republic,16,27,FC,Vojtech Hruban
+Q2,7:05,USA,16,27,substituicao_entra,Marcus Smart
+Q2,7:05,USA,16,27,substituicao_sai,Joe Harris
+Q2,7:05,USA,16,27,FR,Jayson  Tatum
+Q2,7:07,Czech Republic,16,27,2_Pts_T,Blake Schilb
+Q2,7:07,USA,16,27,RD,Jayson  Tatum
+Q2,7:21,USA,16,27,AS,Derrick White
+Q2,7:21,USA,16,27,,Jayson  Tatum3pt jump shot made
+Q2,7:27,Czech Republic,16,24,ER,Vojtech Hruban
+Q2,7:27,USA,16,24,BR,Derrick White
+Q2,7:45,Czech Republic,16,23,FC_T,Ondrej Balvín
+Q2,7:45,USA,16,24,LL_Pts_C,Joe Harris
+Q2,7:47,USA,16,23,AS,Derrick White
+Q2,7:47,USA,16,23,,Myles Turnerlayup made
+Q2,8:01,Czech Republic,16,21,FC_O,Blake Schilb
+Q2,8:01,USA,16,21,substituicao_entra,Jayson  Tatum
+Q2,8:01,USA,16,21,substituicao_sai,Kemba Walker
+Q2,8:01,USA,16,21,substituicao_entra,Donovan Mitchell
+Q2,8:01,USA,16,21,substituicao_sai,Jaylen Brown
+Q2,8:01,USA,16,21,FR,Jaylen Brown
+Q2,8:12,Czech Republic,16,21,BR,Ondrej Balvín
+Q2,8:12,USA,16,21,ER,Joe Harris
+Q2,8:32,Czech Republic,16,21,2_Pts_C,Vojtech Hruban
+Q2,8:47,Czech Republic,14,21,RD,Ondrej Balvín
+Q2,8:47,USA,14,21,2_Pts_T,Myles Turner
+Q2,8:59,Czech Republic,14,21,2_Pts_T,Tomas Satoransky
+Q2,8:59,USA,14,21,RD,Joe Harris
+Q2,9:13,USA,14,21,2_Pts_C,Derrick White
+Q2,9:24,Czech Republic,14,19,ER,Tomas Satoransky
+Q2,9:24,USA,14,19,BR,Kemba Walker
+Q2,9:43,USA,14,19,AS,Kemba Walker
+Q2,9:43,USA,14,19,2_Pts_C,Jaylen Brown
+Q3,0:00,USA,48,66,,Derrick White3pt jump shot missed
+Q3,0:06,Czech Republic,48,66,AS,Tomas Satoransky
+Q3,0:06,Czech Republic,48,66,,Patrik Audalayup made
+Q3,0:27,USA,46,66,2_Pts_C,Khris Middleton
+Q3,0:43,Czech Republic,46,64,AS,Tomas Satoransky
+Q3,0:43,Czech Republic,46,64,,Vojtech Hruban3pt jump shot made
+Q3,10:00,Czech Republic,0,0,muda_bola,
+Q3,1:04,USA,43,64,AS,Derrick White
+Q3,1:04,USA,43,64,,Khris Middleton3pt jump shot made
+Q3,1:33,Czech Republic,43,61,,Tomas Satoranskydunk made
+Q3,1:45,Czech Republic,41,60,FC,Vojtech Hruban
+Q3,1:45,USA,41,61,LL_Pts_C,Harrison Barnes
+Q3,1:45,USA,41,60,substituicao_entra,Khris Middleton
+Q3,1:45,USA,41,60,substituicao_sai,Joe Harris
+Q3,1:45,USA,41,60,FR,Harrison Barnes
+Q3,1:45,USA,41,60,AS,Joe Harris
+Q3,1:45,USA,41,60,2_Pts_C,Harrison Barnes
+Q3,1:47,Czech Republic,41,58,,Patrik Auda3pt jump shot blocked
+Q3,1:47,USA,41,58,RD,Derrick White
+Q3,1:47,USA,41,58,TO,Mason Plumlee
+Q3,2:02,Czech Republic,41,58,substituicao_entra,Tomas Satoransky
+Q3,2:02,Czech Republic,41,58,substituicao_sai,Martin Kriz
+Q3,2:02,Czech Republic,41,58,substituicao_entra,Pavel Pumprla
+Q3,2:02,Czech Republic,41,58,substituicao_sai,Blake Schilb
+Q3,2:02,Czech Republic,41,58,FR,Patrik Auda
+Q3,2:02,USA,41,58,substituicao_entra,Harrison Barnes
+Q3,2:02,USA,41,58,substituicao_sai,Jaylen Brown
+Q3,2:02,USA,41,58,FC,Derrick White
+Q3,2:09,Czech Republic,41,58,RD,Jaromir Bohacik
+Q3,2:09,USA,41,58,,Marcus Smart2pt jump shot missed
+Q3,2:23,Czech Republic,41,58,3_Pts_T,Jaromir Bohacik
+Q3,2:23,USA,41,58,RD,Mason Plumlee
+Q3,2:37,Czech Republic,41,58,RD,Patrik Auda
+Q3,2:37,USA,41,58,,Mason Plumleetip in missed
+Q3,2:44,USA,41,58,RO,Mason Plumlee
+Q3,2:44,USA,41,58,,Mason Plumleelayup missed
+Q3,2:59,Czech Republic,41,58,,Vojtech Hruban2pt jump shot missed
+Q3,2:59,USA,41,58,RD,Mason Plumlee
+Q3,3:13,USA,41,58,AS,Marcus Smart
+Q3,3:13,USA,41,58,,Joe Harris3pt jump shot made
+Q3,3:33,Czech Republic,41,55,AS,Patrik Auda
+Q3,3:33,Czech Republic,41,55,,Jaromir Bohacik3pt jump shot made
+Q3,4:01,Czech Republic,38,55,substituicao_entra,Vojtech Hruban
+Q3,4:01,Czech Republic,38,55,substituicao_sai,Ondrej Balvín
+Q3,4:01,Czech Republic,38,55,substituicao_entra,Patrik Auda
+Q3,4:01,Czech Republic,38,55,substituicao_sai,Tomas Satoransky
+Q3,4:01,USA,38,55,substituicao_entra,Mason Plumlee
+Q3,4:01,USA,38,55,substituicao_sai,Myles Turner
+Q3,4:01,USA,38,55,substituicao_entra,Derrick White
+Q3,4:01,USA,38,55,substituicao_sai,Donovan Mitchell
+Q3,4:01,USA,38,55,AS,Marcus Smart
+Q3,4:01,USA,38,55,2_Pts_C,Donovan Mitchell
+Q3,4:08,Czech Republic,38,53,,Blake Schilb3pt jump shot missed
+Q3,4:08,USA,38,53,RD,Joe Harris
+Q3,4:32,USA,38,53,2_Pts_C,Donovan Mitchell
+Q3,4:47,Czech Republic,38,51,2_Pts_C,Tomas Satoransky
+Q3,4:58,USA,36,51,2_Pts_C,Marcus Smart
+Q3,5:18,Czech Republic,36,49,2_Pts_C,Jaromir Bohacik
+Q3,5:31,USA,34,49,,Marcus Smart2pt jump shot made
+Q3,5:41,Czech Republic,34,47,ER,Ondrej Balvín
+Q3,5:41,USA,34,47,muda_bola,
+Q3,5:41,USA,34,47,BR,Myles Turner
+Q3,6:05,USA,34,47,2_Pts_C,Myles Turner
+Q3,6:18,Czech Republic,34,45,FC,Tomas Satoransky
+Q3,6:18,Czech Republic,34,45,ER,Jaromir Bohacik
+Q3,6:18,USA,34,45,substituicao_entra,Jaylen Brown
+Q3,6:18,USA,34,45,substituicao_sai,Harrison Barnes
+Q3,6:18,USA,34,45,FR,Donovan Mitchell
+Q3,6:18,USA,34,45,BR,Donovan Mitchell
+Q3,6:23,Czech Republic,34,45,RD,Jaromir Bohacik
+Q3,6:23,USA,34,45,,Harrison Barnes3pt jump shot missed
+Q3,6:34,Czech Republic,34,45,LL_Pts_C,Ondrej Balvín
+Q3,6:34,Czech Republic,33,45,LL_Pts_C,Ondrej Balvín
+Q3,6:34,Czech Republic,32,45,FR,Ondrej Balvín
+Q3,6:34,USA,32,45,substituicao_entra,Marcus Smart
+Q3,6:34,USA,32,45,substituicao_sai,Kemba Walker
+Q3,6:34,USA,32,45,FC,Myles Turner
+Q3,6:47,Czech Republic,32,45,RO,Jaromir Bohacik
+Q3,6:47,Czech Republic,32,45,LL_Pts_T,Tomas Satoransky
+Q3,6:47,Czech Republic,32,45,LL_Pts_C,Tomas Satoransky
+Q3,6:47,Czech Republic,31,45,FR,Tomas Satoransky
+Q3,6:47,USA,31,45,substituicao_entra,Joe Harris
+Q3,6:47,USA,31,45,substituicao_sai,Jayson  Tatum
+Q3,6:47,USA,31,45,FC,Jayson  Tatum
+Q3,6:58,Czech Republic,31,45,RD,Ondrej Balvín
+Q3,6:58,USA,31,45,2_Pts_T,Jayson  Tatum
+Q3,7:14,Czech Republic,31,45,ER,Jaromir Bohacik
+Q3,7:18,Czech Republic,31,45,RD,Jaromir Bohacik
+Q3,7:18,USA,31,45,3_Pts_T,Kemba Walker
+Q3,7:29,Czech Republic,31,45,2_Pts_T,Blake Schilb
+Q3,7:29,USA,31,45,RD,Myles Turner
+Q3,7:39,Czech Republic,31,45,RO,Ondrej Balvín
+Q3,7:39,Czech Republic,31,45,2_Pts_T,Jaromir Bohacik
+Q3,7:48,Czech Republic,31,45,RD,Martin Kriz
+Q3,7:48,USA,31,45,,Harrison Barnes3pt jump shot missed
+Q3,8:06,Czech Republic,31,45,ER,Martin Kriz
+Q3,8:15,Czech Republic,31,45,FR,Ondrej Balvín
+Q3,8:15,USA,31,45,FC,Harrison Barnes
+Q3,8:23,Czech Republic,31,45,RD,Tomas Satoransky
+Q3,8:23,USA,31,45,,Donovan Mitchell3pt jump shot missed
+Q3,8:32,Czech Republic,31,45,,Ondrej Balvín2pt jump shot missed
+Q3,8:32,USA,31,45,RD,Myles Turner
+Q3,8:46,USA,31,45,ER,Kemba Walker
+Q3,9:06,Czech Republic,31,45,,Martin Kriz3pt jump shot missed
+Q3,9:06,USA,31,45,RD,
+Q3,9:24,USA,31,45,2_Pts_C,Kemba Walker
+Q3,9:42,Czech Republic,31,43,AS,Tomas Satoransky
+Q3,9:42,Czech Republic,31,43,2_Pts_C,Jaromir Bohacik
+Q4,0:20,Czech Republic,67,88,RD,Lukas Palyza
+Q4,0:20,Czech Republic,67,88,FC,Lukas Palyza
+Q4,0:20,USA,67,88,LL_Pts_T,Marcus Smart
+Q4,0:20,USA,67,88,LL_Pts_T,Marcus Smart
+Q4,0:20,USA,67,88,FR,Marcus Smart
+Q4,0:39,Czech Republic,67,88,substituicao_entra,Pavel Pumprla
+Q4,0:39,Czech Republic,67,88,substituicao_sai,Ondrej Balvín
+Q4,0:39,Czech Republic,67,88,LL_Pts_C,Ondrej Balvín
+Q4,0:39,Czech Republic,66,88,LL_Pts_T,Ondrej Balvín
+Q4,0:39,Czech Republic,66,88,FR,Ondrej Balvín
+Q4,0:39,USA,66,88,FC,Brook Lopez
+Q4,10:00,Czech Republic,0,0,muda_bola,
+Q4,1:01,USA,66,88,2_Pts_C,Derrick White
+Q4,1:23,Czech Republic,66,86,FC_O,Ondrej Balvín
+Q4,1:23,USA,66,86,FR,Joe Harris
+Q4,1:26,Czech Republic,66,86,RD,Ondrej Balvín
+Q4,1:26,USA,66,86,,Jaylen Brown2pt jump shot missed
+Q4,1:29,Czech Republic,66,86,TO,Ondrej Balvín
+Q4,1:29,USA,66,86,RO,Jaylen Brown
+Q4,1:29,USA,66,86,2_Pts_T,Jaylen Brown
+Q4,1:36,USA,66,86,RO,Jaylen Brown
+Q4,1:36,USA,66,86,,Joe Harris3pt jump shot missed
+Q4,1:46,USA,66,86,RO,Marcus Smart
+Q4,1:46,USA,66,86,3_Pts_T,Brook Lopez
+Q4,1:52,Czech Republic,66,86,substituicao_entra,Tomas Vyoral
+Q4,1:52,Czech Republic,66,86,substituicao_sai,Jaromir Bohacik
+Q4,1:52,Czech Republic,66,86,FC,Jaromir Bohacik
+Q4,1:52,USA,66,86,FR,Marcus Smart
+Q4,2:01,Czech Republic,66,86,AS,Martin Peterka
+Q4,2:01,Czech Republic,66,86,,Jaromir Bohacik3pt jump shot made
+Q4,2:19,USA,63,86,AS,Brook Lopez
+Q4,2:19,USA,63,86,,Joe Harris3pt jump shot made
+Q4,2:32,Czech Republic,63,83,AS,Jakub Sirina
+Q4,2:32,Czech Republic,63,83,,Lukas Palyza3pt jump shot made
+Q4,2:42,Czech Republic,60,83,RO,Lukas Palyza
+Q4,2:42,Czech Republic,60,83,2_Pts_T,Ondrej Balvín
+Q4,3:07,Czech Republic,60,83,FR,Martin Peterka
+Q4,3:07,Czech Republic,60,83,RD,Martin Peterka
+Q4,3:07,USA,60,83,substituicao_entra,Jaylen Brown
+Q4,3:07,USA,60,83,substituicao_sai,Donovan Mitchell
+Q4,3:07,USA,60,83,FC,Donovan Mitchell
+Q4,3:07,USA,60,83,,Donovan Mitchell2pt jump shot missed
+Q4,3:21,Czech Republic,60,83,ER,Jakub Sirina
+Q4,3:21,USA,60,83,substituicao_entra,Derrick White
+Q4,3:21,USA,60,83,substituicao_sai,Jayson  Tatum
+Q4,3:37,Czech Republic,60,83,RD,Jaromir Bohacik
+Q4,3:37,USA,60,83,,Brook Lopez3pt jump shot missed
+Q4,3:53,Czech Republic,60,83,AS,Jakub Sirina
+Q4,3:53,Czech Republic,60,83,,Martin Peterka3pt jump shot made
+Q4,4:07,Czech Republic,57,83,BR,Martin Peterka
+Q4,4:07,Czech Republic,57,83,substituicao_entra,Lukas Palyza
+Q4,4:07,Czech Republic,57,83,substituicao_sai,Vojtech Hruban
+Q4,4:07,Czech Republic,57,83,substituicao_entra,Ondrej Balvín
+Q4,4:07,Czech Republic,57,83,substituicao_sai,Pavel Pumprla
+Q4,4:07,USA,57,83,ER,Marcus Smart
+Q4,4:10,Czech Republic,57,83,FC,Jaromir Bohacik
+Q4,4:10,USA,57,83,FR,Jayson  Tatum
+Q4,4:13,Czech Republic,57,83,2_Pts_T,Jakub Sirina
+Q4,4:13,USA,57,83,RD,Jayson  Tatum
+Q4,4:31,USA,57,83,,Donovan Mitchelldunk made
+Q4,4:42,Czech Republic,57,81,2_Pts_T,Jaromir Bohacik
+Q4,4:42,USA,57,81,RD,Marcus Smart
+Q4,4:44,Czech Republic,57,81,RD,Jaromir Bohacik
+Q4,4:44,USA,57,81,2_Pts_T,Marcus Smart
+Q4,4:50,USA,57,81,RO,Marcus Smart
+Q4,4:50,USA,57,81,,Jayson  Tatum2pt jump shot missed
+Q4,5:07,Czech Republic,57,81,LL_Pts_T,Pavel Pumprla
+Q4,5:07,Czech Republic,57,81,LL_Pts_T,Pavel Pumprla
+Q4,5:07,Czech Republic,57,81,FR,Pavel Pumprla
+Q4,5:07,USA,57,81,RD,Joe Harris
+Q4,5:07,USA,57,81,substituicao_entra,Brook Lopez
+Q4,5:07,USA,57,81,substituicao_sai,Harrison Barnes
+Q4,5:07,USA,57,81,FC,Marcus Smart
+Q4,5:28,USA,57,81,2_Pts_C,Donovan Mitchell
+Q4,5:39,Czech Republic,57,79,substituicao_entra,Martin Peterka
+Q4,5:39,Czech Republic,57,79,substituicao_sai,Tomas Satoransky
+Q4,5:39,Czech Republic,57,79,substituicao_entra,Jakub Sirina
+Q4,5:39,Czech Republic,57,79,substituicao_sai,Patrik Auda
+Q4,5:39,Czech Republic,57,79,FC,Pavel Pumprla
+Q4,5:39,Czech Republic,57,79,2_Pts_C,Tomas Satoransky
+Q4,5:39,USA,57,79,substituicao_entra,Marcus Smart
+Q4,5:39,USA,57,79,substituicao_sai,Kemba Walker
+Q4,5:39,USA,57,79,substituicao_entra,Joe Harris
+Q4,5:39,USA,57,79,substituicao_sai,Khris Middleton
+Q4,5:39,USA,57,79,FR,Kemba Walker
+Q4,6:02,USA,55,79,AS,Khris Middleton
+Q4,6:02,USA,55,79,,Harrison Barneslayup made
+Q4,6:09,Czech Republic,55,77,2_Pts_T,Patrik Auda
+Q4,6:09,USA,55,77,RD,Khris Middleton
+Q4,6:30,Czech Republic,55,77,RD,Vojtech Hruban
+Q4,6:30,USA,55,77,2_Pts_T,Jayson  Tatum
+Q4,6:41,Czech Republic,55,77,2_Pts_T,Pavel Pumprla
+Q4,6:41,USA,55,77,RD,Donovan Mitchell
+Q4,7:00,USA,55,77,AS,Donovan Mitchell
+Q4,7:00,USA,55,77,,Harrison Barneslayup made
+Q4,7:15,Czech Republic,55,75,2_Pts_T,Patrik Auda
+Q4,7:15,USA,55,75,RD,Khris Middleton
+Q4,7:32,USA,55,75,AS,Jayson  Tatum
+Q4,7:32,USA,55,75,,Khris Middleton3pt jump shot made
+Q4,7:46,Czech Republic,55,72,AS,Pavel Pumprla
+Q4,7:46,Czech Republic,55,72,,Jaromir Bohacik3pt jump shot made
+Q4,7:53,Czech Republic,52,72,RO,Pavel Pumprla
+Q4,7:53,Czech Republic,52,72,,Vojtech Hruban3pt jump shot missed
+Q4,7:56,Czech Republic,52,72,RO,Pavel Pumprla
+Q4,7:56,Czech Republic,52,72,2_Pts_T,Patrik Auda
+Q4,8:04,Czech Republic,52,72,tempo_tecnico,
+Q4,8:04,Czech Republic,52,72,FR,Jaromir Bohacik
+Q4,8:04,USA,52,72,FC,Khris Middleton
+Q4,8:13,USA,52,72,AS,Kemba Walker
+Q4,8:13,USA,52,72,,Donovan Mitchell3pt jump shot made
+Q4,8:31,Czech Republic,52,69,ER,Tomas Satoransky
+Q4,8:34,Czech Republic,52,69,RD,Tomas Satoransky
+Q4,8:34,Czech Republic,52,69,TO,Pavel Pumprla
+Q4,8:34,USA,52,69,,Jayson  Tatum3pt jump shot blocked
+Q4,8:52,Czech Republic,52,69,LL_Pts_T,Patrik Auda
+Q4,8:52,Czech Republic,52,69,LL_Pts_T,Patrik Auda
+Q4,8:52,Czech Republic,52,69,FR,Patrik Auda
+Q4,8:52,USA,52,69,RD,Khris Middleton
+Q4,8:52,USA,52,69,substituicao_entra,Jayson  Tatum
+Q4,8:52,USA,52,69,substituicao_sai,Mason Plumlee
+Q4,8:52,USA,52,69,substituicao_entra,Donovan Mitchell
+Q4,8:52,USA,52,69,substituicao_sai,Derrick White
+Q4,8:52,USA,52,69,FC,Kemba Walker
+Q4,9:02,USA,52,69,,Kemba Walker3pt jump shot made
+Q4,9:23,Czech Republic,52,66,2_Pts_C,Vojtech Hruban
+Q4,9:30,Czech Republic,50,66,RD,Jaromir Bohacik
+Q4,9:30,USA,50,66,,Derrick White2pt jump shot missed
+Q4,9:46,Czech Republic,50,66,2_Pts_C,Pavel Pumprla

@@ -1,0 +1,490 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Czech Republic,16,22,AS,Martin Peterka
+Q1,0:00,Czech Republic,16,22,,Patrik Audalayup made
+Q1,0:03,Turkey,16,20,substituicao_entra,Sertac Sanli
+Q1,0:03,Turkey,16,20,substituicao_sai,Semih Erden
+Q1,0:03,Turkey,16,20,substituicao_entra,James Metecan Birsen
+Q1,0:03,Turkey,16,20,substituicao_sai,Ersan Ilyasova
+Q1,0:03,Turkey,16,20,FC,Furkan Korkmaz
+Q1,0:03,Czech Republic,16,20,substituicao_entra,Martin Peterka
+Q1,0:03,Czech Republic,16,20,substituicao_sai,Jaromir Bohacik
+Q1,0:03,Czech Republic,16,20,substituicao_entra,Pavel Pumprla
+Q1,0:03,Czech Republic,16,20,substituicao_sai,Ondrej Balvín
+Q1,0:03,Czech Republic,16,20,FR,Jaromir Bohacik
+Q1,0:13,Turkey,16,20,,Cedi Osman3pt jump shot missed
+Q1,0:13,Czech Republic,16,20,RD,Ondrej Balvín
+Q1,0:26,Czech Republic,16,20,substituicao_entra,Blake Schilb
+Q1,0:26,Czech Republic,16,20,substituicao_sai,Vojtech Hruban
+Q1,0:34,Czech Republic,16,20,AS,Tomas Satoransky
+Q1,0:34,Czech Republic,16,20,3_Pts_C,Patrik Auda
+Q1,0:55,Turkey,16,17,AS,Ersan Ilyasova
+Q1,0:55,Turkey,16,17,3_Pts_C,Cedi Osman
+Q1,10:00,Turkey,0,0,inicio_quarto,Semih Erden
+Q1,1:10,Czech Republic,13,17,,Patrik Audatip in made
+Q1,1:16,Czech Republic,13,15,RO,Patrik Auda
+Q1,1:16,Czech Republic,13,15,,Tomas Satoransky2pt jump shot missed
+Q1,1:21,Czech Republic,13,15,RO,Tomas Satoransky
+Q1,1:21,Czech Republic,13,15,2_Pts_T,Patrik Auda
+Q1,1:46,Turkey,13,15,2_Pts_C,Cedi Osman
+Q1,1:57,Turkey,11,15,substituicao_entra,Dogus Balbay
+Q1,1:57,Turkey,11,15,substituicao_sai,Scott Wilbekin
+Q1,2:03,Turkey,11,15,FR,Ersan Ilyasova
+Q1,2:03,Turkey,11,15,RD,Ersan Ilyasova
+Q1,2:03,Turkey,11,15,TO,Ersan Ilyasova
+Q1,2:03,Czech Republic,11,15,FC,Patrik Auda
+Q1,2:03,Czech Republic,11,15,2_Pts_T,Patrik Auda
+Q1,2:23,Turkey,11,15,,Ersan Ilyasova3pt jump shot missed
+Q1,2:23,Czech Republic,11,15,RD,Jaromir Bohacik
+Q1,2:42,Czech Republic,11,15,2_Pts_C,Jaromir Bohacik
+Q1,2:47,Turkey,11,13,2_Pts_T,Ersan Ilyasova
+Q1,2:47,Czech Republic,11,13,RD,Jaromir Bohacik
+Q1,3:11,Czech Republic,11,13,AS,Jaromir Bohacik
+Q1,3:11,Czech Republic,11,13,,Vojtech Hrubanlayup made
+Q1,3:27,Turkey,11,11,2_Pts_T,Scott Wilbekin
+Q1,3:27,Czech Republic,11,11,RD,Ondrej Balvín
+Q1,3:38,Turkey,11,11,RD,Ersan Ilyasova
+Q1,3:38,Czech Republic,11,11,,Vojtech Hruban3pt jump shot missed
+Q1,3:49,Turkey,11,11,substituicao_entra,Furkan Korkmaz
+Q1,3:49,Turkey,11,11,substituicao_sai,Melih Mahmutoglu
+Q1,3:49,Turkey,11,11,FC,Scott Wilbekin
+Q1,3:49,Czech Republic,11,11,FR,Tomas Satoransky
+Q1,3:55,Turkey,11,11,,Melih Mahmutoglu3pt jump shot missed
+Q1,3:55,Czech Republic,11,11,RD,Jaromir Bohacik
+Q1,4:19,Czech Republic,11,11,AS,Ondrej Balvín
+Q1,4:19,Czech Republic,11,11,,Vojtech Hruban3pt jump shot made
+Q1,4:37,Turkey,11,8,,Scott Wilbekin3pt jump shot missed
+Q1,4:37,Czech Republic,11,8,RD,Patrik Auda
+Q1,4:53,Czech Republic,11,8,2_Pts_C,Jaromir Bohacik
+Q1,5:15,Turkey,11,6,2_Pts_C,Cedi Osman
+Q1,5:38,Turkey,9,6,FR,Ersan Ilyasova
+Q1,5:38,Czech Republic,9,6,FC_O,Ondrej Balvín
+Q1,5:42,Turkey,9,6,FC,Ersan Ilyasova
+Q1,5:42,Turkey,9,6,ER,Scott Wilbekin
+Q1,5:42,Czech Republic,9,6,FR,Patrik Auda
+Q1,5:42,Czech Republic,9,6,BR,Patrik Auda
+Q1,5:47,Turkey,9,4,FC,Semih Erden
+Q1,5:47,Czech Republic,9,6,LL_Pts_C,Tomas Satoransky
+Q1,5:47,Czech Republic,9,5,LL_Pts_C,Tomas Satoransky
+Q1,5:47,Czech Republic,9,4,FR,Tomas Satoransky
+Q1,6:05,Turkey,9,4,LL_Pts_C,Semih Erden
+Q1,6:05,Turkey,8,4,FR,Semih Erden
+Q1,6:05,Turkey,8,4,AS,Scott Wilbekin
+Q1,6:05,Turkey,8,4,,Semih Erdenalley oop made
+Q1,6:05,Czech Republic,8,4,substituicao_entra,Patrik Auda
+Q1,6:05,Czech Republic,8,4,substituicao_sai,Martin Kriz
+Q1,6:05,Czech Republic,8,4,FC,Jaromir Bohacik
+Q1,6:29,Czech Republic,6,4,AS,Vojtech Hruban
+Q1,6:29,Czech Republic,6,4,2_Pts_C,Martin Kriz
+Q1,6:38,Turkey,6,2,2_Pts_T,Cedi Osman
+Q1,6:38,Czech Republic,6,2,RD,Ondrej Balvín
+Q1,6:38,Czech Republic,6,2,TO,Ondrej Balvín
+Q1,6:50,Turkey,6,2,RD,Scott Wilbekin
+Q1,6:50,Czech Republic,6,2,,Ondrej Balvíntip in missed
+Q1,6:50,Czech Republic,6,2,RO,Ondrej Balvín
+Q1,6:50,Czech Republic,6,2,2_Pts_T,Martin Kriz
+Q1,7:00,Turkey,6,2,2_Pts_C,Cedi Osman
+Q1,7:18,Czech Republic,4,2,AS,Martin Kriz
+Q1,7:18,Czech Republic,4,2,2_Pts_C,Ondrej Balvín
+Q1,7:37,Turkey,4,0,2_Pts_C,Cedi Osman
+Q1,7:53,Turkey,2,0,RO,Semih Erden
+Q1,7:53,Turkey,2,0,2_Pts_T,Melih Mahmutoglu
+Q1,8:10,Turkey,2,0,BR,Semih Erden
+Q1,8:10,Czech Republic,2,0,ER,Martin Kriz
+Q1,8:36,Turkey,2,0,,Semih Erdendunk made
+Q1,8:54,Czech Republic,0,0,ER,Jaromir Bohacik
+Q1,8:59,Turkey,0,0,2_Pts_T,Ersan Ilyasova
+Q1,8:59,Czech Republic,0,0,RD,Martin Kriz
+Q1,9:12,Turkey,0,0,FR,Cedi Osman
+Q1,9:12,Czech Republic,0,0,FC,Tomas Satoransky
+Q1,9:22,Turkey,0,0,RD,Semih Erden
+Q1,9:22,Czech Republic,0,0,,Martin Kriz3pt jump shot missed
+Q1,9:40,Turkey,0,0,,Cedi Osman3pt jump shot missed
+Q1,9:40,Czech Republic,0,0,RD,Ondrej Balvín
+Q2,0:00,Czech Republic,35,43,,Tomas Satoranskylayup missed
+Q2,0:03,Turkey,35,43,substituicao_entra,Sertac Sanli
+Q2,0:03,Turkey,35,43,substituicao_sai,Semih Erden
+Q2,0:03,Turkey,35,43,substituicao_entra,Dogus Balbay
+Q2,0:03,Turkey,35,43,substituicao_sai,Scott Wilbekin
+Q2,0:03,Czech Republic,35,43,substituicao_entra,Blake Schilb
+Q2,0:03,Czech Republic,35,43,substituicao_sai,Ondrej Balvín
+Q2,0:10,Turkey,35,43,LL_Pts_T,Semih Erden
+Q2,0:10,Turkey,35,43,AS,Furkan Korkmaz
+Q2,0:10,Turkey,35,43,LL_Pts_C,Semih Erden
+Q2,0:10,Turkey,34,43,FR,Semih Erden
+Q2,0:10,Czech Republic,35,43,RD,Ondrej Balvín
+Q2,0:10,Czech Republic,34,43,tempo_tecnico,
+Q2,0:10,Czech Republic,34,43,FC,Ondrej Balvín
+Q2,0:33,Czech Republic,34,43,AS,Vojtech Hruban
+Q2,0:33,Czech Republic,34,43,2_Pts_C,Jaromir Bohacik
+Q2,0:41,Turkey,34,41,substituicao_entra,Semih Erden
+Q2,0:41,Turkey,34,41,substituicao_sai,Ersan Ilyasova
+Q2,0:41,Turkey,34,41,LL_Pts_C,Furkan Korkmaz
+Q2,0:41,Turkey,33,41,LL_Pts_C,Furkan Korkmaz
+Q2,0:41,Turkey,32,41,FR,Furkan Korkmaz
+Q2,0:41,Czech Republic,34,41,substituicao_entra,Patrik Auda
+Q2,0:41,Czech Republic,34,41,substituicao_sai,Martin Kriz
+Q2,0:41,Czech Republic,32,41,substituicao_entra,Ondrej Balvín
+Q2,0:41,Czech Republic,32,41,substituicao_sai,Martin Peterka
+Q2,0:41,Czech Republic,32,41,FC,Martin Peterka
+Q2,0:51,Turkey,32,41,FR,Furkan Korkmaz
+Q2,0:51,Czech Republic,32,41,substituicao_entra,Martin Kriz
+Q2,0:51,Czech Republic,32,41,substituicao_sai,Ondrej Balvín
+Q2,0:51,Czech Republic,32,41,FC,Jaromir Bohacik
+Q2,10:00,Czech Republic,0,0,muda_bola,
+Q2,1:07,Czech Republic,32,41,AS,Jaromir Bohacik
+Q2,1:07,Czech Republic,32,41,,Vojtech Hruban2pt jump shot made
+Q2,1:31,Turkey,32,39,LL_Pts_C,Ersan Ilyasova
+Q2,1:31,Turkey,31,39,LL_Pts_C,Ersan Ilyasova
+Q2,1:31,Turkey,30,39,substituicao_entra,Melih Mahmutoglu
+Q2,1:31,Turkey,30,39,substituicao_sai,Semih Erden
+Q2,1:31,Turkey,30,39,FR,Ersan Ilyasova
+Q2,1:31,Czech Republic,30,39,FC,Vojtech Hruban
+Q2,1:38,Turkey,30,39,BR,Ersan Ilyasova
+Q2,1:38,Czech Republic,30,39,ER,Tomas Satoransky
+Q2,1:50,Turkey,30,39,substituicao_entra,Cedi Osman
+Q2,1:50,Turkey,30,39,substituicao_sai,James Metecan Birsen
+Q2,1:50,Turkey,30,39,substituicao_entra,Scott Wilbekin
+Q2,1:50,Turkey,30,39,substituicao_sai,Dogus Balbay
+Q2,1:50,Turkey,30,39,FC,Semih Erden
+Q2,1:50,Czech Republic,30,39,substituicao_entra,Jaromir Bohacik
+Q2,1:50,Czech Republic,30,39,substituicao_sai,Blake Schilb
+Q2,1:50,Czech Republic,30,39,substituicao_entra,Martin Peterka
+Q2,1:50,Czech Republic,30,39,substituicao_sai,Patrik Auda
+Q2,1:50,Czech Republic,30,39,FR,Tomas Satoransky
+Q2,1:56,Turkey,30,39,2_Pts_T,Furkan Korkmaz
+Q2,1:56,Czech Republic,30,39,RD,Blake Schilb
+Q2,2:16,Czech Republic,30,39,,Blake Schilb3pt jump shot made
+Q2,2:33,Turkey,30,36,2_Pts_T,Semih Erden
+Q2,2:33,Czech Republic,30,36,RD,Tomas Satoransky
+Q2,2:52,Czech Republic,30,36,AS,Blake Schilb
+Q2,2:52,Czech Republic,30,36,,Patrik Audalayup made
+Q2,2:58,Turkey,30,34,ER,James Metecan Birsen
+Q2,2:58,Czech Republic,30,34,BR,Blake Schilb
+Q2,3:18,Turkey,30,34,RD,Furkan Korkmaz
+Q2,3:18,Czech Republic,30,34,,Vojtech Hruban3pt jump shot missed
+Q2,3:33,Turkey,30,34,AS,Dogus Balbay
+Q2,3:33,Turkey,30,34,,Furkan Korkmaz3pt jump shot made
+Q2,3:39,Turkey,27,34,RO,Dogus Balbay
+Q2,3:39,Turkey,27,34,3_Pts_T,James Metecan Birsen
+Q2,4:04,Czech Republic,27,34,AS,Blake Schilb
+Q2,4:04,Czech Republic,27,34,,Ondrej Balvínlayup made
+Q2,4:17,Czech Republic,27,32,RO,Ondrej Balvín
+Q2,4:17,Czech Republic,27,32,2_Pts_T,Tomas Satoransky
+Q2,4:39,Turkey,27,32,,Dogus Balbay3pt jump shot missed
+Q2,4:39,Czech Republic,27,32,RD,Patrik Auda
+Q2,5:00,Turkey,27,32,tempo_tecnico,
+Q2,5:00,Czech Republic,27,32,AS,Blake Schilb
+Q2,5:00,Czech Republic,27,32,,Tomas Satoransky3pt jump shot made
+Q2,5:05,Turkey,27,29,ER,Ersan Ilyasova
+Q2,5:05,Czech Republic,27,29,BR,Blake Schilb
+Q2,5:21,Czech Republic,27,29,AS,Tomas Satoransky
+Q2,5:21,Czech Republic,27,29,,Blake Schilb3pt jump shot made
+Q2,5:33,Turkey,27,26,AS,Ersan Ilyasova
+Q2,5:33,Turkey,27,26,,Furkan Korkmaz3pt jump shot made
+Q2,5:52,Turkey,24,26,RD,Furkan Korkmaz
+Q2,5:52,Turkey,24,26,FC,Ersan Ilyasova
+Q2,5:52,Czech Republic,24,26,LL_Pts_T,Ondrej Balvín
+Q2,5:52,Czech Republic,24,26,LL_Pts_T,Ondrej Balvín
+Q2,5:52,Czech Republic,24,26,FR,Ondrej Balvín
+Q2,6:06,Turkey,24,26,,James Metecan Birsentip in made
+Q2,6:06,Czech Republic,24,26,substituicao_entra,Ondrej Balvín
+Q2,6:06,Czech Republic,24,26,substituicao_sai,Martin Peterka
+Q2,6:06,Czech Republic,24,26,tempo_tecnico,
+Q2,6:07,Turkey,22,26,RO,James Metecan Birsen
+Q2,6:07,Turkey,22,26,2_Pts_T,Semih Erden
+Q2,6:26,Turkey,22,26,substituicao_entra,Semih Erden
+Q2,6:26,Turkey,22,26,substituicao_sai,Sertac Sanli
+Q2,6:26,Turkey,22,26,RD,
+Q2,6:26,Czech Republic,22,26,substituicao_entra,Tomas Satoransky
+Q2,6:26,Czech Republic,22,26,substituicao_sai,Jaromir Bohacik
+Q2,6:26,Czech Republic,22,26,substituicao_entra,Vojtech Hruban
+Q2,6:26,Czech Republic,22,26,substituicao_sai,Pavel Pumprla
+Q2,6:26,Czech Republic,22,26,,Jaromir Bohacik3pt jump shot missed
+Q2,6:45,Turkey,22,26,AS,Dogus Balbay
+Q2,6:45,Turkey,22,26,3_Pts_C,Furkan Korkmaz
+Q2,7:09,Czech Republic,19,26,AS,Blake Schilb
+Q2,7:09,Czech Republic,19,26,2_Pts_C,Patrik Auda
+Q2,7:35,Turkey,19,24,LL_Pts_T,Sertac Sanli
+Q2,7:35,Turkey,19,24,AS,Cedi Osman
+Q2,7:35,Turkey,19,24,LL_Pts_C,Sertac Sanli
+Q2,7:35,Turkey,18,24,substituicao_entra,Ersan Ilyasova
+Q2,7:35,Turkey,18,24,substituicao_sai,Cedi Osman
+Q2,7:35,Turkey,18,24,FR,Sertac Sanli
+Q2,7:35,Czech Republic,19,24,RD,Patrik Auda
+Q2,7:35,Czech Republic,18,24,FC,Pavel Pumprla
+Q2,7:40,Turkey,18,24,RO,James Metecan Birsen
+Q2,7:40,Turkey,18,24,,Furkan Korkmaz3pt jump shot missed
+Q2,7:53,Turkey,18,24,RD,James Metecan Birsen
+Q2,7:53,Czech Republic,18,24,,Blake Schilb3pt jump shot missed
+Q2,7:58,Czech Republic,18,24,RO,Patrik Auda
+Q2,7:58,Czech Republic,18,24,2_Pts_T,Martin Peterka
+Q2,8:19,Turkey,18,24,2_Pts_T,Cedi Osman
+Q2,8:19,Czech Republic,18,24,RD,Blake Schilb
+Q2,8:45,Turkey,18,24,RD,Sertac Sanli
+Q2,8:45,Turkey,18,24,FC,Sertac Sanli
+Q2,8:45,Czech Republic,18,24,LL_Pts_T,Pavel Pumprla
+Q2,8:45,Czech Republic,18,24,LL_Pts_T,Pavel Pumprla
+Q2,8:45,Czech Republic,18,24,substituicao_entra,Jaromir Bohacik
+Q2,8:45,Czech Republic,18,24,substituicao_sai,Tomas Satoransky
+Q2,8:45,Czech Republic,18,24,FR,Pavel Pumprla
+Q2,8:57,Czech Republic,18,24,RO,Patrik Auda
+Q2,8:57,Czech Republic,18,24,3_Pts_T,Martin Peterka
+Q2,9:10,Turkey,18,24,,Furkan Korkmaz2pt jump shot made
+Q2,9:36,Czech Republic,16,24,2_Pts_C,Martin Peterka
+Q2,9:49,Turkey,0,0,FC,Dogus Balbay
+Q2,9:49,Czech Republic,0,0,FR,Patrik Auda
+Q3,0:00,Turkey,60,66,,Bugrahan Tuncer3pt jump shot missed
+Q3,0:00,Turkey,60,66,RD,Bugrahan Tuncer
+Q3,0:00,Turkey,60,66,TO,Dogus Balbay
+Q3,0:00,Czech Republic,60,66,2_Pts_T,Tomas Satoransky
+Q3,0:07,Turkey,60,66,substituicao_entra,James Metecan Birsen
+Q3,0:07,Turkey,60,66,substituicao_sai,Melih Mahmutoglu
+Q3,0:07,Turkey,60,66,substituicao_entra,Dogus Balbay
+Q3,0:07,Turkey,60,66,substituicao_sai,Semih Erden
+Q3,0:07,Czech Republic,60,66,substituicao_entra,Blake Schilb
+Q3,0:07,Czech Republic,60,66,substituicao_sai,Pavel Pumprla
+Q3,0:12,Turkey,60,66,FC,Bugrahan Tuncer
+Q3,0:12,Czech Republic,60,66,FR,Tomas Satoransky
+Q3,0:22,Turkey,60,66,AS,Bugrahan Tuncer
+Q3,0:22,Turkey,60,66,LL_Pts_C,Furkan Korkmaz
+Q3,0:22,Turkey,59,66,LL_Pts_T,Furkan Korkmaz
+Q3,0:22,Turkey,59,66,FR,Furkan Korkmaz
+Q3,0:22,Czech Republic,59,66,substituicao_entra,Pavel Pumprla
+Q3,0:22,Czech Republic,59,66,substituicao_sai,Ondrej Balvín
+Q3,0:22,Czech Republic,59,66,FC,Ondrej Balvín
+Q3,0:42,Turkey,59,66,RD,Cedi Osman
+Q3,0:42,Czech Republic,59,66,LL_Pts_T,Ondrej Balvín
+Q3,0:43,Turkey,59,66,FC,Semih Erden
+Q3,0:43,Czech Republic,59,66,substituicao_entra,Jaromir Bohacik
+Q3,0:43,Czech Republic,59,66,substituicao_sai,Blake Schilb
+Q3,0:43,Czech Republic,59,66,FR,Ondrej Balvín
+Q3,0:43,Czech Republic,59,66,AS,Tomas Satoransky
+Q3,0:43,Czech Republic,59,66,2_Pts_C,Ondrej Balvín
+Q3,0:59,Turkey,59,64,,Cedi Osman3pt jump shot made
+Q3,10:00,Turkey,0,0,muda_bola,
+Q3,1:11,Turkey,56,64,BR,Semih Erden
+Q3,1:11,Czech Republic,56,64,ER,Vojtech Hruban
+Q3,1:26,Turkey,56,64,AS,Bugrahan Tuncer
+Q3,1:26,Turkey,56,64,,Melih Mahmutoglu3pt jump shot made
+Q3,1:41,Turkey,53,64,RD,Semih Erden
+Q3,1:41,Czech Republic,53,64,2_Pts_T,Patrik Auda
+Q3,2:04,Turkey,53,64,substituicao_entra,Bugrahan Tuncer
+Q3,2:04,Turkey,53,64,substituicao_sai,Scott Wilbekin
+Q3,2:07,Turkey,53,64,2_Pts_T,Melih Mahmutoglu
+Q3,2:07,Czech Republic,53,64,RD,
+Q3,2:07,Czech Republic,53,64,TO,Ondrej Balvín
+Q3,2:31,Czech Republic,53,64,AS,Blake Schilb
+Q3,2:31,Czech Republic,53,64,,Ondrej Balvíndunk made
+Q3,2:47,Turkey,53,62,,Furkan Korkmaz3pt jump shot missed
+Q3,2:47,Czech Republic,53,62,RD,Ondrej Balvín
+Q3,3:13,Turkey,53,62,tempo_tecnico,
+Q3,3:13,Czech Republic,53,62,AS,Vojtech Hruban
+Q3,3:13,Czech Republic,53,62,,Ondrej Balvíndunk made
+Q3,3:28,Turkey,53,60,,Furkan Korkmaz3pt jump shot missed
+Q3,3:28,Czech Republic,53,60,RD,Patrik Auda
+Q3,3:44,Czech Republic,53,60,AS,Blake Schilb
+Q3,3:44,Czech Republic,53,60,,Vojtech Hrubanlayup made
+Q3,3:47,Turkey,53,58,substituicao_entra,Semih Erden
+Q3,3:47,Turkey,53,58,substituicao_sai,Ersan Ilyasova
+Q3,3:47,Turkey,53,58,FC,Scott Wilbekin
+Q3,3:47,Czech Republic,53,58,FR,Tomas Satoransky
+Q3,3:51,Turkey,53,58,,Ersan Ilyasova3pt jump shot missed
+Q3,3:51,Czech Republic,53,58,RD,Vojtech Hruban
+Q3,4:04,Czech Republic,53,58,AS,Blake Schilb
+Q3,4:04,Czech Republic,53,58,2_Pts_C,Patrik Auda
+Q3,4:17,Turkey,53,56,AS,Cedi Osman
+Q3,4:17,Turkey,53,56,,Melih Mahmutoglu3pt jump shot made
+Q3,4:35,Czech Republic,50,56,2_Pts_C,Vojtech Hruban
+Q3,4:45,Turkey,50,54,2_Pts_T,Melih Mahmutoglu
+Q3,4:45,Czech Republic,50,54,RD,Patrik Auda
+Q3,5:08,Czech Republic,50,54,AS,Tomas Satoransky
+Q3,5:08,Czech Republic,50,54,,Ondrej Balvíndunk made
+Q3,5:23,Turkey,50,52,LL_Pts_C,Cedi Osman
+Q3,5:23,Turkey,49,52,LL_Pts_C,Cedi Osman
+Q3,5:23,Turkey,48,52,LL_Pts_C,Cedi Osman
+Q3,5:23,Turkey,47,52,FR,Cedi Osman
+Q3,5:23,Czech Republic,47,52,FC,Patrik Auda
+Q3,5:51,Czech Republic,47,52,2_Pts_C,Patrik Auda
+Q3,6:05,Turkey,47,50,,Melih Mahmutoglu3pt jump shot missed
+Q3,6:05,Czech Republic,47,50,RD,Ondrej Balvín
+Q3,6:20,Czech Republic,47,50,AS,Tomas Satoransky
+Q3,6:20,Czech Republic,47,50,,Ondrej Balvínalley oop made
+Q3,6:43,Turkey,47,48,2_Pts_C,Furkan Korkmaz
+Q3,6:57,Czech Republic,45,48,2_Pts_C,Vojtech Hruban
+Q3,7:17,Turkey,45,46,substituicao_entra,Furkan Korkmaz
+Q3,7:17,Turkey,45,46,substituicao_sai,Semih Erden
+Q3,7:17,Turkey,45,45,FC_T,Scott Wilbekin
+Q3,7:17,Czech Republic,45,46,LL_Pts_C,Tomas Satoransky
+Q3,7:18,Turkey,45,45,2_Pts_C,Scott Wilbekin
+Q3,7:26,Turkey,43,45,substituicao_entra,Semih Erden
+Q3,7:26,Turkey,43,45,substituicao_sai,Furkan Korkmaz
+Q3,7:26,Turkey,43,45,FR,Ersan Ilyasova
+Q3,7:26,Czech Republic,43,45,substituicao_entra,Ondrej Balvín
+Q3,7:26,Czech Republic,43,45,substituicao_sai,Jaromir Bohacik
+Q3,7:26,Czech Republic,43,45,FC,Vojtech Hruban
+Q3,7:43,Czech Republic,43,45,,Jaromir Bohaciklayup made
+Q3,7:51,Czech Republic,43,43,RO,Jaromir Bohacik
+Q3,7:51,Czech Republic,43,43,,Blake Schilb3pt jump shot missed
+Q3,8:12,Turkey,43,43,AS,Scott Wilbekin
+Q3,8:12,Turkey,43,43,2_Pts_C,Melih Mahmutoglu
+Q3,8:12,Czech Republic,43,43,substituicao_entra,Blake Schilb
+Q3,8:12,Czech Republic,43,43,substituicao_sai,Ondrej Balvín
+Q3,8:12,Czech Republic,43,43,tempo_tecnico,
+Q3,8:17,Turkey,41,43,RD,Scott Wilbekin
+Q3,8:17,Czech Republic,41,43,2_Pts_T,Tomas Satoransky
+Q3,8:32,Turkey,41,43,,Ersan Ilyasova3pt jump shot missed
+Q3,8:32,Czech Republic,41,43,RD,Patrik Auda
+Q3,8:49,Turkey,41,43,RD,Furkan Korkmaz
+Q3,8:49,Czech Republic,41,43,,Tomas Satoransky3pt jump shot missed
+Q3,9:08,Turkey,41,43,AS,Scott Wilbekin
+Q3,9:08,Turkey,41,43,,Melih Mahmutoglu3pt jump shot made
+Q3,9:23,Turkey,38,43,BR,Furkan Korkmaz
+Q3,9:23,Czech Republic,38,43,ER,Vojtech Hruban
+Q3,9:44,Turkey,38,43,AS,Cedi Osman
+Q3,9:44,Turkey,38,43,,Scott Wilbekin3pt jump shot made
+Q4,0:10,Czech Republic,76,91,AS,Jaromir Bohacik
+Q4,0:10,Czech Republic,76,91,2_Pts_C,Pavel Pumprla
+Q4,0:31,Turkey,76,88,substituicao_entra,Sertac Sanli
+Q4,0:31,Turkey,76,88,substituicao_sai,Ersan Ilyasova
+Q4,0:31,Turkey,76,88,FC_T,Ersan Ilyasova
+Q4,0:31,Turkey,76,88,,Ersan Ilyasova3pt jump shot missed
+Q4,0:31,Czech Republic,76,89,substituicao_entra,Martin Kriz
+Q4,0:31,Czech Republic,76,89,substituicao_sai,Blake Schilb
+Q4,0:31,Czech Republic,76,89,substituicao_entra,Jakub Sirina
+Q4,0:31,Czech Republic,76,89,substituicao_sai,Tomas Satoransky
+Q4,0:31,Czech Republic,76,89,LL_Pts_C,Tomas Satoransky
+Q4,0:31,Czech Republic,76,88,RD,Tomas Satoransky
+Q4,0:37,Turkey,76,88,BR,Furkan Korkmaz
+Q4,0:37,Czech Republic,76,88,ER,Tomas Satoransky
+Q4,0:51,Turkey,76,86,substituicao_entra,James Metecan Birsen
+Q4,0:51,Turkey,76,86,substituicao_sai,Cedi Osman
+Q4,0:51,Turkey,76,86,FC_A,Cedi Osman
+Q4,0:51,Czech Republic,76,88,LL_Pts_C,Jaromir Bohacik
+Q4,0:51,Czech Republic,76,87,LL_Pts_C,Jaromir Bohacik
+Q4,0:51,Czech Republic,76,86,FR,Jaromir Bohacik
+Q4,0:58,Turkey,76,86,AS,Dogus Balbay
+Q4,0:58,Turkey,76,86,,Cedi Osmandunk made
+Q4,10:00,Czech Republic,0,0,muda_bola,
+Q4,1:05,Czech Republic,74,86,2_Pts_C,Jaromir Bohacik
+Q4,1:19,Turkey,74,84,,Cedi Osmantip in missed
+Q4,1:19,Czech Republic,74,84,RD,Vojtech Hruban
+Q4,1:21,Turkey,74,84,RO,Cedi Osman
+Q4,1:21,Turkey,74,84,,Dogus Balbaytip in missed
+Q4,1:26,Turkey,74,84,RO,Dogus Balbay
+Q4,1:26,Turkey,74,84,,Ersan Ilyasova2pt jump shot missed
+Q4,1:40,Turkey,74,82,tempo_tecnico,
+Q4,1:40,Turkey,74,82,FC,Furkan Korkmaz
+Q4,1:40,Czech Republic,74,84,LL_Pts_C,Tomas Satoransky
+Q4,1:40,Czech Republic,74,83,LL_Pts_C,Tomas Satoransky
+Q4,1:40,Czech Republic,74,82,substituicao_entra,Pavel Pumprla
+Q4,1:40,Czech Republic,74,82,substituicao_sai,Ondrej Balvín
+Q4,1:40,Czech Republic,74,82,FR,Tomas Satoransky
+Q4,1:42,Turkey,74,82,,Cedi Osman3pt jump shot missed
+Q4,1:42,Czech Republic,74,82,RD,Tomas Satoransky
+Q4,1:58,Turkey,74,82,BR,Furkan Korkmaz
+Q4,1:58,Czech Republic,74,82,ER,Vojtech Hruban
+Q4,2:05,Czech Republic,74,82,RO,Vojtech Hruban
+Q4,2:05,Czech Republic,74,82,,Vojtech Hruban3pt jump shot missed
+Q4,2:22,Turkey,74,82,,Dogus Balbay3pt jump shot missed
+Q4,2:22,Czech Republic,74,82,RD,Tomas Satoransky
+Q4,2:46,Czech Republic,74,82,AS,Tomas Satoransky
+Q4,2:46,Czech Republic,74,82,,Ondrej Balvínalley oop made
+Q4,3:11,Turkey,74,80,LL_Pts_C,Ersan Ilyasova
+Q4,3:11,Turkey,73,80,LL_Pts_C,Ersan Ilyasova
+Q4,3:11,Turkey,72,80,substituicao_entra,Furkan Korkmaz
+Q4,3:11,Turkey,72,80,substituicao_sai,Semih Erden
+Q4,3:11,Turkey,72,80,FR,Ersan Ilyasova
+Q4,3:11,Turkey,72,80,RD,Ersan Ilyasova
+Q4,3:11,Czech Republic,72,80,substituicao_entra,Ondrej Balvín
+Q4,3:11,Czech Republic,72,80,substituicao_sai,Patrik Auda
+Q4,3:11,Czech Republic,72,80,tempo_tecnico,
+Q4,3:11,Czech Republic,72,80,FC,Patrik Auda
+Q4,3:11,Czech Republic,72,80,2_Pts_T,Tomas Satoransky
+Q4,3:34,Turkey,72,80,LL_Pts_C,Semih Erden
+Q4,3:34,Turkey,71,80,LL_Pts_C,Semih Erden
+Q4,3:34,Turkey,70,80,FR,Semih Erden
+Q4,3:34,Czech Republic,70,80,FC,Patrik Auda
+Q4,3:48,Turkey,70,80,RD,Semih Erden
+Q4,3:48,Turkey,70,79,FC,Dogus Balbay
+Q4,3:48,Czech Republic,70,80,LL_Pts_T,Patrik Auda
+Q4,3:48,Czech Republic,70,80,LL_Pts_C,Patrik Auda
+Q4,3:48,Czech Republic,70,79,substituicao_entra,Tomas Satoransky
+Q4,3:48,Czech Republic,70,79,substituicao_sai,Pavel Pumprla
+Q4,3:48,Czech Republic,70,79,FR,Patrik Auda
+Q4,4:00,Turkey,70,79,,Melih Mahmutoglu3pt jump shot missed
+Q4,4:00,Czech Republic,70,79,RD,Pavel Pumprla
+Q4,4:14,Turkey,70,79,BR,Ersan Ilyasova
+Q4,4:14,Czech Republic,70,79,ER,Blake Schilb
+Q4,4:23,Turkey,70,79,LL_Pts_C,Cedi Osman
+Q4,4:23,Turkey,69,79,LL_Pts_C,Cedi Osman
+Q4,4:23,Turkey,68,79,substituicao_entra,Semih Erden
+Q4,4:23,Turkey,68,79,substituicao_sai,Furkan Korkmaz
+Q4,4:23,Turkey,68,79,substituicao_entra,Dogus Balbay
+Q4,4:23,Turkey,68,79,substituicao_sai,Scott Wilbekin
+Q4,4:23,Turkey,68,79,FR,Cedi Osman
+Q4,4:23,Czech Republic,68,79,FC,Vojtech Hruban
+Q4,4:30,Turkey,68,79,RD,Cedi Osman
+Q4,4:30,Czech Republic,68,79,2_Pts_T,Blake Schilb
+Q4,4:48,Turkey,68,79,2_Pts_T,Scott Wilbekin
+Q4,4:48,Czech Republic,68,79,RD,Vojtech Hruban
+Q4,5:03,Czech Republic,68,79,AS,Jaromir Bohacik
+Q4,5:03,Czech Republic,68,79,2_Pts_C,Blake Schilb
+Q4,5:08,Turkey,68,77,FC,Cedi Osman
+Q4,5:08,Czech Republic,68,77,substituicao_entra,Pavel Pumprla
+Q4,5:08,Czech Republic,68,77,substituicao_sai,Tomas Satoransky
+Q4,5:08,Czech Republic,68,77,FR,Jaromir Bohacik
+Q4,5:12,Turkey,68,77,,Melih Mahmutoglu3pt jump shot missed
+Q4,5:12,Czech Republic,68,77,RD,Blake Schilb
+Q4,5:21,Turkey,68,77,RD,Scott Wilbekin
+Q4,5:21,Czech Republic,68,77,2_Pts_T,Patrik Auda
+Q4,5:45,Turkey,68,77,2_Pts_T,Ersan Ilyasova
+Q4,5:45,Czech Republic,68,77,RD,Tomas Satoransky
+Q4,6:03,Turkey,68,77,RD,Furkan Korkmaz
+Q4,6:03,Czech Republic,68,77,,Jaromir Bohacik3pt jump shot missed
+Q4,6:19,Turkey,68,77,LL_Pts_C,Ersan Ilyasova
+Q4,6:19,Turkey,67,77,LL_Pts_C,Ersan Ilyasova
+Q4,6:19,Turkey,66,77,FR,Ersan Ilyasova
+Q4,6:19,Czech Republic,66,77,FC,Jaromir Bohacik
+Q4,6:32,Turkey,66,77,FR,Melih Mahmutoglu
+Q4,6:32,Czech Republic,66,77,substituicao_entra,Patrik Auda
+Q4,6:32,Czech Republic,66,77,substituicao_sai,Ondrej Balvín
+Q4,6:32,Czech Republic,66,77,FC,Ondrej Balvín
+Q4,6:45,Turkey,66,77,tempo_tecnico,
+Q4,6:45,Czech Republic,66,77,AS,Tomas Satoransky
+Q4,6:45,Czech Republic,66,77,,Vojtech Hruban2pt jump shot made
+Q4,6:54,Turkey,66,75,2_Pts_T,Ersan Ilyasova
+Q4,6:54,Czech Republic,66,75,RD,Tomas Satoransky
+Q4,7:20,Turkey,66,75,RD,Ersan Ilyasova
+Q4,7:20,Turkey,66,74,substituicao_entra,Scott Wilbekin
+Q4,7:20,Turkey,66,74,substituicao_sai,Bugrahan Tuncer
+Q4,7:20,Turkey,66,74,FC,Ersan Ilyasova
+Q4,7:20,Czech Republic,66,75,LL_Pts_T,Ondrej Balvín
+Q4,7:20,Czech Republic,66,75,LL_Pts_C,Ondrej Balvín
+Q4,7:20,Czech Republic,66,74,FR,Ondrej Balvín
+Q4,7:20,Czech Republic,66,74,RO,Ondrej Balvín
+Q4,7:20,Czech Republic,66,74,2_Pts_T,Vojtech Hruban
+Q4,7:30,Turkey,66,72,FC_A,Cedi Osman
+Q4,7:30,Czech Republic,66,74,LL_Pts_C,Tomas Satoransky
+Q4,7:30,Czech Republic,66,73,LL_Pts_C,Tomas Satoransky
+Q4,7:30,Czech Republic,66,72,FR,Tomas Satoransky
+Q4,7:34,Turkey,66,72,,Furkan Korkmaz2pt jump shot missed
+Q4,7:34,Czech Republic,66,72,RD,Ondrej Balvín
+Q4,7:44,Turkey,66,72,substituicao_entra,Ersan Ilyasova
+Q4,7:44,Turkey,66,72,substituicao_sai,Semih Erden
+Q4,7:44,Turkey,66,72,FR,Semih Erden
+Q4,7:44,Czech Republic,66,72,FC,Tomas Satoransky
+Q4,7:54,Czech Republic,66,72,AS,Blake Schilb
+Q4,7:54,Czech Republic,66,72,,Vojtech Hruban3pt jump shot made
+Q4,8:07,Turkey,66,69,FC,Semih Erden
+Q4,8:07,Czech Republic,66,69,substituicao_entra,Blake Schilb
+Q4,8:07,Czech Republic,66,69,substituicao_sai,Patrik Auda
+Q4,8:07,Czech Republic,66,69,FR,Ondrej Balvín
+Q4,8:29,Turkey,66,69,AS,Bugrahan Tuncer
+Q4,8:29,Turkey,66,69,,Melih Mahmutoglu3pt jump shot made
+Q4,8:48,Czech Republic,63,69,AS,Vojtech Hruban
+Q4,8:48,Czech Republic,63,69,,Jaromir Bohacik3pt jump shot made
+Q4,9:12,Turkey,63,66,,Cedi Osman3pt jump shot made
+Q4,9:22,Turkey,0,0,FR,Semih Erden
+Q4,9:22,Czech Republic,0,0,FC,Tomas Satoransky
+Q4,9:40,Turkey,0,0,BR,Cedi Osman
+Q4,9:40,Czech Republic,0,0,ER,Ondrej Balvín

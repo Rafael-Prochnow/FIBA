@@ -1,0 +1,471 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:05,Brazil,16,20,ER,Cristiano Felicio
+Q1,0:05,Czech Republic,16,20,BR,Tomas Satoransky
+Q1,0:21,Brazil,16,20,RD,Cristiano Felicio
+Q1,0:21,Czech Republic,16,20,,Ondrej Balvín2pt jump shot missed
+Q1,0:41,Brazil,16,20,,Leandrinho Barbosa3pt jump shot missed
+Q1,0:41,Czech Republic,16,20,RD,Patrik Auda
+Q1,0:56,Czech Republic,16,20,2_Pts_C,Tomas Satoransky
+Q1,10:00,Czech Republic,0,0,inicio_quarto,Ondrej Balvín
+Q1,1:14,Brazil,16,18,substituicao_entra,Marquinhos Sousa
+Q1,1:14,Brazil,16,18,substituicao_sai,Anderson Varejao
+Q1,1:14,Brazil,16,18,substituicao_entra,Cristiano Felicio
+Q1,1:14,Brazil,16,18,substituicao_sai,Alex Garcia
+Q1,1:14,Brazil,16,18,AS,Marcelinho Huertas
+Q1,1:14,Brazil,16,18,,Leandrinho Barbosa3pt jump shot made
+Q1,1:14,Czech Republic,16,18,substituicao_entra,Ondrej Balvín
+Q1,1:14,Czech Republic,16,18,substituicao_sai,Martin Peterka
+Q1,1:14,Czech Republic,16,18,tempo_tecnico,
+Q1,1:18,Brazil,13,18,RO,Marcelinho Huertas
+Q1,1:18,Brazil,13,18,,Anderson Varejaolayup missed
+Q1,1:40,Brazil,13,18,RD,Marcelinho Huertas
+Q1,1:40,Czech Republic,13,18,,Jaromir Bohacik3pt jump shot missed
+Q1,2:00,Brazil,13,18,,Leandrinho Barbosa2pt jump shot missed
+Q1,2:00,Czech Republic,13,18,RD,Tomas Satoransky
+Q1,2:20,Czech Republic,13,18,substituicao_entra,Martin Peterka
+Q1,2:20,Czech Republic,13,18,substituicao_sai,Ondrej Balvín
+Q1,2:20,Czech Republic,13,18,ER,Tomas Satoransky
+Q1,2:23,Brazil,13,18,2_Pts_T,Alex Garcia
+Q1,2:23,Czech Republic,13,18,RD,Tomas Satoransky
+Q1,2:23,Czech Republic,13,18,TO,Tomas Satoransky
+Q1,2:32,Brazil,13,18,BR,Bruno Caboclo
+Q1,2:32,Czech Republic,13,18,ER,Ondrej Balvín
+Q1,2:47,Brazil,13,18,AS,Bruno Caboclo
+Q1,2:47,Brazil,13,18,2_Pts_C,Anderson Varejao
+Q1,2:56,Brazil,11,17,FC,Anderson Varejao
+Q1,2:56,Czech Republic,11,18,LL_Pts_C,Ondrej Balvín
+Q1,2:56,Czech Republic,11,17,substituicao_entra,Blake Schilb
+Q1,2:56,Czech Republic,11,17,substituicao_sai,Vojtech Hruban
+Q1,2:56,Czech Republic,11,17,FR,Ondrej Balvín
+Q1,2:56,Czech Republic,11,17,AS,Patrik Auda
+Q1,2:56,Czech Republic,11,17,,Ondrej Balvín2pt jump shot made
+Q1,3:09,Brazil,11,15,LL_Pts_C,Alex Garcia
+Q1,3:09,Brazil,10,15,AS,Anderson Varejao
+Q1,3:09,Brazil,10,15,LL_Pts_C,Alex Garcia
+Q1,3:09,Brazil,9,15,substituicao_entra,Leandrinho Barbosa
+Q1,3:09,Brazil,9,15,substituicao_sai,Vítor Benite
+Q1,3:09,Brazil,9,15,substituicao_entra,Marcelinho Huertas
+Q1,3:09,Brazil,9,15,substituicao_sai,Rafa Luz
+Q1,3:09,Brazil,9,15,FR,Alex Garcia
+Q1,3:09,Czech Republic,9,15,substituicao_entra,Patrik Auda
+Q1,3:09,Czech Republic,9,15,substituicao_sai,Martin Kriz
+Q1,3:09,Czech Republic,9,15,FC,Tomas Satoransky
+Q1,3:17,Czech Republic,9,15,AS,Jaromir Bohacik
+Q1,3:17,Czech Republic,9,15,,Tomas Satoransky3pt jump shot made
+Q1,3:26,Brazil,9,12,TO,Bruno Caboclo
+Q1,3:26,Czech Republic,9,12,RO,Jaromir Bohacik
+Q1,3:26,Czech Republic,9,12,2_Pts_T,Tomas Satoransky
+Q1,3:45,Brazil,9,12,AS,Anderson Varejao
+Q1,3:45,Brazil,9,12,,Alex Garcia3pt jump shot made
+Q1,4:07,Czech Republic,6,12,AS,Tomas Satoransky
+Q1,4:07,Czech Republic,6,12,,Martin Krizlayup made
+Q1,4:26,Brazil,6,10,2_Pts_T,Rafa Luz
+Q1,4:26,Czech Republic,6,10,RD,Vojtech Hruban
+Q1,4:36,Brazil,6,10,RD,Rafa Luz
+Q1,4:36,Czech Republic,6,10,,Martin Kriz3pt jump shot missed
+Q1,4:56,Brazil,6,10,,Vítor Benite3pt jump shot missed
+Q1,4:56,Czech Republic,6,10,RD,Ondrej Balvín
+Q1,5:10,Brazil,6,10,FR,Anderson Varejao
+Q1,5:10,Brazil,6,10,BR,Anderson Varejao
+Q1,5:10,Czech Republic,6,10,FC,Ondrej Balvín
+Q1,5:10,Czech Republic,6,10,ER,Ondrej Balvín
+Q1,5:23,Brazil,6,10,3_Pts_T,Anderson Varejao
+Q1,5:23,Czech Republic,6,10,RD,Tomas Satoransky
+Q1,5:37,Brazil,6,10,RD,Bruno Caboclo
+Q1,5:37,Czech Republic,6,10,,Jaromir Bohacik3pt jump shot missed
+Q1,6:03,Brazil,6,10,2_Pts_C,Alex Garcia
+Q1,6:17,Brazil,4,10,RD,Anderson Varejao
+Q1,6:17,Czech Republic,4,10,,Vojtech Hruban3pt jump shot missed
+Q1,6:31,Brazil,4,10,,Rafa Luz3pt jump shot missed
+Q1,6:31,Czech Republic,4,10,RD,Jaromir Bohacik
+Q1,6:43,Brazil,4,10,RD,Anderson Varejao
+Q1,6:43,Czech Republic,4,10,2_Pts_T,Tomas Satoransky
+Q1,6:50,Brazil,4,10,2_Pts_T,Anderson Varejao
+Q1,6:50,Czech Republic,4,10,RD,Ondrej Balvín
+Q1,7:13,Czech Republic,4,10,AS,Ondrej Balvín
+Q1,7:13,Czech Republic,4,10,,Martin Kriz2pt jump shot made
+Q1,7:24,Brazil,4,8,,Vítor Benite2pt jump shot missed
+Q1,7:24,Czech Republic,4,8,RD,Martin Kriz
+Q1,7:46,Czech Republic,4,8,AS,Tomas Satoransky
+Q1,7:46,Czech Republic,4,8,,Jaromir Bohacik2pt jump shot made
+Q1,8:08,Brazil,4,6,2_Pts_C,Bruno Caboclo
+Q1,8:31,Czech Republic,2,6,AS,Tomas Satoransky
+Q1,8:31,Czech Republic,2,6,,Vojtech Hrubanlayup made
+Q1,8:39,Brazil,2,4,,Rafa Luz3pt jump shot missed
+Q1,8:39,Czech Republic,2,4,RD,Vojtech Hruban
+Q1,8:59,Brazil,2,2,FC,Alex Garcia
+Q1,8:59,Czech Republic,2,4,LL_Pts_C,Tomas Satoransky
+Q1,8:59,Czech Republic,2,3,LL_Pts_C,Tomas Satoransky
+Q1,8:59,Czech Republic,2,2,FR,Tomas Satoransky
+Q1,9:18,Brazil,2,2,2_Pts_C,Rafa Luz
+Q1,9:25,Brazil,0,2,RO,
+Q1,9:25,Brazil,0,2,2_Pts_T,Rafa Luz
+Q1,9:25,Czech Republic,0,2,TO,Ondrej Balvín
+Q1,9:42,Czech Republic,0,2,AS,Martin Kriz
+Q1,9:42,Czech Republic,0,2,2_Pts_C,Ondrej Balvín
+Q2,0:01,Brazil,32,45,FC,Alex Garcia
+Q2,0:01,Czech Republic,32,45,,Jaromir Bohacik2pt jump shot missed
+Q2,0:01,Czech Republic,32,45,RO,Jaromir Bohacik
+Q2,0:01,Czech Republic,32,45,LL_Pts_T,Ondrej Balvín
+Q2,0:01,Czech Republic,32,45,LL_Pts_T,Ondrej Balvín
+Q2,0:01,Czech Republic,32,45,FR,Ondrej Balvín
+Q2,0:09,Brazil,32,45,,Rafa Luzlayup made
+Q2,0:09,Czech Republic,32,45,tempo_tecnico,
+Q2,0:12,Brazil,30,45,BR,Alex Garcia
+Q2,0:12,Czech Republic,30,45,ER,Vojtech Hruban
+Q2,0:38,Brazil,30,45,,Alex Garcia3pt jump shot missed
+Q2,0:38,Czech Republic,30,45,RD,Blake Schilb
+Q2,10:00,Brazil,16,20,muda_bola,
+Q2,1:01,Brazil,30,45,RD,Alex Garcia
+Q2,1:01,Czech Republic,30,45,2_Pts_T,Vojtech Hruban
+Q2,1:10,Brazil,30,45,2_Pts_T,Leandrinho Barbosa
+Q2,1:10,Czech Republic,30,45,RD,Vojtech Hruban
+Q2,1:23,Czech Republic,30,45,AS,Blake Schilb
+Q2,1:23,Czech Republic,30,45,,Tomas Satoranskydunk made
+Q2,1:26,Brazil,30,43,FC,Alex Garcia
+Q2,1:26,Czech Republic,30,43,substituicao_entra,Jaromir Bohacik
+Q2,1:26,Czech Republic,30,43,substituicao_sai,Martin Kriz
+Q2,1:26,Czech Republic,30,43,FR,Blake Schilb
+Q2,1:40,Brazil,30,43,AS,Leandrinho Barbosa
+Q2,1:40,Brazil,30,43,2_Pts_C,Rafa Luz
+Q2,1:53,Brazil,28,43,FR,Bruno Caboclo
+Q2,1:53,Czech Republic,28,43,FC,Martin Kriz
+Q2,1:59,Brazil,28,43,substituicao_entra,Bruno Caboclo
+Q2,1:59,Brazil,28,43,substituicao_sai,Marquinhos Sousa
+Q2,1:59,Brazil,28,43,FR,Anderson Varejao
+Q2,1:59,Czech Republic,28,43,substituicao_entra,Ondrej Balvín
+Q2,1:59,Czech Republic,28,43,substituicao_sai,Patrik Auda
+Q2,1:59,Czech Republic,28,43,FC_O,Patrik Auda
+Q2,2:12,Brazil,28,43,,Alex Garcia2pt jump shot missed
+Q2,2:12,Czech Republic,28,43,RD,Martin Kriz
+Q2,2:26,Czech Republic,28,43,AS,Vojtech Hruban
+Q2,2:26,Czech Republic,28,43,,Patrik Audalayup made
+Q2,2:41,Brazil,28,41,ER,Leandrinho Barbosa
+Q2,3:03,Brazil,28,40,tempo_tecnico,
+Q2,3:03,Brazil,28,40,substituicao_entra,Anderson Varejao
+Q2,3:03,Brazil,28,40,substituicao_sai,Marcelinho Huertas
+Q2,3:03,Brazil,28,40,substituicao_entra,Rafa Luz
+Q2,3:03,Brazil,28,40,substituicao_sai,Cristiano Felicio
+Q2,3:03,Brazil,28,40,FC,Marcelinho Huertas
+Q2,3:03,Czech Republic,28,41,LL_Pts_T,Patrik Auda
+Q2,3:03,Czech Republic,28,40,FR,Patrik Auda
+Q2,3:03,Czech Republic,28,40,,Patrik Auda2pt jump shot made
+Q2,3:03,Czech Republic,28,38,RO,Patrik Auda
+Q2,3:03,Czech Republic,28,38,2_Pts_T,Martin Kriz
+Q2,3:21,Brazil,28,38,2_Pts_T,Alex Garcia
+Q2,3:21,Czech Republic,28,38,RD,Blake Schilb
+Q2,3:36,Czech Republic,28,38,AS,Tomas Satoransky
+Q2,3:36,Czech Republic,28,38,,Blake Schilb3pt jump shot made
+Q2,3:42,Brazil,28,35,,Marquinhos Sousatip in missed
+Q2,3:42,Czech Republic,28,35,RD,Tomas Satoransky
+Q2,3:47,Brazil,28,35,RO,Marquinhos Sousa
+Q2,3:47,Brazil,28,35,2_Pts_T,Marquinhos Sousa
+Q2,4:05,Czech Republic,28,35,ER,Vojtech Hruban
+Q2,4:14,Brazil,28,35,3_Pts_T,Marcelinho Huertas
+Q2,4:14,Czech Republic,28,35,RD,Patrik Auda
+Q2,4:30,Czech Republic,28,35,AS,Tomas Satoransky
+Q2,4:30,Czech Republic,28,35,3_Pts_C,Vojtech Hruban
+Q2,4:35,Brazil,28,32,ER,Alex Garcia
+Q2,4:35,Czech Republic,28,32,BR,Blake Schilb
+Q2,4:52,Brazil,28,32,RD,Cristiano Felicio
+Q2,4:52,Czech Republic,28,32,,Tomas Satoransky3pt jump shot missed
+Q2,5:08,Brazil,28,32,LL_Pts_C,Cristiano Felicio
+Q2,5:08,Brazil,27,32,AS,Marcelinho Huertas
+Q2,5:08,Brazil,27,32,LL_Pts_C,Cristiano Felicio
+Q2,5:08,Brazil,26,32,FR,Cristiano Felicio
+Q2,5:08,Czech Republic,26,32,FC,Vojtech Hruban
+Q2,5:27,Brazil,26,32,tempo_tecnico,
+Q2,5:27,Czech Republic,26,32,AS,Tomas Satoransky
+Q2,5:27,Czech Republic,26,32,,Martin Krizlayup made
+Q2,5:34,Brazil,26,30,ER,Leandrinho Barbosa
+Q2,5:34,Czech Republic,26,30,BR,Tomas Satoransky
+Q2,5:49,Brazil,26,28,substituicao_entra,Alex Garcia
+Q2,5:49,Brazil,26,28,substituicao_sai,Bruno Caboclo
+Q2,5:49,Brazil,26,28,FC,Bruno Caboclo
+Q2,5:49,Czech Republic,26,30,LL_Pts_C,Patrik Auda
+Q2,5:49,Czech Republic,26,29,substituicao_entra,Martin Kriz
+Q2,5:49,Czech Republic,26,29,substituicao_sai,Pavel Pumprla
+Q2,5:49,Czech Republic,26,29,LL_Pts_C,Patrik Auda
+Q2,5:49,Czech Republic,26,28,FR,Patrik Auda
+Q2,6:10,Brazil,26,28,AS,Marcelinho Huertas
+Q2,6:10,Brazil,26,28,,Leandrinho Barbosalayup made
+Q2,6:34,Czech Republic,24,28,AS,Vojtech Hruban
+Q2,6:34,Czech Republic,24,28,,Patrik Audalayup made
+Q2,6:54,Brazil,24,26,LL_Pts_C,Leandrinho Barbosa
+Q2,6:54,Brazil,23,26,LL_Pts_C,Leandrinho Barbosa
+Q2,6:54,Brazil,22,26,FR,Leandrinho Barbosa
+Q2,6:54,Czech Republic,22,26,substituicao_entra,Tomas Satoransky
+Q2,6:54,Czech Republic,22,26,substituicao_sai,Jaromir Bohacik
+Q2,6:54,Czech Republic,22,26,substituicao_entra,Vojtech Hruban
+Q2,6:54,Czech Republic,22,26,substituicao_sai,Ondrej Balvín
+Q2,6:54,Czech Republic,22,26,FC,Patrik Auda
+Q2,7:09,Czech Republic,22,26,AS,Blake Schilb
+Q2,7:09,Czech Republic,22,26,,Ondrej Balvíndunk made
+Q2,7:23,Brazil,22,24,AS,Marquinhos Sousa
+Q2,7:23,Brazil,22,24,,Marcelinho Huertas2pt jump shot made
+Q2,7:32,Czech Republic,20,24,,Ondrej Balvín2pt jump shot made
+Q2,7:39,Czech Republic,20,22,RO,Ondrej Balvín
+Q2,7:39,Czech Republic,20,22,,Ondrej Balvín2pt jump shot missed
+Q2,7:45,Czech Republic,20,22,RO,Ondrej Balvín
+Q2,7:45,Czech Republic,20,22,2_Pts_T,Jaromir Bohacik
+Q2,8:05,Brazil,20,22,AS,Cristiano Felicio
+Q2,8:05,Brazil,20,22,,Marquinhos Sousa2pt jump shot made
+Q2,8:19,Brazil,18,22,RD,Marquinhos Sousa
+Q2,8:19,Czech Republic,18,22,2_Pts_T,Patrik Auda
+Q2,8:42,Brazil,18,22,2_Pts_C,Marcelinho Huertas
+Q2,8:54,Brazil,16,22,RD,Cristiano Felicio
+Q2,8:54,Czech Republic,16,22,,Blake Schilb3pt jump shot missed
+Q2,9:09,Brazil,16,22,FC,Cristiano Felicio
+Q2,9:09,Czech Republic,16,22,FR,Ondrej Balvín
+Q2,9:09,Czech Republic,16,22,RD,
+Q2,9:10,Brazil,16,22,,Marquinhos Sousa3pt jump shot missed
+Q2,9:32,Czech Republic,16,22,AS,Blake Schilb
+Q2,9:32,Czech Republic,16,22,2_Pts_C,Ondrej Balvín
+Q2,9:49,Brazil,16,20,,Cristiano Felicio2pt jump shot missed
+Q2,9:49,Czech Republic,16,20,RD,Jaromir Bohacik
+Q3,0:01,Czech Republic,46,65,,Vojtech Hruban3pt jump shot missed
+Q3,0:04,Brazil,46,65,,Alex Garcia3pt jump shot missed
+Q3,0:04,Czech Republic,46,65,RD,Martin Kriz
+Q3,0:08,Czech Republic,46,65,substituicao_entra,Martin Kriz
+Q3,0:08,Czech Republic,46,65,substituicao_sai,Patrik Auda
+Q3,0:29,Brazil,46,65,FR,Yago Mateus
+Q3,0:29,Czech Republic,46,65,FC,Jaromir Bohacik
+Q3,0:31,Brazil,46,65,BR,Yago Mateus
+Q3,0:31,Czech Republic,46,65,ER,Patrik Auda
+Q3,0:54,Brazil,46,65,ER,Vítor Benite
+Q3,0:54,Czech Republic,46,65,BR,Ondrej Balvín
+Q3,10:00,Czech Republic,32,45,muda_bola,
+Q3,1:04,Brazil,46,64,substituicao_entra,Alex Garcia
+Q3,1:04,Brazil,46,64,substituicao_sai,Leandrinho Barbosa
+Q3,1:04,Czech Republic,46,65,LL_Pts_C,Vojtech Hruban
+Q3,1:04,Czech Republic,46,64,substituicao_entra,Vojtech Hruban
+Q3,1:04,Czech Republic,46,64,substituicao_sai,Blake Schilb
+Q3,1:13,Brazil,46,64,FC,Leandrinho Barbosa
+Q3,1:13,Czech Republic,46,64,FR,Blake Schilb
+Q3,1:13,Czech Republic,46,64,2_Pts_C,Blake Schilb
+Q3,1:28,Brazil,46,62,FC_O,Leandrinho Barbosa
+Q3,1:28,Czech Republic,46,62,FR,Patrik Auda
+Q3,1:43,Brazil,46,61,substituicao_entra,Cristiano Felicio
+Q3,1:43,Brazil,46,61,substituicao_sai,Anderson Varejao
+Q3,1:43,Brazil,46,61,FC,Vítor Benite
+Q3,1:43,Czech Republic,46,62,LL_Pts_C,Blake Schilb
+Q3,1:43,Czech Republic,46,61,LL_Pts_T,Blake Schilb
+Q3,1:43,Czech Republic,46,61,FR,Blake Schilb
+Q3,1:57,Brazil,46,61,2_Pts_C,Leandrinho Barbosa
+Q3,2:19,Czech Republic,44,61,AS,Blake Schilb
+Q3,2:19,Czech Republic,44,61,,Ondrej Balvínalley oop made
+Q3,2:27,Brazil,44,59,FC,Bruno Caboclo
+Q3,2:27,Czech Republic,44,59,substituicao_entra,Pavel Pumprla
+Q3,2:27,Czech Republic,44,59,substituicao_sai,Tomas Satoransky
+Q3,2:27,Czech Republic,44,59,FR,Patrik Auda
+Q3,2:35,Brazil,44,59,,Yago Mateus3pt jump shot missed
+Q3,2:35,Czech Republic,44,59,RD,Tomas Satoransky
+Q3,2:50,Brazil,44,59,RD,Anderson Varejao
+Q3,2:50,Brazil,44,59,FC,Bruno Caboclo
+Q3,2:50,Czech Republic,44,59,LL_Pts_T,Jaromir Bohacik
+Q3,2:50,Czech Republic,44,59,FR,Jaromir Bohacik
+Q3,2:50,Czech Republic,44,59,2_Pts_C,Jaromir Bohacik
+Q3,2:54,Brazil,44,57,FC,Leandrinho Barbosa
+Q3,2:54,Czech Republic,44,57,FR,Blake Schilb
+Q3,3:11,Brazil,44,57,AS,Bruno Caboclo
+Q3,3:11,Brazil,44,57,,Vítor Benite3pt jump shot made
+Q3,3:29,Czech Republic,41,57,,Tomas Satoransky3pt jump shot made
+Q3,3:33,Czech Republic,41,54,RO,
+Q3,3:33,Czech Republic,41,54,2_Pts_T,Blake Schilb
+Q3,3:49,Brazil,41,54,AS,Yago Mateus
+Q3,3:49,Brazil,41,54,,Vítor Benite3pt jump shot made
+Q3,3:56,Brazil,38,54,RO,Yago Mateus
+Q3,3:56,Brazil,38,54,2_Pts_T,Leandrinho Barbosa
+Q3,3:56,Czech Republic,38,54,TO,Blake Schilb
+Q3,4:01,Brazil,38,54,BR,Leandrinho Barbosa
+Q3,4:01,Czech Republic,38,54,ER,Tomas Satoransky
+Q3,4:20,Brazil,38,54,2_Pts_C,Leandrinho Barbosa
+Q3,4:20,Czech Republic,38,54,substituicao_entra,Patrik Auda
+Q3,4:20,Czech Republic,38,54,substituicao_sai,Martin Kriz
+Q3,4:20,Czech Republic,38,54,tempo_tecnico,
+Q3,4:29,Brazil,36,54,RD,Anderson Varejao
+Q3,4:29,Czech Republic,36,54,,Jaromir Bohacik3pt jump shot missed
+Q3,4:34,Brazil,36,54,2_Pts_T,Leandrinho Barbosa
+Q3,4:34,Czech Republic,36,54,RD,Ondrej Balvín
+Q3,4:51,Brazil,36,54,RD,Bruno Caboclo
+Q3,4:51,Czech Republic,36,54,2_Pts_T,Jaromir Bohacik
+Q3,4:59,Brazil,36,54,FC,Leandrinho Barbosa
+Q3,4:59,Czech Republic,36,54,FR,Tomas Satoransky
+Q3,5:12,Brazil,36,54,ER,Leandrinho Barbosa
+Q3,5:12,Czech Republic,36,54,BR,Tomas Satoransky
+Q3,5:22,Brazil,36,54,RD,Bruno Caboclo
+Q3,5:22,Czech Republic,36,54,,Jaromir Bohacik3pt jump shot missed
+Q3,5:34,Brazil,36,54,LL_Pts_C,Yago Mateus
+Q3,5:34,Brazil,35,54,LL_Pts_C,Yago Mateus
+Q3,5:34,Brazil,34,54,FR,Yago Mateus
+Q3,5:34,Czech Republic,34,54,substituicao_entra,Blake Schilb
+Q3,5:34,Czech Republic,34,54,substituicao_sai,Vojtech Hruban
+Q3,5:34,Czech Republic,34,54,FC,Vojtech Hruban
+Q3,5:40,Brazil,34,54,RD,Anderson Varejao
+Q3,5:40,Czech Republic,34,54,,Jaromir Bohacik2pt jump shot missed
+Q3,5:44,Brazil,34,54,substituicao_entra,Leandrinho Barbosa
+Q3,5:44,Brazil,34,54,substituicao_sai,Alex Garcia
+Q3,6:02,Brazil,34,54,ER,Alex Garcia
+Q3,6:02,Czech Republic,34,54,BR,Martin Kriz
+Q3,6:16,Brazil,34,54,RO,Vítor Benite
+Q3,6:16,Brazil,34,54,,Yago Mateus3pt jump shot missed
+Q3,6:26,Brazil,34,54,FR,Anderson Varejao
+Q3,6:26,Czech Republic,34,54,FC,Vojtech Hruban
+Q3,6:33,Brazil,34,54,substituicao_entra,Vítor Benite
+Q3,6:33,Brazil,34,54,substituicao_sai,Marquinhos Sousa
+Q3,6:33,Brazil,34,54,tempo_tecnico,
+Q3,6:42,Brazil,34,54,RD,Alex Garcia
+Q3,6:42,Czech Republic,34,54,,Vojtech Hruban3pt jump shot missed
+Q3,6:50,Brazil,34,54,2_Pts_T,Alex Garcia
+Q3,6:50,Czech Republic,34,54,RD,Tomas Satoransky
+Q3,6:50,Czech Republic,34,54,TO,Tomas Satoransky
+Q3,6:58,Brazil,34,54,FR,Bruno Caboclo
+Q3,6:58,Czech Republic,34,54,FC,Martin Kriz
+Q3,7:08,Czech Republic,34,54,2_Pts_C,Jaromir Bohacik
+Q3,7:19,Brazil,34,52,,Yago Mateus3pt jump shot missed
+Q3,7:19,Czech Republic,34,52,RD,Tomas Satoransky
+Q3,7:38,Czech Republic,34,52,,Vojtech Hrubanlayup made
+Q3,7:42,Czech Republic,34,50,RO,Vojtech Hruban
+Q3,7:42,Czech Republic,34,50,2_Pts_T,Jaromir Bohacik
+Q3,7:48,Brazil,34,50,substituicao_entra,Yago Mateus
+Q3,7:48,Brazil,34,50,substituicao_sai,Rafa Luz
+Q3,7:58,Brazil,34,50,,Alex Garcia2pt jump shot missed
+Q3,7:58,Czech Republic,34,50,RD,Ondrej Balvín
+Q3,8:14,Czech Republic,34,50,AS,Jaromir Bohacik
+Q3,8:14,Czech Republic,34,50,,Tomas Satoransky3pt jump shot made
+Q3,8:28,Brazil,34,47,AS,Rafa Luz
+Q3,8:28,Brazil,34,47,2_Pts_C,Marquinhos Sousa
+Q3,8:32,Brazil,32,47,RO,
+Q3,8:35,Brazil,32,47,,Bruno Caboclo3pt jump shot missed
+Q3,8:47,Brazil,32,47,BR,Bruno Caboclo
+Q3,8:55,Czech Republic,32,47,ER,Tomas Satoransky
+Q3,9:11,Brazil,32,47,,Marquinhos Sousa3pt jump shot missed
+Q3,9:11,Czech Republic,32,47,RD,Ondrej Balvín
+Q3,9:17,Brazil,32,47,RO,Rafa Luz
+Q3,9:17,Brazil,32,47,,Alex Garcialayup missed
+Q3,9:41,Czech Republic,32,47,2_Pts_C,Tomas Satoransky
+Q4,0:00,Czech Republic,71,93,3_Pts_T,Tomas Vyoral
+Q4,0:02,Brazil,71,93,,Cristiano Feliciotip in made
+Q4,0:05,Brazil,69,93,RO,Cristiano Felicio
+Q4,0:05,Brazil,69,93,,Vítor Benite3pt jump shot missed
+Q4,0:10,Brazil,69,93,FR,Marcelinho Huertas
+Q4,0:10,Czech Republic,69,93,FC,Jakub Sirina
+Q4,0:15,Brazil,69,91,FC,Marcelinho Huertas
+Q4,0:15,Czech Republic,69,93,LL_Pts_C,Jakub Sirina
+Q4,0:15,Czech Republic,69,92,LL_Pts_C,Jakub Sirina
+Q4,0:15,Czech Republic,69,91,FR,Jakub Sirina
+Q4,0:24,Brazil,69,91,ER,Marcelinho Huertas
+Q4,0:24,Czech Republic,69,91,BR,Martin Peterka
+Q4,0:30,Czech Republic,69,91,AS,Jakub Sirina
+Q4,0:30,Czech Republic,69,91,,Martin Peterka3pt jump shot made
+Q4,0:48,Brazil,69,88,AS,Marcelinho Huertas
+Q4,0:48,Brazil,69,88,2_Pts_C,Vítor Benite
+Q4,0:52,Brazil,67,88,FR,Didi Louzada
+Q4,0:52,Brazil,67,88,RO,
+Q4,0:52,Czech Republic,67,88,FC,Tomas Vyoral
+Q4,0:53,Brazil,67,88,,Didi Louzada3pt jump shot missed
+Q4,10:00,Brazil,46,65,muda_bola,
+Q4,1:07,Czech Republic,67,88,ER,Lukas Palyza
+Q4,1:19,Brazil,67,88,AS,Marcelinho Huertas
+Q4,1:19,Brazil,67,88,,Bruno Caboclo3pt jump shot made
+Q4,1:36,Brazil,64,88,substituicao_entra,Bruno Caboclo
+Q4,1:36,Brazil,64,88,substituicao_sai,Marquinhos Sousa
+Q4,1:36,Brazil,64,88,RD,
+Q4,1:36,Czech Republic,64,88,substituicao_entra,Jakub Sirina
+Q4,1:36,Czech Republic,64,88,substituicao_sai,Tomas Satoransky
+Q4,1:38,Czech Republic,64,88,,Martin Peterka2pt jump shot missed
+Q4,1:55,Brazil,64,88,AS,Cristiano Felicio
+Q4,1:55,Brazil,64,88,2_Pts_C,Marcelinho Huertas
+Q4,1:55,Czech Republic,64,88,substituicao_entra,Martin Kriz
+Q4,1:55,Czech Republic,64,88,substituicao_sai,Jaromir Bohacik
+Q4,1:55,Czech Republic,64,88,substituicao_entra,Lukas Palyza
+Q4,1:55,Czech Republic,64,88,substituicao_sai,Vojtech Hruban
+Q4,1:55,Czech Republic,64,88,substituicao_entra,Tomas Vyoral
+Q4,1:55,Czech Republic,64,88,substituicao_sai,Patrik Auda
+Q4,2:12,Czech Republic,62,88,,Martin Peterka2pt jump shot made
+Q4,2:19,Czech Republic,62,86,RO,Martin Peterka
+Q4,2:19,Czech Republic,62,86,,Patrik Audalayup missed
+Q4,2:34,Brazil,62,86,,Marquinhos Sousa3pt jump shot missed
+Q4,2:34,Czech Republic,62,86,RD,Vojtech Hruban
+Q4,2:55,Brazil,62,85,FC,Vítor Benite
+Q4,2:55,Czech Republic,62,86,substituicao_entra,Martin Peterka
+Q4,2:55,Czech Republic,62,86,substituicao_sai,Ondrej Balvín
+Q4,2:55,Czech Republic,62,86,LL_Pts_C,Jaromir Bohacik
+Q4,2:55,Czech Republic,62,85,LL_Pts_T,Jaromir Bohacik
+Q4,2:55,Czech Republic,62,85,FR,Jaromir Bohacik
+Q4,3:12,Czech Republic,62,85,substituicao_entra,Tomas Satoransky
+Q4,3:12,Czech Republic,62,85,substituicao_sai,Pavel Pumprla
+Q4,3:14,Czech Republic,62,85,tempo_tecnico,
+Q4,3:17,Brazil,62,85,AS,Marcelinho Huertas
+Q4,3:17,Brazil,62,85,,Marquinhos Sousa3pt jump shot made
+Q4,3:19,Brazil,59,85,RO,
+Q4,3:19,Brazil,59,85,2_Pts_T,Marcelinho Huertas
+Q4,3:19,Czech Republic,59,85,TO,Jaromir Bohacik
+Q4,3:23,Brazil,59,85,BR,Marquinhos Sousa
+Q4,3:23,Czech Republic,59,85,ER,Jaromir Bohacik
+Q4,3:27,Brazil,59,85,FC,Didi Louzada
+Q4,3:27,Czech Republic,59,85,FR,Vojtech Hruban
+Q4,3:46,Brazil,59,85,,Vítor Benite3pt jump shot missed
+Q4,3:46,Czech Republic,59,85,RD,Ondrej Balvín
+Q4,4:00,Czech Republic,59,85,ER,Patrik Auda
+Q4,4:16,Brazil,59,85,3_Pts_C,Marcelinho Huertas
+Q4,4:29,Czech Republic,56,85,AS,Pavel Pumprla
+Q4,4:29,Czech Republic,56,85,,Jaromir Bohacik2pt jump shot made
+Q4,4:34,Czech Republic,56,83,substituicao_entra,Vojtech Hruban
+Q4,4:34,Czech Republic,56,83,substituicao_sai,Tomas Satoransky
+Q4,4:55,Brazil,56,83,AS,Vítor Benite
+Q4,4:55,Brazil,56,83,,Marcelinho Huertas2pt jump shot made
+Q4,5:15,Czech Republic,54,83,AS,Tomas Satoransky
+Q4,5:15,Czech Republic,54,83,,Ondrej Balvínalley oop made
+Q4,5:41,Brazil,54,81,2_Pts_T,Didi Louzada
+Q4,5:41,Czech Republic,54,81,RD,Ondrej Balvín
+Q4,6:01,Brazil,54,80,FC,Marcelinho Huertas
+Q4,6:01,Czech Republic,54,81,LL_Pts_C,Tomas Satoransky
+Q4,6:01,Czech Republic,54,80,FR,Tomas Satoransky
+Q4,6:01,Czech Republic,54,80,2_Pts_C,Tomas Satoransky
+Q4,6:17,Brazil,54,78,AS,Didi Louzada
+Q4,6:17,Brazil,54,78,,Cristiano Felicio2pt jump shot made
+Q4,6:42,Brazil,52,78,RD,Didi Louzada
+Q4,6:42,Czech Republic,52,78,,Jaromir Bohacik3pt jump shot missed
+Q4,6:47,Czech Republic,52,78,muda_bola,
+Q4,7:00,Brazil,52,78,substituicao_entra,Marcelinho Huertas
+Q4,7:00,Brazil,52,78,substituicao_sai,Yago Mateus
+Q4,7:00,Brazil,52,78,ER,Yago Mateus
+Q4,7:21,Brazil,52,77,FC,Marquinhos Sousa
+Q4,7:21,Czech Republic,52,78,LL_Pts_C,Patrik Auda
+Q4,7:21,Czech Republic,52,77,FR,Patrik Auda
+Q4,7:21,Czech Republic,52,77,AS,Pavel Pumprla
+Q4,7:21,Czech Republic,52,77,,Patrik Audalayup made
+Q4,7:30,Brazil,52,75,2_Pts_T,Didi Louzada
+Q4,7:30,Czech Republic,52,75,RD,Ondrej Balvín
+Q4,7:43,Czech Republic,52,75,AS,Tomas Satoransky
+Q4,7:43,Czech Republic,52,75,,Pavel Pumprlalayup made
+Q4,7:58,Brazil,52,73,AS,Yago Mateus
+Q4,7:58,Brazil,52,73,,Cristiano Feliciolayup made
+Q4,8:13,Czech Republic,50,73,AS,Tomas Satoransky
+Q4,8:13,Czech Republic,50,73,,Pavel Pumprla3pt jump shot made
+Q4,8:29,Brazil,50,70,AS,Yago Mateus
+Q4,8:29,Brazil,50,70,LL_Pts_C,Vítor Benite
+Q4,8:29,Brazil,49,70,LL_Pts_T,Vítor Benite
+Q4,8:29,Brazil,49,70,substituicao_entra,Marquinhos Sousa
+Q4,8:29,Brazil,49,70,substituicao_sai,Bruno Caboclo
+Q4,8:29,Brazil,49,70,FR,Vítor Benite
+Q4,8:29,Czech Republic,49,70,substituicao_entra,Tomas Satoransky
+Q4,8:29,Czech Republic,49,70,substituicao_sai,Vojtech Hruban
+Q4,8:29,Czech Republic,49,70,FC,Vojtech Hruban
+Q4,8:41,Czech Republic,49,70,AS,Jaromir Bohacik
+Q4,8:41,Czech Republic,49,70,2_Pts_C,Patrik Auda
+Q4,8:43,Brazil,49,68,substituicao_entra,Didi Louzada
+Q4,8:43,Brazil,49,68,substituicao_sai,Alex Garcia
+Q4,9:04,Brazil,49,68,AS,Yago Mateus
+Q4,9:04,Brazil,49,68,,Vítor Benite3pt jump shot made
+Q4,9:11,Brazil,46,68,BR,Alex Garcia
+Q4,9:11,Czech Republic,46,68,ER,Pavel Pumprla
+Q4,9:22,Brazil,46,68,ER,Alex Garcia
+Q4,9:22,Czech Republic,46,68,BR,Jaromir Bohacik
+Q4,9:33,Czech Republic,46,68,AS,Ondrej Balvín
+Q4,9:33,Czech Republic,46,68,,Jaromir Bohacik3pt jump shot made
+Q4,9:37,Czech Republic,46,65,RO,Ondrej Balvín
+Q4,9:37,Czech Republic,46,65,2_Pts_T,Patrik Auda
+Q4,9:49,Brazil,46,65,3_Pts_T,Yago Mateus
+Q4,9:49,Czech Republic,46,65,RD,Patrik Auda

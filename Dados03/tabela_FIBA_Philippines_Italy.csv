@@ -1,0 +1,483 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Philippines,8,37,ER,Andray Blatche
+Q1,0:00,Italy,8,37,BR,Alessandro Gentile
+Q1,0:06,Philippines,8,37,RD,Raymond Almazan
+Q1,0:06,Italy,8,37,LL_Pts_T,Marco Belinelli
+Q1,0:07,Philippines,8,37,substituicao_entra,Raymond Almazan
+Q1,0:07,Philippines,8,37,substituicao_sai,Japeth Aguilar
+Q1,0:07,Philippines,8,37,substituicao_entra,Troy Rosario
+Q1,0:07,Philippines,8,37,substituicao_sai,Roger Pogoy
+Q1,0:07,Philippines,8,37,substituicao_entra,Paul John Dalistan
+Q1,0:07,Philippines,8,37,substituicao_sai,Gabe Norwood
+Q1,0:07,Philippines,8,37,FC,Andray Blatche
+Q1,0:07,Italy,8,37,substituicao_entra,Luca Vitali
+Q1,0:07,Italy,8,37,substituicao_sai,Luigi Datome
+Q1,0:07,Italy,8,37,substituicao_entra,Alessandro Gentile
+Q1,0:07,Italy,8,37,substituicao_sai,Daniel Hackett
+Q1,0:07,Italy,8,37,FR,Marco Belinelli
+Q1,0:07,Italy,8,37,2_Pts_C,Marco Belinelli
+Q1,0:25,Philippines,8,35,,Andray Blatche3pt jump shot missed
+Q1,0:25,Italy,8,35,RD,Marco Belinelli
+Q1,0:43,Italy,8,35,AS,Luigi Datome
+Q1,0:43,Italy,8,35,2_Pts_C,Marco Belinelli
+Q1,0:52,Philippines,8,33,,Roger Pogoy3pt jump shot missed
+Q1,0:52,Italy,8,33,RD,Danilo Gallinari
+Q1,10:00,Italy,0,0,inicio_quarto,Paul Biligha
+Q1,1:13,Italy,8,33,AS,Marco Belinelli
+Q1,1:13,Italy,8,33,,Danilo Gallinari3pt jump shot made
+Q1,1:21,Philippines,8,30,,Andray Blatche3pt jump shot missed
+Q1,1:21,Italy,8,30,RD,Luigi Datome
+Q1,1:39,Italy,8,30,2_Pts_C,Danilo Gallinari
+Q1,1:51,Philippines,8,28,AS,Gabe Norwood
+Q1,1:51,Philippines,8,28,2_Pts_C,Kiefer Ravena
+Q1,2:06,Philippines,6,28,RD,Kiefer Ravena
+Q1,2:06,Italy,6,28,,Daniel Hackett3pt jump shot missed
+Q1,2:23,Philippines,6,28,2_Pts_C,Andray Blatche
+Q1,2:51,Italy,4,28,AS,Danilo Gallinari
+Q1,2:51,Italy,4,28,,Luigi Datome3pt jump shot made
+Q1,3:06,Philippines,4,25,ER,Kiefer Ravena
+Q1,3:06,Italy,4,25,BR,Luigi Datome
+Q1,3:26,Italy,4,25,AS,Danilo Gallinari
+Q1,3:26,Italy,4,25,,Daniel Hackett3pt jump shot made
+Q1,3:46,Philippines,4,22,3_Pts_T,Kiefer Ravena
+Q1,3:46,Italy,4,22,RD,Luigi Datome
+Q1,3:56,Philippines,4,22,FR,Japeth Aguilar
+Q1,3:56,Italy,4,22,FC,Jeff Brooks
+Q1,4:07,Philippines,4,22,substituicao_entra,Kiefer Ravena
+Q1,4:07,Philippines,4,22,substituicao_sai,Mark Barroca
+Q1,4:11,Philippines,4,22,tempo_tecnico,
+Q1,4:14,Italy,4,22,AS,Danilo Gallinari
+Q1,4:14,Italy,4,22,,Daniel Hackett3pt jump shot made
+Q1,4:24,Philippines,4,19,ER,
+Q1,4:28,Philippines,4,19,FR,Japeth Aguilar
+Q1,4:28,Italy,4,19,substituicao_entra,Jeff Brooks
+Q1,4:28,Italy,4,19,substituicao_sai,Paul Biligha
+Q1,4:28,Italy,4,19,FC,Paul Biligha
+Q1,4:31,Philippines,4,19,RO,Andray Blatche
+Q1,4:31,Philippines,4,19,2_Pts_T,Andray Blatche
+Q1,4:51,Italy,4,19,AS,Daniel Hackett
+Q1,4:51,Italy,4,19,3_Pts_C,Danilo Gallinari
+Q1,5:07,Philippines,4,16,2_Pts_T,Japeth Aguilar
+Q1,5:07,Italy,4,16,RD,Marco Belinelli
+Q1,5:23,Italy,4,16,AS,Daniel Hackett
+Q1,5:23,Italy,4,16,,Luigi Datome2pt jump shot made
+Q1,5:36,Philippines,4,14,ER,Japeth Aguilar
+Q1,5:36,Italy,4,14,BR,Daniel Hackett
+Q1,5:45,Italy,4,14,2_Pts_C,Marco Belinelli
+Q1,5:49,Philippines,4,12,ER,Andray Blatche
+Q1,5:49,Italy,4,12,BR,Marco Belinelli
+Q1,6:03,Philippines,4,11,FC,Mark Barroca
+Q1,6:03,Italy,4,12,LL_Pts_C,Daniel Hackett
+Q1,6:03,Italy,4,11,LL_Pts_T,Daniel Hackett
+Q1,6:03,Italy,4,11,FR,Daniel Hackett
+Q1,6:11,Philippines,4,11,FC_O,Andray Blatche
+Q1,6:11,Italy,4,11,FR,Danilo Gallinari
+Q1,6:25,Italy,4,11,AS,Marco Belinelli
+Q1,6:25,Italy,4,11,,Luigi Datomedunk made
+Q1,6:30,Philippines,4,9,ER,Andray Blatche
+Q1,6:30,Italy,4,9,BR,Danilo Gallinari
+Q1,6:40,Philippines,4,9,FR,Mark Barroca
+Q1,6:40,Italy,4,9,FC_O,Paul Biligha
+Q1,6:46,Philippines,4,9,2_Pts_C,Andray Blatche
+Q1,7:01,Italy,2,9,,Paul Biligha2pt jump shot made
+Q1,7:08,Italy,2,7,RO,Paul Biligha
+Q1,7:08,Italy,2,7,,Paul Biligha2pt jump shot missed
+Q1,7:23,Philippines,2,7,,Gabe Norwood3pt jump shot missed
+Q1,7:23,Italy,2,7,RD,Daniel Hackett
+Q1,7:29,Philippines,2,7,BR,Andray Blatche
+Q1,7:29,Italy,2,7,ER,Luigi Datome
+Q1,7:38,Philippines,2,7,ER,Mark Barroca
+Q1,7:38,Italy,2,7,BR,Marco Belinelli
+Q1,7:46,Philippines,2,7,FR,Japeth Aguilar
+Q1,7:46,Italy,2,7,FC,Daniel Hackett
+Q1,8:01,Italy,2,7,AS,Marco Belinelli
+Q1,8:01,Italy,2,7,,Luigi Datome3pt jump shot made
+Q1,8:06,Philippines,2,4,FC,Japeth Aguilar
+Q1,8:06,Italy,2,4,FR,Danilo Gallinari
+Q1,8:18,Philippines,2,4,,Gabe Norwood3pt jump shot missed
+Q1,8:18,Italy,2,4,RD,Daniel Hackett
+Q1,8:37,Italy,2,4,AS,Daniel Hackett
+Q1,8:37,Italy,2,4,2_Pts_C,Luigi Datome
+Q1,8:56,Philippines,2,2,FC,Roger Pogoy
+Q1,8:56,Italy,2,2,FR,Marco Belinelli
+Q1,9:01,Philippines,2,2,,Mark Barroca3pt jump shot missed
+Q1,9:01,Italy,2,2,RD,Luigi Datome
+Q1,9:12,Philippines,2,2,RD,Mark Barroca
+Q1,9:12,Italy,2,2,,Daniel Hackett3pt jump shot missed
+Q1,9:20,Philippines,2,2,FC,Mark Barroca
+Q1,9:20,Italy,2,2,FR,Daniel Hackett
+Q1,9:23,Philippines,2,2,,Mark Barroca2pt jump shot made
+Q1,9:38,Italy,0,2,AS,Luigi Datome
+Q1,9:38,Italy,0,2,,Paul Biligha2pt jump shot made
+Q2,0:00,Italy,24,62,,Ariel Filloy2pt jump shot missed
+Q2,0:05,Philippines,24,62,,Gabe Norwood2pt jump shot missed
+Q2,0:05,Italy,24,62,RD,Amedeo Tessitori
+Q2,0:08,Philippines,24,62,RO,Gabe Norwood
+Q2,0:08,Philippines,24,62,,Japeth Aguilar2pt jump shot missed
+Q2,0:14,Philippines,24,62,substituicao_entra,Robert Lee Jr. Bolick
+Q2,0:14,Philippines,24,62,substituicao_sai,Troy Rosario
+Q2,0:14,Philippines,24,62,substituicao_entra,Gabe Norwood
+Q2,0:14,Philippines,24,62,substituicao_sai,Paul John Dalistan
+Q2,0:14,Philippines,24,62,FR,Andray Blatche
+Q2,0:14,Italy,24,62,FC,Amedeo Tessitori
+Q2,0:39,Italy,24,62,AS,Awudu Abass
+Q2,0:39,Italy,24,62,,Danilo Gallinari3pt jump shot made
+Q2,0:58,Philippines,24,59,2_Pts_C,Jaymar Perez
+Q2,10:00,Philippines,0,0,muda_bola,
+Q2,1:04,Philippines,22,59,BR,Jaymar Perez
+Q2,1:04,Italy,22,59,ER,Marco Belinelli
+Q2,1:21,Philippines,22,59,2_Pts_C,Jaymar Perez
+Q2,1:32,Italy,20,59,AS,Ariel Filloy
+Q2,1:32,Italy,20,59,2_Pts_C,Marco Belinelli
+Q2,1:48,Philippines,20,57,ER,Andray Blatche
+Q2,1:48,Italy,20,57,substituicao_entra,Awudu Abass
+Q2,1:48,Italy,20,57,substituicao_sai,Paul Biligha
+Q2,1:48,Italy,20,57,substituicao_entra,Amedeo Tessitori
+Q2,1:48,Italy,20,57,substituicao_sai,Alessandro Gentile
+Q2,1:55,Philippines,20,57,RD,Andray Blatche
+Q2,1:55,Italy,20,57,,Ariel Filloy3pt jump shot missed
+Q2,2:06,Philippines,20,57,,Troy Rosario3pt jump shot missed
+Q2,2:06,Italy,20,57,RD,Marco Belinelli
+Q2,2:15,Philippines,20,57,RO,Japeth Aguilar
+Q2,2:15,Philippines,20,57,,Paul John Dalistan3pt jump shot missed
+Q2,2:23,Philippines,20,57,substituicao_entra,Japeth Aguilar
+Q2,2:23,Philippines,20,57,substituicao_sai,June Mar Fajardo
+Q2,2:23,Philippines,20,57,RO,
+Q2,2:23,Philippines,20,57,,Jaymar Perezlayup missed
+Q2,2:23,Italy,20,57,substituicao_entra,Ariel Filloy
+Q2,2:23,Italy,20,57,substituicao_sai,Luca Vitali
+Q2,2:51,Italy,20,57,AS,Luca Vitali
+Q2,2:51,Italy,20,57,,Danilo Gallinari3pt jump shot made
+Q2,3:09,Philippines,20,54,2_Pts_C,Jaymar Perez
+Q2,3:14,Philippines,18,54,BR,Andray Blatche
+Q2,3:14,Italy,18,54,ER,Alessandro Gentile
+Q2,3:28,Italy,18,54,substituicao_entra,Danilo Gallinari
+Q2,3:28,Italy,18,54,substituicao_sai,Jeff Brooks
+Q2,3:28,Italy,18,54,substituicao_entra,Marco Belinelli
+Q2,3:28,Italy,18,54,substituicao_sai,Amedeo Della Valle
+Q2,3:34,Philippines,18,54,ER,Jaymar Perez
+Q2,3:43,Italy,18,54,2_Pts_C,Amedeo Della Valle
+Q2,3:45,Philippines,18,52,ER,Andray Blatche
+Q2,3:45,Italy,18,52,BR,Amedeo Della Valle
+Q2,3:56,Philippines,18,52,RD,June Mar Fajardo
+Q2,3:56,Italy,18,52,,Amedeo Della Valle3pt jump shot missed
+Q2,4:16,Philippines,18,52,AS,Troy Rosario
+Q2,4:16,Philippines,18,52,,June Mar Fajardolayup made
+Q2,4:24,Italy,16,52,AS,Alessandro Gentile
+Q2,4:24,Italy,16,52,2_Pts_C,Paul Biligha
+Q2,4:29,Philippines,16,50,,Andray Blatchedunk missed
+Q2,4:29,Italy,16,50,RD,Amedeo Della Valle
+Q2,4:36,Philippines,16,50,RO,Andray Blatche
+Q2,4:36,Philippines,16,50,2_Pts_T,Andray Blatche
+Q2,4:52,Philippines,16,48,FC,Paul John Dalistan
+Q2,4:52,Italy,16,50,LL_Pts_C,Amedeo Della Valle
+Q2,4:52,Italy,16,49,LL_Pts_C,Amedeo Della Valle
+Q2,4:52,Italy,16,48,FR,Amedeo Della Valle
+Q2,5:02,Philippines,16,48,FC,Jaymar Perez
+Q2,5:02,Italy,16,48,FR,Luca Vitali
+Q2,5:13,Philippines,16,48,,Paul John Dalistan2pt jump shot made
+Q2,5:18,Philippines,14,48,BR,June Mar Fajardo
+Q2,5:18,Italy,14,48,ER,Amedeo Della Valle
+Q2,5:23,Italy,14,48,RO,Amedeo Della Valle
+Q2,5:23,Italy,14,48,2_Pts_T,Alessandro Gentile
+Q2,5:34,Philippines,14,48,,Andray Blatche2pt jump shot made
+Q2,5:40,Philippines,12,48,RO,Andray Blatche
+Q2,5:40,Philippines,12,48,,Jaymar Perez2pt jump shot missed
+Q2,5:46,Philippines,12,48,RO,Jaymar Perez
+Q2,5:46,Philippines,12,48,2_Pts_T,Jaymar Perez
+Q2,5:46,Italy,12,48,TO,Jeff Brooks
+Q2,5:59,Philippines,12,46,substituicao_entra,Jaymar Perez
+Q2,5:59,Philippines,12,46,substituicao_sai,Raymond Almazan
+Q2,5:59,Philippines,12,46,substituicao_entra,Andray Blatche
+Q2,5:59,Philippines,12,46,substituicao_sai,Kiefer Ravena
+Q2,5:59,Philippines,12,46,FC,Raymond Almazan
+Q2,5:59,Italy,12,48,LL_Pts_C,Alessandro Gentile
+Q2,5:59,Italy,12,47,AS,Amedeo Della Valle
+Q2,5:59,Italy,12,47,LL_Pts_C,Alessandro Gentile
+Q2,5:59,Italy,12,46,FR,Alessandro Gentile
+Q2,6:03,Philippines,12,46,ER,Paul John Dalistan
+Q2,6:03,Italy,12,46,BR,Paul Biligha
+Q2,6:26,Italy,12,46,AS,Alessandro Gentile
+Q2,6:26,Italy,12,46,,Amedeo Della Valle3pt jump shot made
+Q2,6:32,Philippines,12,43,ER,Raymond Almazan
+Q2,6:32,Italy,12,43,BR,Paul Biligha
+Q2,6:52,Italy,12,43,,Alessandro Gentile3pt jump shot made
+Q2,7:16,Philippines,12,40,,Troy Rosariotip in made
+Q2,7:21,Philippines,10,40,RO,Troy Rosario
+Q2,7:21,Philippines,10,40,2_Pts_T,Kiefer Ravena
+Q2,7:28,Philippines,10,40,BR,June Mar Fajardo
+Q2,7:28,Italy,10,40,ER,Amedeo Della Valle
+Q2,7:40,Italy,10,40,RD,Paul Biligha
+Q2,7:48,Philippines,10,40,,Paul John Dalistan3pt jump shot missed
+Q2,8:11,Italy,10,40,AS,Luca Vitali
+Q2,8:11,Italy,10,40,3_Pts_C,Jeff Brooks
+Q2,8:17,Philippines,10,37,FC,Paul John Dalistan
+Q2,8:17,Italy,10,37,FR,Luca Vitali
+Q2,8:23,Italy,10,37,RD,
+Q2,8:26,Philippines,10,37,,Kiefer Ravena3pt jump shot missed
+Q2,8:44,Philippines,10,37,RD,June Mar Fajardo
+Q2,8:44,Italy,10,37,,Amedeo Della Valle3pt jump shot missed
+Q2,8:52,Philippines,10,37,FC,Troy Rosario
+Q2,8:52,Italy,10,37,FR,Paul Biligha
+Q2,8:55,Italy,10,37,substituicao_entra,Paul Biligha
+Q2,8:55,Italy,10,37,substituicao_sai,Danilo Gallinari
+Q2,8:55,Italy,10,37,substituicao_entra,Amedeo Della Valle
+Q2,8:55,Italy,10,37,substituicao_sai,Marco Belinelli
+Q2,9:14,Philippines,10,37,,June Mar Fajardo2pt jump shot made
+Q2,9:20,Philippines,0,0,RO,June Mar Fajardo
+Q2,9:20,Philippines,0,0,,Paul John Dalistan3pt jump shot missed
+Q2,9:31,Philippines,0,0,RD,Kiefer Ravena
+Q2,9:31,Italy,0,0,,Luca Vitali3pt jump shot missed
+Q2,9:43,Philippines,0,0,ER,Kiefer Ravena
+Q2,9:43,Italy,0,0,BR,Jeff Brooks
+Q3,0:00,Italy,39,85,AS,Alessandro Gentile
+Q3,0:00,Italy,39,85,,Amedeo Tessitori2pt jump shot made
+Q3,0:03,Philippines,39,83,ER,Jaymar Perez
+Q3,0:08,Philippines,39,83,FR,Roger Pogoy
+Q3,0:08,Italy,39,83,FC_O,Amedeo Tessitori
+Q3,0:25,Philippines,39,83,,Raymond Almazan2pt jump shot missed
+Q3,0:25,Italy,39,83,RD,Amedeo Tessitori
+Q3,0:36,Philippines,39,83,RD,June Mar Fajardo
+Q3,0:36,Italy,39,83,,Amedeo Della Valle3pt jump shot missed
+Q3,0:50,Philippines,39,83,LL_Pts_C,June Mar Fajardo
+Q3,0:50,Philippines,38,83,LL_Pts_T,June Mar Fajardo
+Q3,0:50,Philippines,38,83,FR,June Mar Fajardo
+Q3,0:50,Philippines,38,83,,Jaymar Perez3pt jump shot missed
+Q3,0:50,Italy,38,83,FC,Amedeo Tessitori
+Q3,0:50,Italy,38,83,RD,
+Q3,0:59,Italy,38,83,ER,Amedeo Della Valle
+Q3,10:00,Italy,0,0,muda_bola,
+Q3,1:13,Philippines,38,83,LL_Pts_T,June Mar Fajardo
+Q3,1:13,Philippines,38,83,LL_Pts_C,June Mar Fajardo
+Q3,1:13,Philippines,37,83,FR,June Mar Fajardo
+Q3,1:13,Italy,38,83,RD,Jeff Brooks
+Q3,1:13,Italy,37,83,FC,Amedeo Tessitori
+Q3,1:17,Philippines,37,83,substituicao_entra,Roger Pogoy
+Q3,1:17,Philippines,37,83,substituicao_sai,Robert Lee Jr. Bolick
+Q3,1:18,Italy,37,83,ER,Amedeo Della Valle
+Q3,1:28,Philippines,37,83,LL_Pts_T,June Mar Fajardo
+Q3,1:28,Philippines,37,83,LL_Pts_C,June Mar Fajardo
+Q3,1:28,Philippines,36,83,substituicao_entra,Troy Rosario
+Q3,1:28,Philippines,36,83,substituicao_sai,Gabe Norwood
+Q3,1:28,Philippines,36,83,FR,June Mar Fajardo
+Q3,1:28,Italy,37,83,RD,Amedeo Della Valle
+Q3,1:28,Italy,36,83,substituicao_entra,Amedeo Tessitori
+Q3,1:28,Italy,36,83,substituicao_sai,Danilo Gallinari
+Q3,1:28,Italy,36,83,FC,Jeff Brooks
+Q3,1:54,Italy,36,83,AS,Luca Vitali
+Q3,1:54,Italy,36,83,,Amedeo Della Valle3pt jump shot made
+Q3,2:18,Philippines,36,80,2_Pts_C,Jaymar Perez
+Q3,2:27,Philippines,34,80,RD,Jaymar Perez
+Q3,2:27,Italy,34,80,2_Pts_T,Alessandro Gentile
+Q3,2:33,Italy,34,80,RO,Jeff Brooks
+Q3,2:33,Italy,34,80,,Luca Vitali3pt jump shot missed
+Q3,2:45,Philippines,34,80,ER,Robert Lee Jr. Bolick
+Q3,2:45,Italy,34,80,BR,Danilo Gallinari
+Q3,3:03,Italy,34,80,AS,Luca Vitali
+Q3,3:03,Italy,34,80,,Amedeo Della Valle3pt jump shot made
+Q3,3:08,Philippines,34,77,2_Pts_T,June Mar Fajardo
+Q3,3:08,Italy,34,77,RD,Alessandro Gentile
+Q3,3:08,Italy,34,77,TO,Jeff Brooks
+Q3,3:23,Philippines,34,76,substituicao_entra,Raymond Almazan
+Q3,3:23,Philippines,34,76,substituicao_sai,Japeth Aguilar
+Q3,3:23,Philippines,34,76,substituicao_entra,June Mar Fajardo
+Q3,3:23,Philippines,34,76,substituicao_sai,Andray Blatche
+Q3,3:23,Philippines,34,76,FC,Gabe Norwood
+Q3,3:23,Italy,34,77,LL_Pts_C,Jeff Brooks
+Q3,3:23,Italy,34,76,FR,Jeff Brooks
+Q3,3:23,Italy,34,76,AS,Luca Vitali
+Q3,3:23,Italy,34,76,2_Pts_C,Jeff Brooks
+Q3,3:32,Philippines,34,74,2_Pts_C,Robert Lee Jr. Bolick
+Q3,3:40,Philippines,32,74,substituicao_entra,Jaymar Perez
+Q3,3:40,Philippines,32,74,substituicao_sai,Kiefer Ravena
+Q3,3:40,Philippines,32,74,FR,Andray Blatche
+Q3,3:40,Italy,32,74,substituicao_entra,Alessandro Gentile
+Q3,3:40,Italy,32,74,substituicao_sai,Luigi Datome
+Q3,3:40,Italy,32,74,FC,Amedeo Della Valle
+Q3,4:03,Italy,32,74,AS,Danilo Gallinari
+Q3,4:03,Italy,32,74,,Jeff Brooksdunk made
+Q3,4:22,Philippines,32,72,,Kiefer Ravena2pt jump shot missed
+Q3,4:22,Italy,32,72,RD,Danilo Gallinari
+Q3,4:45,Italy,32,72,2_Pts_C,Luca Vitali
+Q3,4:59,Philippines,32,70,LL_Pts_C,Robert Lee Jr. Bolick
+Q3,4:59,Philippines,31,70,LL_Pts_C,Robert Lee Jr. Bolick
+Q3,4:59,Philippines,30,70,FR,Robert Lee Jr. Bolick
+Q3,4:59,Italy,32,70,substituicao_entra,Amedeo Della Valle
+Q3,4:59,Italy,32,70,substituicao_sai,Marco Belinelli
+Q3,4:59,Italy,30,70,FC,Luca Vitali
+Q3,5:09,Philippines,30,68,FC,Andray Blatche
+Q3,5:09,Italy,30,70,LL_Pts_C,Danilo Gallinari
+Q3,5:09,Italy,30,69,LL_Pts_C,Danilo Gallinari
+Q3,5:09,Italy,30,68,substituicao_entra,Jeff Brooks
+Q3,5:09,Italy,30,68,substituicao_sai,Daniel Hackett
+Q3,5:09,Italy,30,68,substituicao_entra,Luca Vitali
+Q3,5:09,Italy,30,68,substituicao_sai,Paul Biligha
+Q3,5:09,Italy,30,68,FR,Danilo Gallinari
+Q3,5:25,Philippines,30,68,FC,Gabe Norwood
+Q3,5:25,Italy,30,68,tempo_tecnico,
+Q3,5:25,Italy,30,68,FR,Luigi Datome
+Q3,5:36,Philippines,30,68,,Andray Blatche3pt jump shot missed
+Q3,5:36,Italy,30,68,RD,Danilo Gallinari
+Q3,5:40,Italy,30,68,AS,Marco Belinelli
+Q3,5:40,Italy,30,68,2_Pts_C,Luigi Datome
+Q3,5:45,Philippines,30,66,ER,Andray Blatche
+Q3,5:45,Italy,30,66,BR,Daniel Hackett
+Q3,5:51,Philippines,30,66,RD,Andray Blatche
+Q3,5:51,Italy,30,66,2_Pts_T,Paul Biligha
+Q3,6:11,Philippines,30,66,AS,Andray Blatche
+Q3,6:11,Philippines,30,66,,Japeth Aguilar2pt jump shot made
+Q3,6:22,Philippines,28,66,RD,Andray Blatche
+Q3,6:22,Italy,28,66,2_Pts_T,Paul Biligha
+Q3,6:46,Philippines,28,66,LL_Pts_C,Robert Lee Jr. Bolick
+Q3,6:46,Philippines,27,66,LL_Pts_C,Robert Lee Jr. Bolick
+Q3,6:46,Philippines,26,66,FR,Robert Lee Jr. Bolick
+Q3,6:46,Philippines,26,66,RO,Robert Lee Jr. Bolick
+Q3,6:46,Philippines,26,66,2_Pts_T,Robert Lee Jr. Bolick
+Q3,6:46,Philippines,26,66,RO,Robert Lee Jr. Bolick
+Q3,6:46,Philippines,26,66,2_Pts_T,Japeth Aguilar
+Q3,6:46,Italy,26,66,FC,Daniel Hackett
+Q3,6:50,Philippines,26,66,RO,Japeth Aguilar
+Q3,6:50,Philippines,26,66,,Kiefer Ravena3pt jump shot missed
+Q3,7:07,Philippines,26,66,FR,Kiefer Ravena
+Q3,7:07,Italy,26,66,FC_O,Marco Belinelli
+Q3,7:17,Philippines,26,65,FC_T,Kiefer Ravena
+Q3,7:17,Philippines,26,65,FC_O,Kiefer Ravena
+Q3,7:17,Italy,26,66,LL_Pts_C,Marco Belinelli
+Q3,7:17,Italy,26,65,FR,Marco Belinelli
+Q3,7:28,Philippines,26,65,RD,Japeth Aguilar
+Q3,7:28,Italy,26,65,3_Pts_T,Daniel Hackett
+Q3,7:40,Philippines,26,65,,Robert Lee Jr. Bolick3pt jump shot missed
+Q3,7:40,Italy,26,65,RD,Daniel Hackett
+Q3,8:01,Italy,26,65,AS,Daniel Hackett
+Q3,8:01,Italy,26,65,,Luigi Datome3pt jump shot made
+Q3,8:10,Philippines,26,62,2_Pts_T,Robert Lee Jr. Bolick
+Q3,8:10,Italy,26,62,RD,Daniel Hackett
+Q3,8:10,Italy,26,62,TO,Paul Biligha
+Q3,8:23,Philippines,26,62,RD,Japeth Aguilar
+Q3,8:23,Italy,26,62,3_Pts_T,Marco Belinelli
+Q3,8:51,Philippines,26,62,2_Pts_C,Andray Blatche
+Q3,9:15,Philippines,0,0,RD,Andray Blatche
+Q3,9:15,Italy,0,0,3_Pts_T,Danilo Gallinari
+Q3,9:30,Philippines,0,0,,Gabe Norwood3pt jump shot missed
+Q3,9:30,Italy,0,0,RD,Paul Biligha
+Q3,9:38,Philippines,0,0,RD,Andray Blatche
+Q3,9:38,Italy,0,0,,Marco Belinelli3pt jump shot missed
+Q4,0:07,Philippines,62,108,AS,Paul John Dalistan
+Q4,0:07,Philippines,62,108,2_Pts_C,Jaymar Perez
+Q4,0:11,Philippines,60,108,RD,Paul John Dalistan
+Q4,0:11,Italy,60,108,2_Pts_T,Amedeo Della Valle
+Q4,0:28,Philippines,60,108,2_Pts_C,Jaymar Perez
+Q4,0:42,Philippines,58,106,FC,Robert Lee Jr. Bolick
+Q4,0:42,Italy,58,108,LL_Pts_C,Amedeo Della Valle
+Q4,0:42,Italy,58,107,LL_Pts_C,Amedeo Della Valle
+Q4,0:42,Italy,58,106,FR,Amedeo Della Valle
+Q4,0:45,Philippines,58,106,ER,Andray Blatche
+Q4,1:05,Philippines,58,106,RD,Andray Blatche
+Q4,1:05,Philippines,58,105,FC,June Mar Fajardo
+Q4,1:05,Italy,58,106,LL_Pts_T,Amedeo Tessitori
+Q4,1:05,Italy,58,106,LL_Pts_C,Amedeo Tessitori
+Q4,1:05,Italy,58,105,FR,Amedeo Tessitori
+Q4,1:25,Philippines,58,105,AS,Robert Lee Jr. Bolick
+Q4,1:25,Philippines,58,105,,Andray Blatche3pt jump shot made
+Q4,1:37,Italy,55,105,ER,Ariel Filloy
+Q4,1:43,Philippines,55,105,AS,June Mar Fajardo
+Q4,1:43,Philippines,55,105,,Jaymar Perez3pt jump shot made
+Q4,2:01,Italy,52,105,AS,Amedeo Della Valle
+Q4,2:01,Italy,52,105,,Ariel Filloy3pt jump shot made
+Q4,2:16,Philippines,52,102,AS,Jaymar Perez
+Q4,2:16,Philippines,52,102,,June Mar Fajardolayup made
+Q4,2:25,Italy,50,102,2_Pts_C,Ariel Filloy
+Q4,2:40,Philippines,50,100,,Andray Blatche3pt jump shot missed
+Q4,2:40,Italy,50,100,RD,Ariel Filloy
+Q4,2:50,Philippines,50,100,RD,Andray Blatche
+Q4,2:50,Italy,50,100,,Amedeo Tessitori2pt jump shot missed
+Q4,3:02,Philippines,50,100,2_Pts_C,Andray Blatche
+Q4,3:16,Italy,48,100,AS,Ariel Filloy
+Q4,3:16,Italy,48,100,,Paul Biligha2pt jump shot made
+Q4,3:34,Philippines,48,98,substituicao_entra,Paul John Dalistan
+Q4,3:34,Philippines,48,98,substituicao_sai,Kiefer Ravena
+Q4,3:34,Philippines,48,98,,Robert Lee Jr. Bolick3pt jump shot missed
+Q4,3:34,Italy,48,98,substituicao_entra,Paul Biligha
+Q4,3:34,Italy,48,98,substituicao_sai,Jeff Brooks
+Q4,3:34,Italy,48,98,RD,Amedeo Della Valle
+Q4,3:44,Italy,48,98,AS,Amedeo Della Valle
+Q4,3:44,Italy,48,98,,Awudu Abassdunk made
+Q4,3:52,Philippines,48,96,,Kiefer Ravenalayup missed
+Q4,3:52,Italy,48,96,RD,Jeff Brooks
+Q4,4:15,Italy,48,96,ER,Ariel Filloy
+Q4,4:29,Philippines,48,96,ER,Robert Lee Jr. Bolick
+Q4,4:29,Italy,48,96,BR,Jeff Brooks
+Q4,4:38,Italy,48,96,2_Pts_C,Amedeo Tessitori
+Q4,4:41,Italy,48,94,RO,Amedeo Tessitori
+Q4,4:41,Italy,48,94,,Jeff Brooks2pt jump shot missed
+Q4,5:00,Philippines,48,94,ER ,
+Q4,5:26,Italy,48,94,AS,Amedeo Tessitori
+Q4,5:26,Italy,48,94,,Ariel Filloy2pt jump shot made
+Q4,5:32,Italy,48,92,RO,Amedeo Tessitori
+Q4,5:32,Italy,48,92,,Amedeo Della Valle3pt jump shot missed
+Q4,5:40,Philippines,48,92,substituicao_entra,Robert Lee Jr. Bolick
+Q4,5:40,Philippines,48,92,substituicao_sai,Troy Rosario
+Q4,5:41,Philippines,48,92,substituicao_entra,Jaymar Perez
+Q4,5:41,Philippines,48,92,substituicao_sai,Roger Pogoy
+Q4,5:41,Philippines,48,92,TO,June Mar Fajardo
+Q4,5:41,Italy,48,92,RO,
+Q4,5:41,Italy,48,92,2_Pts_T,Amedeo Tessitori
+Q4,5:43,Italy,48,92,RO,Amedeo Tessitori
+Q4,5:43,Italy,48,92,,Ariel Filloy3pt jump shot missed
+Q4,6:05,Philippines,48,92,LL_Pts_C,Andray Blatche
+Q4,6:05,Philippines,47,92,LL_Pts_C,Andray Blatche
+Q4,6:05,Philippines,46,92,FR,Andray Blatche
+Q4,6:05,Italy,46,92,FC,Jeff Brooks
+Q4,6:11,Philippines,46,92,FR,Andray Blatche
+Q4,6:11,Italy,46,92,FC,Ariel Filloy
+Q4,6:28,Philippines,46,90,FC,Roger Pogoy
+Q4,6:28,Italy,46,92,LL_Pts_C,Amedeo Della Valle
+Q4,6:28,Italy,46,91,LL_Pts_C,Amedeo Della Valle
+Q4,6:28,Italy,46,90,FR,Amedeo Della Valle
+Q4,6:40,Philippines,46,90,2_Pts_T,Roger Pogoy
+Q4,6:40,Italy,46,90,RD,Amedeo Tessitori
+Q4,6:42,Philippines,46,90,RO,
+Q4,6:42,Italy,46,90,substituicao_entra,Amedeo Della Valle
+Q4,6:42,Italy,46,90,substituicao_sai,Alessandro Gentile
+Q4,6:43,Philippines,46,90,,Kiefer Ravena3pt jump shot missed
+Q4,6:55,Philippines,46,90,FR,Kiefer Ravena
+Q4,6:55,Italy,46,90,FC_O,Awudu Abass
+Q4,7:03,Philippines,46,90,AS,Andray Blatche
+Q4,7:03,Philippines,46,90,,Kiefer Ravena3pt jump shot made
+Q4,7:23,Italy,43,90,AS,Jeff Brooks
+Q4,7:23,Italy,43,90,,Amedeo Tessitoridunk made
+Q4,7:37,Philippines,43,88,FC_O,Andray Blatche
+Q4,7:37,Italy,43,88,FR,Amedeo Tessitori
+Q4,7:56,Philippines,43,88,RD,June Mar Fajardo
+Q4,7:56,Italy,43,88,,Alessandro Gentilelayup missed
+Q4,8:02,Philippines,43,87,substituicao_entra,Andray Blatche
+Q4,8:02,Philippines,43,87,substituicao_sai,Raymond Almazan
+Q4,8:02,Philippines,43,87,FC,Troy Rosario
+Q4,8:02,Italy,43,88,RO,Jeff Brooks
+Q4,8:02,Italy,43,88,LL_Pts_T,Alessandro Gentile
+Q4,8:02,Italy,43,88,LL_Pts_C,Alessandro Gentile
+Q4,8:02,Italy,43,87,FR,Alessandro Gentile
+Q4,8:14,Philippines,43,87,substituicao_entra,Kiefer Ravena
+Q4,8:14,Philippines,43,87,substituicao_sai,Jaymar Perez
+Q4,8:18,Philippines,43,87,ER,Jaymar Perez
+Q4,8:28,Philippines,43,87,RD,June Mar Fajardo
+Q4,8:28,Philippines,43,87,FC,Troy Rosario
+Q4,8:28,Italy,43,87,LL_Pts_T,Alessandro Gentile
+Q4,8:28,Italy,43,87,LL_Pts_T,Alessandro Gentile
+Q4,8:28,Italy,43,87,FR,Alessandro Gentile
+Q4,8:31,Italy,43,87,substituicao_entra,Ariel Filloy
+Q4,8:31,Italy,43,87,substituicao_sai,Luca Vitali
+Q4,8:31,Italy,43,87,RO,
+Q4,8:34,Italy,43,87,,Awudu Abass3pt jump shot missed
+Q4,8:46,Philippines,43,87,,Jaymar Perezlayup missed
+Q4,8:46,Italy,43,87,RD,Amedeo Tessitori
+Q4,8:53,Italy,43,87,2_Pts_C,Amedeo Tessitori
+Q4,8:56,Italy,43,85,RO,Amedeo Tessitori
+Q4,8:56,Italy,43,85,2_Pts_T,Amedeo Tessitori
+Q4,9:44,Philippines,43,85,AS,Jaymar Perez
+Q4,9:44,Philippines,43,85,2_Pts_C,Roger Pogoy
+Q4,9:44,Philippines,41,85,RD,Troy Rosario
+Q4,9:44,Philippines,41,85,AS,Jaymar Perez
+Q4,9:44,Philippines,41,85,,Raymond Almazan2pt jump shot made
+Q4,9:44,Philippines,0,0,muda_bola,
+Q4,9:44,Italy,41,85,,Jeff Brooks3pt jump shot missed

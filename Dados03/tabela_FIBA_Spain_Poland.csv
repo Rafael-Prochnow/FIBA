@@ -1,0 +1,512 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Spain,22,18,,Sergio Llull3pt jump shot missed
+Q1,0:01,Spain,22,18,RD,Sergio Llull
+Q1,0:01,Poland,22,18,,Damian Kulig3pt jump shot missed
+Q1,0:26,Spain,22,18,AS,Sergio Llull
+Q1,0:26,Spain,22,18,,Willy Hernangomez Geuerlayup made
+Q1,0:38,Spain,20,18,substituicao_entra,Juancho Hernangomez
+Q1,0:38,Spain,20,18,substituicao_sai,Victor Claver
+Q1,0:38,Spain,20,18,RD,
+Q1,0:38,Poland,20,18,substituicao_entra,A.J. Slaughter
+Q1,0:38,Poland,20,18,substituicao_sai,Adam Waczynski
+Q1,0:38,Poland,20,18,,Adam Waczynski3pt jump shot missed
+Q1,0:53,Spain,20,18,AS,Pau Ribas
+Q1,0:53,Spain,20,18,,Willy Hernangomez Geuer2pt jump shot made
+Q1,10:00,Spain,0,0,inicio_quarto,Marc Gasol
+Q1,1:13,Poland,18,18,AS,Adam Waczynski
+Q1,1:13,Poland,18,18,,Damian Kulig3pt jump shot made
+Q1,1:27,Spain,18,15,ER,Willy Hernangomez Geuer
+Q1,1:27,Poland,18,15,BR,Aleksander Roman Balcerowski
+Q1,1:32,Spain,18,15,RO,Willy Hernangomez Geuer
+Q1,1:32,Spain,18,15,2_Pts_T,Willy Hernangomez Geuer
+Q1,1:50,Spain,18,15,RD,Pierre Oriola
+Q1,1:50,Poland,18,15,,Michal Sokolowski3pt jump shot missed
+Q1,1:54,Spain,18,15,substituicao_entra,Pierre Oriola
+Q1,1:54,Spain,18,15,substituicao_sai,Ricky Rubio
+Q1,2:14,Spain,18,15,2_Pts_T,Ricky Rubio
+Q1,2:14,Poland,18,15,RD,Lukasz Koszarek
+Q1,2:27,Spain,18,15,RO,Ricky Rubio
+Q1,2:27,Spain,18,15,,Victor Claver3pt jump shot missed
+Q1,2:54,Poland,18,15,AS,Damian Kulig
+Q1,2:54,Poland,18,15,,Lukasz Koszarek3pt jump shot made
+Q1,2:58,Spain,18,12,substituicao_entra,Willy Hernangomez Geuer
+Q1,2:58,Spain,18,12,substituicao_sai,Marc Gasol
+Q1,2:58,Spain,18,12,FC,Victor Claver
+Q1,2:58,Poland,18,12,FR,Aleksander Roman Balcerowski
+Q1,3:12,Spain,18,12,AS,Marc Gasol
+Q1,3:12,Spain,18,12,,Victor Claverlayup made
+Q1,3:21,Spain,16,12,substituicao_entra,Sergio Llull
+Q1,3:21,Spain,16,12,substituicao_sai,Juancho Hernangomez
+Q1,3:21,Spain,16,12,substituicao_entra,Pau Ribas
+Q1,3:21,Spain,16,12,substituicao_sai,Rudy Fernandez
+Q1,3:21,Poland,16,12,substituicao_entra,Lukasz Koszarek
+Q1,3:21,Poland,16,12,substituicao_sai,Mateusz Ponitka
+Q1,3:21,Poland,16,12,substituicao_entra,Michal Sokolowski
+Q1,3:21,Poland,16,12,substituicao_sai,A.J. Slaughter
+Q1,3:26,Spain,16,12,RD,Marc Gasol
+Q1,3:26,Poland,16,12,,Mateusz Ponitkalayup missed
+Q1,3:44,Spain,16,12,3_Pts_T,Victor Claver
+Q1,3:44,Poland,16,12,RD,Adam Waczynski
+Q1,4:00,Poland,16,12,AS,A.J. Slaughter
+Q1,4:00,Poland,16,12,3_Pts_C,Adam Waczynski
+Q1,4:24,Spain,16,9,AS,Marc Gasol
+Q1,4:24,Spain,16,9,,Rudy Fernandez3pt jump shot made
+Q1,4:35,Spain,13,9,RD,Rudy Fernandez
+Q1,4:35,Poland,13,9,,Mateusz Ponitka3pt jump shot missed
+Q1,4:50,Spain,13,9,ER,Ricky Rubio
+Q1,5:05,Poland,13,9,substituicao_entra,Damian Kulig
+Q1,5:05,Poland,13,9,substituicao_sai,Adam Hrycaniuk
+Q1,5:05,Poland,13,9,ER,Adam Waczynski
+Q1,5:19,Spain,13,9,LL_Pts_T,Marc Gasol
+Q1,5:19,Spain,13,9,AS,Rudy Fernandez
+Q1,5:19,Spain,13,9,LL_Pts_C,Marc Gasol
+Q1,5:19,Spain,12,9,FR,Marc Gasol
+Q1,5:19,Poland,13,9,RD,Adam Hrycaniuk
+Q1,5:19,Poland,12,9,FC,Mateusz Ponitka
+Q1,5:26,Spain,12,9,FR,Ricky Rubio
+Q1,5:26,Poland,12,9,FC,Aleksander Roman Balcerowski
+Q1,5:29,Spain,12,9,BR,Marc Gasol
+Q1,5:29,Poland,12,9,ER,Mateusz Ponitka
+Q1,5:45,Spain,12,9,2_Pts_C,Ricky Rubio
+Q1,6:01,Poland,10,9,,A.J. Slaughter3pt jump shot made
+Q1,6:17,Spain,10,6,AS,Marc Gasol
+Q1,6:17,Spain,10,6,,Victor Claverlayup made
+Q1,6:29,Spain,8,6,RD,Rudy Fernandez
+Q1,6:29,Poland,8,6,,A.J. Slaughter2pt jump shot missed
+Q1,6:45,Spain,8,6,FC_O,Marc Gasol
+Q1,6:45,Poland,8,6,FR,A.J. Slaughter
+Q1,6:57,Spain,8,6,RD,Victor Claver
+Q1,6:57,Poland,8,6,,Adam Waczynski3pt jump shot missed
+Q1,7:14,Spain,8,6,LL_Pts_C,Ricky Rubio
+Q1,7:14,Spain,7,6,FR,Ricky Rubio
+Q1,7:14,Spain,7,6,AS,Rudy Fernandez
+Q1,7:14,Spain,7,6,,Ricky Rubio3pt jump shot made
+Q1,7:14,Poland,7,6,substituicao_entra,Aleksander Roman Balcerowski
+Q1,7:14,Poland,7,6,substituicao_sai,Aaron Cel
+Q1,7:14,Poland,7,6,FC,Aaron Cel
+Q1,7:34,Poland,4,6,AS,Mateusz Ponitka
+Q1,7:34,Poland,4,6,,Aaron Cellayup made
+Q1,7:39,Spain,4,4,ER,Rudy Fernandez
+Q1,7:39,Poland,4,4,BR,Mateusz Ponitka
+Q1,7:52,Spain,4,4,RD,Rudy Fernandez
+Q1,7:52,Poland,4,4,2_Pts_T,Mateusz Ponitka
+Q1,8:18,Spain,4,4,2_Pts_C,Ricky Rubio
+Q1,8:36,Poland,2,4,AS,A.J. Slaughter
+Q1,8:36,Poland,2,4,2_Pts_C,Adam Waczynski
+Q1,8:49,Spain,2,2,FC,Ricky Rubio
+Q1,8:49,Poland,2,2,FR,A.J. Slaughter
+Q1,9:08,Spain,2,2,2_Pts_T,Marc Gasol
+Q1,9:08,Poland,2,2,RD,Adam Hrycaniuk
+Q1,9:28,Poland,2,2,2_Pts_C,A.J. Slaughter
+Q1,9:41,Spain,2,0,LL_Pts_C,Juancho Hernangomez
+Q1,9:41,Spain,1,0,LL_Pts_C,Juancho Hernangomez
+Q1,9:41,Spain,0,0,FR,Juancho Hernangomez
+Q1,9:41,Poland,0,0,FC,Aaron Cel
+Q2,0:02,Spain,46,41,LL_Pts_T,Ricky Rubio
+Q2,0:02,Spain,46,41,LL_Pts_C,Ricky Rubio
+Q2,0:02,Spain,45,41,substituicao_entra,Victor Claver
+Q2,0:02,Spain,45,41,substituicao_sai,Sergio Llull
+Q2,0:02,Spain,45,41,FR,Ricky Rubio
+Q2,0:02,Poland,46,41,RD,Mateusz Ponitka
+Q2,0:02,Poland,45,41,FC,Michal Sokolowski
+Q2,0:10,Spain,45,39,substituicao_entra,Sergio Llull
+Q2,0:10,Spain,45,39,substituicao_sai,Victor Claver
+Q2,0:10,Spain,45,39,tempo_tecnico,
+Q2,0:10,Spain,45,39,FC,Pau Ribas
+Q2,0:10,Poland,45,41,substituicao_entra,Michal Sokolowski
+Q2,0:10,Poland,45,41,substituicao_sai,Adam Waczynski
+Q2,0:10,Poland,45,41,LL_Pts_C,Adam Waczynski
+Q2,0:10,Poland,45,40,LL_Pts_C,Adam Waczynski
+Q2,0:10,Poland,45,39,FR,Adam Waczynski
+Q2,0:12,Spain,45,39,ER,Ricky Rubio
+Q2,0:32,Spain,45,39,RD,Juancho Hernangomez
+Q2,0:32,Poland,45,39,,A.J. Slaughter3pt jump shot missed
+Q2,0:38,Spain,45,39,substituicao_entra,Victor Claver
+Q2,0:38,Spain,45,39,substituicao_sai,Sergio Llull
+Q2,0:38,Spain,45,39,substituicao_entra,Pau Ribas
+Q2,0:38,Spain,45,39,substituicao_sai,Rudy Fernandez
+Q2,0:38,Spain,45,39,substituicao_entra,Willy Hernangomez Geuer
+Q2,0:38,Spain,45,39,substituicao_sai,Marc Gasol
+Q2,0:38,Spain,45,39,FC,Rudy Fernandez
+Q2,0:38,Poland,45,39,substituicao_entra,Aleksander Roman Balcerowski
+Q2,0:38,Poland,45,39,substituicao_sai,Aaron Cel
+Q2,0:38,Poland,45,39,FR,Mateusz Ponitka
+Q2,0:41,Spain,45,39,2_Pts_T,Ricky Rubio
+Q2,0:41,Poland,45,39,RD,Adam Hrycaniuk
+Q2,0:56,Poland,45,39,2_Pts_C,Mateusz Ponitka
+Q2,10:00,Poland,22,18,muda_bola,
+Q2,1:07,Spain,45,37,2_Pts_T,Marc Gasol
+Q2,1:07,Poland,45,37,RD,Mateusz Ponitka
+Q2,1:26,Spain,45,37,RD,Ricky Rubio
+Q2,1:26,Poland,45,37,,Adam Waczynski2pt jump shot missed
+Q2,1:38,Spain,45,37,FC,Sergio Llull
+Q2,1:38,Poland,45,37,FR,Adam Waczynski
+Q2,1:47,Spain,45,37,LL_Pts_C,Marc Gasol
+Q2,1:47,Spain,44,37,substituicao_entra,Juancho Hernangomez
+Q2,1:47,Spain,44,37,substituicao_sai,Victor Claver
+Q2,1:47,Spain,44,37,FR,Marc Gasol
+Q2,1:47,Spain,44,37,AS,Victor Claver
+Q2,1:47,Spain,44,37,,Marc Gasollayup made
+Q2,1:47,Poland,44,37,tempo_tecnico,
+Q2,1:47,Poland,44,37,FC,A.J. Slaughter
+Q2,1:57,Spain,42,37,BR,Rudy Fernandez
+Q2,1:57,Poland,42,37,ER,Adam Hrycaniuk
+Q2,2:17,Spain,42,37,AS,Marc Gasol
+Q2,2:17,Spain,42,37,,Rudy Fernandez3pt jump shot made
+Q2,2:30,Spain,39,37,FR,Sergio Llull
+Q2,2:30,Poland,39,37,FC_O,Adam Hrycaniuk
+Q2,2:32,Poland,39,37,RO,Adam Hrycaniuk
+Q2,2:32,Poland,39,37,2_Pts_T,A.J. Slaughter
+Q2,2:50,Spain,39,37,FC,Sergio Llull
+Q2,2:50,Poland,39,37,FR,Mateusz Ponitka
+Q2,2:51,Spain,39,37,,Marc Gasollayup missed
+Q2,2:51,Poland,39,37,RD,Mateusz Ponitka
+Q2,3:02,Poland,39,37,,Adam Hrycaniuktip in made
+Q2,3:13,Spain,39,34,substituicao_entra,Sergio Llull
+Q2,3:13,Spain,39,34,substituicao_sai,Pau Ribas
+Q2,3:13,Spain,39,34,tempo_tecnico,
+Q2,3:13,Spain,39,34,FC,Marc Gasol
+Q2,3:13,Poland,39,35,RO,Adam Hrycaniuk
+Q2,3:13,Poland,39,35,LL_Pts_T,Aaron Cel
+Q2,3:13,Poland,39,35,AS,A.J. Slaughter
+Q2,3:13,Poland,39,35,LL_Pts_C,Aaron Cel
+Q2,3:13,Poland,39,34,FR,Aaron Cel
+Q2,3:24,Spain,39,34,,Pau Ribas3pt jump shot missed
+Q2,3:24,Poland,39,34,RD,Mateusz Ponitka
+Q2,3:41,Poland,39,34,AS,A.J. Slaughter
+Q2,3:41,Poland,39,34,,Adam Hrycaniuklayup made
+Q2,3:59,Spain,39,32,3_Pts_T,Marc Gasol
+Q2,3:59,Poland,39,32,RD,Mateusz Ponitka
+Q2,4:10,Spain,39,32,LL_Pts_T,Pau Ribas
+Q2,4:10,Spain,39,32,LL_Pts_C,Pau Ribas
+Q2,4:10,Spain,38,32,substituicao_entra,Victor Claver
+Q2,4:10,Spain,38,32,substituicao_sai,Juancho Hernangomez
+Q2,4:10,Spain,38,32,FR,Pau Ribas
+Q2,4:10,Poland,38,32,FC_A,Adam Waczynski
+Q2,4:11,Spain,38,32,BR,Pau Ribas
+Q2,4:11,Poland,38,32,ER,Mateusz Ponitka
+Q2,4:25,Spain,38,32,,Ricky Rubio3pt jump shot missed
+Q2,4:25,Poland,38,32,RD,Mateusz Ponitka
+Q2,4:42,Poland,38,32,2_Pts_C,Adam Waczynski
+Q2,4:56,Spain,38,30,ER,Ricky Rubio
+Q2,4:56,Poland,38,30,substituicao_entra,Aaron Cel
+Q2,4:56,Poland,38,30,substituicao_sai,Damian Kulig
+Q2,5:13,Poland,38,30,AS,Adam Waczynski
+Q2,5:13,Poland,38,30,,Adam Hrycaniuk2pt jump shot made
+Q2,5:28,Poland,38,28,RO,Adam Hrycaniuk
+Q2,5:28,Poland,38,28,,Damian Kulig3pt jump shot missed
+Q2,5:53,Spain,38,28,AS,Ricky Rubio
+Q2,5:53,Spain,38,28,,Rudy Fernandez3pt jump shot made
+Q2,5:53,Poland,38,28,substituicao_entra,Adam Waczynski
+Q2,5:53,Poland,38,28,substituicao_sai,Lukasz Koszarek
+Q2,5:53,Poland,38,28,substituicao_entra,Mateusz Ponitka
+Q2,5:53,Poland,38,28,substituicao_sai,Michal Sokolowski
+Q2,5:53,Poland,38,28,tempo_tecnico,
+Q2,6:09,Spain,35,28,BR,Ricky Rubio
+Q2,6:09,Poland,35,28,ER,Lukasz Koszarek
+Q2,6:26,Spain,35,28,AS,Ricky Rubio
+Q2,6:26,Spain,35,28,,Juancho Hernangomez3pt jump shot made
+Q2,6:29,Spain,32,28,substituicao_entra,Marc Gasol
+Q2,6:29,Spain,32,28,substituicao_sai,Sergio Llull
+Q2,6:29,Spain,32,28,substituicao_entra,Ricky Rubio
+Q2,6:29,Spain,32,28,substituicao_sai,Willy Hernangomez Geuer
+Q2,6:29,Spain,32,28,RO,
+Q2,6:29,Spain,32,28,,Pau Ribas3pt jump shot missed
+Q2,6:29,Poland,32,28,substituicao_entra,Adam Hrycaniuk
+Q2,6:29,Poland,32,28,substituicao_sai,Aleksander Roman Balcerowski
+Q2,6:37,Spain,32,28,RD,Sergio Llull
+Q2,6:37,Poland,32,28,2_Pts_T,A.J. Slaughter
+Q2,6:55,Spain,32,28,AS,Willy Hernangomez Geuer
+Q2,6:55,Spain,32,28,,Juancho Hernangomez3pt jump shot made
+Q2,7:24,Poland,29,28,AS,Damian Kulig
+Q2,7:24,Poland,29,28,,A.J. Slaughter3pt jump shot made
+Q2,7:39,Spain,29,25,ER,Pau Ribas
+Q2,7:50,Spain,29,25,RO,Rudy Fernandez
+Q2,7:50,Spain,29,25,LL_Pts_T,Willy Hernangomez Geuer
+Q2,7:50,Spain,29,25,AS,Sergio Llull
+Q2,7:50,Spain,29,25,LL_Pts_C,Willy Hernangomez Geuer
+Q2,7:50,Spain,28,25,substituicao_entra,Rudy Fernandez
+Q2,7:50,Spain,28,25,substituicao_sai,Pierre Oriola
+Q2,7:50,Spain,28,25,FR,Willy Hernangomez Geuer
+Q2,7:50,Poland,28,25,FC,Damian Kulig
+Q2,7:56,Poland,28,25,AS,A.J. Slaughter
+Q2,7:56,Poland,28,25,2_Pts_C,Damian Kulig
+Q2,8:19,Spain,28,23,AS,Sergio Llull
+Q2,8:19,Spain,28,23,,Juancho Hernangomez3pt jump shot made
+Q2,8:22,Poland,25,23,,Michal Sokolowskitip in made
+Q2,8:28,Poland,25,21,RO,Michal Sokolowski
+Q2,8:28,Poland,25,21,2_Pts_T,A.J. Slaughter
+Q2,8:44,Spain,25,21,2_Pts_C,Juancho Hernangomez
+Q2,9:04,Poland,23,21,AS,Aleksander Roman Balcerowski
+Q2,9:04,Poland,23,21,,Michal Sokolowski3pt jump shot made
+Q2,9:24,Spain,23,18,LL_Pts_C,Juancho Hernangomez
+Q2,9:24,Spain,22,18,,Juancho Hernangomez1st of 2 free throw missed
+Q2,9:24,Spain,22,18,FR,Juancho Hernangomez
+Q2,9:24,Spain,22,18,RO,Juancho Hernangomez
+Q2,9:24,Spain,22,18,2_Pts_T,Sergio Llull
+Q2,9:24,Poland,22,18,FC,Michal Sokolowski
+Q2,9:32,Spain,22,18,BR,Sergio Llull
+Q2,9:32,Poland,22,18,ER,A.J. Slaughter
+Q2,9:46,Poland,22,18,RO,A.J. Slaughter
+Q2,9:46,Poland,22,18,3_Pts_T,Damian Kulig
+Q3,0:00,Spain,67,58,AS,Ricky Rubio
+Q3,0:00,Spain,67,58,2_Pts_C,Pierre Oriola
+Q3,0:02,Spain,65,58,RD,Willy Hernangomez Geuer
+Q3,0:02,Poland,65,58,,Lukasz Koszarek3pt jump shot missed
+Q3,0:23,Spain,65,58,ER,Sergio Llull
+Q3,0:30,Spain,65,58,RD,Sergio Llull
+Q3,0:30,Poland,65,58,2_Pts_T,Michal Sokolowski
+Q3,0:44,Spain,65,58,ER ,
+Q3,0:45,Spain,65,58,2_Pts_T,Pierre Oriola
+Q3,0:45,Poland,65,58,TO,Michal Sokolowski
+Q3,0:46,Spain,65,58,RO,Pierre Oriola
+Q3,0:46,Spain,65,58,2_Pts_T,Sergio Llull
+Q3,10:00,Spain,46,41,muda_bola,
+Q3,1:02,Spain,65,58,RO,Willy Hernangomez Geuer
+Q3,1:02,Spain,65,58,,Pierre Oriola3pt jump shot missed
+Q3,1:23,Spain,65,58,tempo_tecnico,
+Q3,1:23,Poland,65,58,substituicao_entra,Adam Hrycaniuk
+Q3,1:23,Poland,65,58,substituicao_sai,Damian Kulig
+Q3,1:23,Poland,65,58,AS,Aleksander Roman Balcerowski
+Q3,1:23,Poland,65,58,,Michal Sokolowskilayup made
+Q3,1:38,Spain,65,56,2_Pts_T,Ricky Rubio
+Q3,1:38,Poland,65,56,RD,Damian Kulig
+Q3,1:52,Poland,65,56,AS,Damian Kulig
+Q3,1:52,Poland,65,56,,Michal Sokolowskilayup made
+Q3,2:09,Spain,65,54,AS,Ricky Rubio
+Q3,2:09,Spain,65,54,LL_Pts_C,Willy Hernangomez Geuer
+Q3,2:09,Spain,64,54,LL_Pts_T,Willy Hernangomez Geuer
+Q3,2:09,Spain,64,54,FR,Willy Hernangomez Geuer
+Q3,2:09,Poland,64,54,FC,Lukasz Koszarek
+Q3,2:27,Poland,64,54,substituicao_entra,Lukasz Koszarek
+Q3,2:27,Poland,64,54,substituicao_sai,A.J. Slaughter
+Q3,2:31,Spain,64,54,RD,Pierre Oriola
+Q3,2:31,Spain,64,54,substituicao_entra,Ricky Rubio
+Q3,2:31,Spain,64,54,substituicao_sai,Victor Claver
+Q3,2:31,Spain,64,54,substituicao_entra,Pau Ribas
+Q3,2:31,Spain,64,54,substituicao_sai,Rudy Fernandez
+Q3,2:31,Spain,64,54,FC,Victor Claver
+Q3,2:31,Poland,64,54,LL_Pts_T,Aleksander Roman Balcerowski
+Q3,2:31,Poland,64,54,LL_Pts_T,Aleksander Roman Balcerowski
+Q3,2:31,Poland,64,54,FR,Aleksander Roman Balcerowski
+Q3,2:51,Spain,64,54,2_Pts_C,Sergio Llull
+Q3,3:00,Poland,62,54,2_Pts_C,A.J. Slaughter
+Q3,3:04,Poland,62,52,RO,A.J. Slaughter
+Q3,3:04,Poland,62,52,,Aleksander Roman Balcerowski3pt jump shot missed
+Q3,3:17,Poland,62,52,RO,Michal Sokolowski
+Q3,3:17,Poland,62,52,,A.J. Slaughter3pt jump shot missed
+Q3,3:26,Spain,62,52,FC,Pierre Oriola
+Q3,3:26,Poland,62,52,FR,Adam Waczynski
+Q3,3:32,Spain,62,52,substituicao_entra,Willy Hernangomez Geuer
+Q3,3:32,Spain,62,52,substituicao_sai,Marc Gasol
+Q3,3:32,Spain,62,52,FC_O,Victor Claver
+Q3,3:32,Spain,62,52,BR,Pierre Oriola
+Q3,3:32,Poland,62,52,substituicao_entra,Michal Sokolowski
+Q3,3:32,Poland,62,52,substituicao_sai,Mateusz Ponitka
+Q3,3:32,Poland,62,52,FR,Damian Kulig
+Q3,3:32,Poland,62,52,ER,Mateusz Ponitka
+Q3,3:40,Spain,62,52,,Victor Claver3pt jump shot missed
+Q3,3:40,Poland,62,52,RD,Aleksander Roman Balcerowski
+Q3,3:58,Spain,62,52,RD,Victor Claver
+Q3,3:58,Poland,62,52,,Aleksander Roman Balcerowski3pt jump shot missed
+Q3,4:12,Spain,62,52,substituicao_entra,Pierre Oriola
+Q3,4:12,Spain,62,52,substituicao_sai,Juancho Hernangomez
+Q3,4:12,Spain,62,52,FC,Juancho Hernangomez
+Q3,4:12,Poland,62,52,FR,Damian Kulig
+Q3,4:23,Spain,62,52,,Juancho Hernangomez3pt jump shot missed
+Q3,4:23,Poland,62,52,RD,Mateusz Ponitka
+Q3,4:46,Poland,62,52,AS,A.J. Slaughter
+Q3,4:46,Poland,62,52,,Damian Kulig3pt jump shot made
+Q3,4:55,Spain,62,49,,Juancho Hernangomez3pt jump shot missed
+Q3,4:55,Poland,62,49,RD,Damian Kulig
+Q3,5:10,Poland,62,49,ER,A.J. Slaughter
+Q3,5:24,Spain,62,49,FC,Victor Claver
+Q3,5:24,Poland,62,49,FR,Mateusz Ponitka
+Q3,5:34,Spain,62,49,2_Pts_C,Sergio Llull
+Q3,5:55,Poland,60,49,,Damian Kuliglayup made
+Q3,6:02,Spain,60,47,substituicao_entra,Sergio Llull
+Q3,6:02,Spain,60,47,substituicao_sai,Ricky Rubio
+Q3,6:02,Poland,60,47,substituicao_entra,Aleksander Roman Balcerowski
+Q3,6:02,Poland,60,47,substituicao_sai,Aaron Cel
+Q3,6:17,Spain,60,47,AS,Juancho Hernangomez
+Q3,6:17,Spain,60,47,2_Pts_C,Marc Gasol
+Q3,6:38,Poland,58,47,AS,Damian Kulig
+Q3,6:38,Poland,58,47,,A.J. Slaughter3pt jump shot made
+Q3,6:55,Spain,58,44,2_Pts_C,Ricky Rubio
+Q3,7:02,Spain,56,44,BR,Victor Claver
+Q3,7:02,Poland,56,44,ER,Mateusz Ponitka
+Q3,7:12,Poland,56,44,RO,Mateusz Ponitka
+Q3,7:12,Poland,56,44,,Mateusz Ponitkalayup missed
+Q3,7:25,Poland,56,44,tempo_tecnico,
+Q3,7:26,Spain,56,44,AS,Ricky Rubio
+Q3,7:26,Spain,56,44,,Rudy Fernandez3pt jump shot made
+Q3,7:37,Poland,53,44,substituicao_entra,Damian Kulig
+Q3,7:37,Poland,53,44,substituicao_sai,Adam Hrycaniuk
+Q3,7:37,Poland,53,44,ER,Adam Hrycaniuk
+Q3,7:57,Spain,53,44,AS,Marc Gasol
+Q3,7:57,Spain,53,44,,Rudy Fernandez3pt jump shot made
+Q3,8:13,Spain,50,44,RD,Juancho Hernangomez
+Q3,8:13,Poland,50,44,,Adam Hrycaniuklayup missed
+Q3,8:28,Spain,50,44,2_Pts_C,Ricky Rubio
+Q3,8:44,Poland,48,44,,Mateusz Ponitka3pt jump shot made
+Q3,8:54,Spain,48,41,2_Pts_T,Rudy Fernandez
+Q3,8:54,Poland,48,41,RD,Mateusz Ponitka
+Q3,9:06,Spain,48,41,RD,Ricky Rubio
+Q3,9:06,Poland,48,41,2_Pts_T,A.J. Slaughter
+Q3,9:17,Spain,48,41,,Marc Gasol3pt jump shot missed
+Q3,9:17,Poland,48,41,RD,Aaron Cel
+Q3,9:27,Spain,48,41,BR,Juancho Hernangomez
+Q3,9:27,Poland,48,41,ER,A.J. Slaughter
+Q3,9:42,Spain,48,41,LL_Pts_C,Marc Gasol
+Q3,9:42,Spain,47,41,AS,Ricky Rubio
+Q3,9:42,Spain,47,41,LL_Pts_C,Marc Gasol
+Q3,9:42,Spain,46,41,FR,Marc Gasol
+Q3,9:42,Poland,46,41,FC,Adam Hrycaniuk
+Q3,9:48,Spain,46,41,FR,Marc Gasol
+Q3,9:48,Poland,46,41,FC,Mateusz Ponitka
+Q4,0:00,Spain,90,78,,Quino Colom2pt jump shot missed
+Q4,0:03,Spain,90,78,RO,Quino Colom
+Q4,0:03,Spain,90,78,3_Pts_T,Juancho Hernangomez
+Q4,0:24,Spain,90,76,FC,Xavier Rabaseda
+Q4,0:24,Poland,90,78,LL_Pts_C,Adam Waczynski
+Q4,0:24,Poland,90,77,LL_Pts_C,Adam Waczynski
+Q4,0:24,Poland,90,76,FR,Adam Waczynski
+Q4,0:30,Poland,90,76,RO,Dominik Olejniczak
+Q4,0:30,Poland,90,76,,Karol Gruszecki3pt jump shot missed
+Q4,0:44,Spain,90,76,2_Pts_T,Willy Hernangomez Geuer
+Q4,0:44,Poland,90,76,RD,Dominik Olejniczak
+Q4,10:00,Poland,67,58,muda_bola,
+Q4,1:06,Spain,90,74,substituicao_entra,Juancho Hernangomez
+Q4,1:06,Spain,90,74,substituicao_sai,Sergio Llull
+Q4,1:06,Spain,90,74,substituicao_entra,Javier Beiran
+Q4,1:06,Spain,90,74,substituicao_sai,Marc Gasol
+Q4,1:06,Spain,90,74,substituicao_entra,Willy Hernangomez Geuer
+Q4,1:06,Spain,90,74,substituicao_sai,Victor Claver
+Q4,1:06,Spain,90,74,FC,Quino Colom
+Q4,1:06,Poland,90,76,LL_Pts_C,Adam Waczynski
+Q4,1:06,Poland,90,75,LL_Pts_C,Adam Waczynski
+Q4,1:06,Poland,90,74,substituicao_entra,Karol Gruszecki
+Q4,1:06,Poland,90,74,substituicao_sai,Damian Kulig
+Q4,1:06,Poland,90,74,substituicao_entra,Kamil  Laczynski
+Q4,1:06,Poland,90,74,substituicao_sai,Mateusz Ponitka
+Q4,1:06,Poland,90,74,substituicao_entra,Dominik Olejniczak
+Q4,1:06,Poland,90,74,substituicao_sai,A.J. Slaughter
+Q4,1:06,Poland,90,74,FR,Adam Waczynski
+Q4,1:14,Spain,90,74,,Quino Colom3pt jump shot missed
+Q4,1:14,Poland,90,74,RD,Mateusz Ponitka
+Q4,1:35,Spain,90,74,RD,Victor Claver
+Q4,1:35,Poland,90,74,,Mateusz Ponitka3pt jump shot missed
+Q4,1:50,Spain,90,74,substituicao_entra,Xavier Rabaseda
+Q4,1:50,Spain,90,74,substituicao_sai,Rudy Fernandez
+Q4,1:50,Spain,90,74,LL_Pts_C,Rudy Fernandez
+Q4,1:50,Spain,89,74,LL_Pts_T,Rudy Fernandez
+Q4,1:50,Spain,89,74,substituicao_entra,Quino Colom
+Q4,1:50,Spain,89,74,substituicao_sai,Ricky Rubio
+Q4,1:50,Spain,89,74,FR,Rudy Fernandez
+Q4,1:50,Spain,89,74,RD,
+Q4,1:50,Poland,89,74,substituicao_entra,Michal Sokolowski
+Q4,1:50,Poland,89,74,substituicao_sai,Aaron Cel
+Q4,1:50,Poland,89,74,FC,Mateusz Ponitka
+Q4,1:50,Poland,89,74,,Damian Kulig3pt jump shot missed
+Q4,2:06,Spain,89,74,AS,Ricky Rubio
+Q4,2:06,Spain,89,74,2_Pts_C,Marc Gasol
+Q4,2:24,Poland,87,74,,Mateusz Ponitkatip in made
+Q4,2:28,Poland,87,72,RO,Mateusz Ponitka
+Q4,2:28,Poland,87,72,,Aaron Cel2pt jump shot missed
+Q4,2:41,Spain,87,72,AS,Marc Gasol
+Q4,2:41,Spain,87,72,,Victor Claverdunk made
+Q4,2:55,Spain,85,72,RD,Ricky Rubio
+Q4,2:55,Poland,85,72,,Mateusz Ponitka3pt jump shot missed
+Q4,3:21,Spain,85,72,AS,Victor Claver
+Q4,3:21,Spain,85,72,,Ricky Rubio3pt jump shot made
+Q4,3:21,Poland,85,72,tempo_tecnico,
+Q4,3:43,Spain,82,72,RD,Victor Claver
+Q4,3:43,Poland,82,72,,Adam Waczynski3pt jump shot missed
+Q4,3:55,Spain,82,72,ER,Marc Gasol
+Q4,3:55,Poland,82,72,BR,A.J. Slaughter
+Q4,4:13,Spain,82,72,FR,Marc Gasol
+Q4,4:13,Poland,82,72,FC_O,Mateusz Ponitka
+Q4,4:16,Spain,82,72,ER,Sergio Llull
+Q4,4:16,Poland,82,72,BR,Mateusz Ponitka
+Q4,4:23,Spain,82,72,RD,Marc Gasol
+Q4,4:23,Poland,82,72,3_Pts_T,Damian Kulig
+Q4,4:43,Spain,82,72,AS,Marc Gasol
+Q4,4:43,Spain,82,72,,Ricky Rubio3pt jump shot made
+Q4,5:04,Poland,79,72,substituicao_entra,Aaron Cel
+Q4,5:04,Poland,79,72,substituicao_sai,Michal Sokolowski
+Q4,5:04,Poland,79,72,ER,Damian Kulig
+Q4,5:22,Spain,79,72,substituicao_entra,Marc Gasol
+Q4,5:22,Spain,79,72,substituicao_sai,Willy Hernangomez Geuer
+Q4,5:22,Spain,79,72,LL_Pts_T,Willy Hernangomez Geuer
+Q4,5:22,Spain,78,72,substituicao_entra,Victor Claver
+Q4,5:22,Spain,78,72,substituicao_sai,Pierre Oriola
+Q4,5:22,Spain,78,72,FR,Willy Hernangomez Geuer
+Q4,5:22,Spain,78,72,,Willy Hernangomez Geuer2pt jump shot made
+Q4,5:22,Spain,76,72,RO,Willy Hernangomez Geuer
+Q4,5:22,Spain,76,72,,Sergio Llull3pt jump shot missed
+Q4,5:22,Poland,78,72,substituicao_entra,Damian Kulig
+Q4,5:22,Poland,78,72,substituicao_sai,Adam Hrycaniuk
+Q4,5:22,Poland,78,72,FC,Adam Hrycaniuk
+Q4,5:42,Poland,76,72,2_Pts_C,Adam Waczynski
+Q4,6:01,Spain,76,70,2_Pts_T,Willy Hernangomez Geuer
+Q4,6:01,Poland,76,70,RD,Michal Sokolowski
+Q4,6:01,Poland,76,70,TO,Michal Sokolowski
+Q4,6:22,Poland,76,70,,A.J. Slaughter3pt jump shot made
+Q4,6:34,Spain,76,67,FC_O,Willy Hernangomez Geuer
+Q4,6:34,Poland,76,67,FR,Michal Sokolowski
+Q4,6:49,Poland,76,67,AS,Adam Waczynski
+Q4,6:49,Poland,76,67,,Adam Hrycaniuk2pt jump shot made
+Q4,7:05,Spain,76,65,AS,Ricky Rubio
+Q4,7:05,Spain,76,65,2_Pts_C,Willy Hernangomez Geuer
+Q4,7:14,Spain,74,65,substituicao_entra,Rudy Fernandez
+Q4,7:14,Spain,74,65,substituicao_sai,Juancho Hernangomez
+Q4,7:14,Spain,74,65,FR,Pierre Oriola
+Q4,7:14,Poland,74,65,substituicao_entra,Adam Waczynski
+Q4,7:14,Poland,74,65,substituicao_sai,Lukasz Koszarek
+Q4,7:14,Poland,74,65,FC,A.J. Slaughter
+Q4,7:29,Poland,74,65,AS,Mateusz Ponitka
+Q4,7:29,Poland,74,65,2_Pts_C,Michal Sokolowski
+Q4,7:41,Spain,74,63,AS,Sergio Llull
+Q4,7:41,Spain,74,63,,Willy Hernangomez Geuerlayup made
+Q4,7:56,Spain,72,61,FC,Juancho Hernangomez
+Q4,7:56,Poland,72,63,LL_Pts_C,Mateusz Ponitka
+Q4,7:56,Poland,72,62,LL_Pts_T,Mateusz Ponitka
+Q4,7:56,Poland,72,62,AS,Michal Sokolowski
+Q4,7:56,Poland,72,62,LL_Pts_C,Mateusz Ponitka
+Q4,7:56,Poland,72,61,FR,Mateusz Ponitka
+Q4,8:20,Spain,72,61,LL_Pts_C,Willy Hernangomez Geuer
+Q4,8:20,Poland,71,61,substituicao_entra,Adam Hrycaniuk
+Q4,8:20,Poland,71,61,substituicao_sai,Adam Waczynski
+Q4,8:21,Spain,71,61,FR,Willy Hernangomez Geuer
+Q4,8:21,Spain,71,61,AS,Ricky Rubio
+Q4,8:21,Spain,71,61,,Willy Hernangomez Geuerlayup made
+Q4,8:21,Spain,69,61,RD,Ricky Rubio
+Q4,8:21,Poland,71,61,FC,Lukasz Koszarek
+Q4,8:21,Poland,69,61,3_Pts_T,Lukasz Koszarek
+Q4,8:21,Poland,69,61,substituicao_entra,Lukasz Koszarek
+Q4,8:21,Poland,69,61,substituicao_sai,Adam Hrycaniuk
+Q4,8:36,Spain,69,61,AS,Sergio Llull
+Q4,8:36,Spain,69,61,,Willy Hernangomez Geuerlayup made
+Q4,8:47,Spain,67,61,RO,Pierre Oriola
+Q4,8:47,Spain,67,61,2_Pts_T,Willy Hernangomez Geuer
+Q4,9:06,Spain,67,60,FC,Sergio Llull
+Q4,9:06,Poland,67,61,LL_Pts_C,A.J. Slaughter
+Q4,9:06,Poland,67,60,FR,A.J. Slaughter
+Q4,9:06,Poland,67,60,AS,Adam Hrycaniuk
+Q4,9:06,Poland,67,60,,A.J. Slaughterlayup made
+Q4,9:23,Spain,67,58,FC,Pierre Oriola
+Q4,9:23,Spain,67,58,,Sergio Llull3pt jump shot missed
+Q4,9:23,Poland,67,58,substituicao_entra,Adam Waczynski
+Q4,9:23,Poland,67,58,substituicao_sai,Lukasz Koszarek
+Q4,9:23,Poland,67,58,substituicao_entra,A.J. Slaughter
+Q4,9:23,Poland,67,58,substituicao_sai,Adam Waczynski
+Q4,9:23,Poland,67,58,substituicao_entra,Mateusz Ponitka
+Q4,9:23,Poland,67,58,substituicao_sai,Aleksander Roman Balcerowski
+Q4,9:23,Poland,67,58,FR,Aleksander Roman Balcerowski
+Q4,9:23,Poland,67,58,RD,
+Q4,9:32,Spain,67,58,FR,Pierre Oriola
+Q4,9:32,Spain,67,58,RO,
+Q4,9:32,Spain,67,58,,Sergio Llull3pt jump shot missed
+Q4,9:32,Poland,67,58,FC,Michal Sokolowski
+Q4,9:46,Spain,67,58,BR,Willy Hernangomez Geuer
+Q4,9:46,Poland,67,58,ER,Aleksander Roman Balcerowski

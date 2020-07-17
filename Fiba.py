@@ -6,7 +6,7 @@ from selenium.webdriver.firefox.options import Options
 import requests
 from selenium.common.exceptions import NoSuchElementException
 
-r = requests.get('http://www.fiba.basketball/pt/basketballworldcup/2019/game/1409/EUA-Pol%C3%B4nia')
+r = requests.get('http://www.fiba.basketball/en/basketballworldcup/2019/game/0609/Angola-Iran')
 soup_site = BeautifulSoup(r.content, 'html.parser')
 
 # encontrar o nome dos times
@@ -67,6 +67,8 @@ dadosA = pd.DataFrame(
      'Placar_visitante': Aplacar_time_b,
      'Inf_2': Aindicador
      })
+
+
 ########################################################################################################################
 time_b = jogada_jogada.find_all(class_="action-item x--team-B")
 Bquarto_time_a = [a.find(class_='period').get_text() for a in time_b]
@@ -96,6 +98,8 @@ juntar_dados["Quarto"] = juntar_dados["Quarto"].str.replace('OT', 'T')
 # ordena eles
 dados = juntar_dados.sort_values(['Quarto', 'Tempo'])
 
+dados.to_csv("tabela_1.csv", index=None)
+'''
 saparar = dados["Inf_2"]
 
 # separar nome e indicador
@@ -210,12 +214,12 @@ a92 = a91.str.replace(' 5 seconds violation', '')
 a93 = a92.str.replace('24 seconds violation', '')
 a94 = a93.str.replace('2pt hook shot blocked', '9/2_Pts_T')
 a95 = a94.str.replace('1st of 1 ', '')
-
+a96 = a95.str.replace('3pt jump shot from center blocked', '9/3_Pts_T')
 # nome;1/indicador
 # estou fazendo isso pq tem indicadores que não tem jogadores(noomes)
 # quando coloco 1 ele ajuda a separa os dois e deixar uma variável 1 quando não tem nome
 # depois eu tiro esse ;1 e coloco um identificador do time
-mudados_00 = a95.str.split('/')
+mudados_00 = a96.str.split('/')
 mudados_01 = mudados_00.str.get(1)
 dados['Indicador'] = mudados_01
 
@@ -226,5 +230,5 @@ dados['Nome'] = mudados_04
 
 dados.drop('Inf_2', axis=1, inplace=True)
 dados.to_csv("tabela_1.csv", index=None)
-
+'''
 

@@ -8,7 +8,7 @@ from selenium.common.exceptions import NoSuchElementException
 import urllib
 import re
 
-r = requests.get('http://www.fiba.basketball/pt/basketballworldcup/2019/games')
+r = requests.get('http://www.fiba.basketball/en/basketballworldcup/2019/games')
 soup = BeautifulSoup(r.content, 'html.parser')
 inf = soup.find_all(class_="latest_qualifier_games")
 
@@ -16,7 +16,7 @@ inf2 = [a['href'] for a in soup.find_all('a', href=True)]
 inf3 = pd.DataFrame({'inf2': inf2})
 
 tamano = len(inf3)
-NomeA = str('http://www.fiba.basketball')
+NomeA = str('http://www.fiba.basketball/en')
 Atime = [NomeA for item in range(0, tamano)]
 inf3['inf4'] = Atime
 
@@ -24,7 +24,8 @@ inf3['nomedanovacoluna'] = inf3.inf4.str.cat(inf3.inf2)
 inf3.drop('inf4', axis=1, inplace=True)
 inf3.drop('inf2', axis=1, inplace=True)
 
-p2_site = inf3.loc[inf3.nomedanovacoluna.str.contains('http://www.fiba.basketball/pt/basketballworldcup/2019/game/', regex=True)]
+p2_site = inf3.loc[inf3.nomedanovacoluna.str.contains('http://www.fiba.basketball/en/basketballworldcup/2019/game/', regex=True)]
+
 
 ########################################################################################################################
 #lista = p2_site.values.tolist()
@@ -32,9 +33,9 @@ p2_site = inf3.loc[inf3.nomedanovacoluna.str.contains('http://www.fiba.basketbal
 #print(lista)
 
 colunas = ['coluna1', 'coluna2', 'coluna3']
+tabela_geral = pd.DataFrame(index=['0', '1', '2', '3', '4'])
 
 for i in p2_site.nomedanovacoluna.values:
-    ii = 0
     geral_informacoes = []
     r = requests.get(f'{i}')
     soup_site = BeautifulSoup(r.content, 'html.parser')
@@ -57,6 +58,10 @@ for i in p2_site.nomedanovacoluna.values:
     # fazer uma lista e depois um for para acrescentar a cada loop que fizer
     informacoes = [NomeA, inf_placar_A, NomeB, inf_placar_B, inf_local]
     print(informacoes)
+
+    nome_coluna = [NomeA + NomeB]
+    tabela_geral[nome_coluna] = pd.DataFrame(informacoes, index=tabela_geral.index)
+
     # encontrar o nome dos times
     # ai da para fazer uma tabela geral
     inf = soup_site.find_all(class_="header-scores_desktop")
@@ -121,11 +126,10 @@ for i in p2_site.nomedanovacoluna.values:
     juntar_dados["Quarto"] = juntar_dados["Quarto"].str.replace('OT', 'T')
     # ordena eles
     dados = juntar_dados.sort_values(['Quarto', 'Tempo'])
-
     saparar = dados["Inf_2"]
-
     # separar nome e indicador
     # lance livre
+
     a1 = saparar.str.replace('2nd of 2 free throws made', '9/LL_Pts_C')
     a2 = a1.str.replace('1st of 2 free throws missed', '9/LL_Pts_T')
     a3 = a2.str.replace('2nd of 2 free throws missed', '9/LL_Pts_T')
@@ -236,12 +240,13 @@ for i in p2_site.nomedanovacoluna.values:
     a93 = a92.str.replace('24 seconds violation', '')
     a94 = a93.str.replace('2pt hook shot blocked', '9/2_Pts_T')
     a95 = a94.str.replace('1st of 1 ', '')
+    a96 = a95.str.replace('3pt jump shot from center blocked', '9/3_Pts_T')
 
     # nome;1/indicador
     # estou fazendo isso pq tem indicadores que não tem jogadores(noomes)
     # quando coloco 1 ele ajuda a separa os dois e deixar uma variável 1 quando não tem nome
     # depois eu tiro esse ;1 e coloco um identificador do time
-    mudados_00 = a95.str.split('/')
+    mudados_00 = a96.str.split('/')
     mudados_01 = mudados_00.str.get(1)
     dados['Indicador'] = mudados_01
 
@@ -252,5 +257,7 @@ for i in p2_site.nomedanovacoluna.values:
 
     dados.drop('Inf_2', axis=1, inplace=True)
     dados.to_csv("tabela_1.csv", index=None)
-    dados.to_csv(f"./Dados03/tabela_{ii}.csv", index=None)
-    ii = ii + 1
+    dados.to_csv("./Dados03/tabela_FIBA_" + NomeA +"_" + NomeB + ".csv", index=None)
+# aa
+tabela_Final = tabela_geral.T
+print(tabela_Final)

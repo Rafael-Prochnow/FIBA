@@ -1,0 +1,460 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:01,Puerto Rico,19,18,RD,Renaldo Balkman
+Q1,0:01,Tunisia,19,18,2_Pts_T,Michael Roll
+Q1,0:24,Puerto Rico,19,18,2_Pts_C,David Huertas
+Q1,0:43,Puerto Rico,17,16,FC,Isaiah Pineiro
+Q1,0:43,Tunisia,17,18,LL_Pts_C,Omar Abada
+Q1,0:43,Tunisia,17,17,LL_Pts_C,Omar Abada
+Q1,0:43,Tunisia,17,16,FR,Omar Abada
+Q1,0:55,Puerto Rico,17,16,2_Pts_C,Isaiah Pineiro
+Q1,0:58,Puerto Rico,15,16,BR,Isaiah Pineiro
+Q1,0:58,Tunisia,15,16,ER,Makram Ben Romdhane
+Q1,10:00,Puerto Rico,0,0,inicio_quarto,Jorge Bryan Díaz
+Q1,1:15,Puerto Rico,15,16,substituicao_entra,Devon Collier
+Q1,1:15,Puerto Rico,15,16,substituicao_sai,Alexander Franklin
+Q1,1:15,Puerto Rico,15,16,substituicao_entra,Isaiah Pineiro
+Q1,1:15,Puerto Rico,15,16,substituicao_sai,Jorge Bryan Díaz
+Q1,1:15,Puerto Rico,15,16,FC,Alexander Franklin
+Q1,1:15,Tunisia,15,16,FR,Michael Roll
+Q1,1:36,Puerto Rico,15,16,2_Pts_C,David Huertas
+Q1,1:44,Puerto Rico,13,16,RD,David Huertas
+Q1,1:44,Tunisia,13,16,,Michael Roll3pt jump shot missed
+Q1,2:05,Puerto Rico,13,16,,David Huertas3pt jump shot missed
+Q1,2:05,Tunisia,13,16,RD,Salah Mejri
+Q1,2:13,Puerto Rico,13,16,RO,Jorge Bryan Díaz
+Q1,2:13,Puerto Rico,13,16,,Alexander Franklintip in missed
+Q1,2:20,Puerto Rico,13,16,RO,Alexander Franklin
+Q1,2:20,Puerto Rico,13,16,,Renaldo Balkmanlayup missed
+Q1,2:29,Puerto Rico,13,16,RD,Renaldo Balkman
+Q1,2:29,Tunisia,13,16,2_Pts_T,Omar Abada
+Q1,2:51,Puerto Rico,13,16,2_Pts_C,Gary Browne
+Q1,3:06,Tunisia,11,16,AS,Makram Ben Romdhane
+Q1,3:06,Tunisia,11,16,2_Pts_C,Salah Mejri
+Q1,3:22,Puerto Rico,11,14,,David Huertas2pt jump shot missed
+Q1,3:22,Tunisia,11,14,RD,Michael Roll
+Q1,3:34,Puerto Rico,11,14,LL_Pts_T,David Huertas
+Q1,3:34,Puerto Rico,11,14,RD,Jorge Bryan Díaz
+Q1,3:34,Puerto Rico,11,14,TO,Jorge Bryan Díaz
+Q1,3:34,Tunisia,11,14,FC_T,Salah Mejri
+Q1,3:34,Tunisia,11,14,2_Pts_T,Salah Mejri
+Q1,3:46,Puerto Rico,11,14,AS,Alexander Franklin
+Q1,3:46,Puerto Rico,11,14,,Jorge Bryan Díaz3pt jump shot made
+Q1,4:12,Puerto Rico,8,13,FC,Gary Browne
+Q1,4:12,Tunisia,8,14,LL_Pts_C,Salah Mejri
+Q1,4:12,Tunisia,8,13,FR,Michael Roll
+Q1,4:12,Tunisia,8,13,AS,Makram Ben Romdhane
+Q1,4:12,Tunisia,8,13,,Salah Mejridunk made
+Q1,4:33,Puerto Rico,8,11,AS,Gary Browne
+Q1,4:33,Puerto Rico,8,11,2_Pts_C,Jorge Bryan Díaz
+Q1,4:53,Tunisia,6,11,AS,Mourad El Mabrouk
+Q1,4:53,Tunisia,6,11,2_Pts_C,Michael Roll
+Q1,5:16,Puerto Rico,6,9,AS,Gary Browne
+Q1,5:16,Puerto Rico,6,9,2_Pts_C,Renaldo Balkman
+Q1,5:25,Tunisia,4,9,,Omar Abada2pt jump shot made
+Q1,5:29,Tunisia,4,7,BR,Omar Abada
+Q1,5:34,Puerto Rico,4,7,ER,Gary Browne
+Q1,5:51,Puerto Rico,4,7,RD,Gary Browne
+Q1,5:51,Tunisia,4,7,3_Pts_T,Salah Mejri
+Q1,6:01,Puerto Rico,4,7,,Alexander Franklin2pt jump shot missed
+Q1,6:01,Tunisia,4,7,RD,Makram Ben Romdhane
+Q1,6:19,Puerto Rico,4,7,RD,Jorge Bryan Díaz
+Q1,6:19,Tunisia,4,7,,Makram Ben Romdhane3pt jump shot missed
+Q1,6:41,Puerto Rico,4,7,,David Huertas2pt jump shot missed
+Q1,6:41,Tunisia,4,7,RD,Salah Mejri
+Q1,6:51,Puerto Rico,4,7,RO,Jorge Bryan Díaz
+Q1,6:51,Puerto Rico,4,7,,Gary Browne2pt jump shot missed
+Q1,7:10,Tunisia,4,7,2_Pts_C,Makram Ben Romdhane
+Q1,7:19,Puerto Rico,4,5,TO,Renaldo Balkman
+Q1,7:19,Tunisia,4,5,RO,Makram Ben Romdhane
+Q1,7:19,Tunisia,4,5,,Omar Abada3pt jump shot blocked
+Q1,7:38,Puerto Rico,4,5,,Jorge Bryan Díaz2pt shot missed
+Q1,7:38,Tunisia,4,5,RD,Michael Roll
+Q1,7:47,Puerto Rico,4,5,RD,Alexander Franklin
+Q1,7:47,Tunisia,4,5,3_Pts_T,Mourad El Mabrouk
+Q1,8:12,Puerto Rico,4,5,AS,Gary Browne
+Q1,8:12,Puerto Rico,4,5,2_Pts_C,Jorge Bryan Díaz
+Q1,8:16,Puerto Rico,2,5,FR,Gary Browne
+Q1,8:16,Puerto Rico,2,5,RO,
+Q1,8:16,Puerto Rico,2,5,,Jorge Bryan Díaz2pt jump shot missed
+Q1,8:16,Tunisia,2,5,FC,Omar Abada
+Q1,8:33,Tunisia,2,5,AS,Omar Abada
+Q1,8:33,Tunisia,2,5,,Makram Ben Romdhanedunk made
+Q1,8:38,Puerto Rico,2,3,ER,Alexander Franklin
+Q1,8:38,Tunisia,2,3,BR,Omar Abada
+Q1,8:56,Puerto Rico,2,2,FC,Jorge Bryan Díaz
+Q1,8:56,Tunisia,2,3,LL_Pts_C,Salah Mejri
+Q1,8:56,Tunisia,2,2,FR,Salah Mejri
+Q1,8:56,Tunisia,2,2,AS,Mourad El Mabrouk
+Q1,8:56,Tunisia,2,2,2_Pts_C,Salah Mejri
+Q1,9:16,Puerto Rico,2,0,AS,Renaldo Balkman
+Q1,9:16,Puerto Rico,2,0,,Alexander Franklinlayup made
+Q1,9:29,Puerto Rico,0,0,FR,Gary Browne
+Q1,9:29,Tunisia,0,0,FC_O,Makram Ben Romdhane
+Q1,9:43,Puerto Rico,0,0,ER,Jorge Bryan Díaz
+Q1,9:43,Tunisia,0,0,BR,Makram Ben Romdhane
+Q2,0:00,Tunisia,38,32,,Mohamed Hadidane3pt jump shot missed
+Q2,0:06,Puerto Rico,38,32,substituicao_entra,Isaiah Pineiro
+Q2,0:06,Puerto Rico,38,32,substituicao_sai,Angel Rodriguez
+Q2,0:06,Puerto Rico,38,32,LL_Pts_C,Renaldo Balkman
+Q2,0:06,Puerto Rico,37,32,LL_Pts_C,Renaldo Balkman
+Q2,0:06,Puerto Rico,36,32,FR,Renaldo Balkman
+Q2,0:06,Puerto Rico,36,32,2_Pts_T,David Huertas
+Q2,0:06,Tunisia,36,32,FC,Ziyed Chennoufi
+Q2,0:29,Puerto Rico,36,32,substituicao_entra,Gian Clavell
+Q2,0:29,Puerto Rico,36,32,substituicao_sai,Isaiah Pineiro
+Q2,0:29,Puerto Rico,36,30,FC,Angel Rodriguez
+Q2,0:29,Tunisia,36,32,LL_Pts_C,Omar Abada
+Q2,0:29,Tunisia,36,31,LL_Pts_C,Omar Abada
+Q2,0:29,Tunisia,36,30,FR,Omar Abada
+Q2,0:44,Puerto Rico,36,30,,Javier Mojica2pt jump shot missed
+Q2,0:44,Tunisia,36,30,RD,Makram Ben Romdhane
+Q2,10:00,Tunisia,0,0,muda_bola,
+Q2,1:04,Tunisia,36,30,AS,Omar Abada
+Q2,1:04,Tunisia,36,30,,Mohamed Hadidanelayup made
+Q2,1:17,Puerto Rico,36,28,LL_Pts_C,Angel Rodriguez
+Q2,1:17,Puerto Rico,35,28,LL_Pts_C,Angel Rodriguez
+Q2,1:17,Puerto Rico,34,28,FR,Angel Rodriguez
+Q2,1:17,Tunisia,36,28,substituicao_entra,Michael Roll
+Q2,1:17,Tunisia,36,28,substituicao_sai,Mourad El Mabrouk
+Q2,1:17,Tunisia,34,28,FC,Ziyed Chennoufi
+Q2,1:22,Puerto Rico,34,28,RD,Javier Mojica
+Q2,1:22,Tunisia,34,28,,Mohamed Hadidane3pt jump shot missed
+Q2,1:31,Puerto Rico,34,28,,Angel Rodriguezlayup made
+Q2,1:45,Puerto Rico,32,28,RD,Angel Rodriguez
+Q2,1:45,Puerto Rico,32,28,TO,Renaldo Balkman
+Q2,1:45,Tunisia,32,28,2_Pts_T,Makram Ben Romdhane
+Q2,2:01,Puerto Rico,32,28,substituicao_entra,Javier Mojica
+Q2,2:01,Puerto Rico,32,28,substituicao_sai,Gian Clavell
+Q2,2:01,Tunisia,32,28,,Mohamed Hadidanelayup missed
+Q2,2:03,Puerto Rico,32,28,2_Pts_T,Gian Clavell
+Q2,2:03,Tunisia,32,28,RD,Omar Abada
+Q2,2:08,Puerto Rico,32,28,,Renaldo Balkmantip in missed
+Q2,2:08,Puerto Rico,32,28,RO,Renaldo Balkman
+Q2,2:08,Tunisia,32,28,RD,Omar Abada
+Q2,2:09,Puerto Rico,32,28,BR,Angel Rodriguez
+Q2,2:09,Tunisia,32,28,ER,Omar Abada
+Q2,2:27,Puerto Rico,32,28,substituicao_entra,David Huertas
+Q2,2:27,Puerto Rico,32,28,substituicao_sai,Ramon Clemente
+Q2,2:27,Puerto Rico,32,28,FC,Ramon Clemente
+Q2,2:27,Tunisia,32,28,FR,Mohamed Hadidane
+Q2,2:44,Puerto Rico,32,28,substituicao_entra,Renaldo Balkman
+Q2,2:44,Puerto Rico,32,28,substituicao_sai,Devon Collier
+Q2,2:44,Puerto Rico,32,28,FC_O,Devon Collier
+Q2,2:44,Tunisia,32,28,FR,Omar Abada
+Q2,2:50,Puerto Rico,32,28,RD,Isaiah Pineiro
+Q2,2:50,Tunisia,32,28,,Mourad El Mabrouk2pt jump shot missed
+Q2,3:12,Puerto Rico,32,28,ER,Angel Rodriguez
+Q2,3:12,Tunisia,32,28,BR,Ziyed Chennoufi
+Q2,3:23,Puerto Rico,32,28,RD,Devon Collier
+Q2,3:23,Tunisia,32,28,,Mourad El Mabrouk3pt jump shot missed
+Q2,3:46,Puerto Rico,32,28,AS,Devon Collier
+Q2,3:46,Puerto Rico,32,28,,Gian Clavell2pt jump shot made
+Q2,4:00,Puerto Rico,30,28,FR,Devon Collier
+Q2,4:00,Tunisia,30,28,FC,Omar Abada
+Q2,4:06,Puerto Rico,30,28,RD,Isaiah Pineiro
+Q2,4:06,Tunisia,30,28,LL_Pts_T,Omar Abada
+Q2,4:07,Puerto Rico,30,28,FC,Angel Rodriguez
+Q2,4:07,Tunisia,30,28,substituicao_entra,Makram Ben Romdhane
+Q2,4:07,Tunisia,30,28,substituicao_sai,Salah Mejri
+Q2,4:07,Tunisia,30,28,substituicao_entra,Ziyed Chennoufi
+Q2,4:07,Tunisia,30,28,substituicao_sai,Michael Roll
+Q2,4:07,Tunisia,30,28,FR,Omar Abada
+Q2,4:07,Tunisia,30,28,2_Pts_C,Omar Abada
+Q2,4:11,Puerto Rico,30,26,,Gian Clavell3pt jump shot missed
+Q2,4:11,Tunisia,30,26,RD,Mohamed Hadidane
+Q2,4:18,Puerto Rico,30,26,RD,Angel Rodriguez
+Q2,4:18,Tunisia,30,26,2_Pts_T,Mourad El Mabrouk
+Q2,4:40,Puerto Rico,30,26,2_Pts_T,Angel Rodriguez
+Q2,4:40,Tunisia,30,26,RD,Omar Abada
+Q2,4:54,Puerto Rico,30,26,RD,Gian Clavell
+Q2,4:54,Tunisia,30,26,,Michael Roll3pt jump shot missed
+Q2,5:03,Puerto Rico,30,26,2_Pts_C,Isaiah Pineiro
+Q2,5:21,Tunisia,28,26,AS,Salah Mejri
+Q2,5:21,Tunisia,28,26,2_Pts_C,Michael Roll
+Q2,5:42,Tunisia,28,24,tempo_tecnico,
+Q2,5:43,Puerto Rico,28,24,,Angel Rodriguez
+Q2,5:51,Puerto Rico,26,24,RD,Gian Clavell
+Q2,5:51,Tunisia,26,24,3_Pts_T,Salah Mejri
+Q2,6:04,Puerto Rico,26,24,2_Pts_C,Devon Collier
+Q2,6:28,Puerto Rico,24,24,RD,Gian Clavell
+Q2,6:28,Tunisia,24,24,,Mohamed Hadidane3pt jump shot missed
+Q2,6:53,Puerto Rico,24,24,AS,Angel Rodriguez
+Q2,6:53,Puerto Rico,24,24,,Isaiah Pineiro
+Q2,7:00,Puerto Rico,22,24,RD,Gian Clavell
+Q2,7:00,Tunisia,22,24,,Omar Abada3pt jump shot missed
+Q2,7:18,Puerto Rico,22,24,AS,Isaiah Pineiro
+Q2,7:18,Puerto Rico,22,24,,Gian Clavell3pt jump shot made
+Q2,7:37,Puerto Rico,19,24,tempo_tecnico,
+Q2,7:37,Tunisia,19,24,AS,Omar Abada
+Q2,7:37,Tunisia,19,24,,Michael Rolllayup made
+Q2,7:41,Puerto Rico,19,22,ER,Gian Clavell
+Q2,7:41,Tunisia,19,22,BR,Omar Abada
+Q2,8:01,Puerto Rico,19,22,substituicao_entra,Ramon Clemente
+Q2,8:01,Puerto Rico,19,22,substituicao_sai,Renaldo Balkman
+Q2,8:01,Puerto Rico,19,22,FR,Isaiah Pineiro
+Q2,8:01,Puerto Rico,19,22,RD,Isaiah Pineiro
+Q2,8:01,Tunisia,19,22,substituicao_entra,Mohamed Hadidane
+Q2,8:01,Tunisia,19,22,substituicao_sai,Makram Ben Romdhane
+Q2,8:01,Tunisia,19,22,FC,Michael Roll
+Q2,8:01,Tunisia,19,22,2_Pts_T,Makram Ben Romdhane
+Q2,8:13,Puerto Rico,19,22,,Isaiah Pineiro2pt jump shot missed
+Q2,8:13,Tunisia,19,22,RD,Michael Roll
+Q2,8:34,Puerto Rico,19,22,FR,Renaldo Balkman
+Q2,8:34,Tunisia,19,22,FC_O,Makram Ben Romdhane
+Q2,8:44,Puerto Rico,19,22,ER backcourt violation,Angel Rodriguez
+Q2,9:06,Tunisia,19,22,2_Pts_C,Mourad El Mabrouk
+Q2,9:25,Puerto Rico,19,20,,Gian Clavell2pt jump shot missed
+Q2,9:25,Tunisia,19,20,RD,Makram Ben Romdhane
+Q2,9:47,Puerto Rico,0,0,FC,Devon Collier
+Q2,9:47,Tunisia,19,20,LL_Pts_C,Makram Ben Romdhane
+Q2,9:47,Tunisia,19,19,LL_Pts_C,Makram Ben Romdhane
+Q2,9:47,Tunisia,0,0,FR,Makram Ben Romdhane
+Q3,0:00,Puerto Rico,52,55,RD,Angel Rodriguez
+Q3,0:00,Puerto Rico,52,55,TO,Devon Collier
+Q3,0:00,Tunisia,52,55,2_Pts_T,Salah Mejri
+Q3,0:02,Puerto Rico,52,55,2_Pts_T,Angel Rodriguez
+Q3,0:02,Tunisia,52,55,RD,
+Q3,0:11,Tunisia,52,55,ER,Salah Mejri
+Q3,0:32,Puerto Rico,52,55,ER,Ramon Clemente
+Q3,0:32,Tunisia,52,55,BR,Omar Abada
+Q3,0:56,Puerto Rico,52,53,FC,Angel Rodriguez
+Q3,0:56,Tunisia,52,55,LL_Pts_C,Omar Abada
+Q3,0:56,Tunisia,52,54,LL_Pts_C,Omar Abada
+Q3,0:56,Tunisia,52,53,FR,Omar Abada
+Q3,10:00,Puerto Rico,0,0,muda_bola,
+Q3,1:16,Puerto Rico,52,53,LL_Pts_C,Gian Clavell
+Q3,1:16,Puerto Rico,51,53,LL_Pts_C,Gian Clavell
+Q3,1:16,Puerto Rico,50,53,substituicao_entra,Angel Rodriguez
+Q3,1:16,Puerto Rico,50,53,substituicao_sai,Renaldo Balkman
+Q3,1:16,Puerto Rico,50,53,substituicao_entra,Ramon Clemente
+Q3,1:16,Puerto Rico,50,53,substituicao_sai,Gary Browne
+Q3,1:16,Puerto Rico,50,53,FR,Gian Clavell
+Q3,1:16,Tunisia,50,53,substituicao_entra,Salah Mejri
+Q3,1:16,Tunisia,50,53,substituicao_sai,Makram Ben Romdhane
+Q3,1:16,Tunisia,50,53,FC,Mourad El Mabrouk
+Q3,1:19,Puerto Rico,50,53,RD,Devon Collier
+Q3,1:19,Tunisia,50,53,,Mohamed Hadidane2pt jump shot missed
+Q3,1:24,Puerto Rico,50,53,ER,Gary Browne
+Q3,1:24,Tunisia,50,53,BR,Omar Abada
+Q3,1:32,Tunisia,50,53,AS,Makram Ben Romdhane
+Q3,1:32,Tunisia,50,53,3_Pts_C,Mohamed Hadidane
+Q3,1:51,Puerto Rico,50,50,AS,Renaldo Balkman
+Q3,1:51,Puerto Rico,50,50,2_Pts_C,Isaiah Pineiro
+Q3,2:03,Tunisia,48,50,AS,Michael Roll
+Q3,2:03,Tunisia,48,50,,Makram Ben Romdhanelayup made
+Q3,2:09,Puerto Rico,48,48,ER,Renaldo Balkman
+Q3,2:09,Tunisia,48,48,BR,Omar Abada
+Q3,2:16,Puerto Rico,48,48,RO,Devon Collier
+Q3,2:16,Puerto Rico,48,48,,Gian Clavell3pt jump shot missed
+Q3,2:37,Tunisia,48,48,3_Pts_C,Omar Abada
+Q3,2:51,Puerto Rico,48,45,LL_Pts_C,Renaldo Balkman
+Q3,2:51,Puerto Rico,47,45,FR,Renaldo Balkman
+Q3,2:51,Puerto Rico,47,45,2_Pts_C,Renaldo Balkman
+Q3,2:51,Tunisia,47,45,FC,Michael Roll
+Q3,2:57,Puerto Rico,45,45,RD,Renaldo Balkman
+Q3,2:57,Tunisia,45,45,2_Pts_T,Mohamed Hadidane
+Q3,3:18,Puerto Rico,45,45,ER,Isaiah Pineiro
+Q3,3:27,Tunisia,45,45,,Mohamed Hadidanelayup made
+Q3,3:27,Tunisia,45,43,RO,Mohamed Hadidane
+Q3,3:27,Tunisia,45,43,2_Pts_T,Makram Ben Romdhane
+Q3,3:46,Puerto Rico,45,43,AS,Gary Browne
+Q3,3:46,Puerto Rico,45,43,2_Pts_C,Renaldo Balkman
+Q3,4:06,Puerto Rico,43,43,FR,Gian Clavell
+Q3,4:06,Tunisia,43,43,FC_O,Michael Roll
+Q3,4:25,Puerto Rico,43,43,LL_Pts_T,Renaldo Balkman
+Q3,4:25,Puerto Rico,43,43,LL_Pts_C,Renaldo Balkman
+Q3,4:25,Puerto Rico,42,43,FR,Renaldo Balkman
+Q3,4:25,Tunisia,43,43,RD,Omar Abada
+Q3,4:25,Tunisia,42,43,FC,Makram Ben Romdhane
+Q3,4:41,Puerto Rico,42,41,substituicao_entra,Gian Clavell
+Q3,4:41,Puerto Rico,42,41,substituicao_sai,David Huertas
+Q3,4:41,Puerto Rico,42,41,FC,Isaiah Pineiro
+Q3,4:41,Tunisia,42,43,LL_Pts_C,Mohamed Hadidane
+Q3,4:41,Tunisia,42,42,AS,Michael Roll
+Q3,4:41,Tunisia,42,42,LL_Pts_C,Mohamed Hadidane
+Q3,4:41,Tunisia,42,41,FR,Mohamed Hadidane
+Q3,4:58,Puerto Rico,42,41,2_Pts_T,Gary Browne
+Q3,4:58,Tunisia,42,41,RD,Makram Ben Romdhane
+Q3,5:15,Puerto Rico,42,40,substituicao_entra,Devon Collier
+Q3,5:15,Puerto Rico,42,40,substituicao_sai,Jorge Bryan Díaz
+Q3,5:15,Puerto Rico,42,40,FC,Gary Browne
+Q3,5:15,Tunisia,42,41,AS,Makram Ben Romdhane
+Q3,5:15,Tunisia,42,41,LL_Pts_C,Omar Abada
+Q3,5:15,Tunisia,42,40,LL_Pts_T,Omar Abada
+Q3,5:15,Tunisia,42,40,substituicao_entra,Mohamed Hadidane
+Q3,5:15,Tunisia,42,40,substituicao_sai,Salah Mejri
+Q3,5:15,Tunisia,42,40,FR,Omar Abada
+Q3,5:19,Puerto Rico,42,40,2_Pts_T,David Huertas
+Q3,5:19,Tunisia,42,40,RD,Makram Ben Romdhane
+Q3,5:41,Tunisia,42,40,AS,Michael Roll
+Q3,5:41,Tunisia,42,40,2_Pts_C,Salah Mejri
+Q3,5:59,Puerto Rico,42,38,substituicao_entra,Isaiah Pineiro
+Q3,5:59,Puerto Rico,42,38,substituicao_sai,Alexander Franklin
+Q3,5:59,Puerto Rico,42,38,FC,Renaldo Balkman
+Q3,5:59,Tunisia,42,38,FR,Makram Ben Romdhane
+Q3,6:06,Puerto Rico,42,38,2_Pts_T,Jorge Bryan Díaz
+Q3,6:06,Tunisia,42,38,RD,Salah Mejri
+Q3,6:25,Puerto Rico,42,36,FC,Renaldo Balkman
+Q3,6:25,Tunisia,42,38,LL_Pts_C,Makram Ben Romdhane
+Q3,6:25,Tunisia,42,37,LL_Pts_C,Makram Ben Romdhane
+Q3,6:25,Tunisia,42,36,FR,Makram Ben Romdhane
+Q3,6:36,Puerto Rico,42,36,,Gary Browne2pt jump shot made
+Q3,6:42,Puerto Rico,40,36,RD,Gary Browne
+Q3,6:42,Tunisia,40,36,,Mourad El Mabrouk3pt jump shot missed
+Q3,6:57,Puerto Rico,40,36,2_Pts_C,Gary Browne
+Q3,7:03,Puerto Rico,38,36,RO,Gary Browne
+Q3,7:03,Puerto Rico,38,36,2_Pts_T,Gary Browne
+Q3,7:23,Puerto Rico,38,36,FR,Gary Browne
+Q3,7:23,Tunisia,38,36,FC_O,Omar Abada
+Q3,7:32,Tunisia,38,36,RO,Mourad El Mabrouk
+Q3,7:32,Tunisia,38,36,,Michael Roll3pt jump shot missed
+Q3,7:56,Puerto Rico,38,36,ER,Gary Browne
+Q3,7:56,Puerto Rico,38,36,RO,
+Q3,7:56,Puerto Rico,38,36,2_Pts_T,David Huertas
+Q3,8:16,Puerto Rico,38,34,FC,David Huertas
+Q3,8:16,Tunisia,38,36,LL_Pts_C,Michael Roll
+Q3,8:16,Tunisia,38,35,LL_Pts_C,Michael Roll
+Q3,8:16,Tunisia,38,34,FR,Michael Roll
+Q3,8:18,Puerto Rico,38,34,TO,Renaldo Balkman
+Q3,8:18,Tunisia,38,34,RO,
+Q3,8:18,Tunisia,38,34,2_Pts_T,Salah Mejri
+Q3,8:29,Puerto Rico,38,34,,David Huertas2pt jump shot missed
+Q3,8:29,Tunisia,38,34,RD,Salah Mejri
+Q3,8:42,Puerto Rico,38,34,RO,Renaldo Balkman
+Q3,8:42,Puerto Rico,38,34,,Renaldo Balkmantip in blocked
+Q3,8:42,Tunisia,38,34,TO,Makram Ben Romdhane
+Q3,8:51,Puerto Rico,38,34,RO,Renaldo Balkman
+Q3,8:51,Puerto Rico,38,34,,Renaldo Balkman2pt jump shot missed
+Q3,9:02,Tunisia,38,34,2_Pts_C,Salah Mejri
+Q3,9:44,Puerto Rico,0,0,,Renaldo Balkman3pt jump shot missed
+Q3,9:44,Tunisia,0,0,RD,Salah Mejri
+Q4,0:00,Puerto Rico,67,64,RD,Renaldo Balkman
+Q4,0:00,Tunisia,67,64,3_Pts_T,Makram Ben Romdhane
+Q4,0:04,Puerto Rico,67,64,FC,David Huertas
+Q4,0:04,Tunisia,67,64,FR,Makram Ben Romdhane
+Q4,0:05,Puerto Rico,67,64,substituicao_entra,Alexander Franklin
+Q4,0:05,Puerto Rico,67,64,substituicao_sai,Devon Collier
+Q4,0:05,Puerto Rico,67,64,,Gary Browne3pt jump shot made
+Q4,0:05,Tunisia,67,64,tempo_tecnico,
+Q4,0:26,Puerto Rico,64,64,RD,Gian Clavell
+Q4,0:26,Tunisia,64,64,,Salah Mejri3pt jump shot missed
+Q4,0:34,Tunisia,64,64,RO,Makram Ben Romdhane
+Q4,0:34,Tunisia,64,64,2_Pts_T,Mourad El Mabrouk
+Q4,0:44,Puerto Rico,64,64,,Gian Clavelltip in missed
+Q4,0:44,Tunisia,64,64,RD,Salah Mejri
+Q4,0:53,Puerto Rico,64,64,RO,Gian Clavell
+Q4,0:53,Puerto Rico,64,64,2_Pts_T,David Huertas
+Q4,10:00,Tunisia,0,0,muda_bola,
+Q4,1:20,Puerto Rico,64,64,RD,Gian Clavell
+Q4,1:20,Tunisia,64,64,,Makram Ben Romdhane3pt jump shot missed
+Q4,1:35,Tunisia,64,64,tempo_tecnico,
+Q4,1:37,Puerto Rico,64,64,AS,Gary Browne
+Q4,1:37,Puerto Rico,64,64,,David Huertas3pt jump shot made
+Q4,1:42,Puerto Rico,61,64,RD,Gary Browne
+Q4,1:42,Tunisia,61,64,,Makram Ben Romdhane2pt jump shot missed
+Q4,1:48,Tunisia,61,64,RO,Makram Ben Romdhane
+Q4,1:48,Tunisia,61,64,2_Pts_T,Salah Mejri
+Q4,2:14,Puerto Rico,61,64,AS,Gary Browne
+Q4,2:14,Puerto Rico,61,64,,Devon Collier2pt jump shot made
+Q4,2:22,Tunisia,59,64,ER ,
+Q4,2:27,Puerto Rico,59,64,TO,Renaldo Balkman
+Q4,2:27,Tunisia,59,64,2_Pts_T,Makram Ben Romdhane
+Q4,2:42,Puerto Rico,59,64,FC,David Huertas
+Q4,2:42,Tunisia,59,64,FR,Michael Roll
+Q4,2:50,Tunisia,59,64,RO,Makram Ben Romdhane
+Q4,2:50,Tunisia,59,64,,Mourad El Mabrouk3pt jump shot missed
+Q4,3:08,Puerto Rico,59,64,,Renaldo Balkmantip in missed
+Q4,3:08,Tunisia,59,64,RD,Salah Mejri
+Q4,3:12,Puerto Rico,59,64,RO,Renaldo Balkman
+Q4,3:12,Puerto Rico,59,64,,Renaldo Balkman2pt jump shot missed
+Q4,3:29,Puerto Rico,59,64,tempo_tecnico,
+Q4,3:29,Tunisia,59,64,ER,Salah Mejri
+Q4,3:46,Puerto Rico,59,64,2_Pts_T,David Huertas
+Q4,3:46,Tunisia,59,64,RD,Salah Mejri
+Q4,3:46,Tunisia,59,64,TO,Makram Ben Romdhane
+Q4,3:52,Puerto Rico,59,64,FR,Renaldo Balkman
+Q4,3:52,Puerto Rico,59,64,RO,
+Q4,3:52,Puerto Rico,59,64,,Devon Collier2pt jump shot missed
+Q4,3:52,Tunisia,59,64,FC,Makram Ben Romdhane
+Q4,4:01,Tunisia,59,64,ER,Michael Roll
+Q4,4:15,Puerto Rico,59,64,substituicao_entra,Devon Collier
+Q4,4:15,Puerto Rico,59,64,substituicao_sai,Isaiah Pineiro
+Q4,4:15,Puerto Rico,59,64,FC_O,Renaldo Balkman
+Q4,4:15,Tunisia,59,64,FR,Salah Mejri
+Q4,4:34,Tunisia,59,64,AS,Michael Roll
+Q4,4:34,Tunisia,59,64,,Makram Ben Romdhane2pt jump shot made
+Q4,4:54,Puerto Rico,59,62,substituicao_entra,Gian Clavell
+Q4,4:54,Puerto Rico,59,62,substituicao_sai,Javier Mojica
+Q4,4:54,Puerto Rico,59,62,substituicao_entra,Isaiah Pineiro
+Q4,4:54,Puerto Rico,59,62,substituicao_sai,Ramon Clemente
+Q4,4:55,Puerto Rico,59,62,,Javier Mojica2pt jump shot missed
+Q4,4:55,Tunisia,59,62,RD,Salah Mejri
+Q4,5:06,Puerto Rico,59,62,RD,Ramon Clemente
+Q4,5:06,Tunisia,59,62,,Omar Abada2pt jump shot missed
+Q4,5:11,Puerto Rico,59,62,ER,David Huertas
+Q4,5:11,Tunisia,59,62,BR,Salah Mejri
+Q4,5:26,Puerto Rico,59,62,RD,David Huertas
+Q4,5:26,Tunisia,59,62,,Omar Abada3pt jump shot missed
+Q4,5:44,Puerto Rico,59,62,,Gary Browne3pt jump shot missed
+Q4,5:44,Tunisia,59,62,RD,Michael Roll
+Q4,5:56,Puerto Rico,59,62,BR,Gary Browne
+Q4,5:56,Tunisia,59,62,ER,Michael Roll
+Q4,5:59,Puerto Rico,59,62,FC_O,Renaldo Balkman
+Q4,5:59,Tunisia,59,62,FR,Salah Mejri
+Q4,6:11,Puerto Rico,59,62,RD,Renaldo Balkman
+Q4,6:11,Tunisia,59,62,,Michael Roll3pt jump shot missed
+Q4,6:28,Puerto Rico,59,62,AS,Gary Browne
+Q4,6:28,Puerto Rico,59,62,,Renaldo Balkmanlayup made
+Q4,6:34,Puerto Rico,57,62,RD,Ramon Clemente
+Q4,6:34,Tunisia,57,62,,Mourad El Mabrouk2pt jump shot missed
+Q4,7:00,Puerto Rico,57,62,,Javier Mojica3pt jump shot missed
+Q4,7:00,Tunisia,57,62,RD,Michael Roll
+Q4,7:12,Tunisia,57,62,AS,Omar Abada
+Q4,7:12,Tunisia,57,62,,Michael Roll2pt jump shot made
+Q4,7:15,Tunisia,57,60,RO,
+Q4,7:17,Tunisia,57,60,,Mourad El Mabrouk3pt jump shot missed
+Q4,7:25,Puerto Rico,57,60,substituicao_entra,Renaldo Balkman
+Q4,7:25,Puerto Rico,57,60,substituicao_sai,Devon Collier
+Q4,7:25,Tunisia,57,60,substituicao_entra,Makram Ben Romdhane
+Q4,7:25,Tunisia,57,60,substituicao_sai,Mohamed Hadidane
+Q4,7:36,Puerto Rico,57,60,AS,Javier Mojica
+Q4,7:36,Puerto Rico,57,60,,David Huertas3pt jump shot made
+Q4,7:36,Puerto Rico,54,60,substituicao_entra,David Huertas
+Q4,7:36,Puerto Rico,54,60,substituicao_sai,Renaldo Balkman
+Q4,7:50,Puerto Rico,54,60,RO,Ramon Clemente
+Q4,7:50,Puerto Rico,54,60,,Javier Mojica2pt jump shot missed
+Q4,7:59,Puerto Rico,54,60,RO,Javier Mojica
+Q4,7:59,Puerto Rico,54,60,,Gary Browne3pt jump shot missed
+Q4,8:05,Puerto Rico,54,60,substituicao_entra,Javier Mojica
+Q4,8:05,Puerto Rico,54,60,substituicao_sai,David Huertas
+Q4,8:11,Tunisia,54,60,ER backcourt violation,Salah Mejri
+Q4,8:16,Puerto Rico,54,60,ER,Renaldo Balkman
+Q4,8:16,Puerto Rico,54,60,substituicao_entra,Renaldo Balkman
+Q4,8:16,Puerto Rico,54,60,substituicao_sai,Javier Mojica
+Q4,8:16,Tunisia,54,60,BR,Salah Mejri
+Q4,8:27,Puerto Rico,54,60,BR,Renaldo Balkman
+Q4,8:27,Tunisia,54,60,ER,Salah Mejri
+Q4,8:47,Puerto Rico,54,60,substituicao_entra,Javier Mojica
+Q4,8:47,Puerto Rico,54,60,substituicao_sai,Gian Clavell
+Q4,8:47,Puerto Rico,54,60,LL_Pts_C,Renaldo Balkman
+Q4,8:47,Puerto Rico,53,60,AS,Gary Browne
+Q4,8:47,Puerto Rico,53,60,LL_Pts_C,Renaldo Balkman
+Q4,8:47,Puerto Rico,52,60,FR,Renaldo Balkman
+Q4,8:47,Puerto Rico,52,60,substituicao_entra,Gary Browne
+Q4,8:47,Puerto Rico,52,60,substituicao_sai,Angel Rodriguez
+Q4,8:47,Puerto Rico,52,60,substituicao_entra,Ramon Clemente
+Q4,8:47,Puerto Rico,52,60,substituicao_sai,Devon Collier
+Q4,8:47,Tunisia,52,60,FC,Mohamed Hadidane
+Q4,8:59,Puerto Rico,52,60,tempo_tecnico,
+Q4,8:59,Puerto Rico,52,58,2_Pts_T,Angel Rodriguez
+Q4,8:59,Tunisia,52,60,AS,Michael Roll
+Q4,8:59,Tunisia,52,60,,Salah Mejridunk made
+Q4,8:59,Tunisia,52,58,RD,Omar Abada
+Q4,9:17,Puerto Rico,52,58,substituicao_entra,David Huertas
+Q4,9:17,Puerto Rico,52,58,substituicao_sai,Isaiah Pineiro
+Q4,9:17,Puerto Rico,52,58,FR,Devon Collier
+Q4,9:17,Puerto Rico,52,58,RO,
+Q4,9:17,Puerto Rico,52,58,,Gian Clavell3pt jump shot missed
+Q4,9:17,Tunisia,52,58,FC,Mohamed Hadidane
+Q4,9:42,Tunisia,52,58,AS,Mohamed Hadidane
+Q4,9:42,Tunisia,52,58,,Michael Roll3pt jump shot made

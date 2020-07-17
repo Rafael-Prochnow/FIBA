@@ -1,0 +1,494 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Korea,19,18,,Junyong Choi3pt jump shot missed
+Q1,0:01,China,19,18,LL_Pts_C,Minghui Sun
+Q1,0:01,China,18,18,FR,Minghui Sun
+Q1,0:01,China,18,18,2_Pts_C,Minghui Sun
+Q1,0:01,Korea,18,18,FC,Guna RA
+Q1,0:17,China,16,18,FR,Ailun Guo
+Q1,0:17,China,16,18,BR,Zhelin Wang
+Q1,0:17,Korea,16,18,FC,Junyong Choi
+Q1,0:17,Korea,16,18,ER,Junyong Choi
+Q1,0:42,China,16,18,3_Pts_C,Rui Zhao
+Q1,0:57,Korea,13,18,AS,Chan Hee Park
+Q1,0:57,Korea,13,18,,Junyong Choi3pt jump shot made
+Q1,10:00,China,0,0,inicio_quarto,Qi Zhou
+Q1,1:07,China,13,15,2_Pts_T,Junfei Ren
+Q1,1:07,Korea,13,15,RD,Junghyun Lee
+Q1,1:21,Korea,13,15,AS,Chan Hee Park
+Q1,1:21,Korea,13,15,,Guna RA2pt jump shot made
+Q1,1:41,China,13,13,,Zhelin Wanglayup made
+Q1,2:03,China,11,13,FR,Minghui Sun
+Q1,2:03,China,11,13,BR,Zhelin Wang
+Q1,2:03,Korea,11,13,FC,Junghyun Lee
+Q1,2:03,Korea,11,13,ER,Junghyun Lee
+Q1,2:16,China,11,13,,Ailun Guo3pt jump shot missed
+Q1,2:16,Korea,11,13,RD,Seounghyun Lee
+Q1,2:39,China,11,13,RD,Zhelin Wang
+Q1,2:39,China,11,12,FC,Minghui Sun
+Q1,2:39,Korea,11,13,LL_Pts_T,Chan Hee Park
+Q1,2:39,Korea,11,13,LL_Pts_C,Chan Hee Park
+Q1,2:39,Korea,11,12,FR,Chan Hee Park
+Q1,2:47,China,11,12,2_Pts_C,Rui Zhao
+Q1,3:07,China,9,11,substituicao_entra,Rui Zhao
+Q1,3:07,China,9,11,substituicao_sai,Shuo Fang
+Q1,3:07,China,9,11,FC,Zhelin Wang
+Q1,3:07,Korea,9,12,LL_Pts_C,Guna RA
+Q1,3:07,Korea,9,11,FR,Guna RA
+Q1,3:07,Korea,9,11,,Guna RAtip in made
+Q1,3:07,Korea,9,9,RO,Guna RA
+Q1,3:07,Korea,9,9,,Junghyun Lee3pt jump shot missed
+Q1,3:18,Korea,9,9,RD,
+Q1,3:27,China,9,9,,Shuo Fang2pt jump shot missed
+Q1,3:43,China,9,9,substituicao_entra,Junfei Ren
+Q1,3:43,China,9,9,substituicao_sai,Qi Zhou
+Q1,3:43,Korea,9,9,AS,Junyong Choi
+Q1,3:43,Korea,9,9,,Junghyun Lee3pt jump shot made
+Q1,3:48,Korea,9,6,RO,Junyong Choi
+Q1,3:48,Korea,9,6,,Junghyun Lee3pt jump shot missed
+Q1,3:55,China,9,6,2_Pts_T,Ailun Guo
+Q1,3:55,Korea,9,6,RD,Junghyun Lee
+Q1,3:55,Korea,9,6,TO,Seounghyun Lee
+Q1,4:12,Korea,9,6,2_Pts_C,Junghyun Lee
+Q1,4:17,China,9,4,substituicao_entra,Zhelin Wang
+Q1,4:17,China,9,4,substituicao_sai,Jianlian Yi
+Q1,4:17,China,9,4,substituicao_entra,Minghui Sun
+Q1,4:17,China,9,4,substituicao_sai,Jiwei Zhao
+Q1,4:17,China,9,4,FC,Shuo Fang
+Q1,4:17,Korea,9,4,FR,Chan Hee Park
+Q1,4:21,China,9,4,,Jiwei Zhao3pt jump shot missed
+Q1,4:21,Korea,9,4,RD,Chan Hee Park
+Q1,4:41,China,9,4,RD,Shuo Fang
+Q1,4:41,Korea,9,4,2_Pts_T,Guna RA
+Q1,4:52,China,9,4,substituicao_entra,Ailun Guo
+Q1,4:52,China,9,4,substituicao_sai,Xiaochuan Zhai
+Q1,4:52,China,9,4,FC,Jiwei Zhao
+Q1,4:52,Korea,9,4,substituicao_entra,Junyong Choi
+Q1,4:52,Korea,9,4,substituicao_sai,Heejong Yang
+Q1,4:52,Korea,9,4,FR,Guna RA
+Q1,4:52,Korea,9,4,RO,Guna RA
+Q1,4:53,Korea,9,4,,Seounghyun Lee3pt jump shot missed
+Q1,5:12,China,9,4,2_Pts_T,Jianlian Yi
+Q1,5:12,Korea,9,4,RD,Chan Hee Park
+Q1,5:22,Korea,9,4,AS,Heejong Yang
+Q1,5:22,Korea,9,4,2_Pts_C,Chan Hee Park
+Q1,5:39,China,9,2,2_Pts_C,Shuo Fang
+Q1,5:53,China,7,2,FR,Shuo Fang
+Q1,5:53,Korea,7,2,FC_O,Junghyun Lee
+Q1,6:02,China,7,2,AS,Xiaochuan Zhai
+Q1,6:02,China,7,2,,Jianlian Yialley oop made
+Q1,6:02,Korea,7,2,tempo_tecnico,
+Q1,6:07,China,5,2,BR,Jiwei Zhao
+Q1,6:07,Korea,5,2,ER,Seounghyun Lee
+Q1,6:16,China,5,2,FC,Jianlian Yi
+Q1,6:16,Korea,5,2,FR,Chan Hee Park
+Q1,6:27,China,5,2,,Xiaochuan Zhai3pt jump shot missed
+Q1,6:27,Korea,5,2,RD,Junghyun Lee
+Q1,6:41,Korea,5,2,ER,Chan Hee Park
+Q1,6:50,China,5,2,AS,Shuo Fang
+Q1,6:50,China,5,2,LL_Pts_C,Qi Zhou
+Q1,6:50,China,4,2,LL_Pts_T,Qi Zhou
+Q1,6:50,China,4,2,FR,Qi Zhou
+Q1,6:50,Korea,4,2,FC,Heejong Yang
+Q1,6:55,China,4,2,RD,Qi Zhou
+Q1,6:55,China,4,2,TO,Xiaochuan Zhai
+Q1,6:55,Korea,4,2,2_Pts_T,Guna RA
+Q1,7:00,China,4,2,ER,Xiaochuan Zhai
+Q1,7:00,Korea,4,2,BR,Guna RA
+Q1,7:21,Korea,4,2,2_Pts_C,Chan Hee Park
+Q1,7:30,China,4,0,AS,Jiwei Zhao
+Q1,7:30,China,4,0,2_Pts_C,Xiaochuan Zhai
+Q1,7:51,China,2,0,RD,
+Q1,7:51,China,2,0,TO,Qi Zhou
+Q1,7:51,Korea,2,0,2_Pts_T,Guna RA
+Q1,7:56,Korea,2,0,RO,Guna RA
+Q1,7:56,Korea,2,0,,Junghyun Lee3pt jump shot missed
+Q1,8:05,China,2,0,,Xiaochuan Zhai3pt jump shot missed
+Q1,8:05,Korea,2,0,RD,Junghyun Lee
+Q1,8:16,China,2,0,RD,Jianlian Yi
+Q1,8:16,Korea,2,0,,Guna RA2pt jump shot missed
+Q1,8:28,Korea,2,0,RD,
+Q1,8:32,China,2,0,2_Pts_T,Jianlian Yi
+Q1,8:49,China,2,0,RD,Shuo Fang
+Q1,8:49,China,2,0,TO,Jianlian Yi
+Q1,8:49,Korea,2,0,,Guna RAdunk blocked
+Q1,9:02,China,2,0,FC,Xiaochuan Zhai
+Q1,9:02,Korea,2,0,FR,Heejong Yang
+Q1,9:10,China,2,0,AS,Qi Zhou
+Q1,9:10,China,2,0,,Xiaochuan Zhailayup made
+Q1,9:18,China,0,0,BR,Shuo Fang
+Q1,9:18,Korea,0,0,ER,Chan Hee Park
+Q1,9:32,China,0,0,ER ,
+Q1,9:32,China,0,0,,Shuo Fang3pt jump shot missed
+Q2,0:00,China,35,32,RD,
+Q2,0:00,Korea,35,32,,Guna RA3pt jump shot missed
+Q2,0:01,China,35,32,ER,Junfei Ren
+Q2,0:01,Korea,35,32,BR,Guna RA
+Q2,0:04,China,35,32,tempo_tecnico,
+Q2,0:04,Korea,35,32,substituicao_entra,Junyong Choi
+Q2,0:04,Korea,35,32,substituicao_sai,Hoon Heo
+Q2,0:16,China,35,32,RD,Ailun Guo
+Q2,0:16,Korea,35,32,,Sangjae Kang3pt jump shot missed
+Q2,0:38,China,35,32,,Jianlian Yi2pt jump shot made
+Q2,0:43,China,33,32,RO,Jianlian Yi
+Q2,0:43,China,33,32,,Jianlian Yi2pt jump shot missed
+Q2,0:56,China,33,32,RD,Junfei Ren
+Q2,0:56,Korea,33,32,,Hyogeun Jeong3pt jump shot missed
+Q2,10:00,Korea,19,18,muda_bola,
+Q2,1:07,China,33,32,AS,Jianlian Yi
+Q2,1:07,China,33,32,,Junfei Renlayup made
+Q2,1:26,China,31,31,substituicao_entra,Junfei Ren
+Q2,1:26,China,31,31,substituicao_sai,Zhelin Wang
+Q2,1:26,China,31,31,substituicao_entra,Jianlian Yi
+Q2,1:26,China,31,31,substituicao_sai,Qi Zhou
+Q2,1:26,China,31,31,substituicao_entra,Ailun Guo
+Q2,1:26,China,31,31,substituicao_sai,Xiaochuan Zhai
+Q2,1:26,China,31,31,FC,Zhelin Wang
+Q2,1:26,Korea,31,32,LL_Pts_T,Guna RA
+Q2,1:26,Korea,31,31,FR,Guna RA
+Q2,1:26,Korea,31,31,,Guna RA2pt jump shot made
+Q2,1:26,Korea,31,29,RO,Guna RA
+Q2,1:26,Korea,31,29,,Hyogeun Jeong3pt jump shot missed
+Q2,1:46,China,31,29,,Qi Zhou2pt jump shot missed
+Q2,1:46,Korea,31,29,RD,Sangjae Kang
+Q2,1:56,China,31,29,RD,Qi Zhou
+Q2,1:56,Korea,31,29,,Guna RA2pt jump shot missed
+Q2,2:02,China,31,29,,Zhelin Wangtip in missed
+Q2,2:02,Korea,31,29,RD,Hyogeun Jeong
+Q2,2:07,China,31,29,RO,Zhelin Wang
+Q2,2:07,China,31,29,,Zhelin Wangtip in missed
+Q2,2:15,China,31,29,RO,Zhelin Wang
+Q2,2:15,China,31,29,,Zhelin Wang2pt jump shot missed
+Q2,2:20,China,31,29,RO,Zhelin Wang
+Q2,2:20,China,31,29,2_Pts_T,Zhelin Wang
+Q2,2:39,China,31,29,RD,Qi Zhou
+Q2,2:39,Korea,31,29,2_Pts_T,Sunhyung Kim
+Q2,2:49,China,31,29,ER ,
+Q2,2:49,China,31,29,,Zhelin Wang2pt jump shot missed
+Q2,3:05,China,31,29,FR,Qi Zhou
+Q2,3:05,Korea,31,29,FC,Hyogeun Jeong
+Q2,3:12,China,31,29,RD,Xiaochuan Zhai
+Q2,3:12,Korea,31,29,2_Pts_T,Hoon Heo
+Q2,3:30,China,31,29,ER,Qi Zhou
+Q2,3:50,China,31,27,substituicao_entra,Zhelin Wang
+Q2,3:50,China,31,27,substituicao_sai,Jianlian Yi
+Q2,3:50,China,31,27,FC,Qi Zhou
+Q2,3:50,Korea,31,29,LL_Pts_C,Guna RA
+Q2,3:50,Korea,31,28,LL_Pts_C,Guna RA
+Q2,3:50,Korea,31,27,FR,Guna RA
+Q2,3:50,Korea,31,27,RO,
+Q2,3:50,Korea,31,27,,Sangjae Kang3pt jump shot missed
+Q2,4:06,China,31,27,LL_Pts_C,Rui Zhao
+Q2,4:06,China,30,27,LL_Pts_C,Rui Zhao
+Q2,4:06,China,29,27,FR,Rui Zhao
+Q2,4:06,Korea,29,27,FC,Sunhyung Kim
+Q2,4:16,China,29,27,FR,Jianlian Yi
+Q2,4:16,Korea,29,27,FC,Sangjae Kang
+Q2,4:20,China,29,27,RD,Qi Zhou
+Q2,4:20,Korea,29,27,,Guna RAlayup missed
+Q2,4:27,China,29,27,TO,Qi Zhou
+Q2,4:27,Korea,29,27,RO,Sangjae Kang
+Q2,4:27,Korea,29,27,2_Pts_T,Hoon Heo
+Q2,4:37,China,29,27,ER,Jianlian Yi
+Q2,4:57,China,29,25,substituicao_entra,Shuo Fang
+Q2,4:57,China,29,25,substituicao_sai,Jiwei Zhao
+Q2,4:57,China,29,25,tempo_tecnico,
+Q2,4:57,China,29,25,FC,Xiaochuan Zhai
+Q2,4:57,Korea,29,27,LL_Pts_C,Sunhyung Kim
+Q2,4:57,Korea,29,26,LL_Pts_C,Sunhyung Kim
+Q2,4:57,Korea,29,25,substituicao_entra,Sangjae Kang
+Q2,4:57,Korea,29,25,substituicao_sai,Seounghyun Lee
+Q2,4:57,Korea,29,25,FR,Sunhyung Kim
+Q2,4:59,China,29,25,ER,Jiwei Zhao
+Q2,4:59,Korea,29,25,BR,Sunhyung Kim
+Q2,5:14,China,29,25,RD,Qi Zhou
+Q2,5:14,Korea,29,25,2_Pts_T,Hyogeun Jeong
+Q2,5:28,China,29,25,FC,Jiwei Zhao
+Q2,5:28,Korea,29,25,FR,Hoon Heo
+Q2,5:40,China,29,25,substituicao_entra,Xiaochuan Zhai
+Q2,5:40,China,29,25,substituicao_sai,Ailun Guo
+Q2,5:40,China,29,25,,Qi Zhou3pt jump shot missed
+Q2,5:40,Korea,29,25,substituicao_entra,Hoon Heo
+Q2,5:40,Korea,29,25,substituicao_sai,Junghyun Lee
+Q2,5:40,Korea,29,25,RD,
+Q2,5:51,China,29,25,RD,Jianlian Yi
+Q2,5:51,Korea,29,25,,Junghyun Lee3pt jump shot missed
+Q2,6:04,China,29,25,,Ailun Guolayup missed
+Q2,6:04,Korea,29,25,RD,Guna RA
+Q2,6:13,China,29,25,RD,Jianlian Yi
+Q2,6:13,Korea,29,25,2_Pts_T,Guna RA
+Q2,6:22,China,29,25,substituicao_entra,Qi Zhou
+Q2,6:22,China,29,25,substituicao_sai,Junfei Ren
+Q2,6:22,China,29,25,FC,Junfei Ren
+Q2,6:22,Korea,29,25,substituicao_entra,Hyogeun Jeong
+Q2,6:22,Korea,29,25,substituicao_sai,Junyong Choi
+Q2,6:22,Korea,29,25,FR,Seounghyun Lee
+Q2,6:37,China,29,25,2_Pts_C,Ailun Guo
+Q2,6:55,China,27,25,RD,Jiwei Zhao
+Q2,6:55,Korea,27,25,3_Pts_T,Seounghyun Lee
+Q2,7:09,China,27,25,2_Pts_C,Ailun Guo
+Q2,7:22,China,25,23,FC,Jianlian Yi
+Q2,7:22,Korea,25,25,LL_Pts_C,Junghyun Lee
+Q2,7:22,Korea,25,24,LL_Pts_C,Junghyun Lee
+Q2,7:22,Korea,25,23,FR,Junghyun Lee
+Q2,7:28,China,25,23,substituicao_entra,Jiwei Zhao
+Q2,7:28,China,25,23,substituicao_sai,Zhelin Wang
+Q2,7:28,China,25,23,substituicao_entra,Jianlian Yi
+Q2,7:28,China,25,23,substituicao_sai,Minghui Sun
+Q2,7:28,China,25,23,FC,Rui Zhao
+Q2,7:28,Korea,25,23,FR,Seounghyun Lee
+Q2,7:33,Korea,25,23,RO,Junyong Choi
+Q2,7:33,Korea,25,23,,Sunhyung Kim3pt jump shot missed
+Q2,7:43,China,25,23,2_Pts_T,Minghui Sun
+Q2,7:43,Korea,25,23,RD,Guna RA
+Q2,8:02,Korea,25,23,AS,Sunhyung Kim
+Q2,8:02,Korea,25,23,3_Pts_C,Seounghyun Lee
+Q2,8:16,China,25,20,,Rui Zhaolayup made
+Q2,8:16,Korea,25,20,tempo_tecnico,
+Q2,8:19,China,23,20,BR,Ailun Guo
+Q2,8:19,Korea,23,20,ER,Guna RA
+Q2,8:43,China,23,20,AS,Junfei Ren
+Q2,8:43,China,23,20,2_Pts_C,Zhelin Wang
+Q2,8:53,China,21,20,RO,Ailun Guo
+Q2,8:53,China,21,20,2_Pts_T,Ailun Guo
+Q2,9:11,Korea,21,20,AS,Seounghyun Lee
+Q2,9:11,Korea,21,20,2_Pts_C,Guna RA
+Q2,9:31,China,21,18,2_Pts_C,Ailun Guo
+Q2,9:47,China,19,18,RD,Junfei Ren
+Q2,9:47,Korea,19,18,,Junyong Choi3pt jump shot missed
+Q3,0:00,Korea,54,52,,Sunhyung Kim3pt jump shot missed
+Q3,0:04,China,54,52,,Rui Zhaolayup missed
+Q3,0:04,Korea,54,52,RD,Guna RA
+Q3,0:30,China,54,50,substituicao_entra,Ailun Guo
+Q3,0:30,China,54,50,substituicao_sai,Jiwei Zhao
+Q3,0:30,China,54,50,FC,Jiwei Zhao
+Q3,0:30,Korea,54,52,LL_Pts_C,Sunhyung Kim
+Q3,0:30,Korea,54,51,LL_Pts_C,Sunhyung Kim
+Q3,0:30,Korea,54,50,FR,Sunhyung Kim
+Q3,0:41,China,54,50,,Rui Zhaolayup made
+Q3,0:48,China,52,50,RD,Qi Zhou
+Q3,0:48,China,52,49,FC,Jiwei Zhao
+Q3,0:48,Korea,52,50,LL_Pts_T,Junyong Choi
+Q3,0:48,Korea,52,50,LL_Pts_C,Junyong Choi
+Q3,0:48,Korea,52,49,FR,Junyong Choi
+Q3,10:00,China,35,32,muda_bola,
+Q3,1:02,China,52,49,LL_Pts_T,Qi Zhou
+Q3,1:02,China,52,49,AS,Jiwei Zhao
+Q3,1:02,China,52,49,LL_Pts_C,Qi Zhou
+Q3,1:02,China,51,49,FR,Qi Zhou
+Q3,1:02,Korea,52,49,RD,Guna RA
+Q3,1:02,Korea,51,49,FC,Guna RA
+Q3,1:10,China,51,49,substituicao_entra,Qi Zhou
+Q3,1:10,China,51,49,substituicao_sai,Zhelin Wang
+Q3,1:10,China,51,49,FR,Zhelin Wang
+Q3,1:10,China,51,49,RD,Zhelin Wang
+Q3,1:10,Korea,51,49,substituicao_entra,Sangjae Kang
+Q3,1:10,Korea,51,49,substituicao_sai,Seounghyun Lee
+Q3,1:10,Korea,51,49,FC,Junyong Choi
+Q3,1:10,Korea,51,49,,Guna RAtip in missed
+Q3,1:11,Korea,51,49,RO,Guna RA
+Q3,1:11,Korea,51,49,,Sunhyung Kimlayup missed
+Q3,1:20,China,51,49,,Shuo Fang3pt jump shot missed
+Q3,1:20,Korea,51,49,RD,Junyong Choi
+Q3,1:46,Korea,51,49,AS,Sunhyung Kim
+Q3,1:46,Korea,51,49,,Guna RAlayup made
+Q3,2:03,China,51,47,3_Pts_C,Shuo Fang
+Q3,2:28,China,48,46,substituicao_entra,Junfei Ren
+Q3,2:28,China,48,46,substituicao_sai,Jianlian Yi
+Q3,2:28,China,48,46,FC,Zhelin Wang
+Q3,2:28,Korea,48,47,AS,Sunhyung Kim
+Q3,2:28,Korea,48,47,LL_Pts_C,Junyong Choi
+Q3,2:28,Korea,48,46,LL_Pts_T,Junyong Choi
+Q3,2:28,Korea,48,46,FR,Junyong Choi
+Q3,2:34,China,48,46,2_Pts_T,Jianlian Yi
+Q3,2:34,Korea,48,46,RD,Seounghyun Lee
+Q3,3:01,Korea,48,46,2_Pts_C,Seounghyun Lee
+Q3,3:14,China,48,44,FC_O,Zhelin Wang
+Q3,3:14,Korea,48,44,FR,Junyong Choi
+Q3,3:20,China,48,44,RD,Jianlian Yi
+Q3,3:20,Korea,48,44,,Sunhyung Kim3pt jump shot missed
+Q3,3:33,China,48,44,ER,Jianlian Yi
+Q3,3:33,Korea,48,44,BR,Junghyun Lee
+Q3,3:47,Korea,48,44,2_Pts_C,Sunhyung Kim
+Q3,4:00,China,48,42,LL_Pts_C,Zhelin Wang
+Q3,4:00,China,47,42,AS,Jianlian Yi
+Q3,4:00,China,47,42,LL_Pts_C,Zhelin Wang
+Q3,4:00,China,46,42,FR,Zhelin Wang
+Q3,4:00,Korea,48,42,substituicao_entra,Junyong Choi
+Q3,4:00,Korea,48,42,substituicao_sai,Heejong Yang
+Q3,4:00,Korea,46,42,FC,Seounghyun Lee
+Q3,4:07,China,46,42,RD,Rui Zhao
+Q3,4:07,Korea,46,42,2_Pts_T,Guna RA
+Q3,4:17,Korea,46,42,RO,Sunhyung Kim
+Q3,4:17,Korea,46,42,3_Pts_T,Junghyun Lee
+Q3,4:30,China,46,41,FC_T,Rui Zhao
+Q3,4:30,Korea,46,42,LL_Pts_C,Seounghyun Lee
+Q3,4:30,Korea,46,41,substituicao_entra,Junghyun Lee
+Q3,4:30,Korea,46,41,substituicao_sai,Chan Hee Park
+Q3,4:38,China,46,41,,Jianlian Yidunk made
+Q3,4:38,China,44,41,RO,Jianlian Yi
+Q3,4:38,China,44,41,,Rui Zhaolayup missed
+Q3,4:44,China,44,41,BR,Rui Zhao
+Q3,4:44,Korea,44,41,ER,Chan Hee Park
+Q3,5:08,China,44,41,substituicao_entra,Zhelin Wang
+Q3,5:08,China,44,41,substituicao_sai,Qi Zhou
+Q3,5:08,China,44,41,substituicao_entra,Shuo Fang
+Q3,5:08,China,44,41,substituicao_sai,Ailun Guo
+Q3,5:08,China,44,41,FC,Ailun Guo
+Q3,5:08,China,44,41,2_Pts_T,Ailun Guo
+Q3,5:08,Korea,44,41,FR,Heejong Yang
+Q3,5:08,Korea,44,41,RD,Guna RA
+Q3,5:18,Korea,44,41,,Guna RAtip in made
+Q3,5:26,Korea,44,39,RO,Guna RA
+Q3,5:26,Korea,44,39,,Seounghyun Leelayup missed
+Q3,5:43,China,44,39,,Rui Zhaolayup made
+Q3,5:49,China,42,39,BR,Qi Zhou
+Q3,5:49,Korea,42,39,ER,Seounghyun Lee
+Q3,6:09,China,42,39,2_Pts_C,Jianlian Yi
+Q3,6:24,China,40,39,RD,Jiwei Zhao
+Q3,6:24,Korea,40,39,,Heejong Yang3pt jump shot missed
+Q3,6:37,China,40,39,ER,Jianlian Yi
+Q3,6:43,China,40,39,RD,Qi Zhou
+Q3,6:43,Korea,40,39,,Seounghyun Lee3pt jump shot missed
+Q3,6:53,China,40,39,AS,Ailun Guo
+Q3,6:53,China,40,39,LL_Pts_C,Qi Zhou
+Q3,6:53,China,39,39,LL_Pts_T,Qi Zhou
+Q3,6:53,China,39,39,substituicao_entra,Rui Zhao
+Q3,6:53,China,39,39,substituicao_sai,Xiaochuan Zhai
+Q3,6:53,China,39,39,FR,Qi Zhou
+Q3,6:53,Korea,39,39,FC,Heejong Yang
+Q3,7:14,Korea,39,39,AS,Chan Hee Park
+Q3,7:14,Korea,39,39,,Guna RA2pt jump shot made
+Q3,7:31,China,39,37,ER,Ailun Guo
+Q3,7:45,China,39,37,tempo_tecnico,
+Q3,7:45,Korea,39,37,AS,Heejong Yang
+Q3,7:45,Korea,39,37,,Guna RAdunk made
+Q3,7:50,China,39,35,,Jianlian Yi3pt jump shot missed
+Q3,7:50,Korea,39,35,RD,Heejong Yang
+Q3,8:05,Korea,39,35,AS,Chan Hee Park
+Q3,8:05,Korea,39,35,,Seounghyun Lee3pt jump shot made
+Q3,8:11,Korea,39,32,RO,Chan Hee Park
+Q3,8:11,Korea,39,32,3_Pts_T,Seounghyun Lee
+Q3,8:29,China,39,32,AS,Ailun Guo
+Q3,8:29,China,39,32,2_Pts_C,Qi Zhou
+Q3,8:29,Korea,39,32,tempo_tecnico,
+Q3,8:39,China,37,32,RD,Qi Zhou
+Q3,8:39,Korea,37,32,2_Pts_T,Chan Hee Park
+Q3,8:53,China,37,32,,Qi Zhou2pt jump shot made
+Q3,9:01,China,35,32,RO,Qi Zhou
+Q3,9:01,China,35,32,,Jianlian Yi2pt jump shot missed
+Q3,9:08,China,35,32,RO,Jianlian Yi
+Q3,9:08,China,35,32,2_Pts_T,Jianlian Yi
+Q3,9:16,China,35,32,RD,Jianlian Yi
+Q3,9:16,Korea,35,32,2_Pts_T,Sunhyung Kim
+Q3,9:27,Korea,35,32,RO,Sunhyung Kim
+Q3,9:27,Korea,35,32,,Seounghyun Lee3pt jump shot missed
+Q3,9:45,China,35,32,2_Pts_T,Xiaochuan Zhai
+Q3,9:45,Korea,35,32,RD,Seounghyun Lee
+Q4,0:04,China,77,73,RD,Jianlian Yi
+Q4,0:04,China,77,72,FC,Shuo Fang
+Q4,0:04,China,77,72,AS,Shuo Fang
+Q4,0:04,China,77,72,,Jiwei Zhaolayup made
+Q4,0:04,Korea,77,73,LL_Pts_T,Junyong Choi
+Q4,0:04,Korea,77,73,LL_Pts_C,Junyong Choi
+Q4,0:04,Korea,77,72,FR,Junyong Choi
+Q4,0:04,Korea,77,72,RO,
+Q4,0:04,Korea,77,72,,Sunhyung Kim3pt jump shot missed
+Q4,0:10,China,75,72,BR,Shuo Fang
+Q4,0:11,Korea,75,72,ER,Junghyun Lee
+Q4,0:19,China,75,71,FC,Jianlian Yi
+Q4,0:19,Korea,75,72,RO,Junghyun Lee
+Q4,0:19,Korea,75,72,LL_Pts_T,Guna RA
+Q4,0:19,Korea,75,72,LL_Pts_C,Guna RA
+Q4,0:19,Korea,75,71,FR,Guna RA
+Q4,0:19,Korea,75,71,RO,Guna RA
+Q4,0:19,Korea,75,71,,Junghyun Lee3pt jump shot missed
+Q4,0:39,China,75,71,,Ailun Guo3pt jump shot made
+Q4,0:58,China,72,71,BR,Jianlian Yi
+Q4,0:58,Korea,72,71,ER,Seounghyun Lee
+Q4,10:00,Korea,54,52,muda_bola,
+Q4,1:07,China,72,71,2_Pts_C,Ailun Guo
+Q4,1:07,Korea,72,71,tempo_tecnico,
+Q4,1:23,China,70,71,RD,Qi Zhou
+Q4,1:23,Korea,70,71,2_Pts_T,Sunhyung Kim
+Q4,1:28,Korea,70,71,RO,
+Q4,1:28,Korea,70,71,,Junyong Choi3pt jump shot missed
+Q4,1:43,China,70,70,substituicao_entra,Jiwei Zhao
+Q4,1:43,China,70,70,substituicao_sai,Rui Zhao
+Q4,1:43,China,70,70,FC_T,Rui Zhao
+Q4,1:43,Korea,70,71,LL_Pts_C,Seounghyun Lee
+Q4,1:49,China,70,70,ER,Jianlian Yi
+Q4,1:49,Korea,70,70,BR,Guna RA
+Q4,2:09,Korea,70,70,ER,Junghyun Lee
+Q4,2:19,China,70,70,AS,Ailun Guo
+Q4,2:19,China,70,70,2_Pts_C,Qi Zhou
+Q4,2:31,China,68,70,RO,Qi Zhou
+Q4,2:31,China,68,70,2_Pts_T,Qi Zhou
+Q4,2:31,Korea,68,70,TO,Junyong Choi
+Q4,2:47,China,68,70,BR,Qi Zhou
+Q4,2:47,Korea,68,70,ER,Sunhyung Kim
+Q4,2:56,China,68,70,ER,Shuo Fang
+Q4,2:56,Korea,68,70,BR,Guna RA
+Q4,3:18,Korea,68,70,AS,Guna RA
+Q4,3:18,Korea,68,70,,Junghyun Leelayup made
+Q4,3:36,China,68,68,,Shuo Fang3pt jump shot missed
+Q4,3:36,Korea,68,68,RD,Junghyun Lee
+Q4,3:57,China,68,68,RD,Qi Zhou
+Q4,3:57,China,68,68,TO,Jianlian Yi
+Q4,3:57,Korea,68,68,2_Pts_T,Guna RA
+Q4,4:14,China,68,68,2_Pts_C,Shuo Fang
+Q4,4:31,China,66,68,tempo_tecnico,
+Q4,4:34,Korea,66,68,2_Pts_C,Sunhyung Kim
+Q4,4:41,China,66,66,FC,Shuo Fang
+Q4,4:41,Korea,66,66,FR,Junghyun Lee
+Q4,4:42,Korea,66,66,RO,
+Q4,4:42,Korea,66,66,,Junghyun Lee3pt jump shot missed
+Q4,4:45,China,66,66,,Ailun Guolayup missed
+Q4,4:45,Korea,66,66,RD,Sunhyung Kim
+Q4,4:50,China,66,66,BR,Ailun Guo
+Q4,4:50,Korea,66,66,ER,Guna RA
+Q4,4:58,China,66,66,3_Pts_T,Jianlian Yi
+Q4,4:58,Korea,66,66,RD,Seounghyun Lee
+Q4,5:08,China,66,66,substituicao_entra,Jianlian Yi
+Q4,5:08,China,66,66,substituicao_sai,Junfei Ren
+Q4,5:08,China,66,66,FR,Qi Zhou
+Q4,5:08,China,66,66,RO,
+Q4,5:08,China,66,66,,Ailun Guo2pt jump shot missed
+Q4,5:08,Korea,66,66,FC,Junghyun Lee
+Q4,5:24,Korea,66,66,2_Pts_C,Seounghyun Lee
+Q4,5:41,China,66,64,AS,Ailun Guo
+Q4,5:41,China,66,64,,Rui Zhao3pt jump shot made
+Q4,6:12,Korea,63,64,AS,Guna RA
+Q4,6:12,Korea,63,64,2_Pts_C,Sunhyung Kim
+Q4,6:31,China,63,62,2_Pts_C,Ailun Guo
+Q4,6:54,Korea,61,62,AS,Sunhyung Kim
+Q4,6:54,Korea,61,62,,Junyong Choi3pt jump shot made
+Q4,7:07,China,61,59,ER,Rui Zhao
+Q4,7:11,China,61,59,RO,Qi Zhou
+Q4,7:11,China,61,59,3_Pts_T,Ailun Guo
+Q4,7:20,China,61,59,FR,Qi Zhou
+Q4,7:20,Korea,61,59,FC,Junghyun Lee
+Q4,7:38,Korea,61,59,,Sunhyung Kim3pt jump shot made
+Q4,7:44,China,61,55,FC,Junfei Ren
+Q4,7:44,Korea,61,56,RO,Sunhyung Kim
+Q4,7:44,Korea,61,56,LL_Pts_T,Sunhyung Kim
+Q4,7:44,Korea,61,56,LL_Pts_C,Sunhyung Kim
+Q4,7:44,Korea,61,55,substituicao_entra,Seounghyun Lee
+Q4,7:44,Korea,61,55,substituicao_sai,Sangjae Kang
+Q4,7:44,Korea,61,55,FR,Sunhyung Kim
+Q4,7:54,China,61,55,,Ailun Guo3pt jump shot made
+Q4,8:12,China,58,55,RD,Junfei Ren
+Q4,8:12,Korea,58,55,2_Pts_T,Junghyun Lee
+Q4,8:19,China,58,55,FC,Shuo Fang
+Q4,8:19,Korea,58,55,FR,Junghyun Lee
+Q4,8:34,China,58,55,AS,Ailun Guo
+Q4,8:34,China,58,55,2_Pts_C,Qi Zhou
+Q4,8:34,Korea,58,55,tempo_tecnico,
+Q4,8:50,China,56,55,RD,Qi Zhou
+Q4,8:50,Korea,56,55,,Sunhyung Kim3pt jump shot missed
+Q4,9:11,China,56,55,2_Pts_C,Qi Zhou
+Q4,9:25,China,54,55,BR,Shuo Fang
+Q4,9:25,Korea,54,55,ER,Sunhyung Kim
+Q4,9:33,China,54,55,,Ailun Guo3pt jump shot missed
+Q4,9:33,Korea,54,55,RD,Sunhyung Kim
+Q4,9:46,Korea,54,55,AS,Guna RA
+Q4,9:46,Korea,54,55,,Junyong Choi3pt jump shot made

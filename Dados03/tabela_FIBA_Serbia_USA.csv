@@ -1,0 +1,506 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:04,Serbia,32,7,3_Pts_C,Nemanja Bjelica
+Q1,0:20,Serbia,29,7,RD,Nemanja Bjelica
+Q1,0:20,USA,29,7,2_Pts_T,Jaylen Brown
+Q1,0:24,USA,29,7,RO,Jaylen Brown
+Q1,0:24,USA,29,7,,Jaylen Brown2pt jump shot missed
+Q1,0:42,Serbia,29,7,AS,Nemanja Bjelica
+Q1,0:42,Serbia,29,7,,Vasilije Micic3pt jump shot made
+Q1,10:00,Serbia,0,0,inicio_quarto,Nikola Milutinov
+Q1,1:11,USA,26,7,2_Pts_C,Khris Middleton
+Q1,1:22,Serbia,26,5,2_Pts_T,Boban Marjanovic
+Q1,1:22,USA,26,5,RD,Khris Middleton
+Q1,1:36,Serbia,26,5,RD,Marko Simonovic
+Q1,1:36,USA,26,5,,Brook Lopez3pt jump shot missed
+Q1,1:46,Serbia,26,5,,Bogdan Bogdanovic3pt jump shot missed
+Q1,1:46,USA,26,5,RD,Brook Lopez
+Q1,2:03,Serbia,26,5,RD,Marko Simonovic
+Q1,2:03,USA,26,5,2_Pts_T,Khris Middleton
+Q1,2:06,Serbia,26,5,substituicao_entra,Bogdan Bogdanovic
+Q1,2:06,Serbia,26,5,substituicao_sai,Stefan Jovic
+Q1,2:06,Serbia,26,5,FC,Boban Marjanovic
+Q1,2:06,USA,26,5,FR,Khris Middleton
+Q1,2:18,Serbia,26,5,,Stefan Jovic3pt jump shot made
+Q1,2:34,Serbia,23,5,RD,Boban Marjanovic
+Q1,2:34,USA,23,5,,Brook Lopez3pt jump shot missed
+Q1,2:43,Serbia,23,5,substituicao_entra,Marko Simonovic
+Q1,2:43,Serbia,23,5,substituicao_sai,Vladimir Lucic
+Q1,2:43,Serbia,23,5,ER,Vladimir Lucic
+Q1,3:02,Serbia,23,5,RD,Boban Marjanovic
+Q1,3:02,USA,23,5,,Jaylen Brown2pt jump shot missed
+Q1,3:05,Serbia,23,5,substituicao_entra,Nemanja Bjelica
+Q1,3:05,Serbia,23,5,substituicao_sai,Nikola Jokic
+Q1,3:05,Serbia,23,5,FC,Nikola Jokic
+Q1,3:05,USA,23,5,substituicao_entra,Joe Harris
+Q1,3:05,USA,23,5,substituicao_sai,Mason Plumlee
+Q1,3:05,USA,23,5,substituicao_entra,Jaylen Brown
+Q1,3:05,USA,23,5,substituicao_sai,Donovan Mitchell
+Q1,3:05,USA,23,5,FR,Brook Lopez
+Q1,3:24,Serbia,23,5,AS,Nikola Jokic
+Q1,3:24,Serbia,23,5,,Vasilije Micic3pt jump shot made
+Q1,3:36,Serbia,20,5,RD,Vasilije Micic
+Q1,3:36,USA,20,5,3_Pts_T,Donovan Mitchell
+Q1,3:50,USA,20,5,RD,
+Q1,3:54,Serbia,20,5,,Vasilije Micic2pt jump shot missed
+Q1,4:10,USA,20,5,substituicao_entra,Derrick White
+Q1,4:10,USA,20,5,substituicao_sai,Kemba Walker
+Q1,4:10,USA,20,5,ER,Kemba Walker
+Q1,4:29,Serbia,20,5,LL_Pts_C,Vladimir Lucic
+Q1,4:29,Serbia,19,5,LL_Pts_C,Vladimir Lucic
+Q1,4:29,Serbia,18,5,AS,Vasilije Micic
+Q1,4:29,Serbia,18,5,LL_Pts_C,Vladimir Lucic
+Q1,4:29,Serbia,17,5,substituicao_entra,Boban Marjanovic
+Q1,4:29,Serbia,17,5,substituicao_sai,Nikola Milutinov
+Q1,4:29,Serbia,17,5,FR,Vladimir Lucic
+Q1,4:29,USA,17,5,FC,Donovan Mitchell
+Q1,4:42,Serbia,17,5,BR,Stefan Jovic
+Q1,4:42,USA,17,5,ER,Kemba Walker
+Q1,5:01,USA,17,5,substituicao_entra,Khris Middleton
+Q1,5:01,USA,17,5,substituicao_sai,Harrison Barnes
+Q1,5:01,USA,17,5,substituicao_entra,Mason Plumlee
+Q1,5:01,USA,17,5,substituicao_sai,Joe Harris
+Q1,5:10,Serbia,17,5,LL_Pts_C,Vladimir Lucic
+Q1,5:10,Serbia,16,5,LL_Pts_C,Vladimir Lucic
+Q1,5:10,Serbia,15,5,AS,Nikola Jokic
+Q1,5:10,Serbia,15,5,LL_Pts_C,Vladimir Lucic
+Q1,5:10,Serbia,14,5,FR,Vladimir Lucic
+Q1,5:10,USA,14,5,FC,Joe Harris
+Q1,5:27,Serbia,14,5,substituicao_entra,Vasilije Micic
+Q1,5:27,Serbia,14,5,substituicao_sai,Bogdan Bogdanovic
+Q1,5:27,USA,14,5,substituicao_entra,Brook Lopez
+Q1,5:27,USA,14,5,substituicao_sai,Myles Turner
+Q1,5:40,Serbia,14,5,RD,Vladimir Lucic
+Q1,5:40,USA,14,5,,Harrison Barnes3pt jump shot missed
+Q1,5:58,Serbia,14,5,AS,Nikola Milutinov
+Q1,5:58,Serbia,14,5,,Bogdan Bogdanovic3pt jump shot made
+Q1,6:18,Serbia,11,5,RD,Bogdan Bogdanovic
+Q1,6:18,USA,11,5,,Harrison Barnes3pt jump shot missed
+Q1,6:20,Serbia,11,5,FC,Vladimir Lucic
+Q1,6:20,USA,11,5,FR,Kemba Walker
+Q1,6:30,Serbia,11,5,ER,Stefan Jovic
+Q1,6:30,USA,11,5,BR,Kemba Walker
+Q1,6:50,USA,11,5,,Kemba Walker3pt jump shot made
+Q1,7:08,Serbia,11,2,AS,Nikola Jokic
+Q1,7:08,Serbia,11,2,3_Pts_C,Bogdan Bogdanovic
+Q1,7:08,USA,11,2,tempo_tecnico,
+Q1,7:19,Serbia,8,2,RD,Bogdan Bogdanovic
+Q1,7:19,USA,8,2,2_Pts_T,Donovan Mitchell
+Q1,7:25,Serbia,8,2,AS,Stefan Jovic
+Q1,7:25,Serbia,8,2,,Bogdan Bogdanovic3pt jump shot made
+Q1,7:34,Serbia,5,2,BR,Stefan Jovic
+Q1,7:34,USA,5,2,ER,Joe Harris
+Q1,7:43,Serbia,5,2,,Nikola Milutinovalley oop missed
+Q1,7:43,USA,5,2,RD,Joe Harris
+Q1,7:52,Serbia,5,2,RD,Nikola Milutinov
+Q1,7:52,USA,5,2,,Joe Harris2pt jump shot missed
+Q1,8:00,Serbia,5,2,2_Pts_T,Stefan Jovic
+Q1,8:00,USA,5,2,RD,Joe Harris
+Q1,8:00,USA,5,2,TO,Myles Turner
+Q1,8:17,Serbia,5,2,RD,
+Q1,8:19,USA,5,2,,Kemba Walker3pt jump shot missed
+Q1,8:42,Serbia,5,2,AS,Nikola Milutinov
+Q1,8:42,Serbia,5,2,,Bogdan Bogdanovic3pt jump shot made
+Q1,8:51,Serbia,2,2,RD,Nikola Jokic
+Q1,8:51,USA,2,2,2_Pts_T,Myles Turner
+Q1,9:05,Serbia,2,2,AS,Bogdan Bogdanovic
+Q1,9:05,Serbia,2,2,,Nikola Milutinovdunk made
+Q1,9:27,USA,0,2,AS,Kemba Walker
+Q1,9:27,USA,0,2,,Myles Turner2pt jump shot made
+Q1,9:37,Serbia,0,0,FC,Nikola Jokic
+Q1,9:37,USA,0,0,FR,Harrison Barnes
+Q1,9:42,Serbia,0,0,ER,Bogdan Bogdanovic
+Q1,9:42,USA,0,0,BR,Donovan Mitchell
+Q2,0:03,Serbia,44,40,RO,Stefan Jovic
+Q2,0:03,Serbia,44,40,3_Pts_T,Nemanja Bjelica
+Q2,0:17,USA,44,40,2_Pts_C,Myles Turner
+Q2,0:39,Serbia,44,38,LL_Pts_T,Nikola Jokic
+Q2,0:39,Serbia,44,38,LL_Pts_C,Nikola Jokic
+Q2,0:39,Serbia,43,38,substituicao_entra,Stefan Jovic
+Q2,0:39,Serbia,43,38,substituicao_sai,Vasilije Micic
+Q2,0:39,Serbia,43,38,FR,Nikola Jokic
+Q2,0:39,USA,44,38,RD,Khris Middleton
+Q2,0:39,USA,43,38,FC,Myles Turner
+Q2,10:00,USA,32,7,muda_bola,
+Q2,1:05,USA,43,38,AS,Kemba Walker
+Q2,1:05,USA,43,38,3_Pts_C,Khris Middleton
+Q2,1:14,Serbia,43,35,2_Pts_T,Vasilije Micic
+Q2,1:14,USA,43,35,TO,Kemba Walker
+Q2,1:14,USA,43,35,RD,Kemba Walker
+Q2,1:39,USA,43,35,AS,Harrison Barnes
+Q2,1:39,USA,43,35,3_Pts_C,Myles Turner
+Q2,1:54,Serbia,43,32,AS,Vasilije Micic
+Q2,1:54,Serbia,43,32,2_Pts_C,Nikola Jokic
+Q2,2:07,USA,41,32,AS,Donovan Mitchell
+Q2,2:07,USA,41,32,2_Pts_C,Harrison Barnes
+Q2,2:24,Serbia,41,30,substituicao_entra,Nikola Jokic
+Q2,2:24,Serbia,41,30,substituicao_sai,Nikola Milutinov
+Q2,2:24,Serbia,41,30,LL_Pts_C,Nikola Milutinov
+Q2,2:24,Serbia,40,30,FR,Nikola Milutinov
+Q2,2:24,Serbia,40,30,AS,Bogdan Bogdanovic
+Q2,2:24,Serbia,40,30,,Nikola Milutinovlayup made
+Q2,2:24,USA,40,30,FC,Donovan Mitchell
+Q2,2:42,USA,38,30,AS,Harrison Barnes
+Q2,2:42,USA,38,30,2_Pts_C,Kemba Walker
+Q2,2:48,Serbia,38,28,,Vasilije Micic3pt jump shot missed
+Q2,2:48,USA,38,28,RD,Harrison Barnes
+Q2,3:01,USA,38,28,2_Pts_C,Khris Middleton
+Q2,3:15,Serbia,38,26,,Nemanja Bjelicadunk made
+Q2,3:39,Serbia,36,26,substituicao_entra,Bogdan Bogdanovic
+Q2,3:39,Serbia,36,26,substituicao_sai,Stefan Jovic
+Q2,3:39,Serbia,36,26,tempo_tecnico,
+Q2,3:39,USA,36,26,AS,Kemba Walker
+Q2,3:39,USA,36,26,,Myles Turnerdunk made
+Q2,3:48,Serbia,36,24,3_Pts_T,Vasilije Micic
+Q2,3:48,USA,36,24,RD,Kemba Walker
+Q2,4:15,USA,36,24,AS,Donovan Mitchell
+Q2,4:15,USA,36,24,,Khris Middleton3pt jump shot made
+Q2,4:41,Serbia,36,21,ER,Vasilije Micic
+Q2,4:55,USA,36,21,2_Pts_C,Harrison Barnes
+Q2,5:06,Serbia,36,19,,Nemanja Bjelica3pt jump shot missed
+Q2,5:06,USA,36,19,RD,Donovan Mitchell
+Q2,5:08,Serbia,36,19,FR,Vasilije Micic
+Q2,5:08,USA,36,19,substituicao_entra,Khris Middleton
+Q2,5:08,USA,36,19,substituicao_sai,Jaylen Brown
+Q2,5:08,USA,36,19,FC,Jaylen Brown
+Q2,5:17,Serbia,36,19,RD,Vasilije Micic
+Q2,5:17,USA,36,19,3_Pts_T,Myles Turner
+Q2,5:25,Serbia,36,19,2_Pts_T,Vladimir Lucic
+Q2,5:25,USA,36,19,RD,Jaylen Brown
+Q2,5:48,Serbia,36,19,RD,Vladimir Lucic
+Q2,5:48,Serbia,36,18,substituicao_entra,Vladimir Lucic
+Q2,5:48,Serbia,36,18,substituicao_sai,Bogdan Bogdanovic
+Q2,5:48,Serbia,36,18,substituicao_entra,Vasilije Micic
+Q2,5:48,Serbia,36,18,substituicao_sai,Marko Simonovic
+Q2,5:48,Serbia,36,18,FC,Nikola Milutinov
+Q2,5:48,USA,36,19,LL_Pts_T,Kemba Walker
+Q2,5:48,USA,36,19,AS,Donovan Mitchell
+Q2,5:48,USA,36,19,LL_Pts_C,Kemba Walker
+Q2,5:48,USA,36,18,FR,Kemba Walker
+Q2,5:58,Serbia,36,18,,Marko Simonovic3pt jump shot missed
+Q2,5:58,USA,36,18,RD,Myles Turner
+Q2,6:12,Serbia,36,18,RD,Stefan Jovic
+Q2,6:12,Serbia,36,18,TO,Stefan Jovic
+Q2,6:12,USA,36,18,2_Pts_T,Kemba Walker
+Q2,6:31,Serbia,36,18,2_Pts_C,Stefan Jovic
+Q2,6:53,USA,34,18,2_Pts_C,Kemba Walker
+Q2,7:11,Serbia,34,16,FC,Marko Simonovic
+Q2,7:11,USA,34,16,FR,Kemba Walker
+Q2,7:12,Serbia,34,16,2_Pts_T,Nikola Milutinov
+Q2,7:12,USA,34,16,RD,Kemba Walker
+Q2,7:34,Serbia,34,16,tempo_tecnico,
+Q2,7:36,USA,34,16,2_Pts_C,Donovan Mitchell
+Q2,7:46,Serbia,34,14,,Bogdan Bogdanovic3pt jump shot missed
+Q2,7:46,USA,34,14,RD,Myles Turner
+Q2,7:48,Serbia,34,14,FR,Nikola Milutinov
+Q2,7:48,USA,34,14,FC,Jaylen Brown
+Q2,7:53,Serbia,34,14,FR,Nikola Milutinov
+Q2,7:53,USA,34,14,FC,Jaylen Brown
+Q2,7:57,Serbia,34,14,RO,Marko Simonovic
+Q2,7:57,Serbia,34,14,,Marko Simonoviclayup missed
+Q2,8:00,Serbia,34,14,RO,Marko Simonovic
+Q2,8:00,Serbia,34,14,LL_Pts_T,Nikola Milutinov
+Q2,8:00,Serbia,34,14,LL_Pts_T,Nikola Milutinov
+Q2,8:00,Serbia,34,14,FR,Nikola Milutinov
+Q2,8:00,USA,34,14,substituicao_entra,Myles Turner
+Q2,8:00,USA,34,14,substituicao_sai,Mason Plumlee
+Q2,8:00,USA,34,14,substituicao_entra,Harrison Barnes
+Q2,8:00,USA,34,14,substituicao_sai,Joe Harris
+Q2,8:00,USA,34,14,FC,Joe Harris
+Q2,8:19,USA,34,14,AS,Mason Plumlee
+Q2,8:19,USA,34,14,,Donovan Mitchell2pt jump shot made
+Q2,8:26,Serbia,34,12,substituicao_entra,Nikola Milutinov
+Q2,8:26,Serbia,34,12,substituicao_sai,Boban Marjanovic
+Q2,8:26,Serbia,34,10,FC_A,Nemanja Bjelica
+Q2,8:26,Serbia,34,10,FC,Nemanja Bjelica
+Q2,8:26,USA,34,12,substituicao_entra,Kemba Walker
+Q2,8:26,USA,34,12,substituicao_sai,Khris Middleton
+Q2,8:26,USA,34,12,substituicao_entra,Donovan Mitchell
+Q2,8:26,USA,34,12,substituicao_sai,Derrick White
+Q2,8:26,USA,34,12,LL_Pts_C,Mason Plumlee
+Q2,8:26,USA,34,11,LL_Pts_C,Mason Plumlee
+Q2,8:26,USA,34,10,FR,Mason Plumlee
+Q2,8:26,USA,34,10,FR,Mason Plumlee
+Q2,8:27,USA,34,10,RO,Mason Plumlee
+Q2,8:27,USA,34,10,2_Pts_T,Jaylen Brown
+Q2,8:35,Serbia,34,10,substituicao_entra,Stefan Jovic
+Q2,8:35,Serbia,34,10,substituicao_sai,Vasilije Micic
+Q2,8:46,Serbia,34,10,2_Pts_C,Bogdan Bogdanovic
+Q2,8:54,Serbia,32,10,RD,Bogdan Bogdanovic
+Q2,8:54,USA,32,10,2_Pts_T,Joe Harris
+Q2,9:13,USA,32,10,RD,
+Q2,9:13,USA,32,10,2_Pts_T,Derrick White
+Q2,9:25,USA,32,10,RD,
+Q2,9:27,Serbia,32,10,,Bogdan Bogdanovic3pt jump shot missed
+Q2,9:46,USA,32,10,AS,Mason Plumlee
+Q2,9:46,USA,32,10,,Jaylen Brown3pt jump shot made
+Q3,0:00,Serbia,71,68,,Vasilije Micic3pt jump shot missed
+Q3,0:00,USA,71,68,RD,Brook Lopez
+Q3,0:19,Serbia,71,68,RO,Nemanja Bjelica
+Q3,0:19,Serbia,71,68,3_Pts_T,Bogdan Bogdanovic
+Q3,0:36,Serbia,71,66,FC,Boban Marjanovic
+Q3,0:36,USA,71,68,substituicao_entra,Harrison Barnes
+Q3,0:36,USA,71,68,substituicao_sai,Jaylen Brown
+Q3,0:36,USA,71,68,LL_Pts_C,Brook Lopez
+Q3,0:36,USA,71,67,AS,Khris Middleton
+Q3,0:36,USA,71,67,LL_Pts_C,Brook Lopez
+Q3,0:36,USA,71,66,FR,Brook Lopez
+Q3,0:49,Serbia,71,66,AS,Bogdan Bogdanovic
+Q3,0:49,Serbia,71,66,2_Pts_C,Boban Marjanovic
+Q3,10:00,Serbia,44,40,muda_bola,
+Q3,1:06,Serbia,69,66,substituicao_entra,Stefan Jovic
+Q3,1:06,Serbia,69,66,substituicao_sai,Vladimir Lucic
+Q3,1:06,Serbia,69,66,tempo_tecnico,
+Q3,1:06,USA,69,66,,Khris Middletondunk made
+Q3,1:08,Serbia,69,64,ER,Nemanja Bjelica
+Q3,1:08,USA,69,64,BR,Khris Middleton
+Q3,1:23,Serbia,69,63,FC,Nemanja Bjelica
+Q3,1:23,USA,69,64,LL_Pts_C,Jaylen Brown
+Q3,1:23,USA,69,63,LL_Pts_T,Jaylen Brown
+Q3,1:23,USA,69,63,substituicao_entra,Brook Lopez
+Q3,1:23,USA,69,63,substituicao_sai,Mason Plumlee
+Q3,1:23,USA,69,63,FR,Jaylen Brown
+Q3,1:23,USA,69,63,RO,Jaylen Brown
+Q3,1:23,USA,69,63,2_Pts_T,Khris Middleton
+Q3,1:31,USA,69,63,RO,Joe Harris
+Q3,1:31,USA,69,63,,Derrick White3pt jump shot missed
+Q3,1:45,Serbia,69,63,AS,Bogdan Bogdanovic
+Q3,1:45,Serbia,69,63,,Boban Marjanovic2pt jump shot made
+Q3,2:03,USA,67,63,2_Pts_C,Derrick White
+Q3,2:16,Serbia,67,61,AS,Bogdan Bogdanovic
+Q3,2:16,Serbia,67,61,,Vladimir Lucic3pt jump shot made
+Q3,2:19,USA,64,61,substituicao_entra,Joe Harris
+Q3,2:19,USA,64,61,substituicao_sai,Donovan Mitchell
+Q3,2:32,Serbia,64,61,RD,Bogdan Bogdanovic
+Q3,2:32,USA,64,61,,Donovan Mitchell3pt jump shot missed
+Q3,2:45,Serbia,64,61,substituicao_entra,Nemanja Bjelica
+Q3,2:45,Serbia,64,61,substituicao_sai,Nikola Jokic
+Q3,2:45,USA,64,61,substituicao_entra,Derrick White
+Q3,2:45,USA,64,61,substituicao_sai,Kemba Walker
+Q3,2:45,USA,64,61,RO,
+Q3,2:47,USA,64,61,,Jaylen Brown3pt jump shot missed
+Q3,3:10,Serbia,64,61,2_Pts_T,Nikola Jokic
+Q3,3:10,USA,64,61,RD,Khris Middleton
+Q3,3:38,USA,64,61,2_Pts_C,Khris Middleton
+Q3,3:47,Serbia,64,59,AS,Vladimir Lucic
+Q3,3:47,Serbia,64,59,,Bogdan Bogdanovic3pt jump shot made
+Q3,3:51,Serbia,61,59,FR,Nikola Jokic
+Q3,3:51,USA,61,59,FC,Khris Middleton
+Q3,3:59,Serbia,61,59,RO,Vladimir Lucic
+Q3,3:59,Serbia,61,59,3_Pts_T,Bogdan Bogdanovic
+Q3,4:09,Serbia,61,59,substituicao_entra,Vasilije Micic
+Q3,4:09,Serbia,61,59,substituicao_sai,Stefan Jovic
+Q3,4:24,USA,61,59,AS,Kemba Walker
+Q3,4:24,USA,61,59,,Donovan Mitchell3pt jump shot made
+Q3,4:36,Serbia,61,56,2_Pts_T,Boban Marjanovic
+Q3,4:36,USA,61,56,RD,Mason Plumlee
+Q3,4:55,USA,61,56,,Kemba Walker3pt jump shot made
+Q3,5:06,Serbia,61,53,,Stefan Jovic3pt jump shot missed
+Q3,5:06,USA,61,53,RD,Mason Plumlee
+Q3,5:11,Serbia,61,53,FR,Bogdan Bogdanovic
+Q3,5:11,USA,61,53,FC,Donovan Mitchell
+Q3,5:13,Serbia,61,53,substituicao_entra,Boban Marjanovic
+Q3,5:13,Serbia,61,53,substituicao_sai,Nikola Milutinov
+Q3,5:13,Serbia,61,53,FR,Nikola Milutinov
+Q3,5:13,USA,61,53,substituicao_entra,Jaylen Brown
+Q3,5:13,USA,61,53,substituicao_sai,Harrison Barnes
+Q3,5:13,USA,61,53,substituicao_entra,Donovan Mitchell
+Q3,5:13,USA,61,53,substituicao_sai,Joe Harris
+Q3,5:13,USA,61,53,FC,Khris Middleton
+Q3,5:33,USA,61,53,2_Pts_C,Kemba Walker
+Q3,5:43,Serbia,61,51,AS,Stefan Jovic
+Q3,5:43,Serbia,61,51,,Bogdan Bogdanovic3pt jump shot made
+Q3,5:53,Serbia,58,51,RD,Vladimir Lucic
+Q3,5:53,USA,58,51,,Khris Middleton3pt jump shot missed
+Q3,6:05,Serbia,58,51,AS,Nikola Jokic
+Q3,6:05,Serbia,58,51,2_Pts_C,Stefan Jovic
+Q3,6:17,Serbia,56,51,RO,Nikola Milutinov
+Q3,6:17,Serbia,56,51,,Bogdan Bogdanovic3pt jump shot missed
+Q3,6:31,Serbia,56,49,FC,Vladimir Lucic
+Q3,6:31,USA,56,51,substituicao_entra,Mason Plumlee
+Q3,6:31,USA,56,51,substituicao_sai,Myles Turner
+Q3,6:31,USA,56,51,LL_Pts_C,Harrison Barnes
+Q3,6:31,USA,56,50,LL_Pts_C,Harrison Barnes
+Q3,6:31,USA,56,49,FR,Harrison Barnes
+Q3,6:45,Serbia,56,49,AS,Stefan Jovic
+Q3,6:45,Serbia,56,49,,Bogdan Bogdanovic3pt jump shot made
+Q3,7:01,Serbia,53,47,FC,Nikola Jokic
+Q3,7:01,USA,53,49,LL_Pts_C,Harrison Barnes
+Q3,7:01,USA,53,48,AS,Joe Harris
+Q3,7:01,USA,53,48,LL_Pts_C,Harrison Barnes
+Q3,7:01,USA,53,47,FR,Harrison Barnes
+Q3,7:10,Serbia,53,47,FC,Stefan Jovic
+Q3,7:10,USA,53,47,substituicao_entra,Khris Middleton
+Q3,7:10,USA,53,47,substituicao_sai,Donovan Mitchell
+Q3,7:10,USA,53,47,FR,Kemba Walker
+Q3,7:18,Serbia,53,47,,Nikola Jokic2pt jump shot made
+Q3,7:40,USA,51,47,2_Pts_C,Harrison Barnes
+Q3,7:47,Serbia,51,45,ER,Bogdan Bogdanovic
+Q3,7:47,USA,51,45,BR,Joe Harris
+Q3,8:03,Serbia,51,45,RD,Nikola Jokic
+Q3,8:03,USA,51,45,,Myles Turner3pt jump shot missed
+Q3,8:10,Serbia,51,45,FC,Vladimir Lucic
+Q3,8:10,USA,51,45,FR,Joe Harris
+Q3,8:14,Serbia,51,45,FC,Stefan Jovic
+Q3,8:14,USA,51,45,FR,Kemba Walker
+Q3,8:22,Serbia,51,45,AS,Nikola Jokic
+Q3,8:22,Serbia,51,45,,Nikola Milutinovdunk made
+Q3,8:33,Serbia,49,45,FR,Nikola Jokic
+Q3,8:33,USA,49,45,FC,Harrison Barnes
+Q3,8:47,USA,49,45,AS,Harrison Barnes
+Q3,8:47,USA,49,45,,Joe Harris3pt jump shot made
+Q3,8:57,Serbia,49,42,AS,Nikola Jokic
+Q3,8:57,Serbia,49,42,,Vladimir Lucic3pt jump shot made
+Q3,9:10,USA,46,42,2_Pts_C,Donovan Mitchell
+Q3,9:20,USA,46,40,RO,Donovan Mitchell
+Q3,9:20,USA,46,40,,Harrison Barnes2pt jump shot missed
+Q3,9:22,Serbia,46,40,FC,Nikola Milutinov
+Q3,9:22,USA,46,40,FR,Donovan Mitchell
+Q3,9:32,USA,46,40,RO,Harrison Barnes
+Q3,9:32,USA,46,40,,Donovan Mitchell3pt jump shot missed
+Q3,9:45,Serbia,46,40,2_Pts_C,Stefan Jovic
+Q4,0:11,Serbia,94,88,substituicao_entra,Vladimir Lucic
+Q4,0:11,Serbia,94,88,substituicao_sai,Stefan Jovic
+Q4,0:11,Serbia,94,88,FC,Stefan Jovic
+Q4,0:11,USA,94,89,LL_Pts_C,Myles Turner
+Q4,0:11,USA,94,88,LL_Pts_T,Myles Turner
+Q4,0:11,USA,94,88,FR,Myles Turner
+Q4,0:11,USA,94,88,RO,Myles Turner
+Q4,0:11,USA,94,88,,Kemba Walker3pt jump shot missed
+Q4,0:20,Serbia,94,88,LL_Pts_C,Nikola Jokic
+Q4,0:20,Serbia,93,88,LL_Pts_C,Nikola Jokic
+Q4,0:20,Serbia,92,88,FR,Nikola Jokic
+Q4,0:20,USA,94,88,substituicao_entra,Kemba Walker
+Q4,0:20,USA,94,88,substituicao_sai,Khris Middleton
+Q4,0:20,USA,94,88,tempo_tecnico,
+Q4,0:20,USA,92,88,FC,Myles Turner
+Q4,0:27,Serbia,92,87,FC,Stefan Jovic
+Q4,0:27,USA,92,88,LL_Pts_C,Joe Harris
+Q4,0:27,USA,92,87,LL_Pts_T,Joe Harris
+Q4,0:27,USA,92,87,FR,Joe Harris
+Q4,0:30,USA,92,87,substituicao_entra,Donovan Mitchell
+Q4,0:30,USA,92,87,substituicao_sai,Kemba Walker
+Q4,0:42,Serbia,92,87,LL_Pts_C,Bogdan Bogdanovic
+Q4,0:42,Serbia,91,87,LL_Pts_T,Bogdan Bogdanovic
+Q4,0:42,Serbia,91,87,FR,Bogdan Bogdanovic
+Q4,0:42,USA,91,87,FC,Kemba Walker
+Q4,0:59,USA,91,87,AS,Harrison Barnes
+Q4,0:59,USA,91,87,,Kemba Walker3pt jump shot made
+Q4,10:00,USA,71,68,muda_bola,
+Q4,1:07,USA,91,84,RO,Harrison Barnes
+Q4,1:07,USA,91,84,2_Pts_T,Khris Middleton
+Q4,1:19,Serbia,91,84,FC,Vasilije Micic
+Q4,1:19,USA,91,84,FR,Khris Middleton
+Q4,1:26,Serbia,91,84,,Stefan Jovic3pt jump shot missed
+Q4,1:26,USA,91,84,RD,Khris Middleton
+Q4,1:46,USA,91,84,AS,Kemba Walker
+Q4,1:46,USA,91,84,,Harrison Barnes3pt jump shot made
+Q4,1:54,USA,91,81,RO,Khris Middleton
+Q4,1:54,USA,91,81,,Joe Harris3pt jump shot missed
+Q4,2:00,Serbia,91,81,2_Pts_C,Bogdan Bogdanovic
+Q4,2:00,USA,91,81,tempo_tecnico,
+Q4,2:14,Serbia,89,81,RD,Nikola Jokic
+Q4,2:14,USA,89,81,,Myles Turner2pt jump shot missed
+Q4,2:21,USA,89,81,RO,Myles Turner
+Q4,2:21,USA,89,81,,Joe Harris3pt jump shot missed
+Q4,2:32,Serbia,89,81,AS,Nikola Jokic
+Q4,2:32,Serbia,89,81,,Bogdan Bogdanoviclayup made
+Q4,2:44,Serbia,87,81,substituicao_entra,Stefan Jovic
+Q4,2:44,Serbia,87,81,substituicao_sai,Vladimir Lucic
+Q4,2:44,Serbia,87,81,tempo_tecnico,
+Q4,2:45,USA,87,81,2_Pts_C,Kemba Walker
+Q4,2:57,Serbia,87,79,2_Pts_T,Nemanja Bjelica
+Q4,2:57,USA,87,79,RD,Khris Middleton
+Q4,3:10,Serbia,87,79,FR,Vasilije Micic
+Q4,3:10,USA,87,79,FC,Myles Turner
+Q4,3:30,USA,87,79,AS,Kemba Walker
+Q4,3:30,USA,87,79,2_Pts_C,Harrison Barnes
+Q4,3:41,Serbia,87,77,AS,Bogdan Bogdanovic
+Q4,3:41,Serbia,87,77,,Nikola Jokiclayup made
+Q4,3:56,Serbia,85,75,FC,Nikola Jokic
+Q4,3:56,USA,85,77,substituicao_entra,Joe Harris
+Q4,3:56,USA,85,77,substituicao_sai,Jaylen Brown
+Q4,3:56,USA,85,77,LL_Pts_C,Khris Middleton
+Q4,3:56,USA,85,76,AS,Kemba Walker
+Q4,3:56,USA,85,76,LL_Pts_C,Khris Middleton
+Q4,3:56,USA,85,75,FR,Khris Middleton
+Q4,4:04,Serbia,85,75,,Vasilije Micic3pt jump shot missed
+Q4,4:04,USA,85,75,RD,Kemba Walker
+Q4,4:14,Serbia,85,75,substituicao_entra,Nikola Jokic
+Q4,4:14,Serbia,85,75,substituicao_sai,Boban Marjanovic
+Q4,4:14,Serbia,85,75,FR,Boban Marjanovic
+Q4,4:14,Serbia,85,75,RO,
+Q4,4:14,USA,85,75,substituicao_entra,Khris Middleton
+Q4,4:14,USA,85,75,substituicao_sai,Donovan Mitchell
+Q4,4:14,USA,85,75,FC,Donovan Mitchell
+Q4,4:15,Serbia,85,75,,Bogdan Bogdanovic3pt jump shot missed
+Q4,4:37,USA,85,75,AS,Donovan Mitchell
+Q4,4:37,USA,85,75,,Harrison Barnes3pt jump shot made
+Q4,4:48,Serbia,85,72,AS,Nemanja Bjelica
+Q4,4:48,Serbia,85,72,,Vasilije Micicdunk made
+Q4,4:54,Serbia,83,72,RD,Nemanja Bjelica
+Q4,4:54,Serbia,83,72,TO,Nemanja Bjelica
+Q4,4:54,USA,83,72,,Kemba Walker3pt jump shot blocked
+Q4,5:09,Serbia,83,72,substituicao_entra,Bogdan Bogdanovic
+Q4,5:09,Serbia,83,72,substituicao_sai,Stefan Jovic
+Q4,5:09,Serbia,83,72,FC,Stefan Jovic
+Q4,5:09,USA,83,72,FR,Myles Turner
+Q4,5:29,Serbia,83,72,2_Pts_C,Vasilije Micic
+Q4,5:43,USA,81,72,AS,Kemba Walker
+Q4,5:43,USA,81,72,2_Pts_C,Harrison Barnes
+Q4,5:56,Serbia,81,70,AS,Vasilije Micic
+Q4,5:56,Serbia,81,70,3_Pts_C,Nemanja Bjelica
+Q4,6:14,Serbia,78,68,FC,Nemanja Bjelica
+Q4,6:14,Serbia,78,68,,Boban Marjanovic2pt jump shot missed
+Q4,6:14,USA,78,70,LL_Pts_C,Harrison Barnes
+Q4,6:14,USA,78,69,LL_Pts_C,Harrison Barnes
+Q4,6:14,USA,78,68,FR,Harrison Barnes
+Q4,6:14,USA,78,68,RD,Harrison Barnes
+Q4,6:21,Serbia,78,68,RO,Boban Marjanovic
+Q4,6:21,Serbia,78,68,2_Pts_T,Vasilije Micic
+Q4,6:46,Serbia,78,68,muda_bola,
+Q4,6:46,USA,78,68,ER,Donovan Mitchell
+Q4,6:46,USA,78,68,RO,Donovan Mitchell
+Q4,6:46,USA,78,68,,Donovan Mitchelllayup missed
+Q4,6:52,Serbia,78,68,2_Pts_T,Stefan Jovic
+Q4,6:52,USA,78,68,RD,Myles Turner
+Q4,6:52,USA,78,68,TO,Myles Turner
+Q4,6:58,Serbia,78,68,RD,Vasilije Micic
+Q4,6:58,USA,78,68,2_Pts_T,Donovan Mitchell
+Q4,7:09,USA,78,68,RO,Donovan Mitchell
+Q4,7:09,USA,78,68,2_Pts_T,Donovan Mitchell
+Q4,7:25,USA,78,68,substituicao_entra,Jaylen Brown
+Q4,7:25,USA,78,68,substituicao_sai,Derrick White
+Q4,7:25,USA,78,68,tempo_tecnico,
+Q4,7:26,Serbia,78,68,AS,Boban Marjanovic
+Q4,7:26,Serbia,78,68,,Vladimir Lucic3pt jump shot made
+Q4,7:40,Serbia,75,68,BR,Nemanja Bjelica
+Q4,7:40,USA,75,68,ER,Myles Turner
+Q4,8:05,Serbia,75,68,LL_Pts_T,Vladimir Lucic
+Q4,8:05,Serbia,75,68,LL_Pts_T,Vladimir Lucic
+Q4,8:05,Serbia,75,68,FR,Vladimir Lucic
+Q4,8:05,USA,75,68,RD,Donovan Mitchell
+Q4,8:05,USA,75,68,substituicao_entra,Myles Turner
+Q4,8:05,USA,75,68,substituicao_sai,Brook Lopez
+Q4,8:05,USA,75,68,FC,Kemba Walker
+Q4,8:18,Serbia,75,68,RD,Nemanja Bjelica
+Q4,8:18,USA,75,68,2_Pts_T,Donovan Mitchell
+Q4,8:29,Serbia,75,68,substituicao_entra,Vladimir Lucic
+Q4,8:29,Serbia,75,68,substituicao_sai,Bogdan Bogdanovic
+Q4,8:29,Serbia,75,68,LL_Pts_C,Boban Marjanovic
+Q4,8:29,Serbia,74,68,LL_Pts_C,Boban Marjanovic
+Q4,8:29,Serbia,73,68,FR,Boban Marjanovic
+Q4,8:29,USA,73,68,FC,Brook Lopez
+Q4,8:42,Serbia,73,68,RD,Nemanja Bjelica
+Q4,8:42,USA,73,68,2_Pts_T,Derrick White
+Q4,8:49,USA,73,68,substituicao_entra,Kemba Walker
+Q4,8:49,USA,73,68,substituicao_sai,Khris Middleton
+Q4,8:49,USA,73,68,RO,
+Q4,8:50,USA,73,68,,Harrison Barnes3pt jump shot missed
+Q4,9:03,USA,73,68,substituicao_entra,Donovan Mitchell
+Q4,9:03,USA,73,68,substituicao_sai,Joe Harris
+Q4,9:05,USA,73,68,RO,Harrison Barnes
+Q4,9:05,USA,73,68,,Joe Harris3pt jump shot missed
+Q4,9:20,Serbia,73,68,AS,Stefan Jovic
+Q4,9:20,Serbia,73,68,2_Pts_C,Boban Marjanovic
+Q4,9:44,Serbia,71,68,RD,Stefan Jovic
+Q4,9:44,USA,71,68,,Khris Middleton3pt jump shot missed

@@ -1,0 +1,483 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Puerto Rico,23,14,,Gian Clavell3pt jump shot missed
+Q1,0:07,Puerto Rico,23,14,RO,Devon Collier
+Q1,0:07,Puerto Rico,23,14,,Isaiah Pineirolayup missed
+Q1,0:25,Serbia,23,14,,Marko Simonovic3pt jump shot missed
+Q1,0:25,Puerto Rico,23,14,RD,Angel Rodriguez
+Q1,0:33,Serbia,23,14,FR,Vasilije Micic
+Q1,0:33,Puerto Rico,23,14,FC,Angel Rodriguez
+Q1,0:44,Puerto Rico,23,14,,Isaiah Pineirolayup made
+Q1,10:00,Serbia,0,0,inicio_quarto,Boban Marjanovic
+Q1,1:04,Serbia,23,12,substituicao_entra,Marko Guduric
+Q1,1:04,Serbia,23,12,substituicao_sai,Miroslav Raduljica
+Q1,1:04,Serbia,23,12,substituicao_entra,Nemanja Bjelica
+Q1,1:04,Serbia,23,12,substituicao_sai,Bogdan Bogdanovic
+Q1,1:04,Serbia,23,12,FC,Miroslav Raduljica
+Q1,1:04,Puerto Rico,23,12,substituicao_entra,Gian Clavell
+Q1,1:04,Puerto Rico,23,12,substituicao_sai,Renaldo Balkman
+Q1,1:04,Puerto Rico,23,12,substituicao_entra,Ramon Clemente
+Q1,1:04,Puerto Rico,23,12,substituicao_sai,David Huertas
+Q1,1:04,Puerto Rico,23,12,FR,Isaiah Pineiro
+Q1,1:08,Serbia,23,12,AS,Vasilije Micic
+Q1,1:08,Serbia,23,12,,Miroslav Raduljica2pt jump shot made
+Q1,1:25,Puerto Rico,21,12,AS,David Huertas
+Q1,1:25,Puerto Rico,21,12,,Devon Collier2pt jump shot made
+Q1,1:32,Serbia,21,10,,Marko Simonovic3pt jump shot missed
+Q1,1:32,Puerto Rico,21,10,RD,Angel Rodriguez
+Q1,1:35,Puerto Rico,21,10,substituicao_entra,Angel Rodriguez
+Q1,1:35,Puerto Rico,21,10,substituicao_sai,Gary Browne
+Q1,1:41,Serbia,21,10,FR,Miroslav Raduljica
+Q1,1:41,Puerto Rico,21,10,FC,Devon Collier
+Q1,1:50,Serbia,21,10,RD,Miroslav Raduljica
+Q1,1:50,Puerto Rico,21,10,,David Huertas3pt jump shot missed
+Q1,2:20,Serbia,21,10,AS,Bogdan Bogdanovic
+Q1,2:20,Serbia,21,10,,Miroslav Raduljicalayup made
+Q1,2:40,Puerto Rico,19,10,AS,David Huertas
+Q1,2:40,Puerto Rico,19,10,,Isaiah Pineirolayup made
+Q1,2:59,Serbia,19,8,AS,Vasilije Micic
+Q1,2:59,Serbia,19,8,,Nikola Jokiclayup made
+Q1,3:10,Serbia,17,8,RD,
+Q1,3:12,Puerto Rico,17,8,,Gary Browne3pt jump shot missed
+Q1,3:19,Serbia,17,8,substituicao_entra,Miroslav Raduljica
+Q1,3:19,Serbia,17,8,substituicao_sai,Boban Marjanovic
+Q1,3:19,Serbia,17,8,substituicao_entra,Marko Simonovic
+Q1,3:19,Serbia,17,8,substituicao_sai,Vladimir Lucic
+Q1,3:19,Serbia,17,8,FC,Vasilije Micic
+Q1,3:19,Puerto Rico,17,8,substituicao_entra,Devon Collier
+Q1,3:19,Puerto Rico,17,8,substituicao_sai,Alexander Franklin
+Q1,3:19,Puerto Rico,17,8,substituicao_entra,Isaiah Pineiro
+Q1,3:19,Puerto Rico,17,8,substituicao_sai,Jorge Bryan Díaz
+Q1,3:19,Puerto Rico,17,8,FR,Gary Browne
+Q1,3:28,Serbia,17,8,,Boban Marjanovictip in made
+Q1,3:29,Serbia,15,8,RO,Boban Marjanovic
+Q1,3:29,Serbia,15,8,,Bogdan Bogdanoviclayup missed
+Q1,3:45,Puerto Rico,15,8,,Gary Browne2pt jump shot made
+Q1,4:10,Serbia,15,6,ER,Nikola Jokic
+Q1,4:25,Puerto Rico,15,6,,David Huertas2pt jump shot made
+Q1,4:43,Serbia,15,4,substituicao_entra,Vasilije Micic
+Q1,4:43,Serbia,15,4,substituicao_sai,Stefan Jovic
+Q1,4:43,Serbia,15,4,substituicao_entra,Nikola Jokic
+Q1,4:43,Serbia,15,4,substituicao_sai,Stefan Bircevic
+Q1,4:43,Serbia,15,4,AS,Stefan Jovic
+Q1,4:43,Serbia,15,4,,Stefan Birceviclayup made
+Q1,4:43,Puerto Rico,15,4,tempo_tecnico,
+Q1,4:52,Serbia,13,4,RD,Vladimir Lucic
+Q1,4:52,Puerto Rico,13,4,,Renaldo Balkman2pt jump shot missed
+Q1,5:12,Serbia,13,4,AS,Stefan Jovic
+Q1,5:12,Serbia,13,4,,Boban Marjanovicdunk made
+Q1,5:31,Puerto Rico,11,4,AS,Gary Browne
+Q1,5:31,Puerto Rico,11,4,,Jorge Bryan Díaz2pt jump shot made
+Q1,5:53,Serbia,11,2,LL_Pts_C,Bogdan Bogdanovic
+Q1,5:53,Serbia,10,2,LL_Pts_C,Bogdan Bogdanovic
+Q1,5:53,Serbia,9,2,FR,Bogdan Bogdanovic
+Q1,5:53,Puerto Rico,9,2,FC,Renaldo Balkman
+Q1,5:55,Serbia,9,2,BR,Stefan Bircevic
+Q1,5:55,Puerto Rico,9,2,ER,David Huertas
+Q1,6:19,Serbia,9,2,AS,Stefan Jovic
+Q1,6:19,Serbia,9,2,,Boban Marjanovicdunk made
+Q1,6:31,Serbia,7,2,RD,Stefan Bircevic
+Q1,6:31,Puerto Rico,7,2,3_Pts_T,Gary Browne
+Q1,7:02,Serbia,7,2,,Boban Marjanovictip in made
+Q1,7:03,Serbia,5,2,RO,Boban Marjanovic
+Q1,7:03,Serbia,5,2,,Bogdan Bogdanoviclayup missed
+Q1,7:12,Serbia,5,2,RD,Vladimir Lucic
+Q1,7:12,Puerto Rico,5,2,,Renaldo Balkman2pt jump shot missed
+Q1,7:32,Serbia,5,2,AS,Bogdan Bogdanovic
+Q1,7:32,Serbia,5,2,,Boban Marjanovic2pt jump shot made
+Q1,7:36,Serbia,3,2,FR,Boban Marjanovic
+Q1,7:36,Puerto Rico,3,2,FC,Jorge Bryan Díaz
+Q1,7:54,Puerto Rico,3,2,,Renaldo Balkmanlayup made
+Q1,7:57,Serbia,3,0,ER,Bogdan Bogdanovic
+Q1,7:57,Puerto Rico,3,0,BR,Renaldo Balkman
+Q1,8:04,Puerto Rico,3,0,ER,Renaldo Balkman
+Q1,8:13,Serbia,3,0,,Boban Marjanovic2pt jump shot missed
+Q1,8:13,Puerto Rico,3,0,RD,Renaldo Balkman
+Q1,8:34,Serbia,3,0,RD,Stefan Bircevic
+Q1,8:34,Puerto Rico,3,0,,Alexander Franklin3pt jump shot missed
+Q1,8:46,Serbia,3,0,ER,Bogdan Bogdanovic
+Q1,8:53,Serbia,3,0,RD,Bogdan Bogdanovic
+Q1,8:53,Puerto Rico,3,0,,David Huertas2pt jump shot missed
+Q1,9:04,Serbia,3,0,,Stefan Bircevic3pt jump shot missed
+Q1,9:04,Puerto Rico,3,0,RD,Alexander Franklin
+Q1,9:17,Serbia,3,0,RD,Stefan Bircevic
+Q1,9:17,Puerto Rico,3,0,,Gary Browne3pt jump shot missed
+Q1,9:27,Serbia,3,0,FC,Stefan Jovic
+Q1,9:27,Puerto Rico,3,0,FR,David Huertas
+Q1,9:44,Serbia,3,0,AS,Stefan Jovic
+Q1,9:44,Serbia,3,0,,Stefan Bircevic3pt jump shot made
+Q2,0:00,Puerto Rico,49,26,,Javier Mojica3pt jump shot missed
+Q2,0:04,Serbia,49,26,ER,Stefan Jovic
+Q2,0:04,Puerto Rico,49,26,BR,Javier Mojica
+Q2,0:14,Puerto Rico,49,26,substituicao_entra,Gary Browne
+Q2,0:14,Puerto Rico,49,26,substituicao_sai,Angel Rodriguez
+Q2,0:14,Puerto Rico,49,26,ER,Angel Rodriguez
+Q2,0:29,Serbia,49,26,AS,Stefan Jovic
+Q2,0:29,Serbia,49,26,,Nemanja Bjelica3pt jump shot made
+Q2,0:43,Serbia,46,26,RD,Nemanja Bjelica
+Q2,0:43,Puerto Rico,46,26,3_Pts_T,Angel Rodriguez
+Q2,0:54,Serbia,46,26,AS,Bogdan Bogdanovic
+Q2,0:54,Serbia,46,26,,Nemanja Bjelica3pt jump shot made
+Q2,10:00,Puerto Rico,23,14,muda_bola,
+Q2,1:10,Puerto Rico,43,26,AS,Angel Rodriguez
+Q2,1:10,Puerto Rico,43,26,2_Pts_C,David Huertas
+Q2,1:26,Serbia,43,24,,Nemanja Bjelica3pt jump shot missed
+Q2,1:26,Puerto Rico,43,24,RD,Christopher Brady
+Q2,1:28,Serbia,43,24,FR,Boban Marjanovic
+Q2,1:28,Puerto Rico,43,24,FC,Christopher Brady
+Q2,1:31,Serbia,43,24,RO,Boban Marjanovic
+Q2,1:31,Serbia,43,24,,Nemanja Bjelica3pt jump shot missed
+Q2,1:38,Serbia,43,24,FR,Vladimir Lucic
+Q2,1:38,Puerto Rico,43,24,FC,David Huertas
+Q2,1:53,Serbia,43,22,substituicao_entra,Boban Marjanovic
+Q2,1:53,Serbia,43,22,substituicao_sai,Nikola Jokic
+Q2,1:53,Serbia,43,22,FC,Bogdan Bogdanovic
+Q2,1:53,Puerto Rico,43,24,substituicao_entra,Javier Mojica
+Q2,1:53,Puerto Rico,43,24,substituicao_sai,Gian Clavell
+Q2,1:53,Puerto Rico,43,24,substituicao_entra,David Huertas
+Q2,1:53,Puerto Rico,43,24,substituicao_sai,Isaiah Pineiro
+Q2,1:53,Puerto Rico,43,24,LL_Pts_C,Gian Clavell
+Q2,1:53,Puerto Rico,43,23,LL_Pts_C,Gian Clavell
+Q2,1:53,Puerto Rico,43,22,FR,Gian Clavell
+Q2,2:00,Serbia,43,22,AS,Vladimir Lucic
+Q2,2:00,Serbia,43,22,,Bogdan Bogdanovic3pt jump shot made
+Q2,2:08,Serbia,40,22,RD,Nikola Jokic
+Q2,2:08,Serbia,40,22,TO,Nikola Jokic
+Q2,2:08,Puerto Rico,40,22,2_Pts_T,Gian Clavell
+Q2,2:20,Serbia,40,22,FC_O,Nikola Jokic
+Q2,2:20,Puerto Rico,40,22,FR,Angel Rodriguez
+Q2,2:34,Serbia,40,22,RD,Nemanja Bjelica
+Q2,2:34,Puerto Rico,40,22,,Gian Clavelllayup missed
+Q2,2:54,Serbia,40,22,,Vladimir Lucictip in made
+Q2,2:55,Serbia,38,22,RO,Vladimir Lucic
+Q2,2:55,Serbia,38,22,,Nemanja Bjelicalayup missed
+Q2,2:57,Serbia,38,22,RO,Nikola Jokic
+Q2,2:57,Serbia,38,22,,Vladimir Lucic3pt jump shot blocked
+Q2,2:57,Puerto Rico,38,22,TO,Renaldo Balkman
+Q2,3:04,Serbia,38,22,substituicao_entra,Nemanja Bjelica
+Q2,3:04,Serbia,38,22,substituicao_sai,Marko Guduric
+Q2,3:04,Serbia,38,22,substituicao_entra,Bogdan Bogdanovic
+Q2,3:04,Serbia,38,22,substituicao_sai,Stefan Bircevic
+Q2,3:04,Serbia,38,22,FR,Stefan Jovic
+Q2,3:04,Puerto Rico,38,22,substituicao_entra,Christopher Brady
+Q2,3:04,Puerto Rico,38,22,substituicao_sai,Devon Collier
+Q2,3:04,Puerto Rico,38,22,substituicao_entra,Renaldo Balkman
+Q2,3:04,Puerto Rico,38,22,substituicao_sai,Ramon Clemente
+Q2,3:04,Puerto Rico,38,22,FC,Devon Collier
+Q2,3:21,Serbia,38,22,RD,Stefan Bircevic
+Q2,3:21,Puerto Rico,38,22,3_Pts_T,Angel Rodriguez
+Q2,3:30,Serbia,38,22,,Stefan Bircevic3pt jump shot missed
+Q2,3:30,Puerto Rico,38,22,RD,Angel Rodriguez
+Q2,3:53,Serbia,38,22,RD,Nikola Jokic
+Q2,3:53,Puerto Rico,38,22,,Isaiah Pineiro3pt jump shot missed
+Q2,4:00,Serbia,38,22,,Stefan Bircevic3pt jump shot missed
+Q2,4:00,Puerto Rico,38,22,RD,Devon Collier
+Q2,4:10,Serbia,38,22,RD,Vladimir Lucic
+Q2,4:10,Puerto Rico,38,22,,Angel Rodriguez3pt jump shot missed
+Q2,4:28,Serbia,38,22,AS,Marko Guduric
+Q2,4:28,Serbia,38,22,,Nikola Jokiclayup made
+Q2,4:45,Serbia,36,21,FC_T,Stefan Bircevic
+Q2,4:45,Puerto Rico,36,22,LL_Pts_C,Angel Rodriguez
+Q2,4:47,Serbia,36,21,RD,Stefan Bircevic
+Q2,4:47,Serbia,36,21,TO,Stefan Bircevic
+Q2,4:47,Puerto Rico,36,21,2_Pts_T,Ramon Clemente
+Q2,5:04,Serbia,36,21,substituicao_entra,Nikola Jokic
+Q2,5:04,Serbia,36,21,substituicao_sai,Miroslav Raduljica
+Q2,5:04,Serbia,36,21,FC,Vladimir Lucic
+Q2,5:04,Puerto Rico,36,21,FR,Isaiah Pineiro
+Q2,5:04,Puerto Rico,36,21,RD,
+Q2,5:06,Serbia,36,21,,Stefan Jovic3pt jump shot missed
+Q2,5:29,Puerto Rico,36,21,AS,Angel Rodriguez
+Q2,5:29,Puerto Rico,36,21,,Devon Collierlayup made
+Q2,5:46,Serbia,36,19,substituicao_entra,Stefan Bircevic
+Q2,5:46,Serbia,36,19,substituicao_sai,Nemanja Bjelica
+Q2,5:46,Serbia,36,19,FC_O,Miroslav Raduljica
+Q2,5:46,Puerto Rico,36,19,FR,Devon Collier
+Q2,5:56,Serbia,36,19,RD,Nemanja Bjelica
+Q2,5:56,Puerto Rico,36,19,,Gian Clavell3pt jump shot missed
+Q2,6:16,Serbia,36,19,AS,Nemanja Bjelica
+Q2,6:16,Serbia,36,19,,Marko Guduric3pt jump shot made
+Q2,6:38,Serbia,33,19,tempo_tecnico,
+Q2,6:38,Serbia,33,17,FC,Miroslav Raduljica
+Q2,6:38,Puerto Rico,33,19,LL_Pts_C,Isaiah Pineiro
+Q2,6:38,Puerto Rico,33,18,AS,Angel Rodriguez
+Q2,6:38,Puerto Rico,33,18,LL_Pts_C,Isaiah Pineiro
+Q2,6:38,Puerto Rico,33,17,FR,Isaiah Pineiro
+Q2,6:41,Serbia,33,17,ER,Miroslav Raduljica
+Q2,6:41,Puerto Rico,33,17,BR,Angel Rodriguez
+Q2,6:55,Serbia,33,17,FR,Miroslav Raduljica
+Q2,6:55,Puerto Rico,33,17,FC_O,Gian Clavell
+Q2,6:59,Serbia,33,17,substituicao_entra,Stefan Jovic
+Q2,6:59,Serbia,33,17,substituicao_sai,Vasilije Micic
+Q2,6:59,Serbia,33,17,substituicao_entra,Miroslav Raduljica
+Q2,6:59,Serbia,33,17,substituicao_sai,Nikola Jokic
+Q2,6:59,Serbia,33,17,substituicao_entra,Vladimir Lucic
+Q2,6:59,Serbia,33,17,substituicao_sai,Marko Simonovic
+Q2,6:59,Serbia,33,17,FC,Marko Guduric
+Q2,6:59,Puerto Rico,33,17,FR,Gian Clavell
+Q2,7:20,Serbia,33,17,AS,Vasilije Micic
+Q2,7:20,Serbia,33,17,,Marko Guduric3pt jump shot made
+Q2,7:28,Serbia,30,17,BR,Marko Simonovic
+Q2,7:28,Puerto Rico,30,17,ER,Ramon Clemente
+Q2,7:41,Serbia,30,17,,Nemanja Bjelicalayup missed
+Q2,7:41,Puerto Rico,30,17,RD,Isaiah Pineiro
+Q2,7:52,Serbia,30,17,RD,Nikola Jokic
+Q2,7:52,Puerto Rico,30,17,,Devon Collierlayup missed
+Q2,7:59,Puerto Rico,30,17,RO,
+Q2,8:00,Serbia,30,17,TO,Nikola Jokic
+Q2,8:00,Puerto Rico,30,17,2_Pts_T,Angel Rodriguez
+Q2,8:18,Serbia,30,17,AS,Nikola Jokic
+Q2,8:18,Serbia,30,17,,Nemanja Bjelica3pt jump shot made
+Q2,8:30,Serbia,27,17,RD,Nikola Jokic
+Q2,8:30,Puerto Rico,27,17,,Gian Clavell3pt jump shot missed
+Q2,8:58,Serbia,27,17,AS,Nemanja Bjelica
+Q2,8:58,Serbia,27,17,,Nikola Jokic2pt jump shot made
+Q2,9:08,Serbia,25,17,BR,Vasilije Micic
+Q2,9:08,Puerto Rico,25,17,ER,Ramon Clemente
+Q2,9:28,Serbia,25,17,,Nikola Jokictip in made
+Q2,9:30,Serbia,23,17,RO,Nikola Jokic
+Q2,9:30,Serbia,23,17,,Nikola Jokiclayup missed
+Q2,9:49,Puerto Rico,23,17,AS,Angel Rodriguez
+Q2,9:49,Puerto Rico,23,17,,Gian Clavell3pt jump shot made
+Q3,0:01,Serbia,71,39,RO,Nemanja Bjelica
+Q3,0:01,Serbia,71,39,,Marko Simonovic3pt jump shot missed
+Q3,0:11,Serbia,71,39,BR,Marko Guduric
+Q3,0:11,Puerto Rico,71,39,ER,Alexander Franklin
+Q3,0:27,Serbia,71,39,LL_Pts_T,Nikola Milutinov
+Q3,0:27,Serbia,71,39,LL_Pts_T,Nikola Milutinov
+Q3,0:27,Serbia,71,39,FR,Nikola Milutinov
+Q3,0:27,Puerto Rico,71,39,RD,Angel Rodriguez
+Q3,0:27,Puerto Rico,71,39,substituicao_entra,Alexander Franklin
+Q3,0:27,Puerto Rico,71,39,substituicao_sai,David Huertas
+Q3,0:27,Puerto Rico,71,39,substituicao_entra,Gian Clavell
+Q3,0:27,Puerto Rico,71,39,substituicao_sai,Ramon Clemente
+Q3,0:27,Puerto Rico,71,39,FC,Devon Collier
+Q3,0:43,Serbia,71,39,BR,Marko Guduric
+Q3,0:43,Puerto Rico,71,39,ER,Devon Collier
+Q3,0:47,Serbia,71,39,ER,Marko Simonovic
+Q3,0:47,Puerto Rico,71,39,BR,Isaiah Pineiro
+Q3,0:48,Serbia,71,39,BR,Vasilije Micic
+Q3,0:48,Puerto Rico,71,39,ER,Ramon Clemente
+Q3,10:00,Serbia,49,26,muda_bola,
+Q3,1:13,Serbia,71,39,LL_Pts_C,Nemanja Bjelica
+Q3,1:13,Serbia,70,39,LL_Pts_C,Nemanja Bjelica
+Q3,1:13,Serbia,69,39,FR,Nemanja Bjelica
+Q3,1:13,Puerto Rico,69,39,FC,Devon Collier
+Q3,1:27,Puerto Rico,69,39,,Devon Collierdunk made
+Q3,1:46,Serbia,69,37,AS,Vasilije Micic
+Q3,1:46,Serbia,69,37,,Nemanja Bjelica2pt jump shot made
+Q3,2:03,Puerto Rico,67,37,AS,David Huertas
+Q3,2:03,Puerto Rico,67,37,,Devon Collierdunk made
+Q3,2:25,Serbia,67,35,ER,Vasilije Micic
+Q3,2:33,Serbia,67,35,RD,Nikola Milutinov
+Q3,2:33,Puerto Rico,67,35,,David Huertas3pt jump shot missed
+Q3,2:43,Puerto Rico,67,35,RO,Isaiah Pineiro
+Q3,2:43,Puerto Rico,67,35,,David Huertas3pt jump shot missed
+Q3,2:45,Puerto Rico,67,35,RO,
+Q3,2:46,Serbia,67,35,TO,Nikola Milutinov
+Q3,2:46,Puerto Rico,67,35,2_Pts_T,Devon Collier
+Q3,3:06,Serbia,67,35,LL_Pts_C,Marko Guduric
+Q3,3:06,Serbia,66,35,LL_Pts_C,Marko Guduric
+Q3,3:06,Serbia,65,35,FR,Marko Guduric
+Q3,3:06,Puerto Rico,65,35,substituicao_entra,Angel Rodriguez
+Q3,3:06,Puerto Rico,65,35,substituicao_sai,Gary Browne
+Q3,3:06,Puerto Rico,65,35,FC,Isaiah Pineiro
+Q3,3:13,Serbia,65,35,RD,Vasilije Micic
+Q3,3:13,Puerto Rico,65,35,,Ramon Clemente3pt jump shot missed
+Q3,3:26,Serbia,65,35,FC,Vasilije Micic
+Q3,3:26,Puerto Rico,65,35,substituicao_entra,Ramon Clemente
+Q3,3:26,Puerto Rico,65,35,substituicao_sai,Renaldo Balkman
+Q3,3:26,Puerto Rico,65,35,FR,Gary Browne
+Q3,3:34,Serbia,65,35,AS,Vasilije Micic
+Q3,3:34,Serbia,65,35,,Marko Simonoviclayup made
+Q3,3:47,Puerto Rico,63,35,AS,Renaldo Balkman
+Q3,3:47,Puerto Rico,63,35,,David Huertas3pt jump shot made
+Q3,4:09,Serbia,63,32,AS,Vasilije Micic
+Q3,4:09,Serbia,63,32,,Nemanja Bjelica3pt jump shot made
+Q3,4:19,Serbia,60,32,substituicao_entra,Nemanja Bjelica
+Q3,4:19,Serbia,60,32,substituicao_sai,Nikola Jokic
+Q3,4:19,Serbia,60,32,FR,Marko Guduric
+Q3,4:19,Puerto Rico,60,32,FC,Gary Browne
+Q3,4:33,Puerto Rico,60,32,,Renaldo Balkmanlayup made
+Q3,4:58,Serbia,60,30,AS,Vasilije Micic
+Q3,4:58,Serbia,60,30,,Marko Simonovic3pt jump shot made
+Q3,5:19,Serbia,57,30,RD,Marko Guduric
+Q3,5:19,Puerto Rico,57,30,,Isaiah Pineiro2pt jump shot missed
+Q3,5:31,Serbia,57,30,,Marko Guduric3pt jump shot missed
+Q3,5:31,Puerto Rico,57,30,RD,Devon Collier
+Q3,5:42,Serbia,57,30,FR,Marko Simonovic
+Q3,5:42,Puerto Rico,57,30,FC,Isaiah Pineiro
+Q3,5:47,Serbia,57,28,substituicao_entra,Marko Guduric
+Q3,5:47,Serbia,57,28,substituicao_sai,Boban Marjanovic
+Q3,5:47,Serbia,57,28,substituicao_entra,Vasilije Micic
+Q3,5:47,Serbia,57,28,substituicao_sai,Stefan Jovic
+Q3,5:47,Serbia,57,28,substituicao_entra,Nikola Milutinov
+Q3,5:47,Serbia,57,28,substituicao_sai,Vladimir Lucic
+Q3,5:47,Serbia,57,28,substituicao_entra,Marko Simonovic
+Q3,5:47,Serbia,57,28,substituicao_sai,Bogdan Bogdanovic
+Q3,5:47,Serbia,57,28,FC,Nikola Jokic
+Q3,5:47,Puerto Rico,57,30,LL_Pts_C,David Huertas
+Q3,5:47,Puerto Rico,57,29,LL_Pts_C,David Huertas
+Q3,5:47,Puerto Rico,57,28,FR,David Huertas
+Q3,6:01,Serbia,57,28,AS,Stefan Jovic
+Q3,6:01,Serbia,57,28,,Nikola Jokiclayup made
+Q3,6:08,Serbia,55,28,RD,Vladimir Lucic
+Q3,6:08,Puerto Rico,55,28,,Renaldo Balkman2pt jump shot missed
+Q3,6:22,Serbia,55,28,ER ,
+Q3,6:45,Puerto Rico,55,28,substituicao_entra,Devon Collier
+Q3,6:45,Puerto Rico,55,28,substituicao_sai,Alexander Franklin
+Q3,6:45,Puerto Rico,55,28,substituicao_entra,Isaiah Pineiro
+Q3,6:45,Puerto Rico,55,28,substituicao_sai,Jorge Bryan Díaz
+Q3,6:46,Serbia,55,28,FR,Vladimir Lucic
+Q3,6:46,Puerto Rico,55,28,FC_O,Renaldo Balkman
+Q3,7:02,Serbia,55,28,AS,Boban Marjanovic
+Q3,7:02,Serbia,55,28,,Stefan Joviclayup made
+Q3,7:11,Serbia,53,28,RD,Nikola Jokic
+Q3,7:11,Puerto Rico,53,28,,Jorge Bryan Díaz2pt jump shot missed
+Q3,7:27,Serbia,53,28,2_Pts_T,Bogdan Bogdanovic
+Q3,7:27,Puerto Rico,53,28,RD,Alexander Franklin
+Q3,7:32,Serbia,53,28,RO,Stefan Jovic
+Q3,7:32,Serbia,53,28,,Bogdan Bogdanovic3pt jump shot missed
+Q3,7:39,Serbia,53,28,BR,Stefan Jovic
+Q3,7:39,Puerto Rico,53,28,ER,Alexander Franklin
+Q3,7:46,Serbia,53,28,AS,Stefan Jovic
+Q3,7:46,Serbia,53,28,,Nikola Jokiclayup made
+Q3,7:53,Serbia,51,28,RD,Nikola Jokic
+Q3,7:53,Puerto Rico,51,28,,Alexander Franklin2pt jump shot missed
+Q3,8:08,Serbia,51,28,ER,Stefan Jovic
+Q3,8:16,Serbia,51,28,RD,Nikola Jokic
+Q3,8:16,Puerto Rico,51,28,,Gary Browne2pt jump shot missed
+Q3,8:28,Serbia,51,28,,Nikola Jokic3pt jump shot missed
+Q3,8:28,Puerto Rico,51,28,RD,Alexander Franklin
+Q3,8:51,Puerto Rico,51,28,AS,Gary Browne
+Q3,8:51,Puerto Rico,51,28,,David Huertas2pt jump shot made
+Q3,9:01,Serbia,51,26,FC,Vladimir Lucic
+Q3,9:01,Puerto Rico,51,26,FR,Gary Browne
+Q3,9:05,Serbia,51,26,ER,Nikola Jokic
+Q3,9:05,Puerto Rico,51,26,BR,Gary Browne
+Q3,9:07,Serbia,51,26,RO,Nikola Jokic
+Q3,9:07,Serbia,51,26,,Bogdan Bogdanovic3pt jump shot missed
+Q3,9:27,Serbia,51,26,RD,Vladimir Lucic
+Q3,9:27,Puerto Rico,51,26,,Jorge Bryan Díaz2pt jump shot missed
+Q3,9:41,Serbia,51,26,LL_Pts_C,Nikola Jokic
+Q3,9:41,Serbia,50,26,AS,Bogdan Bogdanovic
+Q3,9:41,Serbia,50,26,LL_Pts_C,Nikola Jokic
+Q3,9:41,Serbia,49,26,FR,Nikola Jokic
+Q3,9:41,Puerto Rico,49,26,FC,Alexander Franklin
+Q4,0:33,Serbia,90,47,RD,Nikola Milutinov
+Q4,0:33,Puerto Rico,90,47,,Gian Clavell3pt jump shot missed
+Q4,0:41,Serbia,90,47,ER,Stefan Jovic
+Q4,0:41,Puerto Rico,90,47,BR,Javier Mojica
+Q4,0:47,Serbia,90,47,RD,Stefan Jovic
+Q4,0:47,Puerto Rico,90,47,,Javier Mojica3pt jump shot missed
+Q4,10:00,Puerto Rico,71,39,muda_bola,
+Q4,1:01,Serbia,90,47,AS,Bogdan Bogdanovic
+Q4,1:01,Serbia,90,47,,Stefan Bircevic3pt jump shot made
+Q4,1:17,Serbia,87,47,RD,Stefan Jovic
+Q4,1:17,Puerto Rico,87,47,,Christopher Brady3pt jump shot missed
+Q4,1:38,Serbia,87,47,,Bogdan Bogdanovic3pt jump shot missed
+Q4,1:38,Puerto Rico,87,47,RD,Devon Collier
+Q4,1:50,Serbia,87,47,muda_bola,
+Q4,1:50,Serbia,87,47,RD,
+Q4,1:51,Puerto Rico,87,47,,Javier Mojicalayup missed
+Q4,1:58,Serbia,87,47,,Bogdan Bogdanovic3pt jump shot missed
+Q4,1:58,Puerto Rico,87,47,RD,Angel Rodriguez
+Q4,2:10,Serbia,87,47,RD,Stefan Bircevic
+Q4,2:10,Puerto Rico,87,47,,Devon Collierlayup missed
+Q4,2:26,Serbia,87,47,AS,Stefan Jovic
+Q4,2:26,Serbia,87,47,,Vladimir Luciclayup made
+Q4,2:33,Serbia,85,47,RD,Nikola Milutinov
+Q4,2:33,Puerto Rico,85,47,,Devon Collierlayup missed
+Q4,2:35,Puerto Rico,85,47,RO,Devon Collier
+Q4,2:35,Puerto Rico,85,47,,Javier Mojicalayup missed
+Q4,2:53,Serbia,85,47,LL_Pts_T,Stefan Bircevic
+Q4,2:53,Serbia,85,47,AS,Stefan Jovic
+Q4,2:53,Serbia,85,47,LL_Pts_C,Stefan Bircevic
+Q4,2:53,Serbia,84,47,FR,Stefan Bircevic
+Q4,2:53,Puerto Rico,85,47,RD,Christopher Brady
+Q4,2:53,Puerto Rico,84,47,FC,Angel Rodriguez
+Q4,2:59,Serbia,84,47,RD,Bogdan Bogdanovic
+Q4,2:59,Puerto Rico,84,47,,Angel Rodriguez3pt jump shot missed
+Q4,3:09,Serbia,84,47,AS,Vasilije Micic
+Q4,3:09,Serbia,84,47,LL_Pts_C,Stefan Bircevic
+Q4,3:09,Serbia,83,47,LL_Pts_T,Stefan Bircevic
+Q4,3:09,Serbia,83,47,substituicao_entra,Stefan Jovic
+Q4,3:09,Serbia,83,47,substituicao_sai,Vasilije Micic
+Q4,3:09,Serbia,83,47,FR,Stefan Bircevic
+Q4,3:09,Puerto Rico,83,47,FC,Christopher Brady
+Q4,3:35,Puerto Rico,83,47,,Gian Clavelllayup made
+Q4,3:44,Serbia,83,45,,Vasilije Micic3pt jump shot missed
+Q4,3:44,Puerto Rico,83,45,RD,Gian Clavell
+Q4,4:02,Serbia,83,45,substituicao_entra,Nikola Milutinov
+Q4,4:02,Serbia,83,45,substituicao_sai,Boban Marjanovic
+Q4,4:02,Serbia,83,45,substituicao_entra,Vladimir Lucic
+Q4,4:02,Serbia,83,45,substituicao_sai,Marko Guduric
+Q4,4:02,Serbia,83,45,substituicao_entra,Bogdan Bogdanovic
+Q4,4:02,Serbia,83,45,substituicao_sai,Marko Simonovic
+Q4,4:02,Serbia,83,43,FC,Stefan Bircevic
+Q4,4:02,Puerto Rico,83,45,LL_Pts_C,Christopher Brady
+Q4,4:02,Puerto Rico,83,44,LL_Pts_C,Christopher Brady
+Q4,4:02,Puerto Rico,83,43,FR,Christopher Brady
+Q4,4:06,Serbia,83,43,ER,Stefan Bircevic
+Q4,4:06,Puerto Rico,83,43,BR,Christopher Brady
+Q4,4:23,Serbia,83,43,RD,Stefan Bircevic
+Q4,4:23,Puerto Rico,83,43,,Christopher Brady2pt jump shot missed
+Q4,4:37,Serbia,83,43,AS,Marko Simonovic
+Q4,4:37,Serbia,83,43,,Stefan Birceviclayup made
+Q4,4:47,Serbia,81,43,RD,Boban Marjanovic
+Q4,4:47,Puerto Rico,81,43,,Christopher Bradylayup missed
+Q4,4:49,Puerto Rico,81,43,RO,Christopher Brady
+Q4,4:49,Puerto Rico,81,43,,Angel Rodriguez3pt jump shot missed
+Q4,4:57,Puerto Rico,81,43,RO,Gian Clavell
+Q4,4:57,Puerto Rico,81,43,,Javier Mojica2pt jump shot missed
+Q4,5:04,Serbia,81,43,substituicao_entra,Stefan Bircevic
+Q4,5:04,Serbia,81,43,substituicao_sai,Nemanja Bjelica
+Q4,5:18,Serbia,81,43,,Boban Marjanoviclayup made
+Q4,5:36,Puerto Rico,79,43,AS,Gian Clavell
+Q4,5:36,Puerto Rico,79,43,,Javier Mojica2pt jump shot made
+Q4,5:42,Serbia,79,41,ER,Boban Marjanovic
+Q4,5:42,Puerto Rico,79,41,BR,Gian Clavell
+Q4,5:45,Serbia,79,41,BR,Boban Marjanovic
+Q4,5:45,Puerto Rico,79,41,ER,Devon Collier
+Q4,6:05,Serbia,79,41,LL_Pts_C,Boban Marjanovic
+Q4,6:05,Serbia,78,41,AS,Nemanja Bjelica
+Q4,6:05,Serbia,78,41,LL_Pts_C,Boban Marjanovic
+Q4,6:05,Serbia,77,41,FR,Boban Marjanovic
+Q4,6:05,Puerto Rico,77,41,FC,Christopher Brady
+Q4,6:20,Serbia,77,39,FC,Nemanja Bjelica
+Q4,6:20,Puerto Rico,77,41,LL_Pts_C,Angel Rodriguez
+Q4,6:20,Puerto Rico,77,40,LL_Pts_C,Angel Rodriguez
+Q4,6:20,Puerto Rico,77,39,substituicao_entra,Javier Mojica
+Q4,6:20,Puerto Rico,77,39,substituicao_sai,Isaiah Pineiro
+Q4,6:20,Puerto Rico,77,39,FR,Angel Rodriguez
+Q4,6:48,Serbia,77,39,,Boban Marjanoviclayup made
+Q4,7:00,Serbia,75,39,BR,Marko Simonovic
+Q4,7:00,Puerto Rico,75,39,ER,Isaiah Pineiro
+Q4,7:14,Serbia,75,39,,Marko Guduriclayup made
+Q4,7:23,Serbia,73,39,substituicao_entra,Boban Marjanovic
+Q4,7:23,Serbia,73,39,substituicao_sai,Nikola Milutinov
+Q4,7:23,Serbia,73,39,RO,
+Q4,7:26,Serbia,73,39,,Marko Guduric3pt jump shot missed
+Q4,7:35,Serbia,73,39,RD,Nemanja Bjelica
+Q4,7:35,Puerto Rico,73,39,,Angel Rodriguezlayup missed
+Q4,7:44,Serbia,73,39,FC,Nemanja Bjelica
+Q4,7:44,Puerto Rico,73,39,FR,Angel Rodriguez
+Q4,7:49,Serbia,73,39,ER,Vasilije Micic
+Q4,7:49,Puerto Rico,73,39,BR,Christopher Brady
+Q4,8:02,Puerto Rico,73,39,ER,Angel Rodriguez
+Q4,8:11,Puerto Rico,73,39,RO,
+Q4,8:11,Puerto Rico,73,39,,Gian Clavelllayup missed
+Q4,8:16,Serbia,73,39,ER,Vasilije Micic
+Q4,8:16,Puerto Rico,73,39,BR,Gian Clavell
+Q4,8:27,Serbia,73,39,FR,Vasilije Micic
+Q4,8:27,Serbia,73,39,RD,
+Q4,8:27,Puerto Rico,73,39,substituicao_entra,Christopher Brady
+Q4,8:27,Puerto Rico,73,39,substituicao_sai,Alexander Franklin
+Q4,8:27,Puerto Rico,73,39,FC,Alexander Franklin
+Q4,8:28,Puerto Rico,73,39,,Gian Clavell3pt jump shot missed
+Q4,8:45,Serbia,73,39,,Nemanja Bjelicatip in made
+Q4,8:50,Serbia,71,39,RO,Nemanja Bjelica
+Q4,8:50,Serbia,71,39,,Marko Simonovic2pt jump shot missed
+Q4,9:10,Puerto Rico,71,39,ER,Angel Rodriguez
+Q4,9:19,Serbia,71,39,,Marko Guduric3pt jump shot missed
+Q4,9:19,Puerto Rico,71,39,RD,Isaiah Pineiro
+Q4,9:40,Puerto Rico,71,39,ER,Angel Rodriguez

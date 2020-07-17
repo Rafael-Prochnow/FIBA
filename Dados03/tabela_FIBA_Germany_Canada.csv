@@ -1,0 +1,577 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Canada,17,12,2_Pts_C,Andrew Nembhard
+Q1,0:03,Germany,17,10,ER,Andreas Obst
+Q1,0:03,Canada,17,10,BR,Andrew Nembhard
+Q1,0:27,Germany,17,10,RD,Andreas Obst
+Q1,0:27,Canada,17,10,,Brady Heslip3pt jump shot missed
+Q1,0:32,Germany,17,10,2_Pts_T,Danilo Barthel
+Q1,0:32,Canada,17,10,RD,Owen Klassen
+Q1,0:55,Germany,17,10,RD,Johannes Voigtmann
+Q1,0:55,Canada,17,10,,Andrew Nembhard3pt jump shot missed
+Q1,10:00,Germany,0,0,inicio_quarto,Daniel Theis
+Q1,1:10,Germany,17,10,,Johannes Voigtmann3pt jump shot missed
+Q1,1:10,Canada,17,10,RD,Conor Morgan
+Q1,1:18,Germany,17,10,RO,Danilo Barthel
+Q1,1:18,Germany,17,10,,Andreas Obst3pt jump shot missed
+Q1,1:39,Germany,17,10,RD,Johannes Voigtmann
+Q1,1:39,Canada,17,10,,Phil Scrubb3pt jump shot missed
+Q1,1:47,Germany,17,10,,Maodo Lo3pt jump shot missed
+Q1,1:47,Canada,17,10,RD,Owen Klassen
+Q1,2:05,Germany,17,10,LL_Pts_C,Robin Benzing
+Q1,2:05,Germany,16,10,FR,Andreas Obst
+Q1,2:05,Canada,16,10,FC_T,Coach: 
+Q1,2:05,Canada,16,10,substituicao_entra,Owen Klassen
+Q1,2:05,Canada,16,10,substituicao_sai,Khem Birch
+Q1,2:05,Canada,16,10,FC_O,Conor Morgan
+Q1,2:15,Germany,16,10,substituicao_entra,Andreas Obst
+Q1,2:15,Germany,16,10,substituicao_sai,Dennis Schroder
+Q1,2:15,Germany,16,10,LL_Pts_C,Dennis Schroder
+Q1,2:15,Germany,15,10,LL_Pts_C,Dennis Schroder
+Q1,2:15,Germany,14,10,FR,Dennis Schroder
+Q1,2:15,Canada,14,10,FC,Conor Morgan
+Q1,2:27,Canada,14,10,AS,Phil Scrubb
+Q1,2:27,Canada,14,10,,Conor Morgan3pt jump shot made
+Q1,2:38,Germany,14,7,substituicao_entra,Danilo Barthel
+Q1,2:38,Germany,14,7,substituicao_sai,Maximilian Kleber
+Q1,2:38,Germany,14,7,substituicao_entra,Robin Benzing
+Q1,2:38,Germany,14,7,substituicao_sai,Paul Zipser
+Q1,2:38,Canada,14,7,substituicao_entra,Phil Scrubb
+Q1,2:38,Canada,14,7,substituicao_sai,Kyle Wiltjer
+Q1,2:38,Canada,14,7,substituicao_entra,Conor Morgan
+Q1,2:38,Canada,14,7,substituicao_sai,Cory Joseph
+Q1,2:38,Canada,14,7,substituicao_entra,Andrew Nembhard
+Q1,2:38,Canada,14,7,substituicao_sai,Melvin Ejim
+Q1,2:45,Germany,14,7,AS,Johannes Voigtmann
+Q1,2:45,Germany,14,7,2_Pts_C,Paul Zipser
+Q1,2:45,Canada,14,7,tempo_tecnico,
+Q1,2:59,Germany,12,7,RD,Paul Zipser
+Q1,2:59,Canada,12,7,3_Pts_T,Kyle Wiltjer
+Q1,3:07,Canada,12,7,RO,Khem Birch
+Q1,3:07,Canada,12,7,3_Pts_T,Kyle Wiltjer
+Q1,3:18,Germany,12,7,,Johannes Voigtmann3pt jump shot missed
+Q1,3:18,Canada,12,7,RD,Brady Heslip
+Q1,3:29,Germany,12,7,RD,Maximilian Kleber
+Q1,3:29,Canada,12,7,,Brady Heslip3pt jump shot missed
+Q1,3:55,Germany,12,7,,Maximilian Klebertip in made
+Q1,3:55,Germany,10,7,RO,Maximilian Kleber
+Q1,3:55,Germany,10,7,2_Pts_T,Paul Zipser
+Q1,4:03,Germany,10,7,RD,Maodo Lo
+Q1,4:03,Germany,10,7,TO,Dennis Schroder
+Q1,4:03,Canada,10,7,2_Pts_T,Cory Joseph
+Q1,4:11,Germany,10,7,ER,Maximilian Kleber
+Q1,4:11,Canada,10,7,BR,Melvin Ejim
+Q1,4:36,Canada,10,7,2_Pts_C,Kyle Wiltjer
+Q1,4:57,Germany,10,5,LL_Pts_C,Dennis Schroder
+Q1,4:57,Germany,9,5,LL_Pts_T,Dennis Schroder
+Q1,4:57,Germany,9,5,FR,Dennis Schroder
+Q1,4:57,Canada,10,5,substituicao_entra,Brady Heslip
+Q1,4:57,Canada,10,5,substituicao_sai,Kevin Pangos
+Q1,4:57,Canada,9,5,FC,Kevin Pangos
+Q1,5:11,Germany,9,5,RD,Maodo Lo
+Q1,5:11,Canada,9,5,2_Pts_T,Cory Joseph
+Q1,5:25,Germany,9,5,substituicao_entra,Maodo Lo
+Q1,5:25,Germany,9,5,substituicao_sai,Ismet Akpinar
+Q1,5:25,Germany,9,5,FC,Ismet Akpinar
+Q1,5:25,Canada,9,5,FR,Kevin Pangos
+Q1,5:33,Germany,9,5,substituicao_entra,Johannes Voigtmann
+Q1,5:33,Germany,9,5,substituicao_sai,Daniel Theis
+Q1,5:33,Germany,9,5,FC,Daniel Theis
+Q1,5:33,Canada,9,5,FR,Melvin Ejim
+Q1,5:40,Germany,9,5,FC,Ismet Akpinar
+Q1,5:40,Canada,9,5,FR,Kevin Pangos
+Q1,5:49,Germany,9,5,FC_O,Daniel Theis
+Q1,5:49,Canada,9,5,FR,Cory Joseph
+Q1,6:04,Canada,9,5,AS,Kevin Pangos
+Q1,6:04,Canada,9,5,,Melvin Ejim3pt jump shot made
+Q1,6:17,Germany,9,2,AS,Dennis Schroder
+Q1,6:17,Germany,9,2,,Maximilian Kleberdunk made
+Q1,6:29,Germany,7,2,RD,Paul Zipser
+Q1,6:29,Canada,7,2,,Cory Joseph3pt jump shot missed
+Q1,6:40,Germany,7,2,,Paul Zipser3pt jump shot made
+Q1,6:58,Germany,4,2,FR,Paul Zipser
+Q1,6:58,Canada,4,2,FC_O,Melvin Ejim
+Q1,7:20,Germany,4,2,LL_Pts_C,Maximilian Kleber
+Q1,7:20,Germany,3,2,AS,Dennis Schroder
+Q1,7:20,Germany,3,2,LL_Pts_C,Maximilian Kleber
+Q1,7:20,Germany,2,2,FR,Maximilian Kleber
+Q1,7:20,Canada,2,2,FC,Kevin Pangos
+Q1,7:26,Germany,2,2,RD,Paul Zipser
+Q1,7:26,Canada,2,2,,Kevin Pangos3pt jump shot missed
+Q1,7:40,Germany,2,2,ER,Daniel Theis
+Q1,7:40,Canada,2,2,BR,Khem Birch
+Q1,7:49,Canada,2,2,ER,Melvin Ejim
+Q1,8:02,Germany,2,2,AS,Ismet Akpinar
+Q1,8:02,Germany,2,2,,Daniel Theisdunk made
+Q1,8:17,Germany,0,2,RO,Dennis Schroder
+Q1,8:17,Germany,0,2,,Daniel Theis3pt jump shot missed
+Q1,8:36,Germany,0,2,BR,Paul Zipser
+Q1,8:36,Canada,0,2,ER,Kyle Wiltjer
+Q1,8:58,Germany,0,2,2_Pts_T,Maximilian Kleber
+Q1,8:58,Canada,0,2,RD,Kyle Wiltjer
+Q1,9:16,Canada,0,2,AS,Cory Joseph
+Q1,9:16,Canada,0,2,,Khem Birchalley oop made
+Q1,9:34,Germany,0,0,,Ismet Akpinar3pt jump shot missed
+Q1,9:34,Canada,0,0,RD,Melvin Ejim
+Q1,9:44,Germany,0,0,RO,Dennis Schroder
+Q1,9:44,Germany,0,0,2_Pts_T,Dennis Schroder
+Q2,0:01,Germany,36,33,RD,Daniel Theis
+Q2,0:01,Germany,36,33,TO,Maximilian Kleber
+Q2,0:01,Canada,36,33,2_Pts_T,Kaza Kajami-Keane
+Q2,0:07,Germany,36,33,2_Pts_C,Dennis Schroder
+Q2,0:27,Germany,34,33,TO,Daniel Theis
+Q2,0:27,Canada,34,33,substituicao_entra,Phil Scrubb
+Q2,0:27,Canada,34,33,substituicao_sai,Melvin Ejim
+Q2,0:27,Canada,34,33,substituicao_entra,Thomas Scrubb
+Q2,0:27,Canada,34,33,substituicao_sai,Kevin Pangos
+Q2,0:27,Canada,34,33,ER,Melvin Ejim
+Q2,0:27,Canada,34,33,RO,Melvin Ejim
+Q2,0:27,Canada,34,33,2_Pts_T,Melvin Ejim
+Q2,0:45,Germany,34,33,AS,Ismet Akpinar
+Q2,0:45,Germany,34,33,3_Pts_C,Maximilian Kleber
+Q2,0:56,Germany,31,33,RD,Ismet Akpinar
+Q2,0:56,Canada,31,33,3_Pts_T,Kyle Wiltjer
+Q2,10:00,Canada,0,0,muda_bola,
+Q2,1:15,Germany,31,33,LL_Pts_T,Robin Benzing
+Q2,1:15,Canada,31,33,RD,Melvin Ejim
+Q2,1:16,Germany,31,33,FR,Robin Benzing
+Q2,1:16,Germany,31,33,AS,Dennis Schroder
+Q2,1:16,Germany,31,33,2_Pts_C,Robin Benzing
+Q2,1:16,Canada,31,33,FC,Melvin Ejim
+Q2,1:26,Germany,29,33,RD,Daniel Theis
+Q2,1:26,Canada,29,33,3_Pts_T,Kevin Pangos
+Q2,1:34,Germany,29,33,3_Pts_T,Dennis Schroder
+Q2,1:34,Canada,29,33,RD,Kyle Wiltjer
+Q2,1:45,Germany,29,33,RD,Dennis Schroder
+Q2,1:45,Canada,29,33,3_Pts_T,Kyle Wiltjer
+Q2,2:09,Germany,29,33,2_Pts_T,Dennis Schroder
+Q2,2:09,Canada,29,33,RD,
+Q2,2:17,Germany,29,33,FR,Daniel Theis
+Q2,2:17,Canada,29,33,substituicao_entra,Khem Birch
+Q2,2:17,Canada,29,33,substituicao_sai,Owen Klassen
+Q2,2:17,Canada,29,33,substituicao_entra,Kevin Pangos
+Q2,2:17,Canada,29,33,substituicao_sai,Andrew Nembhard
+Q2,2:17,Canada,29,33,FC,Andrew Nembhard
+Q2,2:27,Germany,29,33,substituicao_entra,Ismet Akpinar
+Q2,2:27,Germany,29,33,substituicao_sai,Maodo Lo
+Q2,2:27,Germany,29,33,RD,
+Q2,2:27,Canada,29,33,,Kaza Kajami-Keane3pt jump shot missed
+Q2,2:51,Germany,29,33,AS,Maximilian Kleber
+Q2,2:51,Germany,29,33,,Dennis Schroder2pt jump shot made
+Q2,3:05,Germany,27,33,RD,Dennis Schroder
+Q2,3:05,Canada,27,33,,Kyle Wiltjer3pt jump shot missed
+Q2,3:18,Germany,27,33,substituicao_entra,Robin Benzing
+Q2,3:18,Germany,27,33,substituicao_sai,Paul Zipser
+Q2,3:18,Germany,27,33,ER,Paul Zipser
+Q2,3:23,Germany,27,33,BR,Dennis Schroder
+Q2,3:23,Canada,27,33,ER,Kaza Kajami-Keane
+Q2,3:34,Germany,27,33,2_Pts_T,Paul Zipser
+Q2,3:34,Canada,27,33,RD,Owen Klassen
+Q2,3:51,Germany,27,32,FC,Maximilian Kleber
+Q2,3:51,Canada,27,33,AS,Melvin Ejim
+Q2,3:51,Canada,27,33,LL_Pts_C,Kaza Kajami-Keane
+Q2,3:51,Canada,27,32,LL_Pts_T,Kaza Kajami-Keane
+Q2,3:51,Canada,27,32,FR,Kaza Kajami-Keane
+Q2,3:53,Germany,27,32,ER,Maximilian Kleber
+Q2,3:53,Canada,27,32,BR,Melvin Ejim
+Q2,4:03,Germany,27,32,RD,Dennis Schroder
+Q2,4:03,Canada,27,32,,Owen Klassen2pt jump shot missed
+Q2,4:12,Germany,27,32,,Paul Zipser3pt jump shot missed
+Q2,4:12,Canada,27,32,RD,Owen Klassen
+Q2,4:19,Germany,27,32,FR,Daniel Theis
+Q2,4:19,Canada,27,32,FC,Owen Klassen
+Q2,4:25,Germany,27,31,substituicao_entra,Daniel Theis
+Q2,4:25,Germany,27,31,substituicao_sai,Johannes Voigtmann
+Q2,4:25,Germany,27,31,FC,Paul Zipser
+Q2,4:25,Canada,27,32,AS,Kaza Kajami-Keane
+Q2,4:25,Canada,27,32,LL_Pts_C,Owen Klassen
+Q2,4:25,Canada,27,31,LL_Pts_T,Owen Klassen
+Q2,4:25,Canada,27,31,FR,Owen Klassen
+Q2,4:32,Germany,27,31,3_Pts_T,Paul Zipser
+Q2,4:32,Canada,27,31,RD,Kaza Kajami-Keane
+Q2,4:42,Germany,27,31,RD,Maodo Lo
+Q2,4:42,Canada,27,31,,Melvin Ejim3pt jump shot missed
+Q2,4:47,Germany,27,31,2_Pts_T,Dennis Schroder
+Q2,4:47,Canada,27,31,RD,Owen Klassen
+Q2,5:06,Canada,27,31,AS,Melvin Ejim
+Q2,5:06,Canada,27,31,2_Pts_C,Kaza Kajami-Keane
+Q2,5:10,Germany,27,27,FC_A,Dennis Schroder
+Q2,5:10,Canada,27,29,LL_Pts_C,Melvin Ejim
+Q2,5:10,Canada,27,28,LL_Pts_C,Melvin Ejim
+Q2,5:10,Canada,27,27,substituicao_entra,Kyle Wiltjer
+Q2,5:10,Canada,27,27,substituicao_sai,Phil Scrubb
+Q2,5:10,Canada,27,27,FR,Melvin Ejim
+Q2,5:19,Germany,27,27,substituicao_entra,Maximilian Kleber
+Q2,5:19,Germany,27,27,substituicao_sai,Danilo Barthel
+Q2,5:19,Germany,27,27,LL_Pts_C,Dennis Schroder
+Q2,5:19,Germany,26,27,LL_Pts_C,Dennis Schroder
+Q2,5:19,Germany,25,27,AS,Maodo Lo
+Q2,5:19,Germany,25,27,LL_Pts_C,Dennis Schroder
+Q2,5:19,Germany,24,27,FR,Dennis Schroder
+Q2,5:19,Canada,24,27,FC,Andrew Nembhard
+Q2,5:37,Germany,24,27,substituicao_entra,Maodo Lo
+Q2,5:37,Germany,24,27,substituicao_sai,Andreas Obst
+Q2,5:37,Germany,24,27,tempo_tecnico,
+Q2,5:37,Canada,24,27,substituicao_entra,Andrew Nembhard
+Q2,5:37,Canada,24,27,substituicao_sai,Thomas Scrubb
+Q2,5:37,Canada,24,27,2_Pts_C,Phil Scrubb
+Q2,5:49,Germany,24,25,ER,Andreas Obst
+Q2,5:49,Canada,24,25,BR,Kaza Kajami-Keane
+Q2,6:10,Germany,24,25,substituicao_entra,Paul Zipser
+Q2,6:10,Germany,24,25,substituicao_sai,Maodo Lo
+Q2,6:10,Canada,24,25,ER,Phil Scrubb
+Q2,6:13,Germany,24,25,ER,Johannes Voigtmann
+Q2,6:13,Germany,24,24,FC,Andreas Obst
+Q2,6:13,Canada,24,25,substituicao_entra,Thomas Scrubb
+Q2,6:13,Canada,24,25,substituicao_sai,Andrew Nembhard
+Q2,6:13,Canada,24,25,substituicao_entra,Melvin Ejim
+Q2,6:13,Canada,24,25,substituicao_sai,Brady Heslip
+Q2,6:13,Canada,24,25,substituicao_entra,Kaza Kajami-Keane
+Q2,6:13,Canada,24,25,substituicao_sai,Thomas Scrubb
+Q2,6:13,Canada,24,25,LL_Pts_C,Owen Klassen
+Q2,6:13,Canada,24,24,FR,Owen Klassen
+Q2,6:13,Canada,24,24,AS,Andrew Nembhard
+Q2,6:13,Canada,24,24,,Owen Klassen2pt jump shot made
+Q2,6:25,Germany,24,22,,Johannes Voigtmann2pt jump shot made
+Q2,6:46,Canada,22,22,AS,Thomas Scrubb
+Q2,6:46,Canada,22,22,,Andrew Nembhard2pt jump shot made
+Q2,6:59,Germany,22,20,,Dennis Schroder2pt jump shot missed
+Q2,6:59,Canada,22,20,RD,Thomas Scrubb
+Q2,7:09,Canada,22,20,,Andrew Nembhardlayup made
+Q2,7:16,Germany,22,18,AS,Dennis Schroder
+Q2,7:16,Germany,22,18,,Paul Zipserlayup made
+Q2,7:16,Germany,20,18,substituicao_entra,Danilo Barthel
+Q2,7:16,Germany,20,18,substituicao_sai,Paul Zipser
+Q2,7:16,Germany,20,18,substituicao_entra,Dennis Schroder
+Q2,7:16,Germany,20,18,substituicao_sai,Robin Benzing
+Q2,7:16,Germany,20,18,substituicao_entra,Paul Zipser
+Q2,7:16,Germany,20,18,substituicao_sai,Danilo Barthel
+Q2,7:30,Germany,20,18,RD,Johannes Voigtmann
+Q2,7:30,Germany,20,18,TO,Johannes Voigtmann
+Q2,7:30,Canada,20,18,2_Pts_T,Thomas Scrubb
+Q2,7:41,Germany,20,18,FC,Robin Benzing
+Q2,7:41,Canada,20,18,FR,Andrew Nembhard
+Q2,7:43,Germany,20,18,,Danilo Barthellayup missed
+Q2,7:43,Canada,20,18,RD,Thomas Scrubb
+Q2,7:45,Germany,20,18,RO,Danilo Barthel
+Q2,7:45,Germany,20,18,,Danilo Bartheltip in missed
+Q2,7:53,Germany,20,18,RO,Danilo Barthel
+Q2,7:53,Germany,20,18,2_Pts_T,Robin Benzing
+Q2,8:02,Germany,20,18,RD,Andreas Obst
+Q2,8:02,Canada,20,18,2_Pts_T,Brady Heslip
+Q2,8:17,Germany,20,18,FC_O,Johannes Voigtmann
+Q2,8:17,Canada,20,18,FR,Owen Klassen
+Q2,8:23,Germany,20,18,FR,Danilo Barthel
+Q2,8:23,Canada,20,18,substituicao_entra,Thomas Scrubb
+Q2,8:23,Canada,20,18,substituicao_sai,Conor Morgan
+Q2,8:23,Canada,20,18,FC,Conor Morgan
+Q2,8:39,Canada,20,18,AS,Owen Klassen
+Q2,8:39,Canada,20,18,,Phil Scrubb3pt jump shot made
+Q2,8:50,Germany,20,15,FC,Andreas Obst
+Q2,8:50,Canada,20,15,FR,Brady Heslip
+Q2,9:06,Germany,20,15,2_Pts_T,Maodo Lo
+Q2,9:06,Canada,20,15,RD,Owen Klassen
+Q2,9:15,Germany,20,15,RD,Robin Benzing
+Q2,9:15,Canada,20,15,,Owen Klassen3pt jump shot missed
+Q2,9:28,Germany,20,15,AS,Johannes Voigtmann
+Q2,9:28,Germany,20,15,,Robin Benzing3pt jump shot made
+Q2,9:45,Canada,17,15,AS,Andrew Nembhard
+Q2,9:45,Canada,17,15,,Conor Morgan3pt jump shot made
+Q3,0:01,Germany,56,56,RD,Dennis Schroder
+Q3,0:01,Canada,56,56,3_Pts_T,Kyle Wiltjer
+Q3,0:25,Germany,56,56,substituicao_entra,Ismet Akpinar
+Q3,0:25,Germany,56,56,substituicao_sai,Maodo Lo
+Q3,0:25,Germany,56,56,LL_Pts_C,Maximilian Kleber
+Q3,0:25,Germany,55,56,LL_Pts_C,Maximilian Kleber
+Q3,0:25,Germany,54,56,substituicao_entra,Niels Giffey
+Q3,0:25,Germany,54,56,substituicao_sai,Robin Benzing
+Q3,0:25,Germany,54,56,FR,Maximilian Kleber
+Q3,0:25,Germany,54,56,RD,Maximilian Kleber
+Q3,0:25,Canada,56,56,substituicao_entra,Kyle Wiltjer
+Q3,0:25,Canada,56,56,substituicao_sai,Owen Klassen
+Q3,0:25,Canada,54,56,FC,Owen Klassen
+Q3,0:25,Canada,54,56,,Cory Joseph3pt jump shot missed
+Q3,0:32,Germany,54,56,LL_Pts_C,Robin Benzing
+Q3,0:32,Germany,53,56,LL_Pts_C,Robin Benzing
+Q3,0:32,Germany,52,56,AS,Dennis Schroder
+Q3,0:32,Germany,52,56,LL_Pts_C,Robin Benzing
+Q3,0:32,Germany,51,56,FR,Robin Benzing
+Q3,0:32,Canada,51,56,FC,Owen Klassen
+Q3,0:47,Germany,51,56,RD,Johannes Voigtmann
+Q3,0:47,Canada,51,56,2_Pts_T,Andrew Nembhard
+Q3,10:00,Germany,0,0,muda_bola,
+Q3,1:05,Germany,51,56,,Johannes Voigtmanntip in made
+Q3,1:10,Germany,49,56,RO,Johannes Voigtmann
+Q3,1:10,Germany,49,56,2_Pts_T,Dennis Schroder
+Q3,1:26,Germany,49,56,RD,Maodo Lo
+Q3,1:26,Canada,49,56,3_Pts_T,Owen Klassen
+Q3,1:39,Germany,49,56,AS,Dennis Schroder
+Q3,1:39,Germany,49,56,,Maximilian Kleberalley oop made
+Q3,1:54,Canada,47,56,AS,Andrew Nembhard
+Q3,1:54,Canada,47,56,2_Pts_C,Cory Joseph
+Q3,2:12,Germany,47,54,LL_Pts_C,Maodo Lo
+Q3,2:12,Germany,46,54,LL_Pts_T,Maodo Lo
+Q3,2:12,Germany,46,54,FR,Maodo Lo
+Q3,2:12,Canada,46,54,substituicao_entra,Owen Klassen
+Q3,2:12,Canada,46,54,substituicao_sai,Kyle Wiltjer
+Q3,2:12,Canada,46,54,substituicao_entra,Conor Morgan
+Q3,2:12,Canada,46,54,substituicao_sai,Khem Birch
+Q3,2:12,Canada,46,54,substituicao_entra,Andrew Nembhard
+Q3,2:12,Canada,46,54,substituicao_sai,Melvin Ejim
+Q3,2:12,Canada,46,54,FC,Brady Heslip
+Q3,2:23,Germany,46,54,RD,Johannes Voigtmann
+Q3,2:23,Canada,46,54,2_Pts_T,Kyle Wiltjer
+Q3,2:32,Canada,46,54,RO,Khem Birch
+Q3,2:32,Canada,46,54,,Kyle Wiltjer3pt jump shot missed
+Q3,2:37,Canada,46,54,RO,Khem Birch
+Q3,2:37,Canada,46,54,2_Pts_T,Cory Joseph
+Q3,2:59,Germany,46,54,AS,Robin Benzing
+Q3,2:59,Germany,46,54,,Maximilian Kleberalley oop made
+Q3,3:16,Germany,44,54,FR,Maodo Lo
+Q3,3:16,Canada,44,54,FC_O,Kyle Wiltjer
+Q3,3:24,Germany,44,54,3_Pts_T,Maodo Lo
+Q3,3:24,Canada,44,54,RD,Cory Joseph
+Q3,3:32,Germany,44,54,FR,Maodo Lo
+Q3,3:32,Canada,44,54,FC,Brady Heslip
+Q3,3:50,Germany,44,54,substituicao_entra,Johannes Voigtmann
+Q3,3:50,Germany,44,54,substituicao_sai,Daniel Theis
+Q3,3:50,Germany,44,54,substituicao_entra,Maodo Lo
+Q3,3:50,Germany,44,54,substituicao_sai,Ismet Akpinar
+Q3,3:50,Canada,44,54,substituicao_entra,Brady Heslip
+Q3,3:50,Canada,44,54,substituicao_sai,Kevin Pangos
+Q3,3:50,Canada,44,54,2_Pts_C,Cory Joseph
+Q3,4:01,Germany,44,52,,Dennis Schroder3pt jump shot made
+Q3,4:09,Germany,41,52,RD,Daniel Theis
+Q3,4:09,Canada,41,52,,Kevin Pangos3pt jump shot missed
+Q3,4:20,Germany,41,52,2_Pts_T,Robin Benzing
+Q3,4:20,Canada,41,52,RD,Melvin Ejim
+Q3,4:48,Canada,41,52,AS,Cory Joseph
+Q3,4:48,Canada,41,52,,Kyle Wiltjer3pt jump shot made
+Q3,4:59,Germany,41,49,,Robin Benzing3pt jump shot missed
+Q3,4:59,Canada,41,49,RD,Cory Joseph
+Q3,5:18,Canada,41,49,AS,Melvin Ejim
+Q3,5:18,Canada,41,49,,Kyle Wiltjer3pt jump shot made
+Q3,5:24,Germany,41,46,FC,Dennis Schroder
+Q3,5:24,Canada,41,46,FR,Cory Joseph
+Q3,5:31,Germany,41,46,LL_Pts_C,Dennis Schroder
+Q3,5:31,Germany,40,46,LL_Pts_T,Dennis Schroder
+Q3,5:31,Germany,40,46,LL_Pts_C,Dennis Schroder
+Q3,5:31,Germany,39,46,FR,Dennis Schroder
+Q3,5:31,Canada,39,46,FC,Cory Joseph
+Q3,5:48,Canada,39,46,AS,Kyle Wiltjer
+Q3,5:48,Canada,39,46,,Khem Birchdunk made
+Q3,5:59,Germany,39,44,,Maximilian Kleber3pt jump shot missed
+Q3,5:59,Canada,39,44,RD,Khem Birch
+Q3,6:19,Canada,39,44,AS,Cory Joseph
+Q3,6:19,Canada,39,44,2_Pts_C,Kyle Wiltjer
+Q3,6:35,Germany,39,42,AS,Robin Benzing
+Q3,6:35,Germany,39,42,,Maximilian Kleber3pt jump shot made
+Q3,6:55,Germany,36,42,RD,Daniel Theis
+Q3,6:55,Canada,36,42,,Kyle Wiltjer3pt jump shot missed
+Q3,7:04,Germany,36,42,,Daniel Theisdunk blocked
+Q3,7:04,Canada,36,42,RD,Kyle Wiltjer
+Q3,7:04,Canada,36,42,TO,Khem Birch
+Q3,7:20,Germany,36,42,tempo_tecnico,
+Q3,7:20,Canada,36,42,AS,Cory Joseph
+Q3,7:20,Canada,36,42,,Melvin Ejim3pt jump shot made
+Q3,7:32,Germany,36,39,FC,Robin Benzing
+Q3,7:32,Canada,36,39,FR,Cory Joseph
+Q3,7:35,Germany,36,39,ER,Daniel Theis
+Q3,7:35,Canada,36,39,BR,Kevin Pangos
+Q3,7:40,Germany,36,39,BR,Dennis Schroder
+Q3,7:40,Canada,36,39,ER,Kyle Wiltjer
+Q3,7:48,Canada,36,39,RO,Melvin Ejim
+Q3,7:48,Canada,36,39,2_Pts_T,Melvin Ejim
+Q3,7:54,Canada,36,39,RO,Melvin Ejim
+Q3,7:54,Canada,36,39,3_Pts_T,Cory Joseph
+Q3,8:13,Germany,36,39,ER,Daniel Theis
+Q3,8:13,Canada,36,39,BR,Khem Birch
+Q3,8:18,Germany,36,39,RO,Daniel Theis
+Q3,8:18,Germany,36,39,2_Pts_T,Ismet Akpinar
+Q3,8:34,Germany,36,39,FR,Maximilian Kleber
+Q3,8:34,Canada,36,39,FC_O,Kevin Pangos
+Q3,8:40,Germany,36,38,substituicao_entra,Robin Benzing
+Q3,8:40,Germany,36,38,substituicao_sai,Paul Zipser
+Q3,8:40,Germany,36,38,,Paul Zipserunsportsmanlike foul
+Q3,8:40,Canada,36,39,LL_Pts_T,Khem Birch
+Q3,8:40,Canada,36,38,FR,Khem Birch
+Q3,8:40,Canada,36,38,AS,Cory Joseph
+Q3,8:40,Canada,36,38,,Khem Birchlayup made
+Q3,8:44,Canada,36,36,RO,
+Q3,8:45,Canada,36,36,2_Pts_T,Cory Joseph
+Q3,8:54,Germany,36,36,ER,Dennis Schroder
+Q3,8:54,Canada,36,36,BR,Kyle Wiltjer
+Q3,9:14,Germany,36,36,RD,Paul Zipser
+Q3,9:14,Canada,36,36,2_Pts_T,Khem Birch
+Q3,9:17,Germany,36,35,FC_A,Paul Zipser
+Q3,9:17,Canada,36,36,LL_Pts_T,Melvin Ejim
+Q3,9:17,Canada,36,36,LL_Pts_C,Melvin Ejim
+Q3,9:17,Canada,36,35,FR,Melvin Ejim
+Q3,9:19,Germany,36,35,ER,Paul Zipser
+Q3,9:19,Canada,36,35,BR,Melvin Ejim
+Q3,9:35,Canada,36,35,AS,Cory Joseph
+Q3,9:35,Canada,36,35,,Khem Birchlayup made
+Q3,9:48,Germany,0,0,3_Pts_T,Daniel Theis
+Q3,9:48,Canada,0,0,RD,Khem Birch
+Q4,0:02,Canada,82,76,,Khem Birchtip in made
+Q4,0:04,Canada,82,74,RO,Khem Birch
+Q4,0:04,Canada,82,74,3_Pts_T,Kevin Pangos
+Q4,0:10,Germany,82,74,substituicao_entra,Niels Giffey
+Q4,0:10,Germany,82,74,substituicao_sai,Robin Benzing
+Q4,0:11,Germany,82,74,LL_Pts_C,Maodo Lo
+Q4,0:11,Germany,81,74,LL_Pts_C,Maodo Lo
+Q4,0:11,Germany,80,74,FR,Maodo Lo
+Q4,0:11,Germany,80,74,substituicao_entra,Robin Benzing
+Q4,0:11,Germany,80,74,substituicao_sai,Niels Giffey
+Q4,0:11,Germany,80,74,substituicao_entra,Niels Giffey
+Q4,0:11,Germany,80,74,substituicao_sai,Robin Benzing
+Q4,0:11,Germany,80,74,LL_Pts_C,Maodo Lo
+Q4,0:11,Germany,79,74,LL_Pts_C,Maodo Lo
+Q4,0:11,Germany,78,74,FR,Maodo Lo
+Q4,0:11,Canada,80,74,FC,Kevin Pangos
+Q4,0:11,Canada,80,74,substituicao_entra,Kaza Kajami-Keane
+Q4,0:11,Canada,80,74,substituicao_sai,Kyle Wiltjer
+Q4,0:11,Canada,80,74,ER,Cory Joseph
+Q4,0:11,Canada,80,74,substituicao_entra,Cory Joseph
+Q4,0:11,Canada,80,74,substituicao_sai,Andrew Nembhard
+Q4,0:11,Canada,80,74,tempo_tecnico,
+Q4,0:11,Canada,78,74,substituicao_entra,Andrew Nembhard
+Q4,0:11,Canada,78,74,substituicao_sai,Cory Joseph
+Q4,0:11,Canada,78,74,FC,Cory Joseph
+Q4,0:11,Canada,78,74,2_Pts_C,Kyle Wiltjer
+Q4,0:14,Germany,78,72,TO,Maximilian Kleber
+Q4,0:14,Canada,78,72,RO,Kyle Wiltjer
+Q4,0:14,Canada,78,72,2_Pts_T,Kyle Wiltjer
+Q4,0:15,Germany,78,71,substituicao_entra,Maodo Lo
+Q4,0:15,Germany,78,71,substituicao_sai,Ismet Akpinar
+Q4,0:15,Germany,78,71,FC,Ismet Akpinar
+Q4,0:15,Canada,78,72,RO,Kyle Wiltjer
+Q4,0:15,Canada,78,72,LL_Pts_T,Kyle Wiltjer
+Q4,0:15,Canada,78,72,LL_Pts_C,Kyle Wiltjer
+Q4,0:15,Canada,78,71,FR,Kyle Wiltjer
+Q4,0:20,Germany,78,71,ER,Dennis Schroder
+Q4,0:20,Canada,78,71,BR,Cory Joseph
+Q4,0:43,Germany,78,71,RD,Robin Benzing
+Q4,0:43,Canada,78,71,,Kyle Wiltjer3pt jump shot missed
+Q4,0:51,Germany,78,71,ER,Dennis Schroder
+Q4,0:51,Canada,78,71,BR,Melvin Ejim
+Q4,10:00,Canada,0,0,muda_bola,
+Q4,1:09,Germany,78,71,RD,Johannes Voigtmann
+Q4,1:09,Canada,78,71,,Cory Joseph3pt jump shot missed
+Q4,1:23,Germany,78,71,AS,Johannes Voigtmann
+Q4,1:23,Germany,78,71,,Maximilian Kleberalley oop made
+Q4,1:23,Canada,78,71,tempo_tecnico,
+Q4,1:26,Germany,76,71,BR,Maximilian Kleber
+Q4,1:26,Canada,76,71,ER,Cory Joseph
+Q4,1:30,Germany,76,71,2_Pts_C,Dennis Schroder
+Q4,1:42,Canada,74,71,3_Pts_C,Cory Joseph
+Q4,2:06,Germany,74,68,AS,Dennis Schroder
+Q4,2:06,Germany,74,68,,Ismet Akpinar3pt jump shot made
+Q4,2:23,Germany,71,66,FC,Maximilian Kleber
+Q4,2:23,Canada,71,68,LL_Pts_C,Kyle Wiltjer
+Q4,2:23,Canada,71,67,AS,Khem Birch
+Q4,2:23,Canada,71,67,LL_Pts_C,Kyle Wiltjer
+Q4,2:23,Canada,71,66,FR,Kyle Wiltjer
+Q4,2:27,Canada,71,66,RO,Khem Birch
+Q4,2:27,Canada,71,66,,Kyle Wiltjer3pt jump shot missed
+Q4,2:45,Germany,71,66,LL_Pts_C,Dennis Schroder
+Q4,2:45,Germany,70,66,LL_Pts_C,Dennis Schroder
+Q4,2:45,Germany,69,66,FR,Dennis Schroder
+Q4,2:45,Canada,69,66,FC,Melvin Ejim
+Q4,2:56,Germany,69,66,substituicao_entra,Johannes Voigtmann
+Q4,2:56,Germany,69,66,substituicao_sai,Danilo Barthel
+Q4,2:56,Germany,69,66,FR,Dennis Schroder
+Q4,2:56,Canada,69,66,FC_O,Cory Joseph
+Q4,3:07,Germany,69,66,AS,Dennis Schroder
+Q4,3:07,Germany,69,66,,Robin Benzing3pt jump shot made
+Q4,3:22,Canada,66,66,2_Pts_C,Cory Joseph
+Q4,3:40,Germany,66,64,2_Pts_T,Dennis Schroder
+Q4,3:40,Canada,66,64,RD,Melvin Ejim
+Q4,3:51,Germany,66,64,RD,Robin Benzing
+Q4,3:51,Canada,66,64,2_Pts_T,Kevin Pangos
+Q4,4:13,Germany,66,64,2_Pts_C,Dennis Schroder
+Q4,4:23,Germany,64,64,RD,Dennis Schroder
+Q4,4:23,Canada,64,64,,Kyle Wiltjer3pt jump shot missed
+Q4,4:28,Germany,64,64,FC,Ismet Akpinar
+Q4,4:28,Canada,64,64,FR,Kyle Wiltjer
+Q4,4:28,Canada,64,64,RO,
+Q4,4:28,Canada,64,64,3_Pts_T,Kevin Pangos
+Q4,4:46,Germany,64,64,,Maximilian Kleber3pt jump shot missed
+Q4,4:46,Canada,64,64,RD,Kevin Pangos
+Q4,5:07,Canada,64,64,AS,Khem Birch
+Q4,5:07,Canada,64,64,,Kyle Wiltjer3pt jump shot made
+Q4,5:11,Canada,64,61,RO,Khem Birch
+Q4,5:11,Canada,64,61,2_Pts_T,Kevin Pangos
+Q4,5:15,Germany,64,61,ER,Dennis Schroder
+Q4,5:15,Canada,64,61,BR,Khem Birch
+Q4,5:17,Germany,64,61,FR,Robin Benzing
+Q4,5:17,Canada,64,61,substituicao_entra,Kyle Wiltjer
+Q4,5:17,Canada,64,61,substituicao_sai,Andrew Nembhard
+Q4,5:17,Canada,64,61,FC,Andrew Nembhard
+Q4,5:26,Germany,64,61,RD,Maximilian Kleber
+Q4,5:26,Canada,64,61,,Andrew Nembhard2pt jump shot missed
+Q4,5:53,Germany,64,61,LL_Pts_T,Danilo Barthel
+Q4,5:53,Germany,64,61,LL_Pts_C,Danilo Barthel
+Q4,5:53,Germany,63,61,substituicao_entra,Maximilian Kleber
+Q4,5:53,Germany,63,61,substituicao_sai,Johannes Voigtmann
+Q4,5:53,Germany,63,61,substituicao_entra,Robin Benzing
+Q4,5:53,Germany,63,61,substituicao_sai,Niels Giffey
+Q4,5:53,Germany,63,61,FR,Danilo Barthel
+Q4,5:53,Germany,63,61,RO,Danilo Barthel
+Q4,5:53,Germany,63,61,,Johannes Voigtmann3pt jump shot missed
+Q4,5:53,Canada,64,61,RD,Khem Birch
+Q4,5:53,Canada,63,61,FC,Melvin Ejim
+Q4,6:17,Canada,63,61,AS,Melvin Ejim
+Q4,6:17,Canada,63,61,,Khem Birchdunk made
+Q4,6:19,Germany,63,59,ER,Dennis Schroder
+Q4,6:19,Canada,63,59,BR,Melvin Ejim
+Q4,6:28,Germany,63,59,RD,Johannes Voigtmann
+Q4,6:28,Canada,63,59,2_Pts_T,Kevin Pangos
+Q4,6:41,Germany,63,58,FC_T,Coach: 
+Q4,6:41,Canada,63,59,LL_Pts_C,Kevin Pangos
+Q4,6:41,Canada,63,58,substituicao_entra,Cory Joseph
+Q4,6:41,Canada,63,58,substituicao_sai,Phil Scrubb
+Q4,6:41,Canada,63,58,substituicao_entra,Kevin Pangos
+Q4,6:41,Canada,63,58,substituicao_sai,Owen Klassen
+Q4,6:48,Germany,63,58,2_Pts_T,Danilo Barthel
+Q4,6:48,Canada,63,58,RD,Melvin Ejim
+Q4,7:04,Germany,63,56,FC,Johannes Voigtmann
+Q4,7:04,Canada,63,58,LL_Pts_C,Khem Birch
+Q4,7:04,Canada,63,57,AS,Andrew Nembhard
+Q4,7:04,Canada,63,57,LL_Pts_C,Khem Birch
+Q4,7:04,Canada,63,56,FR,Khem Birch
+Q4,7:12,Germany,63,56,ER,Niels Giffey
+Q4,7:34,Germany,63,56,RD,Dennis Schroder
+Q4,7:34,Canada,63,56,,Phil Scrubb2pt jump shot missed
+Q4,7:41,Germany,63,56,FC,Danilo Barthel
+Q4,7:41,Canada,63,56,substituicao_entra,Khem Birch
+Q4,7:41,Canada,63,56,substituicao_sai,Kaza Kajami-Keane
+Q4,7:41,Canada,63,56,tempo_tecnico,
+Q4,7:41,Canada,63,56,FR,Owen Klassen
+Q4,7:41,Canada,63,56,RO,
+Q4,7:41,Canada,63,56,,Phil Scrubb2pt jump shot missed
+Q4,8:02,Germany,63,56,AS,Johannes Voigtmann
+Q4,8:02,Germany,63,56,,Ismet Akpinar3pt jump shot made
+Q4,8:14,Germany,60,56,RD,Dennis Schroder
+Q4,8:14,Canada,60,56,,Phil Scrubb3pt jump shot missed
+Q4,8:21,Canada,60,56,RO,Owen Klassen
+Q4,8:21,Canada,60,56,,Andrew Nembhard3pt jump shot missed
+Q4,8:40,Germany,60,56,substituicao_entra,Danilo Barthel
+Q4,8:40,Germany,60,56,substituicao_sai,Maximilian Kleber
+Q4,8:40,Germany,60,56,LL_Pts_C,Johannes Voigtmann
+Q4,8:40,Germany,59,56,LL_Pts_T,Johannes Voigtmann
+Q4,8:40,Germany,59,56,FR,Johannes Voigtmann
+Q4,8:40,Canada,59,56,substituicao_entra,Kaza Kajami-Keane
+Q4,8:40,Canada,59,56,substituicao_sai,Conor Morgan
+Q4,8:40,Canada,59,56,FC,Owen Klassen
+Q4,8:42,Germany,59,56,RO,Johannes Voigtmann
+Q4,8:42,Germany,59,56,,Dennis Schroder3pt jump shot missed
+Q4,8:49,Germany,59,56,RD,Dennis Schroder
+Q4,8:49,Canada,59,56,,Owen Klassenlayup missed
+Q4,9:07,Germany,59,56,AS,Dennis Schroder
+Q4,9:07,Germany,59,56,,Johannes Voigtmann3pt jump shot made
+Q4,9:21,Germany,0,0,BR,Dennis Schroder
+Q4,9:21,Canada,0,0,ER,Phil Scrubb
+Q4,9:38,Germany,0,0,FC_O,Ismet Akpinar
+Q4,9:38,Canada,0,0,FR,Andrew Nembhard
+Q4,9:47,Germany,0,0,FR,Dennis Schroder
+Q4,9:47,Canada,0,0,FC_O,Conor Morgan

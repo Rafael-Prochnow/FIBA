@@ -1,0 +1,507 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Canada,31,13,,Cory Joseph3pt jump shot made
+Q1,0:02,Canada,28,13,BR,Conor Morgan
+Q1,0:02,Jordan,28,13,ER,Freddy Ibrahim
+Q1,0:06,Canada,28,13,substituicao_entra,Cory Joseph
+Q1,0:06,Canada,28,13,substituicao_sai,Kevin Pangos
+Q1,0:06,Canada,28,13,FC_O,Owen Klassen
+Q1,0:06,Jordan,28,13,substituicao_entra,Mohammad Hussein
+Q1,0:06,Jordan,28,13,substituicao_sai,Yousef AbuWazaneh
+Q1,0:06,Jordan,28,13,FR,Freddy Ibrahim
+Q1,0:26,Jordan,28,13,2_Pts_C,Freddy Ibrahim
+Q1,0:42,Canada,28,11,AS,Brady Heslip
+Q1,0:42,Canada,28,11,,Owen Klassen2pt jump shot made
+Q1,0:59,Canada,26,11,RD,Owen Klassen
+Q1,0:59,Jordan,26,11,2_Pts_T,Yousef AbuWazaneh
+Q1,10:00,Canada,0,0,inicio_quarto,Khem Birch
+Q1,1:20,Canada,26,11,,Conor Morgan2pt jump shot missed
+Q1,1:20,Jordan,26,11,RD,Freddy Ibrahim
+Q1,1:39,Jordan,26,11,AS,Freddy Ibrahim
+Q1,1:39,Jordan,26,11,,Ahmad Al Dwairi2pt jump shot made
+Q1,1:41,Canada,26,9,FC,Brady Heslip
+Q1,1:41,Jordan,26,9,substituicao_entra,Jordan Al-Dasuqi
+Q1,1:41,Jordan,26,9,substituicao_sai,Ahmad Alhamarsheh
+Q1,1:41,Jordan,26,9,FR,Yousef AbuWazaneh
+Q1,1:41,Jordan,26,9,RO,
+Q1,1:41,Jordan,26,9,,Freddy Ibrahim3pt jump shot missed
+Q1,2:01,Canada,26,9,AS,Kevin Pangos
+Q1,2:01,Canada,26,9,,Phil Scrubb3pt jump shot made
+Q1,2:01,Jordan,26,9,tempo_tecnico,
+Q1,2:11,Canada,23,9,RO,Conor Morgan
+Q1,2:11,Canada,23,9,,Kevin Pangos3pt jump shot missed
+Q1,2:20,Canada,23,9,BR,Phil Scrubb
+Q1,2:20,Jordan,23,9,ER,Ahmad Al Dwairi
+Q1,2:39,Canada,23,9,AS,Phil Scrubb
+Q1,2:39,Canada,23,9,,Owen Klassenlayup made
+Q1,2:58,Canada,21,9,BR,Phil Scrubb
+Q1,2:58,Jordan,21,9,ER,Freddy Ibrahim
+Q1,3:14,Canada,21,9,substituicao_entra,Owen Klassen
+Q1,3:14,Canada,21,9,substituicao_sai,Kyle Wiltjer
+Q1,3:14,Canada,21,9,substituicao_entra,Conor Morgan
+Q1,3:14,Canada,21,9,substituicao_sai,Khem Birch
+Q1,3:14,Canada,21,9,substituicao_entra,Brady Heslip
+Q1,3:14,Canada,21,9,substituicao_sai,Melvin Ejim
+Q1,3:14,Canada,21,9,2_Pts_T,Kyle Wiltjer
+Q1,3:14,Jordan,21,9,substituicao_entra,Yousef AbuWazaneh
+Q1,3:14,Jordan,21,9,substituicao_sai,Zaid Abbas
+Q1,3:14,Jordan,21,9,RD,Ahmad Alhamarsheh
+Q1,3:29,Canada,21,9,RD,Khem Birch
+Q1,3:29,Jordan,21,9,,Dar Tucker3pt jump shot missed
+Q1,3:38,Canada,21,9,,Kyle Wiltjer3pt jump shot missed
+Q1,3:38,Jordan,21,9,RD,Dar Tucker
+Q1,3:45,Canada,21,9,FR,Kyle Wiltjer
+Q1,3:45,Jordan,21,9,FC_O,Zaid Abbas
+Q1,3:46,Canada,21,9,substituicao_entra,Phil Scrubb
+Q1,3:46,Canada,21,9,substituicao_sai,Cory Joseph
+Q1,3:46,Canada,21,9,FC,Kyle Wiltjer
+Q1,3:46,Jordan,21,9,FR,Zaid Abbas
+Q1,4:08,Canada,21,9,AS,Kevin Pangos
+Q1,4:08,Canada,21,9,,Kyle Wiltjer3pt jump shot made
+Q1,4:27,Jordan,18,9,2_Pts_C,Freddy Ibrahim
+Q1,4:39,Canada,18,7,2_Pts_C,Kyle Wiltjer
+Q1,4:59,Canada,16,5,FC,Kevin Pangos
+Q1,4:59,Jordan,16,7,LL_Pts_C,Dar Tucker
+Q1,4:59,Jordan,16,6,AS,Freddy Ibrahim
+Q1,4:59,Jordan,16,6,LL_Pts_C,Dar Tucker
+Q1,4:59,Jordan,16,5,FR,Dar Tucker
+Q1,5:01,Jordan,16,5,RO,
+Q1,5:01,Jordan,16,5,2_Pts_T,Dar Tucker
+Q1,5:17,Canada,16,5,AS,Cory Joseph
+Q1,5:17,Canada,16,5,,Melvin Ejim3pt jump shot made
+Q1,5:35,Canada,13,4,FC,Khem Birch
+Q1,5:35,Jordan,13,5,LL_Pts_C,Ahmad Al Dwairi
+Q1,5:35,Jordan,13,4,FR,Ahmad Al Dwairi
+Q1,5:35,Jordan,13,4,,Ahmad Al Dwairi2pt jump shot made
+Q1,5:45,Canada,13,2,LL_Pts_C,Khem Birch
+Q1,5:45,Canada,12,2,FR,Khem Birch
+Q1,5:45,Canada,12,2,AS,Kyle Wiltjer
+Q1,5:45,Canada,12,2,2_Pts_C,Khem Birch
+Q1,5:45,Jordan,12,2,FC,Zaid Abbas
+Q1,6:02,Jordan,10,2,ER,Freddy Ibrahim
+Q1,6:26,Canada,10,2,AS,Melvin Ejim
+Q1,6:26,Canada,10,2,,Kyle Wiltjer3pt jump shot made
+Q1,6:36,Canada,7,2,RD,Khem Birch
+Q1,6:36,Jordan,7,2,,Zaid Abbas3pt jump shot missed
+Q1,6:59,Canada,7,2,2_Pts_T,Cory Joseph
+Q1,6:59,Jordan,7,2,RD,Freddy Ibrahim
+Q1,7:11,Canada,7,2,FR,Cory Joseph
+Q1,7:11,Jordan,7,2,FC,Ahmad Alhamarsheh
+Q1,7:12,Canada,7,2,RD,Cory Joseph
+Q1,7:12,Canada,7,2,TO,Melvin Ejim
+Q1,7:12,Jordan,7,2,2_Pts_T,Dar Tucker
+Q1,7:28,Canada,7,2,AS,Melvin Ejim
+Q1,7:28,Canada,7,2,,Kevin Pangos3pt jump shot made
+Q1,7:34,Jordan,4,2,ER,Ahmad Al Dwairi
+Q1,7:52,Canada,4,2,2_Pts_C,Melvin Ejim
+Q1,8:16,Canada,2,2,RD,
+Q1,8:16,Jordan,2,2,,Dar Tucker3pt jump shot missed
+Q1,8:28,Jordan,2,2,RO,Ahmad Al Dwairi
+Q1,8:28,Jordan,2,2,,Ahmad Alhamarsheh3pt jump shot missed
+Q1,8:54,Canada,2,2,2_Pts_T,Khem Birch
+Q1,8:54,Jordan,2,2,RD,Ahmad Al Dwairi
+Q1,9:15,Jordan,2,2,AS,Ahmad Al Dwairi
+Q1,9:15,Jordan,2,2,2_Pts_C,Ahmad Alhamarsheh
+Q1,9:39,Canada,2,0,,Khem Birchdunk made
+Q1,9:45,Canada,0,0,RO,Khem Birch
+Q1,9:45,Canada,0,0,2_Pts_T,Melvin Ejim
+Q2,0:00,Jordan,63,35,,Ahmad Al Dwairi2pt jump shot missed
+Q2,0:06,Canada,63,35,FC,Thomas Scrubb
+Q2,0:06,Jordan,63,35,FR,Dar Tucker
+Q2,0:20,Canada,63,35,AS,Kaza Kajami-Keane
+Q2,0:20,Canada,63,35,,Thomas Scrubb3pt jump shot made
+Q2,0:34,Canada,60,35,RD,Kyle Wiltjer
+Q2,0:34,Jordan,60,35,,Ahmad Alhamarsheh3pt jump shot missed
+Q2,0:39,Canada,60,35,FC,Kaza Kajami-Keane
+Q2,0:39,Jordan,60,35,FR,Zaid Abbas
+Q2,0:48,Canada,60,35,,Kaza Kajami-Keane3pt jump shot missed
+Q2,0:48,Jordan,60,35,RD,Zaid Abbas
+Q2,0:53,Canada,60,35,RO,Thomas Scrubb
+Q2,0:53,Canada,60,35,,Andrew Nembhard3pt jump shot missed
+Q2,0:58,Canada,60,35,BR,Khem Birch
+Q2,0:58,Jordan,60,35,ER,Ahmad Al Dwairi
+Q2,10:00,Jordan,0,0,muda_bola,
+Q2,1:15,Canada,60,35,,Thomas Scrubb3pt jump shot missed
+Q2,1:15,Jordan,60,35,RD,Zaid Abbas
+Q2,1:30,Canada,60,35,substituicao_entra,Thomas Scrubb
+Q2,1:30,Canada,60,35,substituicao_sai,Cory Joseph
+Q2,1:30,Canada,60,35,substituicao_entra,Kaza Kajami-Keane
+Q2,1:30,Canada,60,35,substituicao_sai,Melvin Ejim
+Q2,1:30,Canada,60,35,FR,Cory Joseph
+Q2,1:30,Jordan,60,35,substituicao_entra,Dar Tucker
+Q2,1:30,Jordan,60,35,substituicao_sai,Mousa Alawadi
+Q2,1:30,Jordan,60,35,FC,Mousa Alawadi
+Q2,1:32,Canada,60,35,BR,Cory Joseph
+Q2,1:32,Jordan,60,35,ER,Ahmad Al Dwairi
+Q2,1:53,Canada,60,35,2_Pts_C,Cory Joseph
+Q2,2:07,Canada,58,35,RD,Khem Birch
+Q2,2:07,Jordan,58,35,,Ahmad Alhamarsheh3pt jump shot missed
+Q2,2:11,Canada,58,35,substituicao_entra,Kyle Wiltjer
+Q2,2:11,Canada,58,35,substituicao_sai,Conor Morgan
+Q2,2:17,Canada,58,35,substituicao_entra,Conor Morgan
+Q2,2:17,Canada,58,35,substituicao_sai,Kyle Wiltjer
+Q2,2:22,Canada,58,35,AS,Cory Joseph
+Q2,2:22,Canada,58,35,,Kyle Wiltjerdunk made
+Q2,2:22,Jordan,58,35,tempo_tecnico,
+Q2,2:35,Canada,56,35,RD,Melvin Ejim
+Q2,2:35,Jordan,56,35,3_Pts_T,Freddy Ibrahim
+Q2,2:42,Canada,56,35,,Andrew Nembhard3pt jump shot missed
+Q2,2:42,Jordan,56,35,RD,Freddy Ibrahim
+Q2,2:51,Jordan,56,35,AS,Freddy Ibrahim
+Q2,2:51,Jordan,56,35,,Zaid Abbaslayup made
+Q2,3:13,Canada,56,33,AS,Andrew Nembhard
+Q2,3:13,Canada,56,33,,Cory Joseph3pt jump shot made
+Q2,3:29,Canada,53,33,substituicao_entra,Andrew Nembhard
+Q2,3:29,Canada,53,33,substituicao_sai,Kevin Pangos
+Q2,3:29,Jordan,53,33,substituicao_entra,Freddy Ibrahim
+Q2,3:29,Jordan,53,33,substituicao_sai,Mahmoud Abdeen
+Q2,3:29,Jordan,53,33,AS,Mahmoud Abdeen
+Q2,3:29,Jordan,53,33,,Ahmad Alhamarsheh3pt jump shot made
+Q2,3:50,Canada,53,30,AS,Cory Joseph
+Q2,3:50,Canada,53,30,,Kyle Wiltjer3pt jump shot made
+Q2,4:00,Canada,50,30,RD,Cory Joseph
+Q2,4:00,Jordan,50,30,3_Pts_T,Mahmoud Abdeen
+Q2,4:23,Canada,50,30,AS,Cory Joseph
+Q2,4:23,Canada,50,30,,Kyle Wiltjer3pt jump shot made
+Q2,4:38,Canada,47,30,RD,Khem Birch
+Q2,4:38,Jordan,47,30,,Mousa Alawadi2pt jump shot missed
+Q2,4:56,Canada,47,30,substituicao_entra,Kevin Pangos
+Q2,4:56,Canada,47,30,substituicao_sai,Brady Heslip
+Q2,4:56,Canada,47,30,ER,Cory Joseph
+Q2,4:56,Jordan,47,30,substituicao_entra,Ahmad Al Dwairi
+Q2,4:56,Jordan,47,30,substituicao_sai,Mohammad Hussein
+Q2,5:09,Jordan,47,30,AS,Ahmad Alhamarsheh
+Q2,5:09,Jordan,47,30,3_Pts_C,Mahmoud Abdeen
+Q2,5:20,Canada,47,27,AS,Khem Birch
+Q2,5:20,Canada,47,27,,Brady Heslip3pt jump shot made
+Q2,5:34,Jordan,44,27,2_Pts_C,Mousa Alawadi
+Q2,5:45,Canada,44,25,AS,Cory Joseph
+Q2,5:45,Canada,44,25,2_Pts_C,Melvin Ejim
+Q2,5:58,Canada,42,25,RD,Cory Joseph
+Q2,5:58,Jordan,42,25,,Mohammad Hussein2pt jump shot missed
+Q2,6:13,Canada,42,25,LL_Pts_C,Melvin Ejim
+Q2,6:13,Canada,41,25,AS,Khem Birch
+Q2,6:13,Canada,41,25,LL_Pts_C,Melvin Ejim
+Q2,6:13,Canada,40,25,FR,Melvin Ejim
+Q2,6:13,Jordan,40,25,FC,Mousa Alawadi
+Q2,6:24,Jordan,40,25,AS,Mahmoud Abdeen
+Q2,6:24,Jordan,40,25,2_Pts_C,Mohammad Hussein
+Q2,6:32,Canada,40,23,substituicao_entra,Kyle Wiltjer
+Q2,6:32,Canada,40,23,substituicao_sai,Phil Scrubb
+Q2,6:32,Canada,40,23,substituicao_entra,Melvin Ejim
+Q2,6:32,Canada,40,23,substituicao_sai,Conor Morgan
+Q2,6:32,Jordan,40,23,substituicao_entra,Zaid Abbas
+Q2,6:32,Jordan,40,23,substituicao_sai,Yousef AbuWazaneh
+Q2,6:51,Canada,40,23,,Cory Joseph3pt jump shot missed
+Q2,6:51,Jordan,40,23,RD,Ahmad Alhamarsheh
+Q2,7:07,Jordan,40,23,AS,Mohammad Hussein
+Q2,7:07,Jordan,40,23,,Mahmoud Abdeen3pt jump shot made
+Q2,7:13,Canada,40,20,substituicao_entra,Khem Birch
+Q2,7:13,Canada,40,20,substituicao_sai,Owen Klassen
+Q2,7:13,Canada,40,20,FC,Conor Morgan
+Q2,7:13,Canada,40,20,ER,Conor Morgan
+Q2,7:13,Jordan,40,20,substituicao_entra,Mousa Alawadi
+Q2,7:13,Jordan,40,20,substituicao_sai,Jordan Al-Dasuqi
+Q2,7:13,Jordan,40,20,substituicao_entra,Ahmad Alhamarsheh
+Q2,7:13,Jordan,40,20,substituicao_sai,Dar Tucker
+Q2,7:13,Jordan,40,20,FR,Mohammad Hussein
+Q2,7:13,Jordan,40,20,BR,Mohammad Hussein
+Q2,7:16,Canada,40,20,RD,Conor Morgan
+Q2,7:16,Jordan,40,20,2_Pts_T,Mohammad Hussein
+Q2,7:29,Canada,40,20,,Conor Morgan3pt jump shot missed
+Q2,7:29,Jordan,40,20,RD,Jordan Al-Dasuqi
+Q2,7:42,Jordan,40,20,2_Pts_C,Dar Tucker
+Q2,8:06,Canada,40,18,AS,Cory Joseph
+Q2,8:06,Canada,40,18,,Brady Heslip3pt jump shot made
+Q2,8:12,Canada,37,18,BR,Cory Joseph
+Q2,8:12,Jordan,37,18,ER,Dar Tucker
+Q2,8:32,Canada,37,18,,Brady Heslip3pt jump shot missed
+Q2,8:32,Jordan,37,18,RD,Yousef AbuWazaneh
+Q2,8:46,Canada,37,18,RD,Brady Heslip
+Q2,8:46,Jordan,37,18,,Mohammad Hussein2pt jump shot missed
+Q2,9:05,Canada,37,18,AS,Owen Klassen
+Q2,9:05,Canada,37,18,,Phil Scrubb3pt jump shot made
+Q2,9:19,Canada,34,17,FC,Cory Joseph
+Q2,9:19,Jordan,34,18,LL_Pts_C,Dar Tucker
+Q2,9:19,Jordan,34,17,FR,Dar Tucker
+Q2,9:19,Jordan,34,17,2_Pts_C,Dar Tucker
+Q2,9:33,Canada,34,15,AS,Cory Joseph
+Q2,9:33,Canada,34,15,3_Pts_C,Brady Heslip
+Q2,9:50,Jordan,31,15,2_Pts_C,Dar Tucker
+Q3,0:01,Jordan,99,50,ER,Mahmoud Abdeen
+Q3,0:08,Canada,99,50,LL_Pts_C,Conor Morgan
+Q3,0:08,Canada,98,50,LL_Pts_C,Conor Morgan
+Q3,0:08,Canada,97,50,substituicao_entra,Phil Scrubb
+Q3,0:08,Canada,97,50,substituicao_sai,Brady Heslip
+Q3,0:08,Canada,97,50,FR,Conor Morgan
+Q3,0:08,Jordan,97,50,substituicao_entra,Ahmad Al Dwairi
+Q3,0:08,Jordan,97,50,substituicao_sai,Mohammad Hussein
+Q3,0:08,Jordan,97,50,FC,Mohammad Hussein
+Q3,0:24,Canada,97,50,substituicao_entra,Thomas Scrubb
+Q3,0:24,Canada,97,50,substituicao_sai,Owen Klassen
+Q3,0:24,Canada,97,48,FC,Owen Klassen
+Q3,0:24,Jordan,97,50,LL_Pts_C,Mohammad Hussein
+Q3,0:24,Jordan,97,49,LL_Pts_C,Mohammad Hussein
+Q3,0:24,Jordan,97,48,FR,Mohammad Hussein
+Q3,0:31,Canada,97,48,ER,Owen Klassen
+Q3,0:31,Jordan,97,48,BR,Amin Abu Hawwas
+Q3,0:35,Canada,97,48,RD,Owen Klassen
+Q3,0:35,Jordan,97,48,3_Pts_T,Amin Abu Hawwas
+Q3,0:50,Canada,97,48,LL_Pts_T,Owen Klassen
+Q3,0:50,Canada,97,48,LL_Pts_C,Owen Klassen
+Q3,0:50,Canada,96,48,FR,Owen Klassen
+Q3,0:50,Canada,96,48,RD,Owen Klassen
+Q3,0:50,Jordan,97,48,RD,Mohammad Hussein
+Q3,0:50,Jordan,96,48,FC,Mohammad Hussein
+Q3,0:50,Jordan,96,48,3_Pts_T,Mahmoud Abdeen
+Q3,10:00,Canada,0,0,muda_bola,
+Q3,1:05,Canada,96,48,FC,Brady Heslip
+Q3,1:05,Jordan,96,48,FR,Jordan Al-Dasuqi
+Q3,1:16,Canada,96,48,substituicao_entra,Conor Morgan
+Q3,1:16,Canada,96,48,substituicao_sai,Kyle Wiltjer
+Q3,1:16,Canada,96,48,AS,Andrew Nembhard
+Q3,1:16,Canada,96,48,,Kyle Wiltjerlayup made
+Q3,1:16,Jordan,96,48,tempo_tecnico,
+Q3,1:23,Canada,94,48,RD,Kaza Kajami-Keane
+Q3,1:23,Jordan,94,48,,Mohammad Hussein2pt jump shot missed
+Q3,1:46,Canada,94,48,AS,Kaza Kajami-Keane
+Q3,1:46,Canada,94,48,,Owen Klassendunk made
+Q3,1:53,Canada,92,48,RO,Owen Klassen
+Q3,1:53,Canada,92,48,,Kyle Wiltjer3pt jump shot missed
+Q3,1:53,Jordan,92,48,substituicao_entra,Amin Abu Hawwas
+Q3,1:53,Jordan,92,48,substituicao_sai,Dar Tucker
+Q3,2:07,Canada,92,48,FR,Owen Klassen
+Q3,2:07,Canada,92,48,RD,
+Q3,2:07,Jordan,92,48,FC,Yousef AbuWazaneh
+Q3,2:07,Jordan,92,48,,Mohammad Husseinlayup missed
+Q3,2:11,Jordan,92,48,RO,Mohammad Hussein
+Q3,2:11,Jordan,92,48,2_Pts_T,Dar Tucker
+Q3,2:33,Canada,92,48,2_Pts_C,Kaza Kajami-Keane
+Q3,2:44,Jordan,90,48,2_Pts_C,Dar Tucker
+Q3,2:54,Canada,90,46,,Brady Heslip3pt jump shot missed
+Q3,2:54,Jordan,90,46,RD,Dar Tucker
+Q3,3:10,Jordan,90,46,AS,Mahmoud Abdeen
+Q3,3:10,Jordan,90,46,,Jordan Al-Dasuqi2pt jump shot made
+Q3,3:14,Canada,90,44,TO,Owen Klassen
+Q3,3:14,Jordan,90,44,RO,
+Q3,3:14,Jordan,90,44,2_Pts_T,Yousef AbuWazaneh
+Q3,3:31,Canada,90,44,substituicao_entra,Kaza Kajami-Keane
+Q3,3:31,Canada,90,44,substituicao_sai,Melvin Ejim
+Q3,3:31,Canada,90,44,LL_Pts_C,Melvin Ejim
+Q3,3:31,Canada,89,44,LL_Pts_C,Melvin Ejim
+Q3,3:31,Canada,88,44,substituicao_entra,Andrew Nembhard
+Q3,3:31,Canada,88,44,substituicao_sai,Kevin Pangos
+Q3,3:31,Canada,88,44,FR,Melvin Ejim
+Q3,3:31,Jordan,88,44,substituicao_entra,Mahmoud Abdeen
+Q3,3:31,Jordan,88,44,substituicao_sai,Freddy Ibrahim
+Q3,3:31,Jordan,88,44,FC,Mohammad Hussein
+Q3,3:38,Jordan,88,44,,Mohammad Husseinlayup made
+Q3,3:43,Jordan,88,42,RO,Mohammad Hussein
+Q3,3:43,Jordan,88,42,2_Pts_T,Mohammad Hussein
+Q3,4:06,Canada,88,42,AS,Owen Klassen
+Q3,4:06,Canada,88,42,2_Pts_C,Kevin Pangos
+Q3,4:26,Canada,86,42,RD,Kyle Wiltjer
+Q3,4:26,Jordan,86,42,2_Pts_T,Yousef AbuWazaneh
+Q3,4:29,Jordan,86,42,RO,Yousef AbuWazaneh
+Q3,4:29,Jordan,86,42,2_Pts_T,Freddy Ibrahim
+Q3,4:45,Canada,86,42,AS,Kevin Pangos
+Q3,4:45,Canada,86,42,,Kyle Wiltjer3pt jump shot made
+Q3,4:58,Canada,83,42,RO,Melvin Ejim
+Q3,4:58,Canada,83,42,,Brady Heslip3pt jump shot missed
+Q3,5:19,Canada,83,42,FR,Brady Heslip
+Q3,5:19,Jordan,83,42,FC_O,Mohammad Hussein
+Q3,5:37,Canada,83,42,substituicao_entra,Owen Klassen
+Q3,5:37,Canada,83,42,substituicao_sai,Khem Birch
+Q3,5:37,Canada,83,42,substituicao_entra,Brady Heslip
+Q3,5:37,Canada,83,42,substituicao_sai,Cory Joseph
+Q3,5:37,Canada,83,42,2_Pts_C,Kevin Pangos
+Q3,5:37,Jordan,83,42,substituicao_entra,Mohammad Hussein
+Q3,5:37,Jordan,83,42,substituicao_sai,Ahmad Al Dwairi
+Q3,5:37,Jordan,83,42,substituicao_entra,Yousef AbuWazaneh
+Q3,5:37,Jordan,83,42,substituicao_sai,Zaid Abbas
+Q3,5:37,Jordan,83,42,substituicao_entra,Jordan Al-Dasuqi
+Q3,5:37,Jordan,83,42,substituicao_sai,Ahmad Alhamarsheh
+Q3,5:37,Jordan,83,42,tempo_tecnico,
+Q3,5:51,Canada,81,42,BR,Khem Birch
+Q3,5:51,Jordan,81,42,ER,Ahmad Alhamarsheh
+Q3,6:10,Canada,81,42,,Melvin Ejimdunk made
+Q3,6:15,Canada,79,42,BR,Melvin Ejim
+Q3,6:15,Jordan,79,42,ER,Dar Tucker
+Q3,6:19,Canada,79,42,FC,Melvin Ejim
+Q3,6:19,Jordan,79,42,FR,Zaid Abbas
+Q3,6:36,Canada,79,42,AS,Cory Joseph
+Q3,6:36,Canada,79,42,,Kyle Wiltjer3pt jump shot made
+Q3,6:44,Canada,76,42,RD,Cory Joseph
+Q3,6:44,Jordan,76,42,,Zaid Abbas3pt jump shot missed
+Q3,6:50,Canada,76,42,TO,Khem Birch
+Q3,6:50,Jordan,76,42,RO,Ahmad Alhamarsheh
+Q3,6:50,Jordan,76,42,2_Pts_T,Freddy Ibrahim
+Q3,7:08,Canada,76,42,AS,Kyle Wiltjer
+Q3,7:08,Canada,76,42,,Cory Joseph3pt jump shot made
+Q3,7:17,Canada,73,42,RO,Khem Birch
+Q3,7:17,Canada,73,42,,Cory Joseph3pt jump shot missed
+Q3,7:27,Jordan,73,42,2_Pts_C,Zaid Abbas
+Q3,7:38,Canada,73,40,AS,Kevin Pangos
+Q3,7:38,Canada,73,40,,Kyle Wiltjerlayup made
+Q3,7:48,Canada,71,40,RO,Cory Joseph
+Q3,7:48,Canada,71,40,,Kevin Pangos3pt jump shot missed
+Q3,8:03,Jordan,71,40,AS,Ahmad Alhamarsheh
+Q3,8:03,Jordan,71,40,,Zaid Abbas3pt jump shot made
+Q3,8:22,Canada,71,37,AS,Melvin Ejim
+Q3,8:22,Canada,71,37,,Kyle Wiltjer3pt jump shot made
+Q3,8:41,Canada,68,35,FC,Cory Joseph
+Q3,8:41,Jordan,68,37,LL_Pts_C,Dar Tucker
+Q3,8:41,Jordan,68,36,LL_Pts_C,Dar Tucker
+Q3,8:41,Jordan,68,35,FR,Dar Tucker
+Q3,8:57,Canada,68,35,AS,Khem Birch
+Q3,8:57,Canada,68,35,,Kevin Pangos3pt jump shot made
+Q3,9:10,Canada,65,35,BR,Melvin Ejim
+Q3,9:10,Jordan,65,35,ER,Ahmad Al Dwairi
+Q3,9:31,Canada,65,35,,Khem Birchdunk made
+Q3,9:36,Canada,0,0,RO,Khem Birch
+Q3,9:36,Canada,0,0,2_Pts_T,Cory Joseph
+Q3,9:49,Canada,0,0,FR,Khem Birch
+Q3,9:49,Jordan,0,0,FC,Ahmad Al Dwairi
+Q4,0:00,Jordan,126,71,,Jordan Al-Dasuqi3pt jump shot made
+Q4,0:03,Canada,126,68,ER,Andrew Nembhard
+Q4,0:03,Jordan,126,68,BR,Mahmoud Abdeen
+Q4,0:28,Jordan,126,68,ER,Amin Abu Hawwas
+Q4,0:38,Canada,126,68,,Thomas Scrubb3pt jump shot missed
+Q4,0:38,Jordan,126,68,RD,Mahmoud Abdeen
+Q4,0:49,Jordan,126,68,2_Pts_C,Mahmoud Abdeen
+Q4,10:00,Jordan,0,0,muda_bola,
+Q4,1:09,Canada,126,66,AS,Thomas Scrubb
+Q4,1:09,Canada,126,66,,Conor Morgan3pt jump shot made
+Q4,1:16,Canada,123,66,LL_Pts_T,Kaza Kajami-Keane
+Q4,1:16,Canada,123,66,LL_Pts_C,Kaza Kajami-Keane
+Q4,1:16,Canada,122,66,FR,Kaza Kajami-Keane
+Q4,1:16,Canada,122,66,BR,Kaza Kajami-Keane
+Q4,1:16,Jordan,122,66,FC_A,Yousef AbuWazaneh
+Q4,1:16,Jordan,122,66,ER,Yousef AbuWazaneh
+Q4,1:19,Jordan,122,66,RO,Yousef AbuWazaneh
+Q4,1:19,Jordan,122,66,3_Pts_T,Mahmoud Abdeen
+Q4,1:34,Canada,122,66,AS,Andrew Nembhard
+Q4,1:34,Canada,122,66,,Conor Morgandunk made
+Q4,1:34,Jordan,122,66,tempo_tecnico,
+Q4,1:39,Canada,120,66,RD,Owen Klassen
+Q4,1:39,Canada,120,66,FC,Conor Morgan
+Q4,1:39,Jordan,120,66,LL_Pts_T,Yousef AbuWazaneh
+Q4,1:39,Jordan,120,66,LL_Pts_T,Yousef AbuWazaneh
+Q4,1:39,Jordan,120,66,FR,Yousef AbuWazaneh
+Q4,1:56,Canada,120,66,LL_Pts_C,Kaza Kajami-Keane
+Q4,1:56,Canada,119,66,LL_Pts_C,Kaza Kajami-Keane
+Q4,1:56,Canada,118,66,FR,Kaza Kajami-Keane
+Q4,1:56,Jordan,118,66,FC,Yousef AbuWazaneh
+Q4,2:04,Jordan,118,66,2_Pts_C,Yousef AbuWazaneh
+Q4,2:10,Canada,118,64,TO,Conor Morgan
+Q4,2:10,Jordan,118,64,substituicao_entra,Jordan Al-Dasuqi
+Q4,2:10,Jordan,118,64,substituicao_sai,Ahmad Alhamarsheh
+Q4,2:10,Jordan,118,64,RO,
+Q4,2:10,Jordan,118,64,,Ahmad Alhamarsheh3pt jump shot blocked
+Q4,2:31,Canada,118,64,AS,Andrew Nembhard
+Q4,2:31,Canada,118,64,,Conor Morgan3pt jump shot made
+Q4,2:43,Canada,115,64,RD,Thomas Scrubb
+Q4,2:43,Jordan,115,64,,Mahmoud Abdeen3pt jump shot missed
+Q4,3:05,Canada,115,64,AS,Andrew Nembhard
+Q4,3:05,Canada,115,64,3_Pts_C,Kaza Kajami-Keane
+Q4,3:14,Jordan,112,64,,Amin Abu Hawwas2pt jump shot made
+Q4,3:36,Canada,112,62,2_Pts_C,Thomas Scrubb
+Q4,3:42,Canada,110,62,RD,Owen Klassen
+Q4,3:42,Jordan,110,62,,Amin Abu Hawwas3pt jump shot missed
+Q4,4:00,Canada,110,62,substituicao_entra,Owen Klassen
+Q4,4:00,Canada,110,62,substituicao_sai,Phil Scrubb
+Q4,4:00,Canada,110,62,FC,Conor Morgan
+Q4,4:00,Jordan,110,62,FR,Ahmad Obeid
+Q4,4:00,Jordan,110,62,RO,Ahmad Obeid
+Q4,4:00,Jordan,110,62,,Yousef AbuWazanehlayup missed
+Q4,4:02,Jordan,110,62,RO,Yousef AbuWazaneh
+Q4,4:02,Jordan,110,62,2_Pts_T,Ahmad Obeid
+Q4,4:18,Canada,110,62,LL_Pts_C,Conor Morgan
+Q4,4:18,Canada,109,62,AS,Phil Scrubb
+Q4,4:18,Canada,109,62,LL_Pts_C,Conor Morgan
+Q4,4:18,Canada,108,62,FR,Conor Morgan
+Q4,4:18,Jordan,108,62,FC,Amin Abu Hawwas
+Q4,4:19,Canada,108,62,RO,Phil Scrubb
+Q4,4:19,Canada,108,62,,Thomas Scrubb3pt jump shot missed
+Q4,4:33,Jordan,108,62,ER,Ahmad Obeid
+Q4,4:49,Canada,108,62,,Phil Scrubb3pt jump shot missed
+Q4,4:49,Jordan,108,62,RD,Ahmad Alhamarsheh
+Q4,5:04,Canada,108,62,FR,Phil Scrubb
+Q4,5:04,Jordan,108,62,substituicao_entra,Ahmad Alhamarsheh
+Q4,5:04,Jordan,108,62,substituicao_sai,Jordan Al-Dasuqi
+Q4,5:04,Jordan,108,62,FC_O,Mahmoud Abdeen
+Q4,5:17,Canada,108,62,,Conor Morganlayup missed
+Q4,5:17,Jordan,108,62,RD,Ahmad Obeid
+Q4,5:30,Canada,108,62,substituicao_entra,Kaza Kajami-Keane
+Q4,5:30,Canada,108,62,substituicao_sai,Owen Klassen
+Q4,5:30,Canada,108,60,FC,Owen Klassen
+Q4,5:30,Jordan,108,62,LL_Pts_C,Amin Abu Hawwas
+Q4,5:30,Jordan,108,61,LL_Pts_C,Amin Abu Hawwas
+Q4,5:30,Jordan,108,60,FR,Amin Abu Hawwas
+Q4,5:51,Canada,108,60,substituicao_entra,Thomas Scrubb
+Q4,5:51,Canada,108,60,substituicao_sai,Kaza Kajami-Keane
+Q4,5:51,Jordan,108,60,substituicao_entra,Mahmoud Abdeen
+Q4,5:51,Jordan,108,60,substituicao_sai,Freddy Ibrahim
+Q4,5:52,Canada,108,60,ER,Kaza Kajami-Keane
+Q4,5:52,Jordan,108,60,BR,Jordan Al-Dasuqi
+Q4,5:57,Canada,108,60,RD,Conor Morgan
+Q4,5:57,Jordan,108,60,,Ahmad Obeid2pt jump shot missed
+Q4,6:04,Canada,108,60,2_Pts_T,Kaza Kajami-Keane
+Q4,6:04,Jordan,108,60,RD,Amin Abu Hawwas
+Q4,6:16,Jordan,108,60,AS,Jordan Al-Dasuqi
+Q4,6:16,Jordan,108,60,,Amin Abu Hawwas3pt jump shot made
+Q4,6:34,Canada,108,57,AS,Phil Scrubb
+Q4,6:34,Canada,108,57,,Conor Morgan2pt jump shot made
+Q4,6:43,Canada,106,57,RO,Owen Klassen
+Q4,6:43,Canada,106,57,2_Pts_T,Kaza Kajami-Keane
+Q4,6:43,Jordan,106,57,TO,Amin Abu Hawwas
+Q4,6:47,Canada,106,57,RO,Kaza Kajami-Keane
+Q4,6:47,Canada,106,57,LL_Pts_T,Kaza Kajami-Keane
+Q4,6:47,Canada,106,57,AS,Thomas Scrubb
+Q4,6:47,Canada,106,57,LL_Pts_C,Kaza Kajami-Keane
+Q4,6:47,Canada,105,57,substituicao_entra,Andrew Nembhard
+Q4,6:47,Canada,105,57,substituicao_sai,Thomas Scrubb
+Q4,6:47,Canada,105,57,FR,Kaza Kajami-Keane
+Q4,6:47,Jordan,105,57,FC,Yousef AbuWazaneh
+Q4,6:59,Canada,105,56,substituicao_entra,Conor Morgan
+Q4,6:59,Canada,105,56,substituicao_sai,Andrew Nembhard
+Q4,6:59,Canada,105,56,FC,Owen Klassen
+Q4,6:59,Jordan,105,57,substituicao_entra,Ahmad Obeid
+Q4,6:59,Jordan,105,57,substituicao_sai,Ahmad Al Dwairi
+Q4,6:59,Jordan,105,57,LL_Pts_C,Ahmad Al Dwairi
+Q4,6:59,Jordan,105,56,substituicao_entra,Freddy Ibrahim
+Q4,6:59,Jordan,105,56,substituicao_sai,Mahmoud Abdeen
+Q4,6:59,Jordan,105,56,FR,Ahmad Al Dwairi
+Q4,6:59,Jordan,105,56,AS,Mahmoud Abdeen
+Q4,6:59,Jordan,105,56,,Ahmad Al Dwairilayup made
+Q4,7:07,Canada,105,54,,Owen Klassen3pt jump shot missed
+Q4,7:07,Jordan,105,54,RD,Mahmoud Abdeen
+Q4,7:14,Canada,105,54,RD,Thomas Scrubb
+Q4,7:14,Jordan,105,54,,Yousef AbuWazanehtip in missed
+Q4,7:19,Jordan,105,54,RO,Yousef AbuWazaneh
+Q4,7:19,Jordan,105,54,2_Pts_T,Ahmad Al Dwairi
+Q4,7:30,Canada,105,54,2_Pts_T,Thomas Scrubb
+Q4,7:30,Jordan,105,54,RD,Yousef AbuWazaneh
+Q4,7:42,Canada,105,54,RO,Phil Scrubb
+Q4,7:42,Canada,105,54,,Kaza Kajami-Keane3pt jump shot missed
+Q4,7:48,Canada,105,54,RO,Phil Scrubb
+Q4,7:48,Canada,105,54,,Kaza Kajami-Keane2pt jump shot missed
+Q4,7:58,Jordan,105,54,,Amin Abu Hawwas2pt jump shot made
+Q4,8:17,Canada,105,52,AS,Kaza Kajami-Keane
+Q4,8:17,Canada,105,52,,Andrew Nembhard3pt jump shot made
+Q4,8:31,Canada,102,52,substituicao_entra,Owen Klassen
+Q4,8:31,Canada,102,52,substituicao_sai,Conor Morgan
+Q4,8:31,Canada,102,52,FR,Phil Scrubb
+Q4,8:31,Jordan,102,52,FC,Jordan Al-Dasuqi
+Q4,8:39,Canada,102,52,RD,
+Q4,8:39,Jordan,102,52,,Ahmad Al Dwairitip in missed
+Q4,8:39,Jordan,102,52,RO,Ahmad Al Dwairi
+Q4,8:39,Jordan,102,52,2_Pts_T,Mahmoud Abdeen
+Q4,8:52,Canada,102,52,AS,Thomas Scrubb
+Q4,8:52,Canada,102,52,,Phil Scrubb3pt jump shot made
+Q4,9:10,Jordan,99,52,AS,Ahmad Al Dwairi
+Q4,9:10,Jordan,99,52,2_Pts_C,Amin Abu Hawwas
+Q4,9:24,Jordan,0,0,RO,Ahmad Al Dwairi
+Q4,9:24,Jordan,0,0,2_Pts_T,Ahmad Al Dwairi
+Q4,9:34,Canada,0,0,,Conor Morgan3pt jump shot missed
+Q4,9:34,Jordan,0,0,RD,Ahmad Al Dwairi
+Q4,9:48,Jordan,0,0,ER,Mahmoud Abdeen

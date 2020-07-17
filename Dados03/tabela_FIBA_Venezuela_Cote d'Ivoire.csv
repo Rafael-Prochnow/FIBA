@@ -1,0 +1,459 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Venezuela,26,17,,Windi Graterol3pt jump shot missed
+Q1,0:01,Venezuela,26,17,FR,Gregory Vargas
+Q1,0:01,Cote d'Ivoire,26,17,FC_O,Bryan Pamba
+Q1,0:10,Venezuela,26,17,ER,Michael Carrera
+Q1,0:28,Cote d'Ivoire,26,17,ER,Frejus Zerbo
+Q1,0:41,Venezuela,26,17,LL_Pts_C,Michael Carrera
+Q1,0:41,Venezuela,25,17,LL_Pts_C,Michael Carrera
+Q1,0:41,Venezuela,24,17,FR,Michael Carrera
+Q1,0:41,Cote d'Ivoire,24,17,FC,Frejus Zerbo
+Q1,0:47,Venezuela,24,17,RO,
+Q1,0:48,Venezuela,24,17,,Pedro Chourio3pt jump shot missed
+Q1,0:54,Venezuela,24,17,RD,Gregory Vargas
+Q1,0:54,Cote d'Ivoire,24,17,2_Pts_T,Frejus Zerbo
+Q1,10:00,Venezuela,0,0,inicio_quarto,Miguel Ruiz
+Q1,1:05,Venezuela,24,17,,Gregory Vargas3pt jump shot missed
+Q1,1:05,Cote d'Ivoire,24,17,RD,Deon Thompson
+Q1,1:26,Venezuela,24,17,tempo_tecnico,
+Q1,1:26,Cote d'Ivoire,24,17,substituicao_entra,Frejus Zerbo
+Q1,1:26,Cote d'Ivoire,24,17,substituicao_sai,Mohamed Kone
+Q1,1:26,Cote d'Ivoire,24,17,substituicao_entra,Bryan Pamba
+Q1,1:26,Cote d'Ivoire,24,17,substituicao_sai,Souleyman Diabate
+Q1,1:26,Cote d'Ivoire,24,17,AS,Mohamed Kone
+Q1,1:26,Cote d'Ivoire,24,17,,Guy Landry Edidunk made
+Q1,1:28,Venezuela,24,15,ER,Pedro Chourio
+Q1,1:28,Cote d'Ivoire,24,15,BR,Mohamed Kone
+Q1,1:39,Cote d'Ivoire,24,15,AS,Guy Landry Edi
+Q1,1:45,Venezuela,24,15,RD,Windi Graterol
+Q1,1:45,Venezuela,24,15,substituicao_entra,Michael Carrera
+Q1,1:45,Venezuela,24,15,substituicao_sai,Nestor Colmenares
+Q1,1:45,Venezuela,24,15,FC,Windi Graterol
+Q1,1:45,Cote d'Ivoire,24,15,LL_Pts_T,Mohamed Kone
+Q1,1:45,Cote d'Ivoire,24,15,FR,Mohamed Kone
+Q1,1:45,Cote d'Ivoire,24,15,2_Pts_C,Mohamed Kone
+Q1,2:03,Venezuela,24,13,AS,Nestor Colmenares
+Q1,2:03,Venezuela,24,13,,Pedro Chourio2pt jump shot made
+Q1,2:10,Venezuela,22,13,RO,
+Q1,2:16,Venezuela,22,13,,Nestor Colmenares2pt jump shot missed
+Q1,2:16,Venezuela,22,13,substituicao_entra,Gregory Vargas
+Q1,2:16,Venezuela,22,13,substituicao_sai,Heissler Guillent
+Q1,2:17,Venezuela,22,13,substituicao_entra,Nestor Colmenares
+Q1,2:17,Venezuela,22,13,substituicao_sai,Jose Vargas
+Q1,2:35,Venezuela,22,13,RO,Windi Graterol
+Q1,2:35,Venezuela,22,13,,Heissler Guillent3pt jump shot missed
+Q1,2:42,Venezuela,22,13,RO,Pedro Chourio
+Q1,2:42,Venezuela,22,13,,Windi Graterol3pt jump shot missed
+Q1,2:55,Venezuela,22,13,RO,Windi Graterol
+Q1,2:55,Venezuela,22,13,,Heissler Guillent3pt jump shot missed
+Q1,2:58,Venezuela,22,13,RD,Heissler Guillent
+Q1,2:58,Cote d'Ivoire,22,13,,Deon Thompsontip in missed
+Q1,3:00,Cote d'Ivoire,22,13,RO,Deon Thompson
+Q1,3:00,Cote d'Ivoire,22,13,,Deon Thompsonlayup missed
+Q1,3:04,Cote d'Ivoire,22,13,RO,
+Q1,3:04,Cote d'Ivoire,22,13,2_Pts_T,Souleyman Diabate
+Q1,3:10,Venezuela,22,13,substituicao_entra,Windi Graterol
+Q1,3:10,Venezuela,22,13,substituicao_sai,Nestor Colmenares
+Q1,3:10,Venezuela,22,13,substituicao_entra,Pedro Chourio
+Q1,3:10,Venezuela,22,13,substituicao_sai,Dwight Lewis
+Q1,3:10,Venezuela,22,13,substituicao_entra,Jhornan Zamora
+Q1,3:10,Venezuela,22,13,substituicao_sai,Miguel Ruiz
+Q1,3:10,Venezuela,22,13,FC,Jose Vargas
+Q1,3:10,Cote d'Ivoire,22,13,FR,Guy Landry Edi
+Q1,3:15,Venezuela,22,13,AS,Heissler Guillent
+Q1,3:15,Venezuela,22,13,,Jose Vargas3pt jump shot made
+Q1,3:33,Cote d'Ivoire,19,13,2_Pts_C,Charles Abouo
+Q1,3:51,Venezuela,19,11,AS,Jose Vargas
+Q1,3:51,Venezuela,19,11,,Heissler Guillentlayup made
+Q1,3:51,Cote d'Ivoire,19,11,tempo_tecnico,
+Q1,3:56,Venezuela,17,11,BR,Miguel Ruiz
+Q1,3:56,Cote d'Ivoire,17,11,ER,Charles Abouo
+Q1,4:13,Venezuela,17,11,AS,Nestor Colmenares
+Q1,4:13,Venezuela,17,11,,Dwight Lewis3pt jump shot made
+Q1,4:35,Cote d'Ivoire,14,11,,Deon Thompsonlayup made
+Q1,4:56,Venezuela,14,9,AS,Heissler Guillent
+Q1,4:56,Venezuela,14,9,,Nestor Colmenareslayup made
+Q1,5:12,Cote d'Ivoire,12,9,AS,Souleyman Diabate
+Q1,5:12,Cote d'Ivoire,12,9,,Charles Abouolayup made
+Q1,5:27,Venezuela,12,7,,Heissler Guillent3pt jump shot made
+Q1,5:46,Venezuela,9,7,RD,
+Q1,5:47,Cote d'Ivoire,9,7,,Guy Landry Edilayup missed
+Q1,5:55,Venezuela,9,7,,Nestor Colmenares3pt jump shot missed
+Q1,5:55,Cote d'Ivoire,9,7,RD,Guy Landry Edi
+Q1,6:06,Cote d'Ivoire,9,7,ER,Deon Thompson
+Q1,6:22,Venezuela,9,7,AS,Nestor Colmenares
+Q1,6:22,Venezuela,9,7,,Miguel Ruizlayup made
+Q1,6:46,Cote d'Ivoire,7,7,,Charles Abouo3pt jump shot made
+Q1,7:00,Venezuela,7,4,ER,Nestor Colmenares
+Q1,7:04,Venezuela,7,4,RD,Nestor Colmenares
+Q1,7:04,Cote d'Ivoire,7,4,,Mohamed Kone2pt jump shot missed
+Q1,7:28,Venezuela,7,4,,Heissler Guillent2pt jump shot made
+Q1,7:43,Cote d'Ivoire,5,4,AS,Souleyman Diabate
+Q1,7:43,Cote d'Ivoire,5,4,,Guy Landry Edi3pt jump shot made
+Q1,7:59,Venezuela,5,1,AS,Miguel Ruiz
+Q1,7:59,Venezuela,5,1,,Jose Vargas3pt jump shot made
+Q1,8:18,Venezuela,2,1,RD,Miguel Ruiz
+Q1,8:18,Cote d'Ivoire,2,1,,Deon Thompson3pt jump shot missed
+Q1,8:34,Venezuela,2,1,2_Pts_C,Nestor Colmenares
+Q1,9:02,Venezuela,0,1,RD,Miguel Ruiz
+Q1,9:02,Venezuela,0,0,FC,Jose Vargas
+Q1,9:02,Cote d'Ivoire,0,1,LL_Pts_T,Guy Landry Edi
+Q1,9:02,Cote d'Ivoire,0,1,LL_Pts_C,Guy Landry Edi
+Q1,9:02,Cote d'Ivoire,0,0,FR,Guy Landry Edi
+Q1,9:18,Cote d'Ivoire,0,0,RO,Mohamed Kone
+Q1,9:18,Cote d'Ivoire,0,0,2_Pts_T,Deon Thompson
+Q1,9:40,Venezuela,0,0,ER,Miguel Ruiz
+Q1,9:40,Cote d'Ivoire,0,0,BR,Charles Abouo
+Q2,0:00,Cote d'Ivoire,49,32,,Souleyman Diabate3pt jump shot missed
+Q2,0:05,Venezuela,49,32,FC,Gregory Vargas
+Q2,0:05,Cote d'Ivoire,49,32,FR,Souleyman Diabate
+Q2,0:17,Venezuela,49,32,,Nestor Colmenaresdunk made
+Q2,0:25,Venezuela,47,32,RO,Nestor Colmenares
+Q2,0:25,Venezuela,47,32,LL_Pts_T,Jhornan Zamora
+Q2,0:25,Venezuela,47,32,FR,Jhornan Zamora
+Q2,0:25,Venezuela,47,32,AS,Windi Graterol
+Q2,0:25,Venezuela,47,32,,Jhornan Zamora3pt jump shot made
+Q2,0:25,Cote d'Ivoire,47,32,tempo_tecnico,
+Q2,0:25,Cote d'Ivoire,47,32,FC,Tiegbe Bamba
+Q2,0:32,Venezuela,44,32,BR,Gregory Vargas
+Q2,0:32,Cote d'Ivoire,44,32,ER,Souleyman Diabate
+Q2,0:39,Venezuela,44,32,,Windi Grateroltip in made
+Q2,0:42,Venezuela,42,32,RO,Windi Graterol
+Q2,0:42,Venezuela,42,32,2_Pts_T,Nestor Colmenares
+Q2,10:00,Cote d'Ivoire,0,0,muda_bola,
+Q2,1:03,Venezuela,42,32,BR,Pedro Chourio
+Q2,1:03,Cote d'Ivoire,42,32,ER,Guy Landry Edi
+Q2,1:10,Venezuela,42,32,substituicao_entra,Gregory Vargas
+Q2,1:10,Venezuela,42,32,substituicao_sai,Heissler Guillent
+Q2,1:13,Venezuela,42,32,AS,Jose Vargas
+Q2,1:13,Venezuela,42,32,LL_Pts_C,Heissler Guillent
+Q2,1:13,Venezuela,41,32,LL_Pts_T,Heissler Guillent
+Q2,1:13,Venezuela,41,32,LL_Pts_T,Heissler Guillent
+Q2,1:13,Venezuela,41,32,substituicao_entra,Windi Graterol
+Q2,1:13,Venezuela,41,32,substituicao_sai,Dwight Lewis
+Q2,1:13,Venezuela,41,32,substituicao_entra,Pedro Chourio
+Q2,1:13,Venezuela,41,32,substituicao_sai,Miguel Ruiz
+Q2,1:13,Venezuela,41,32,substituicao_entra,Jhornan Zamora
+Q2,1:13,Venezuela,41,32,substituicao_sai,Jose Vargas
+Q2,1:13,Venezuela,41,32,FR,Heissler Guillent
+Q2,1:13,Cote d'Ivoire,41,32,substituicao_entra,Guy Landry Edi
+Q2,1:13,Cote d'Ivoire,41,32,substituicao_sai,Bryan Pamba
+Q2,1:13,Cote d'Ivoire,41,32,FC,Vafessa Fofana
+Q2,1:37,Venezuela,41,32,RD,Nestor Colmenares
+Q2,1:37,Cote d'Ivoire,41,32,2_Pts_T,Souleyman Diabate
+Q2,1:44,Cote d'Ivoire,41,32,RO,Deon Thompson
+Q2,1:44,Cote d'Ivoire,41,32,,Deon Thompsonlayup missed
+Q2,1:49,Cote d'Ivoire,41,32,RO,Deon Thompson
+Q2,1:49,Cote d'Ivoire,41,32,,Tiegbe Bamba3pt jump shot missed
+Q2,1:56,Venezuela,41,32,,Heissler Guillent2pt jump shot missed
+Q2,1:56,Cote d'Ivoire,41,32,RD,Bryan Pamba
+Q2,2:22,Cote d'Ivoire,41,32,2_Pts_C,Tiegbe Bamba
+Q2,2:27,Cote d'Ivoire,41,30,RO,Tiegbe Bamba
+Q2,2:27,Cote d'Ivoire,41,30,LL_Pts_T,Deon Thompson
+Q2,2:28,Venezuela,41,30,FC,Miguel Ruiz
+Q2,2:28,Cote d'Ivoire,41,30,FR,Deon Thompson
+Q2,2:28,Cote d'Ivoire,41,30,AS,Souleyman Diabate
+Q2,2:28,Cote d'Ivoire,41,30,,Deon Thompsonlayup made
+Q2,2:38,Venezuela,41,28,,Nestor Colmenareslayup missed
+Q2,2:38,Cote d'Ivoire,41,28,RD,Tiegbe Bamba
+Q2,2:47,Venezuela,41,28,RD,Jose Vargas
+Q2,2:47,Cote d'Ivoire,41,28,2_Pts_T,Bryan Pamba
+Q2,3:04,Venezuela,41,28,AS,Nestor Colmenares
+Q2,3:04,Venezuela,41,28,,Miguel Ruizlayup made
+Q2,3:29,Venezuela,39,28,RD,Jose Vargas
+Q2,3:29,Cote d'Ivoire,39,28,2_Pts_T,Deon Thompson
+Q2,3:44,Venezuela,39,28,,Dwight Lewis3pt jump shot missed
+Q2,3:44,Cote d'Ivoire,39,28,RD,Bryan Pamba
+Q2,3:54,Venezuela,39,28,RD,Miguel Ruiz
+Q2,3:54,Cote d'Ivoire,39,28,,Vafessa Fofana3pt jump shot missed
+Q2,4:01,Venezuela,39,28,substituicao_entra,Dwight Lewis
+Q2,4:01,Venezuela,39,28,substituicao_sai,Gregory Vargas
+Q2,4:01,Cote d'Ivoire,39,28,substituicao_entra,Souleyman Diabate
+Q2,4:01,Cote d'Ivoire,39,28,substituicao_sai,Charles Abouo
+Q2,4:18,Venezuela,39,28,AS,Heissler Guillent
+Q2,4:18,Venezuela,39,28,,Miguel Ruiz2pt jump shot made
+Q2,4:42,Cote d'Ivoire,37,28,AS,Vafessa Fofana
+Q2,4:42,Cote d'Ivoire,37,28,,Tiegbe Bamba3pt jump shot made
+Q2,4:51,Cote d'Ivoire,37,25,RO,Vafessa Fofana
+Q2,4:51,Cote d'Ivoire,37,25,2_Pts_T,Charles Abouo
+Q2,5:20,Venezuela,37,25,2_Pts_C,Heissler Guillent
+Q2,5:46,Cote d'Ivoire,35,25,substituicao_entra,Deon Thompson
+Q2,5:46,Cote d'Ivoire,35,25,substituicao_sai,Frejus Zerbo
+Q2,5:46,Cote d'Ivoire,35,25,ER,Vafessa Fofana
+Q2,5:57,Venezuela,35,25,,Heissler Guillent3pt jump shot made
+Q2,6:20,Venezuela,32,25,RD,Jose Vargas
+Q2,6:20,Cote d'Ivoire,32,25,,Vafessa Fofana3pt jump shot missed
+Q2,6:28,Venezuela,32,25,substituicao_entra,Jose Vargas
+Q2,6:28,Venezuela,32,25,substituicao_sai,Jhornan Zamora
+Q2,6:28,Venezuela,32,25,FC,Heissler Guillent
+Q2,6:28,Venezuela,32,25,ER,Jhornan Zamora
+Q2,6:28,Cote d'Ivoire,32,25,FR,Bryan Pamba
+Q2,6:28,Cote d'Ivoire,32,25,BR,Tiegbe Bamba
+Q2,6:38,Venezuela,32,25,BR,Nestor Colmenares
+Q2,6:38,Cote d'Ivoire,32,25,ER,Charles Abouo
+Q2,6:43,Venezuela,32,25,,Nestor Colmenares3pt jump shot missed
+Q2,6:43,Cote d'Ivoire,32,25,RD,Charles Abouo
+Q2,7:03,Venezuela,32,25,substituicao_entra,Nestor Colmenares
+Q2,7:03,Venezuela,32,25,substituicao_sai,Michael Carrera
+Q2,7:03,Venezuela,32,25,substituicao_entra,Miguel Ruiz
+Q2,7:03,Venezuela,32,25,substituicao_sai,Windi Graterol
+Q2,7:03,Venezuela,32,25,FR,Heissler Guillent
+Q2,7:03,Venezuela,32,25,BR,Michael Carrera
+Q2,7:03,Cote d'Ivoire,32,25,substituicao_entra,Tiegbe Bamba
+Q2,7:03,Cote d'Ivoire,32,25,substituicao_sai,Guy Landry Edi
+Q2,7:03,Cote d'Ivoire,32,25,FC,Bryan Pamba
+Q2,7:03,Cote d'Ivoire,32,25,ER,Vafessa Fofana
+Q2,7:23,Venezuela,32,25,AS,Michael Carrera
+Q2,7:23,Venezuela,32,25,,Heissler Guillent3pt jump shot made
+Q2,7:51,Cote d'Ivoire,29,25,AS,Vafessa Fofana
+Q2,7:51,Cote d'Ivoire,29,25,,Charles Abouo3pt jump shot made
+Q2,8:04,Cote d'Ivoire,29,22,RO,Bryan Pamba
+Q2,8:04,Cote d'Ivoire,29,22,2_Pts_T,Bryan Pamba
+Q2,8:15,Cote d'Ivoire,29,22,RO,Frejus Zerbo
+Q2,8:15,Cote d'Ivoire,29,22,,Guy Landry Edi3pt jump shot missed
+Q2,8:29,Venezuela,29,22,3_Pts_C,Heissler Guillent
+Q2,8:56,Venezuela,26,22,RD,Windi Graterol
+Q2,8:56,Venezuela,26,20,substituicao_entra,Heissler Guillent
+Q2,8:56,Venezuela,26,20,substituicao_sai,Pedro Chourio
+Q2,8:56,Venezuela,26,20,FC,Pedro Chourio
+Q2,8:56,Cote d'Ivoire,26,22,LL_Pts_T,Charles Abouo
+Q2,8:56,Cote d'Ivoire,26,22,LL_Pts_C,Charles Abouo
+Q2,8:56,Cote d'Ivoire,26,21,LL_Pts_C,Charles Abouo
+Q2,8:56,Cote d'Ivoire,26,20,FR,Charles Abouo
+Q2,9:00,Cote d'Ivoire,26,20,RO,
+Q2,9:00,Cote d'Ivoire,26,20,,Bryan Pamba3pt jump shot missed
+Q2,9:08,Cote d'Ivoire,26,20,RO,Charles Abouo
+Q2,9:08,Cote d'Ivoire,26,20,2_Pts_T,Vafessa Fofana
+Q2,9:31,Venezuela,26,20,,Jhornan Zamora3pt jump shot missed
+Q2,9:31,Cote d'Ivoire,26,20,RD,Guy Landry Edi
+Q2,9:50,Cote d'Ivoire,26,20,AS,Frejus Zerbo
+Q2,9:50,Cote d'Ivoire,26,20,,Charles Abouo3pt jump shot made
+Q3,0:02,Venezuela,73,56,RD,Michael Carrera
+Q3,0:02,Cote d'Ivoire,73,56,2_Pts_T,Bryan Pamba
+Q3,0:15,Venezuela,73,56,LL_Pts_C,Gregory Vargas
+Q3,0:15,Venezuela,72,56,LL_Pts_C,Gregory Vargas
+Q3,0:15,Venezuela,71,56,FR,Gregory Vargas
+Q3,0:15,Cote d'Ivoire,71,56,FC,Bryan Pamba
+Q3,0:23,Venezuela,71,53,substituicao_entra,Heissler Guillent
+Q3,0:23,Venezuela,71,53,substituicao_sai,Pedro Chourio
+Q3,0:23,Venezuela,71,53,FC,Michael Carrera
+Q3,0:23,Cote d'Ivoire,71,56,LL_Pts_C,Tiegbe Bamba
+Q3,0:23,Cote d'Ivoire,71,55,LL_Pts_C,Tiegbe Bamba
+Q3,0:23,Cote d'Ivoire,71,54,AS,Charles Abouo
+Q3,0:23,Cote d'Ivoire,71,54,LL_Pts_C,Tiegbe Bamba
+Q3,0:23,Cote d'Ivoire,71,53,substituicao_entra,Vafessa Fofana
+Q3,0:23,Cote d'Ivoire,71,53,substituicao_sai,Deon Thompson
+Q3,0:23,Cote d'Ivoire,71,53,FR,Tiegbe Bamba
+Q3,0:32,Venezuela,71,53,,Michael Carreralayup missed
+Q3,0:32,Cote d'Ivoire,71,53,RD,Charles Abouo
+Q3,0:55,Venezuela,71,53,RD,
+Q3,0:55,Cote d'Ivoire,71,53,3_Pts_T,Charles Abouo
+Q3,0:56,Venezuela,71,53,,Windi Grateroltip in made
+Q3,10:00,Venezuela,0,0,muda_bola,
+Q3,1:06,Venezuela,69,53,RO,Windi Graterol
+Q3,1:06,Venezuela,69,53,,Jhornan Zamoralayup missed
+Q3,1:17,Venezuela,69,53,RD,Michael Carrera
+Q3,1:17,Venezuela,69,52,FC,Pedro Chourio
+Q3,1:17,Cote d'Ivoire,69,53,LL_Pts_T,Bryan Pamba
+Q3,1:17,Cote d'Ivoire,69,53,LL_Pts_C,Bryan Pamba
+Q3,1:17,Cote d'Ivoire,69,52,FR,Bryan Pamba
+Q3,1:37,Venezuela,69,52,AS,Jhornan Zamora
+Q3,1:37,Venezuela,69,52,,Pedro Chourio3pt jump shot made
+Q3,1:48,Venezuela,66,51,FC,Jhornan Zamora
+Q3,1:48,Cote d'Ivoire,66,52,LL_Pts_C,Tiegbe Bamba
+Q3,1:48,Cote d'Ivoire,66,51,LL_Pts_T,Tiegbe Bamba
+Q3,1:48,Cote d'Ivoire,66,51,FR,Tiegbe Bamba
+Q3,2:01,Venezuela,66,51,LL_Pts_T,Michael Carrera
+Q3,2:01,Venezuela,66,51,LL_Pts_C,Michael Carrera
+Q3,2:01,Venezuela,65,51,FR,Michael Carrera
+Q3,2:01,Cote d'Ivoire,66,51,RD,Baru Adjehi
+Q3,2:01,Cote d'Ivoire,65,51,substituicao_entra,Tiegbe Bamba
+Q3,2:01,Cote d'Ivoire,65,51,substituicao_sai,Guy Landry Edi
+Q3,2:01,Cote d'Ivoire,65,51,FC,Guy Landry Edi
+Q3,2:15,Cote d'Ivoire,65,51,AS,Baru Adjehi
+Q3,2:15,Cote d'Ivoire,65,51,3_Pts_C,Deon Thompson
+Q3,2:39,Venezuela,65,48,AS,Gregory Vargas
+Q3,2:39,Venezuela,65,48,,Jhornan Zamora3pt jump shot made
+Q3,3:00,Cote d'Ivoire,62,48,AS,Deon Thompson
+Q3,3:00,Cote d'Ivoire,62,48,,Guy Landry Edi3pt jump shot made
+Q3,3:19,Venezuela,62,45,LL_Pts_C,Jhornan Zamora
+Q3,3:19,Venezuela,61,45,AS,Gregory Vargas
+Q3,3:19,Venezuela,61,45,LL_Pts_C,Jhornan Zamora
+Q3,3:19,Venezuela,60,45,FR,Jhornan Zamora
+Q3,3:19,Cote d'Ivoire,60,45,FC,Guy Landry Edi
+Q3,3:22,Venezuela,60,45,BR,Jhornan Zamora
+Q3,3:22,Cote d'Ivoire,60,45,ER,Bryan Pamba
+Q3,3:30,Venezuela,60,45,substituicao_entra,Michael Carrera
+Q3,3:30,Venezuela,60,45,substituicao_sai,Nestor Colmenares
+Q3,3:30,Venezuela,60,45,FC,Nestor Colmenares
+Q3,3:30,Venezuela,60,45,2_Pts_T,Nestor Colmenares
+Q3,3:30,Cote d'Ivoire,60,45,FR,Deon Thompson
+Q3,3:30,Cote d'Ivoire,60,45,RD,Deon Thompson
+Q3,3:54,Cote d'Ivoire,60,45,,Charles Abouo2pt jump shot made
+Q3,4:06,Venezuela,60,43,3_Pts_T,Jhornan Zamora
+Q3,4:06,Cote d'Ivoire,60,43,RD,Deon Thompson
+Q3,4:28,Cote d'Ivoire,60,43,AS,Bryan Pamba
+Q3,4:28,Cote d'Ivoire,60,43,3_Pts_C,Deon Thompson
+Q3,4:42,Venezuela,60,40,,Jhornan Zamora3pt jump shot missed
+Q3,4:42,Cote d'Ivoire,60,40,RD,Bryan Pamba
+Q3,4:53,Venezuela,60,40,substituicao_entra,Windi Graterol
+Q3,4:53,Venezuela,60,40,substituicao_sai,Miguel Ruiz
+Q3,4:53,Venezuela,60,38,FC,Pedro Chourio
+Q3,4:53,Cote d'Ivoire,60,40,substituicao_entra,Baru Adjehi
+Q3,4:53,Cote d'Ivoire,60,40,substituicao_sai,Mohamed Kone
+Q3,4:53,Cote d'Ivoire,60,40,substituicao_entra,Bryan Pamba
+Q3,4:53,Cote d'Ivoire,60,40,substituicao_sai,Souleyman Diabate
+Q3,4:53,Cote d'Ivoire,60,40,LL_Pts_C,Charles Abouo
+Q3,4:53,Cote d'Ivoire,60,39,LL_Pts_C,Charles Abouo
+Q3,4:53,Cote d'Ivoire,60,38,FR,Charles Abouo
+Q3,4:59,Venezuela,60,38,substituicao_entra,Pedro Chourio
+Q3,4:59,Venezuela,60,38,substituicao_sai,Dwight Lewis
+Q3,4:59,Venezuela,60,38,substituicao_entra,Jhornan Zamora
+Q3,4:59,Venezuela,60,38,substituicao_sai,Heissler Guillent
+Q3,4:59,Venezuela,60,38,substituicao_entra,Gregory Vargas
+Q3,4:59,Venezuela,60,38,substituicao_sai,Jose Vargas
+Q3,4:59,Venezuela,60,38,FC,Dwight Lewis
+Q3,4:59,Cote d'Ivoire,60,38,FR,Guy Landry Edi
+Q3,5:09,Venezuela,60,38,AS,Heissler Guillent
+Q3,5:09,Venezuela,60,38,,Miguel Ruizlayup made
+Q3,5:32,Venezuela,58,38,RD,Heissler Guillent
+Q3,5:32,Cote d'Ivoire,58,38,,Mohamed Kone2pt jump shot missed
+Q3,5:44,Venezuela,58,38,3_Pts_T,Jose Vargas
+Q3,5:44,Cote d'Ivoire,58,38,RD,Guy Landry Edi
+Q3,6:06,Venezuela,58,38,RD,Jose Vargas
+Q3,6:06,Cote d'Ivoire,58,38,,Souleyman Diabate3pt jump shot missed
+Q3,6:21,Venezuela,58,38,ER,Heissler Guillent
+Q3,6:44,Venezuela,58,37,FC,Nestor Colmenares
+Q3,6:44,Cote d'Ivoire,58,38,LL_Pts_C,Deon Thompson
+Q3,6:44,Cote d'Ivoire,58,37,FR,Deon Thompson
+Q3,6:44,Cote d'Ivoire,58,37,,Deon Thompsonlayup made
+Q3,6:55,Venezuela,58,35,AS,Miguel Ruiz
+Q3,6:55,Venezuela,58,35,,Nestor Colmenareslayup made
+Q3,7:06,Venezuela,56,35,FR,Jose Vargas
+Q3,7:06,Cote d'Ivoire,56,35,substituicao_entra,Mohamed Kone
+Q3,7:06,Cote d'Ivoire,56,35,substituicao_sai,Vafessa Fofana
+Q3,7:06,Cote d'Ivoire,56,35,FC,Charles Abouo
+Q3,7:17,Venezuela,56,35,FR,Nestor Colmenares
+Q3,7:17,Venezuela,56,35,RO,
+Q3,7:17,Venezuela,56,35,,Heissler Guillent3pt fadeaway jump shot missed
+Q3,7:17,Cote d'Ivoire,56,35,FC,Vafessa Fofana
+Q3,7:23,Venezuela,56,35,RO,Nestor Colmenares
+Q3,7:23,Venezuela,56,35,,Miguel Ruiztip in missed
+Q3,7:30,Venezuela,56,35,RO,Miguel Ruiz
+Q3,7:30,Venezuela,56,35,,Nestor Colmenareslayup missed
+Q3,7:36,Venezuela,56,35,RD,Nestor Colmenares
+Q3,7:36,Cote d'Ivoire,56,35,,Guy Landry Edi3pt jump shot missed
+Q3,7:59,Venezuela,56,35,2_Pts_C,Heissler Guillent
+Q3,8:23,Venezuela,54,35,FR,Nestor Colmenares
+Q3,8:23,Cote d'Ivoire,54,35,FC_O,Vafessa Fofana
+Q3,8:43,Venezuela,54,35,3_Pts_C,Heissler Guillent
+Q3,9:03,Cote d'Ivoire,51,35,AS,Deon Thompson
+Q3,9:03,Cote d'Ivoire,51,35,,Souleyman Diabate3pt jump shot made
+Q3,9:27,Venezuela,51,32,AS,Nestor Colmenares
+Q3,9:27,Venezuela,51,32,,Heissler Guillentlayup made
+Q3,9:38,Venezuela,0,0,RO,Miguel Ruiz
+Q3,9:38,Venezuela,0,0,3_Pts_T,Jose Vargas
+Q4,0:05,Venezuela,87,71,AS,Heissler Guillent
+Q4,0:05,Venezuela,87,71,,Miguel Ruizdunk made
+Q4,0:10,Venezuela,85,71,FR,Nestor Colmenares
+Q4,0:10,Cote d'Ivoire,85,71,FC,Deon Thompson
+Q4,0:23,Venezuela,85,71,RD,Miguel Ruiz
+Q4,0:23,Cote d'Ivoire,85,71,2_Pts_T,Tiegbe Bamba
+Q4,0:37,Venezuela,85,71,,Nestor Colmenaresdunk made
+Q4,0:38,Venezuela,83,71,RO,Nestor Colmenares
+Q4,0:38,Venezuela,83,71,,Heissler Guillentlayup missed
+Q4,10:00,Cote d'Ivoire,0,0,muda_bola,
+Q4,1:04,Venezuela,83,71,RD,
+Q4,1:06,Cote d'Ivoire,83,71,,Vafessa Fofana3pt jump shot missed
+Q4,1:11,Venezuela,83,71,substituicao_entra,Jhornan Zamora
+Q4,1:11,Venezuela,83,71,substituicao_sai,Gregory Vargas
+Q4,1:11,Venezuela,83,71,ER ,
+Q4,1:11,Cote d'Ivoire,83,71,tempo_tecnico,
+Q4,1:12,Venezuela,83,71,,Heissler Guillent3pt jump shot missed
+Q4,1:27,Venezuela,83,71,RO,Jose Vargas
+Q4,1:27,Venezuela,83,71,,Gregory Vargas2pt jump shot missed
+Q4,1:50,Venezuela,83,71,RD,Jose Vargas
+Q4,1:50,Cote d'Ivoire,83,71,2_Pts_T,Souleyman Diabate
+Q4,2:00,Venezuela,83,71,ER,Jose Vargas
+Q4,2:00,Cote d'Ivoire,83,71,BR,Vafessa Fofana
+Q4,2:10,Cote d'Ivoire,83,71,substituicao_entra,Tiegbe Bamba
+Q4,2:10,Cote d'Ivoire,83,71,substituicao_sai,Charles Abouo
+Q4,2:19,Venezuela,83,71,tempo_tecnico,
+Q4,2:19,Cote d'Ivoire,83,71,substituicao_entra,Charles Abouo
+Q4,2:19,Cote d'Ivoire,83,71,substituicao_sai,Tiegbe Bamba
+Q4,2:19,Cote d'Ivoire,83,71,AS,Souleyman Diabate
+Q4,2:19,Cote d'Ivoire,83,71,,Guy Landry Edidunk made
+Q4,2:24,Venezuela,83,69,ER,Gregory Vargas
+Q4,2:24,Cote d'Ivoire,83,69,BR,Souleyman Diabate
+Q4,2:37,Venezuela,83,68,FC,Miguel Ruiz
+Q4,2:37,Cote d'Ivoire,83,69,AS,Vafessa Fofana
+Q4,2:37,Cote d'Ivoire,83,69,LL_Pts_C,Tiegbe Bamba
+Q4,2:37,Cote d'Ivoire,83,68,LL_Pts_T,Tiegbe Bamba
+Q4,2:37,Cote d'Ivoire,83,68,FR,Tiegbe Bamba
+Q4,2:46,Venezuela,83,68,,Heissler Guillent3pt jump shot missed
+Q4,2:46,Cote d'Ivoire,83,68,RD,Guy Landry Edi
+Q4,2:54,Venezuela,83,68,RO,Nestor Colmenares
+Q4,2:54,Venezuela,83,68,2_Pts_T,Jose Vargas
+Q4,3:21,Cote d'Ivoire,83,68,2_Pts_C,Deon Thompson
+Q4,3:45,Venezuela,83,66,2_Pts_T,Nestor Colmenares
+Q4,3:45,Cote d'Ivoire,83,66,substituicao_entra,Souleyman Diabate
+Q4,3:45,Cote d'Ivoire,83,66,substituicao_sai,Bryan Pamba
+Q4,3:45,Cote d'Ivoire,83,66,RD,
+Q4,3:45,Cote d'Ivoire,83,66,TO,Deon Thompson
+Q4,4:06,Cote d'Ivoire,83,66,,Bryan Pamba2pt jump shot made
+Q4,4:27,Venezuela,83,64,2_Pts_C,Jose Vargas
+Q4,4:32,Venezuela,81,64,BR,Jose Vargas
+Q4,4:32,Cote d'Ivoire,81,64,ER,Bryan Pamba
+Q4,4:36,Venezuela,81,64,ER,Heissler Guillent
+Q4,4:36,Cote d'Ivoire,81,64,BR,Bryan Pamba
+Q4,4:55,Venezuela,81,64,RD,Miguel Ruiz
+Q4,4:55,Cote d'Ivoire,81,64,2_Pts_T,Vafessa Fofana
+Q4,5:18,Venezuela,81,64,FC_O,Gregory Vargas
+Q4,5:18,Cote d'Ivoire,81,64,FR,Guy Landry Edi
+Q4,5:36,Venezuela,81,64,RD,Miguel Ruiz
+Q4,5:36,Cote d'Ivoire,81,64,,Tiegbe Bamba3pt jump shot missed
+Q4,6:00,Venezuela,81,64,AS,Gregory Vargas
+Q4,6:00,Venezuela,81,64,2_Pts_C,Heissler Guillent
+Q4,6:00,Cote d'Ivoire,81,64,substituicao_entra,Deon Thompson
+Q4,6:00,Cote d'Ivoire,81,64,substituicao_sai,Baru Adjehi
+Q4,6:03,Venezuela,79,64,BR,Jose Vargas
+Q4,6:03,Cote d'Ivoire,79,64,ER,Vafessa Fofana
+Q4,6:23,Venezuela,79,64,substituicao_entra,Gregory Vargas
+Q4,6:23,Venezuela,79,64,substituicao_sai,Jhornan Zamora
+Q4,6:26,Venezuela,79,64,ER,Jhornan Zamora
+Q4,6:42,Venezuela,79,64,tempo_tecnico,
+Q4,6:42,Cote d'Ivoire,79,64,substituicao_entra,Guy Landry Edi
+Q4,6:42,Cote d'Ivoire,79,64,substituicao_sai,Charles Abouo
+Q4,6:42,Cote d'Ivoire,79,64,ER,Vafessa Fofana
+Q4,6:57,Venezuela,79,64,2_Pts_T,Miguel Ruiz
+Q4,6:57,Cote d'Ivoire,79,64,RD,Bryan Pamba
+Q4,6:57,Cote d'Ivoire,79,64,TO,Baru Adjehi
+Q4,7:22,Cote d'Ivoire,79,64,AS,Bryan Pamba
+Q4,7:22,Cote d'Ivoire,79,64,,Baru Adjehi2pt jump shot made
+Q4,7:33,Venezuela,79,62,AS,Heissler Guillent
+Q4,7:33,Venezuela,79,62,,Jhornan Zamora3pt jump shot made
+Q4,7:44,Cote d'Ivoire,76,62,2_Pts_C,Bryan Pamba
+Q4,7:54,Venezuela,76,60,substituicao_entra,Miguel Ruiz
+Q4,7:54,Venezuela,76,60,substituicao_sai,Windi Graterol
+Q4,8:04,Venezuela,76,60,FC,Jose Vargas
+Q4,8:04,Cote d'Ivoire,76,60,FR,Charles Abouo
+Q4,8:14,Venezuela,76,60,substituicao_entra,Jose Vargas
+Q4,8:14,Venezuela,76,60,substituicao_sai,Gregory Vargas
+Q4,8:14,Venezuela,76,60,substituicao_entra,Nestor Colmenares
+Q4,8:14,Venezuela,76,60,substituicao_sai,Michael Carrera
+Q4,8:14,Venezuela,76,60,FC_O,Michael Carrera
+Q4,8:14,Cote d'Ivoire,76,60,FR,Baru Adjehi
+Q4,8:36,Cote d'Ivoire,76,60,AS,Vafessa Fofana
+Q4,8:36,Cote d'Ivoire,76,60,3_Pts_C,Tiegbe Bamba
+Q4,9:04,Venezuela,76,57,AS,Heissler Guillent
+Q4,9:04,Venezuela,76,57,,Jhornan Zamora3pt jump shot made
+Q4,9:09,Venezuela,73,57,FR,Gregory Vargas
+Q4,9:09,Cote d'Ivoire,73,57,FC,Baru Adjehi
+Q4,9:20,Venezuela,73,57,RO,Windi Graterol
+Q4,9:20,Venezuela,73,57,,Windi Graterol2pt jump shot missed
+Q4,9:37,Venezuela,0,0,FC,Gregory Vargas
+Q4,9:37,Cote d'Ivoire,73,57,LL_Pts_C,Vafessa Fofana
+Q4,9:37,Cote d'Ivoire,0,0,LL_Pts_T,Vafessa Fofana
+Q4,9:37,Cote d'Ivoire,0,0,FR,Vafessa Fofana
+Q4,9:41,Cote d'Ivoire,0,0,RO,
+Q4,9:42,Cote d'Ivoire,0,0,,Vafessa Fofanalayup missed

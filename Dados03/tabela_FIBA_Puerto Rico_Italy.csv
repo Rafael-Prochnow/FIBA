@@ -1,0 +1,610 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Puerto Rico,24,13,,Angel Rodriguezlayup made
+Q1,0:06,Puerto Rico,22,13,RO,Angel Rodriguez
+Q1,0:06,Puerto Rico,22,13,,David Huertas3pt jump shot missed
+Q1,0:13,Puerto Rico,22,13,RD,Isaiah Pineiro
+Q1,0:13,Italy,22,13,,Marco Belinelli3pt jump shot missed
+Q1,0:30,Puerto Rico,22,13,,Isaiah Pineiro3pt jump shot missed
+Q1,0:30,Italy,22,13,RD,Ariel Filloy
+Q1,0:38,Italy,22,13,ER,Danilo Gallinari
+Q1,0:59,Puerto Rico,22,13,AS,David Huertas
+Q1,0:59,Puerto Rico,22,13,,Devon Collierdunk made
+Q1,10:00,Italy,0,0,inicio_quarto,Paul Biligha
+Q1,1:08,Puerto Rico,20,13,RD,Ramon Clemente
+Q1,1:08,Italy,20,13,,Marco Belinellilayup missed
+Q1,1:29,Puerto Rico,20,13,substituicao_entra,Angel Rodriguez
+Q1,1:29,Puerto Rico,20,13,substituicao_sai,Gary Browne
+Q1,1:29,Puerto Rico,20,13,LL_Pts_C,Gary Browne
+Q1,1:29,Puerto Rico,19,13,substituicao_entra,Ramon Clemente
+Q1,1:29,Puerto Rico,19,13,substituicao_sai,Renaldo Balkman
+Q1,1:29,Puerto Rico,19,13,FR,Gary Browne
+Q1,1:29,Puerto Rico,19,13,AS,Isaiah Pineiro
+Q1,1:29,Puerto Rico,19,13,,Gary Brownelayup made
+Q1,1:29,Italy,19,13,substituicao_entra,Danilo Gallinari
+Q1,1:29,Italy,19,13,substituicao_sai,Paul Biligha
+Q1,1:29,Italy,19,13,FC,Ariel Filloy
+Q1,1:31,Puerto Rico,17,13,BR,Isaiah Pineiro
+Q1,1:31,Italy,17,13,ER,Awudu Abass
+Q1,1:38,Puerto Rico,17,13,2_Pts_T,Isaiah Pineiro
+Q1,1:38,Italy,17,13,RD,Awudu Abass
+Q1,1:38,Italy,17,13,TO,Awudu Abass
+Q1,2:04,Italy,17,13,,Marco Belinellilayup made
+Q1,2:26,Puerto Rico,17,11,AS,Devon Collier
+Q1,2:26,Puerto Rico,17,11,,Gary Brownelayup made
+Q1,2:34,Puerto Rico,15,11,RD,Isaiah Pineiro
+Q1,2:34,Italy,15,11,,Ariel Filloylayup missed
+Q1,2:46,Puerto Rico,15,11,,David Huertas2pt jump shot made
+Q1,2:57,Puerto Rico,13,11,RO,Gary Browne
+Q1,2:57,Puerto Rico,13,11,,Renaldo Balkmanlayup missed
+Q1,3:11,Puerto Rico,13,11,FR,Gary Browne
+Q1,3:11,Italy,13,11,substituicao_entra,Ariel Filloy
+Q1,3:11,Italy,13,11,substituicao_sai,Daniel Hackett
+Q1,3:11,Italy,13,11,FC_O,Daniel Hackett
+Q1,3:30,Puerto Rico,13,11,,Gary Browne2pt jump shot made
+Q1,3:55,Italy,11,11,AS,Daniel Hackett
+Q1,3:55,Italy,11,11,,Awudu Abasslayup made
+Q1,4:03,Puerto Rico,11,9,ER,David Huertas
+Q1,4:03,Italy,11,9,BR,Awudu Abass
+Q1,4:05,Puerto Rico,11,9,RO,David Huertas
+Q1,4:05,Puerto Rico,11,9,2_Pts_T,Gary Browne
+Q1,4:05,Italy,11,9,TO,Jeff Brooks
+Q1,4:10,Puerto Rico,11,9,BR,Renaldo Balkman
+Q1,4:10,Italy,11,9,ER,Daniel Hackett
+Q1,4:27,Puerto Rico,11,9,,David Huertas3pt jump shot missed
+Q1,4:27,Italy,11,9,RD,Jeff Brooks
+Q1,4:38,Puerto Rico,11,9,RD,Devon Collier
+Q1,4:38,Italy,11,9,,Awudu Abass3pt jump shot missed
+Q1,4:53,Puerto Rico,11,9,LL_Pts_C,Isaiah Pineiro
+Q1,4:53,Puerto Rico,10,9,LL_Pts_C,Isaiah Pineiro
+Q1,4:53,Puerto Rico,9,9,substituicao_entra,Devon Collier
+Q1,4:53,Puerto Rico,9,9,substituicao_sai,Jorge Bryan Díaz
+Q1,4:53,Puerto Rico,9,9,FR,Isaiah Pineiro
+Q1,4:53,Italy,9,9,substituicao_entra,Jeff Brooks
+Q1,4:53,Italy,9,9,substituicao_sai,Danilo Gallinari
+Q1,4:53,Italy,9,9,FC,Marco Belinelli
+Q1,5:13,Puerto Rico,9,9,RD,Renaldo Balkman
+Q1,5:13,Italy,9,9,,Marco Belinellilayup missed
+Q1,5:22,Puerto Rico,9,9,,Jorge Bryan Díaz2pt jump shot missed
+Q1,5:22,Italy,9,9,RD,Danilo Gallinari
+Q1,5:31,Puerto Rico,9,9,FR,Gary Browne
+Q1,5:31,Italy,9,9,FC,Daniel Hackett
+Q1,5:35,Italy,9,9,,Awudu Abassdunk made
+Q1,5:50,Puerto Rico,9,7,LL_Pts_C,Jorge Bryan Díaz
+Q1,5:50,Puerto Rico,8,7,LL_Pts_T,Jorge Bryan Díaz
+Q1,5:50,Puerto Rico,8,7,FR,Jorge Bryan Díaz
+Q1,5:50,Italy,8,7,FC,Awudu Abass
+Q1,5:54,Puerto Rico,8,7,RO,Renaldo Balkman
+Q1,5:54,Puerto Rico,8,7,,Renaldo Balkman3pt jump shot missed
+Q1,6:11,Puerto Rico,8,5,FC,Jorge Bryan Díaz
+Q1,6:11,Italy,8,7,LL_Pts_C,Daniel Hackett
+Q1,6:11,Italy,8,6,LL_Pts_C,Daniel Hackett
+Q1,6:11,Italy,8,5,FR,Daniel Hackett
+Q1,6:20,Puerto Rico,8,5,,Gary Browne2pt jump shot missed
+Q1,6:20,Italy,8,5,RD,Awudu Abass
+Q1,6:45,Italy,8,5,2_Pts_C,Marco Belinelli
+Q1,6:59,Puerto Rico,8,3,,David Huertas2pt jump shot missed
+Q1,6:59,Italy,8,3,RD,Awudu Abass
+Q1,7:16,Puerto Rico,8,2,FC,Isaiah Pineiro
+Q1,7:16,Italy,8,3,LL_Pts_C,Paul Biligha
+Q1,7:16,Italy,8,2,LL_Pts_T,Paul Biligha
+Q1,7:16,Italy,8,2,FR,Paul Biligha
+Q1,7:38,Puerto Rico,8,2,,Gary Brownelayup made
+Q1,7:38,Italy,8,2,tempo_tecnico,
+Q1,7:44,Puerto Rico,6,2,RD,Gary Browne
+Q1,7:44,Italy,6,2,,Daniel Hackett2pt jump shot missed
+Q1,8:00,Puerto Rico,6,2,,David Huertaslayup made
+Q1,8:06,Puerto Rico,4,2,RD,David Huertas
+Q1,8:06,Italy,4,2,,Awudu Abass3pt jump shot missed
+Q1,8:16,Puerto Rico,4,2,,David Huertas3pt jump shot missed
+Q1,8:16,Italy,4,2,RD,Danilo Gallinari
+Q1,8:45,Italy,4,2,AS,Daniel Hackett
+Q1,8:45,Italy,4,2,,Marco Belinellilayup made
+Q1,9:02,Puerto Rico,4,0,,Renaldo Balkmanlayup made
+Q1,9:14,Puerto Rico,2,0,RD,Renaldo Balkman
+Q1,9:14,Italy,2,0,3_Pts_T,Marco Belinelli
+Q1,9:29,Puerto Rico,2,0,AS,Isaiah Pineiro
+Q1,9:29,Puerto Rico,2,0,,Jorge Bryan Díaz2pt jump shot made
+Q1,9:43,Puerto Rico,0,0,RD,Isaiah Pineiro
+Q1,9:43,Italy,0,0,,Danilo Gallinari2pt jump shot missed
+Q2,0:01,Puerto Rico,46,26,,Isaiah Pineiro3pt jump shot missed
+Q2,0:05,Puerto Rico,46,26,FR,Gary Browne
+Q2,0:05,Italy,46,26,FC,Ariel Filloy
+Q2,0:11,Puerto Rico,46,24,substituicao_entra,Isaiah Pineiro
+Q2,0:11,Puerto Rico,46,24,substituicao_sai,Ramon Clemente
+Q2,0:11,Puerto Rico,46,24,FC,Ramon Clemente
+Q2,0:11,Italy,46,26,LL_Pts_C,Danilo Gallinari
+Q2,0:11,Italy,46,25,LL_Pts_C,Danilo Gallinari
+Q2,0:11,Italy,46,24,substituicao_entra,Ariel Filloy
+Q2,0:11,Italy,46,24,substituicao_sai,Daniel Hackett
+Q2,0:11,Italy,46,24,FR,Danilo Gallinari
+Q2,0:30,Puerto Rico,46,24,,Gary Brownelayup missed
+Q2,0:30,Italy,46,24,RD,Paul Biligha
+Q2,0:44,Puerto Rico,46,24,RD,Gary Browne
+Q2,0:44,Italy,46,24,,Daniel Hackett2pt jump shot missed
+Q2,0:55,Puerto Rico,46,24,ER,Renaldo Balkman
+Q2,10:00,Puerto Rico,24,13,muda_bola,
+Q2,1:03,Puerto Rico,46,24,RD,Renaldo Balkman
+Q2,1:03,Italy,46,24,,Paul Biligha2pt jump shot missed
+Q2,1:18,Puerto Rico,46,24,ER ,
+Q2,1:32,Puerto Rico,46,24,tempo_tecnico,
+Q2,1:32,Puerto Rico,46,24,FR,Gary Browne
+Q2,1:32,Italy,46,24,FC,Danilo Gallinari
+Q2,1:34,Puerto Rico,46,24,RO,Gary Browne
+Q2,1:34,Puerto Rico,46,24,,Gian Clavell3pt jump shot missed
+Q2,1:50,Puerto Rico,46,24,RD,Ramon Clemente
+Q2,1:50,Italy,46,24,,Daniel Hackett2pt jump shot missed
+Q2,1:58,Puerto Rico,46,24,FC_O,Renaldo Balkman
+Q2,1:58,Italy,46,24,FR,Marco Belinelli
+Q2,2:18,Puerto Rico,46,23,substituicao_entra,Gary Browne
+Q2,2:18,Puerto Rico,46,23,substituicao_sai,Angel Rodriguez
+Q2,2:18,Puerto Rico,46,23,FC,Angel Rodriguez
+Q2,2:18,Italy,46,24,LL_Pts_C,Daniel Hackett
+Q2,2:18,Italy,46,23,LL_Pts_T,Daniel Hackett
+Q2,2:18,Italy,46,23,FR,Daniel Hackett
+Q2,2:21,Puerto Rico,46,23,,Renaldo Balkmandunk missed
+Q2,2:21,Italy,46,23,RD,Daniel Hackett
+Q2,2:37,Puerto Rico,46,22,substituicao_entra,Renaldo Balkman
+Q2,2:37,Puerto Rico,46,22,substituicao_sai,Devon Collier
+Q2,2:37,Puerto Rico,46,22,FC,Angel Rodriguez
+Q2,2:37,Italy,46,23,AS,Daniel Hackett
+Q2,2:37,Italy,46,23,LL_Pts_C,Marco Belinelli
+Q2,2:37,Italy,46,22,LL_Pts_T,Marco Belinelli
+Q2,2:37,Italy,46,22,substituicao_entra,Awudu Abass
+Q2,2:37,Italy,46,22,substituicao_sai,Amedeo Della Valle
+Q2,2:37,Italy,46,22,FR,Marco Belinelli
+Q2,2:54,Puerto Rico,46,22,,Ramon Clementedunk made
+Q2,2:57,Puerto Rico,44,22,BR,Ramon Clemente
+Q2,2:57,Italy,44,22,ER,Amedeo Della Valle
+Q2,3:03,Puerto Rico,44,22,ER,Angel Rodriguez
+Q2,3:03,Italy,44,22,BR,Amedeo Della Valle
+Q2,3:17,Puerto Rico,44,22,RD,Alexander Franklin
+Q2,3:17,Italy,44,22,,Danilo Gallinari3pt jump shot missed
+Q2,3:32,Puerto Rico,44,22,AS,Angel Rodriguez
+Q2,3:32,Puerto Rico,44,22,,Gian Clavell3pt jump shot made
+Q2,3:39,Puerto Rico,41,22,RD,Ramon Clemente
+Q2,3:39,Italy,41,22,,Daniel Hackettlayup missed
+Q2,3:53,Puerto Rico,41,22,,Devon Colliertip in made
+Q2,3:54,Puerto Rico,39,22,RO,Devon Collier
+Q2,3:54,Puerto Rico,39,22,,Gian Clavelllayup missed
+Q2,4:00,Puerto Rico,39,22,BR,Gian Clavell
+Q2,4:00,Italy,39,22,ER,Daniel Hackett
+Q2,4:15,Puerto Rico,39,22,,Ramon Clementelayup made
+Q2,4:17,Puerto Rico,37,22,RO,Ramon Clemente
+Q2,4:17,Puerto Rico,37,22,,Gian Clavell2pt jump shot missed
+Q2,4:38,Italy,37,22,AS,Daniel Hackett
+Q2,4:38,Italy,37,22,,Danilo Gallinari3pt jump shot made
+Q2,4:49,Puerto Rico,37,19,FC_O,Ramon Clemente
+Q2,4:49,Italy,37,19,FR,Daniel Hackett
+Q2,5:01,Puerto Rico,37,19,RO,
+Q2,5:03,Puerto Rico,37,19,,Alexander Franklinlayup missed
+Q2,5:09,Puerto Rico,37,19,RD,Angel Rodriguez
+Q2,5:09,Italy,37,19,,Daniel Hackett3pt jump shot missed
+Q2,5:30,Puerto Rico,37,19,,Devon Collier2pt jump shot made
+Q2,5:58,Italy,35,19,,Paul Bilighatip in made
+Q2,5:59,Italy,35,17,RO,Paul Biligha
+Q2,5:59,Italy,35,17,,Marco Belinellilayup missed
+Q2,6:08,Puerto Rico,35,17,,Ramon Clemente3pt jump shot missed
+Q2,6:08,Italy,35,17,RD,Danilo Gallinari
+Q2,6:27,Italy,35,17,ER ,
+Q2,6:51,Italy,35,17,substituicao_entra,Daniel Hackett
+Q2,6:51,Italy,35,17,substituicao_sai,Awudu Abass
+Q2,6:51,Italy,35,17,substituicao_entra,Marco Belinelli
+Q2,6:51,Italy,35,17,substituicao_sai,Ariel Filloy
+Q2,6:51,Italy,35,17,tempo_tecnico,
+Q2,6:53,Puerto Rico,35,17,,Gian Clavell3pt jump shot made
+Q2,7:01,Puerto Rico,32,17,RD,Ramon Clemente
+Q2,7:01,Italy,32,17,,Amedeo Della Valle3pt jump shot missed
+Q2,7:19,Puerto Rico,32,17,AS,Angel Rodriguez
+Q2,7:19,Puerto Rico,32,17,,Alexander Franklindunk made
+Q2,7:23,Puerto Rico,30,17,RD,Devon Collier
+Q2,7:23,Italy,30,17,,Amedeo Della Valle3pt jump shot missed
+Q2,7:37,Puerto Rico,30,17,AS,Angel Rodriguez
+Q2,7:37,Puerto Rico,30,17,,Alexander Franklin3pt jump shot made
+Q2,7:54,Puerto Rico,27,17,RD,Ramon Clemente
+Q2,7:54,Puerto Rico,27,16,FC,Angel Rodriguez
+Q2,7:54,Italy,27,17,LL_Pts_T,Paul Biligha
+Q2,7:54,Italy,27,17,AS,Amedeo Della Valle
+Q2,7:54,Italy,27,17,LL_Pts_C,Paul Biligha
+Q2,7:54,Italy,27,16,FR,Paul Biligha
+Q2,8:04,Puerto Rico,27,16,FC,Alexander Franklin
+Q2,8:04,Italy,27,16,FR,Danilo Gallinari
+Q2,8:13,Puerto Rico,27,16,,Gian Clavell3pt jump shot missed
+Q2,8:13,Italy,27,16,RD,Awudu Abass
+Q2,8:14,Puerto Rico,27,16,tempo_tecnico,
+Q2,8:14,Italy,27,16,substituicao_entra,Paul Biligha
+Q2,8:14,Italy,27,16,substituicao_sai,Jeff Brooks
+Q2,8:28,Puerto Rico,27,16,RO,Alexander Franklin
+Q2,8:28,Puerto Rico,27,16,LL_Pts_T,Devon Collier
+Q2,8:28,Puerto Rico,27,16,AS,Gian Clavell
+Q2,8:28,Puerto Rico,27,16,LL_Pts_C,Devon Collier
+Q2,8:28,Puerto Rico,26,16,FR,Devon Collier
+Q2,8:28,Italy,26,16,FC,Danilo Gallinari
+Q2,8:37,Puerto Rico,26,16,RO,
+Q2,8:38,Puerto Rico,26,16,,Angel Rodriguezlayup missed
+Q2,8:46,Puerto Rico,26,16,substituicao_entra,Alexander Franklin
+Q2,8:46,Puerto Rico,26,16,substituicao_sai,Isaiah Pineiro
+Q2,8:46,Italy,26,16,ER ,
+Q2,8:47,Italy,26,16,,Danilo Gallinari2pt jump shot missed
+Q2,9:09,Puerto Rico,26,16,,Ramon Clementelayup made
+Q2,9:14,Puerto Rico,24,16,RO,Ramon Clemente
+Q2,9:14,Puerto Rico,24,16,,Ramon Clementelayup missed
+Q2,9:27,Italy,24,16,AS,Amedeo Della Valle
+Q2,9:27,Italy,24,16,,Danilo Gallinari3pt jump shot made
+Q2,9:37,Puerto Rico,24,13,ER,Ramon Clemente
+Q2,9:37,Italy,24,13,BR,Ariel Filloy
+Q2,9:41,Puerto Rico,24,13,RO,Ramon Clemente
+Q2,9:41,Puerto Rico,24,13,,Ramon Clementelayup missed
+Q3,0:00,Puerto Rico,64,50,,Gian Clavell3pt jump shot missed
+Q3,0:04,Puerto Rico,64,50,FR,Angel Rodriguez
+Q3,0:04,Italy,64,50,FC,Danilo Gallinari
+Q3,0:15,Italy,64,50,AS,Jeff Brooks
+Q3,0:15,Italy,64,50,,Amedeo Tessitori2pt jump shot made
+Q3,0:37,Puerto Rico,64,48,3_Pts_C,Angel Rodriguez
+Q3,0:58,Italy,61,48,AS,Danilo Gallinari
+Q3,0:58,Italy,61,48,,Amedeo Tessitorilayup made
+Q3,10:00,Italy,46,26,muda_bola,
+Q3,1:09,Puerto Rico,61,46,ER,Angel Rodriguez
+Q3,1:09,Italy,61,46,BR,Ariel Filloy
+Q3,1:21,Puerto Rico,61,46,RD,Devon Collier
+Q3,1:21,Italy,61,46,,Ariel Filloy3pt jump shot missed
+Q3,1:37,Puerto Rico,61,46,ER,
+Q3,1:37,Puerto Rico,61,46,tempo_tecnico,
+Q3,1:38,Italy,61,46,substituicao_entra,Danilo Gallinari
+Q3,1:38,Italy,61,46,substituicao_sai,Marco Belinelli
+Q3,1:57,Puerto Rico,61,46,RD,Devon Collier
+Q3,1:57,Italy,61,46,,Awudu Abass3pt jump shot missed
+Q3,2:12,Puerto Rico,61,44,substituicao_entra,Alexander Franklin
+Q3,2:12,Puerto Rico,61,44,substituicao_sai,Renaldo Balkman
+Q3,2:12,Puerto Rico,61,44,substituicao_entra,Gian Clavell
+Q3,2:12,Puerto Rico,61,44,substituicao_sai,David Huertas
+Q3,2:12,Puerto Rico,61,44,substituicao_entra,Ramon Clemente
+Q3,2:12,Puerto Rico,61,44,substituicao_sai,Isaiah Pineiro
+Q3,2:12,Puerto Rico,61,44,FC_A,David Huertas
+Q3,2:12,Italy,61,46,LL_Pts_C,Awudu Abass
+Q3,2:12,Italy,61,45,LL_Pts_C,Awudu Abass
+Q3,2:12,Italy,61,44,FR,Awudu Abass
+Q3,2:18,Puerto Rico,61,44,,Renaldo Balkman3pt jump shot missed
+Q3,2:18,Italy,61,44,RD,Awudu Abass
+Q3,2:40,Italy,61,44,AS,Ariel Filloy
+Q3,2:40,Italy,61,44,,Awudu Abassdunk made
+Q3,2:54,Puerto Rico,61,42,,Devon Collier2pt jump shot missed
+Q3,2:54,Italy,61,42,RD,Marco Belinelli
+Q3,3:13,Italy,61,42,ER,Awudu Abass
+Q3,3:25,Puerto Rico,61,42,,David Huertas3pt jump shot missed
+Q3,3:25,Italy,61,42,RD,Marco Belinelli
+Q3,3:29,Puerto Rico,61,42,substituicao_entra,Angel Rodriguez
+Q3,3:29,Puerto Rico,61,42,substituicao_sai,Gary Browne
+Q3,3:29,Italy,61,42,substituicao_entra,Amedeo Tessitori
+Q3,3:29,Italy,61,42,substituicao_sai,Paul Biligha
+Q3,3:29,Italy,61,42,ER,Marco Belinelli
+Q3,3:32,Puerto Rico,61,42,2_Pts_T,Isaiah Pineiro
+Q3,3:32,Italy,61,42,RD,Marco Belinelli
+Q3,3:32,Italy,61,42,TO,Paul Biligha
+Q3,3:57,Italy,61,42,AS,Jeff Brooks
+Q3,3:57,Italy,61,42,,Awudu Abasslayup made
+Q3,4:01,Puerto Rico,61,40,ER,Gary Browne
+Q3,4:01,Italy,61,40,BR,Jeff Brooks
+Q3,4:22,Puerto Rico,61,40,RD,Devon Collier
+Q3,4:22,Puerto Rico,61,40,FC,Renaldo Balkman
+Q3,4:22,Italy,61,40,LL_Pts_T,Paul Biligha
+Q3,4:22,Italy,61,40,LL_Pts_T,Paul Biligha
+Q3,4:22,Italy,61,40,substituicao_entra,Jeff Brooks
+Q3,4:22,Italy,61,40,substituicao_sai,Danilo Gallinari
+Q3,4:22,Italy,61,40,FR,Paul Biligha
+Q3,4:27,Puerto Rico,61,40,,Gary Browne2pt jump shot missed
+Q3,4:27,Italy,61,40,RD,Paul Biligha
+Q3,4:48,Italy,61,40,AS,Awudu Abass
+Q3,4:48,Italy,61,40,,Paul Bilighadunk made
+Q3,5:07,Puerto Rico,61,38,AS,Gary Browne
+Q3,5:07,Puerto Rico,61,38,,Renaldo Balkman2pt jump shot made
+Q3,5:23,Puerto Rico,59,38,substituicao_entra,Devon Collier
+Q3,5:23,Puerto Rico,59,38,substituicao_sai,Jorge Bryan Díaz
+Q3,5:23,Puerto Rico,59,36,FC,Isaiah Pineiro
+Q3,5:23,Italy,59,38,LL_Pts_C,Marco Belinelli
+Q3,5:23,Italy,59,37,AS,Ariel Filloy
+Q3,5:23,Italy,59,37,LL_Pts_C,Marco Belinelli
+Q3,5:23,Italy,59,36,FR,Marco Belinelli
+Q3,5:31,Puerto Rico,59,36,,Jorge Bryan Díazlayup missed
+Q3,5:31,Italy,59,36,RD,Paul Biligha
+Q3,5:51,Italy,59,36,AS,Paul Biligha
+Q3,5:51,Italy,59,36,3_Pts_C,Danilo Gallinari
+Q3,6:05,Italy,59,33,tempo_tecnico,
+Q3,6:06,Puerto Rico,59,33,,Isaiah Pineirodunk made
+Q3,6:08,Puerto Rico,57,33,BR,Isaiah Pineiro
+Q3,6:08,Italy,57,33,ER,Danilo Gallinari
+Q3,6:26,Puerto Rico,57,33,,Gary Browne2pt jump shot missed
+Q3,6:26,Italy,57,33,RD,Marco Belinelli
+Q3,6:40,Puerto Rico,57,33,LL_Pts_C,David Huertas
+Q3,6:40,Puerto Rico,56,33,LL_Pts_C,David Huertas
+Q3,6:40,Puerto Rico,55,33,FR,David Huertas
+Q3,6:40,Italy,55,33,substituicao_entra,Ariel Filloy
+Q3,6:40,Italy,55,33,substituicao_sai,Daniel Hackett
+Q3,6:40,Italy,55,33,FC_A,Daniel Hackett
+Q3,6:41,Puerto Rico,55,33,BR,Renaldo Balkman
+Q3,6:41,Italy,55,33,ER,Danilo Gallinari
+Q3,6:53,Puerto Rico,55,33,,Gary Brownelayup missed
+Q3,6:53,Italy,55,33,RD,Daniel Hackett
+Q3,6:56,Puerto Rico,55,33,BR,Renaldo Balkman
+Q3,6:56,Italy,55,33,ER,Awudu Abass
+Q3,7:06,Puerto Rico,55,33,AS,Gary Browne
+Q3,7:06,Puerto Rico,55,33,,David Huertas3pt jump shot made
+Q3,7:12,Puerto Rico,52,33,RD,Jorge Bryan Díaz
+Q3,7:12,Italy,52,33,,Paul Bilighalayup missed
+Q3,7:16,Italy,52,33,RO,Paul Biligha
+Q3,7:16,Italy,52,33,,Marco Belinellilayup missed
+Q3,7:18,Puerto Rico,52,33,FC,Gary Browne
+Q3,7:18,Italy,52,33,FR,Awudu Abass
+Q3,7:30,Puerto Rico,52,33,AS,Gary Browne
+Q3,7:30,Puerto Rico,52,33,,Isaiah Pineirolayup made
+Q3,7:40,Italy,50,33,,Paul Biligha2pt jump shot made
+Q3,7:44,Italy,50,31,RO,Paul Biligha
+Q3,7:44,Italy,50,31,3_Pts_T,Awudu Abass
+Q3,7:58,Puerto Rico,50,31,,Gary Brownelayup made
+Q3,8:04,Puerto Rico,48,31,RD,Gary Browne
+Q3,8:04,Italy,48,31,,Danilo Gallinari2pt jump shot missed
+Q3,8:30,Puerto Rico,48,31,2_Pts_C,Renaldo Balkman
+Q3,8:33,Puerto Rico,46,31,RO,Renaldo Balkman
+Q3,8:33,Puerto Rico,46,31,3_Pts_T,Gary Browne
+Q3,8:45,Puerto Rico,46,31,RD,Jorge Bryan Díaz
+Q3,8:45,Italy,46,31,,Marco Belinelli2pt jump shot missed
+Q3,8:47,Puerto Rico,46,31,FC,David Huertas
+Q3,8:47,Italy,46,31,FR,Paul Biligha
+Q3,8:47,Italy,46,31,RO,
+Q3,8:49,Italy,46,31,,Danilo Gallinari2pt jump shot missed
+Q3,9:06,Italy,46,31,RD,
+Q3,9:10,Puerto Rico,46,31,,Isaiah Pineiro3pt jump shot missed
+Q3,9:15,Puerto Rico,46,30,FC,David Huertas
+Q3,9:15,Italy,46,31,LL_Pts_C,Danilo Gallinari
+Q3,9:15,Italy,46,30,FR,Danilo Gallinari
+Q3,9:15,Italy,46,30,AS,Marco Belinelli
+Q3,9:15,Italy,46,30,,Danilo Gallinarilayup made
+Q3,9:35,Puerto Rico,46,28,FC_O,Jorge Bryan Díaz
+Q3,9:35,Italy,46,28,FR,Daniel Hackett
+Q3,9:49,Italy,46,28,AS,Marco Belinelli
+Q3,9:49,Italy,46,28,,Paul Bilighalayup made
+Q4,0:00,Italy,83,83,,Danilo Gallinari3pt jump shot missed
+Q4,0:02,Puerto Rico,83,83,ER,Angel Rodriguez
+Q4,0:02,Italy,83,83,BR,Danilo Gallinari
+Q4,0:10,Puerto Rico,83,83,BR,Devon Collier
+Q4,0:10,Italy,83,83,ER,Daniel Hackett
+Q4,0:23,Puerto Rico,83,83,,Angel Rodriguezlayup made
+Q4,0:24,Puerto Rico,81,83,RO,Angel Rodriguez
+Q4,0:24,Puerto Rico,81,83,,Renaldo Balkmantip in missed
+Q4,0:25,Puerto Rico,81,83,RO,Renaldo Balkman
+Q4,0:25,Puerto Rico,81,83,LL_Pts_T,Angel Rodriguez
+Q4,0:25,Puerto Rico,81,83,substituicao_entra,Alexander Franklin
+Q4,0:25,Puerto Rico,81,83,substituicao_sai,David Huertas
+Q4,0:25,Puerto Rico,81,83,substituicao_entra,Devon Collier
+Q4,0:25,Puerto Rico,81,83,substituicao_sai,Gian Clavell
+Q4,0:25,Puerto Rico,81,83,FR,Angel Rodriguez
+Q4,0:25,Puerto Rico,81,83,,Angel Rodriguezlayup made
+Q4,0:25,Italy,81,83,FC,Amedeo Tessitori
+Q4,0:31,Puerto Rico,79,81,substituicao_entra,David Huertas
+Q4,0:31,Puerto Rico,79,81,substituicao_sai,Alexander Franklin
+Q4,0:31,Puerto Rico,79,81,substituicao_entra,Gian Clavell
+Q4,0:31,Puerto Rico,79,81,substituicao_sai,Devon Collier
+Q4,0:31,Puerto Rico,79,81,FC,Javier Mojica
+Q4,0:31,Italy,79,83,LL_Pts_C,Marco Belinelli
+Q4,0:31,Italy,79,82,LL_Pts_C,Marco Belinelli
+Q4,0:31,Italy,79,81,FR,Marco Belinelli
+Q4,0:38,Puerto Rico,79,81,substituicao_entra,Alexander Franklin
+Q4,0:38,Puerto Rico,79,81,substituicao_sai,David Huertas
+Q4,0:38,Puerto Rico,79,81,substituicao_entra,Devon Collier
+Q4,0:38,Puerto Rico,79,81,substituicao_sai,Gian Clavell
+Q4,0:38,Puerto Rico,79,81,AS,Angel Rodriguez
+Q4,0:38,Puerto Rico,79,81,,Renaldo Balkmanlayup made
+Q4,0:38,Italy,79,81,tempo_tecnico,
+Q4,0:49,Puerto Rico,77,81,substituicao_entra,David Huertas
+Q4,0:49,Puerto Rico,77,81,substituicao_sai,Alexander Franklin
+Q4,0:49,Puerto Rico,77,81,substituicao_entra,Gian Clavell
+Q4,0:49,Puerto Rico,77,81,substituicao_sai,Devon Collier
+Q4,0:49,Puerto Rico,77,81,BR,Angel Rodriguez
+Q4,0:49,Italy,77,81,ER,Danilo Gallinari
+Q4,0:52,Puerto Rico,77,81,LL_Pts_C,Angel Rodriguez
+Q4,0:52,Puerto Rico,76,81,LL_Pts_C,Angel Rodriguez
+Q4,0:52,Puerto Rico,75,81,substituicao_entra,Alexander Franklin
+Q4,0:52,Puerto Rico,75,81,substituicao_sai,David Huertas
+Q4,0:52,Puerto Rico,75,81,FR,Angel Rodriguez
+Q4,0:52,Italy,75,81,substituicao_entra,Daniel Hackett
+Q4,0:52,Italy,75,81,substituicao_sai,Ariel Filloy
+Q4,0:52,Italy,75,81,FC,Ariel Filloy
+Q4,0:56,Puerto Rico,75,81,RO,Angel Rodriguez
+Q4,0:56,Puerto Rico,75,81,,Devon Collier2pt jump shot missed
+Q4,10:00,Puerto Rico,64,50,muda_bola,
+Q4,1:18,Italy,75,81,,Danilo Gallinari2pt jump shot made
+Q4,1:42,Puerto Rico,75,79,,Angel Rodriguezlayup made
+Q4,2:02,Puerto Rico,73,77,substituicao_entra,David Huertas
+Q4,2:02,Puerto Rico,73,77,substituicao_sai,Christopher Brady
+Q4,2:02,Puerto Rico,73,77,substituicao_entra,Devon Collier
+Q4,2:02,Puerto Rico,73,77,substituicao_sai,Alexander Franklin
+Q4,2:02,Puerto Rico,73,77,FC,Christopher Brady
+Q4,2:02,Italy,73,79,LL_Pts_C,Danilo Gallinari
+Q4,2:02,Italy,73,78,LL_Pts_C,Danilo Gallinari
+Q4,2:02,Italy,73,77,FR,Danilo Gallinari
+Q4,2:14,Italy,73,77,RO,Awudu Abass
+Q4,2:14,Italy,73,77,,Danilo Gallinarilayup missed
+Q4,2:26,Puerto Rico,73,77,FC,Javier Mojica
+Q4,2:26,Italy,73,77,FR,Ariel Filloy
+Q4,2:31,Puerto Rico,73,77,,Angel Rodriguez3pt jump shot missed
+Q4,2:31,Italy,73,77,RD,Ariel Filloy
+Q4,2:41,Puerto Rico,73,77,RD,Renaldo Balkman
+Q4,2:41,Italy,73,77,,Awudu Abass2pt jump shot missed
+Q4,3:01,Puerto Rico,73,77,LL_Pts_C,Renaldo Balkman
+Q4,3:01,Puerto Rico,72,77,FR,Renaldo Balkman
+Q4,3:01,Puerto Rico,72,77,AS,Angel Rodriguez
+Q4,3:01,Puerto Rico,72,77,,Renaldo Balkmanlayup made
+Q4,3:01,Italy,72,77,FC,Marco Belinelli
+Q4,3:25,Italy,70,77,AS,Ariel Filloy
+Q4,3:25,Italy,70,77,,Amedeo Tessitoridunk made
+Q4,3:38,Italy,70,75,RO,Danilo Gallinari
+Q4,3:38,Italy,70,75,,Marco Belinelli3pt jump shot missed
+Q4,3:54,Puerto Rico,70,75,LL_Pts_C,Renaldo Balkman
+Q4,3:54,Puerto Rico,69,75,LL_Pts_C,Renaldo Balkman
+Q4,3:54,Puerto Rico,68,75,substituicao_entra,Javier Mojica
+Q4,3:54,Puerto Rico,68,75,substituicao_sai,David Huertas
+Q4,3:54,Puerto Rico,68,75,substituicao_entra,Christopher Brady
+Q4,3:54,Puerto Rico,68,75,substituicao_sai,Devon Collier
+Q4,3:54,Puerto Rico,68,75,FR,Renaldo Balkman
+Q4,3:54,Italy,68,75,FC,Ariel Filloy
+Q4,4:10,Italy,68,75,,Amedeo Tessitoridunk made
+Q4,4:15,Puerto Rico,68,73,substituicao_entra,Angel Rodriguez
+Q4,4:15,Puerto Rico,68,73,substituicao_sai,Gary Browne
+Q4,4:15,Puerto Rico,68,73,FC,Alexander Franklin
+Q4,4:15,Italy,68,73,FR,Danilo Gallinari
+Q4,4:22,Puerto Rico,68,73,,Gary Browne2pt jump shot missed
+Q4,4:22,Italy,68,73,RD,Ariel Filloy
+Q4,4:37,Italy,68,73,AS,Amedeo Tessitori
+Q4,4:37,Italy,68,73,,Marco Belinelli3pt jump shot made
+Q4,4:53,Puerto Rico,68,70,ER ,
+Q4,4:55,Puerto Rico,68,70,RO,Devon Collier
+Q4,4:55,Puerto Rico,68,70,2_Pts_T,Devon Collier
+Q4,4:55,Italy,68,70,TO,Danilo Gallinari
+Q4,5:18,Puerto Rico,68,70,tempo_tecnico,
+Q4,5:18,Italy,68,70,,Awudu Abassdunk made
+Q4,5:21,Puerto Rico,68,68,ER,David Huertas
+Q4,5:21,Italy,68,68,BR,Awudu Abass
+Q4,5:32,Puerto Rico,68,66,substituicao_entra,Alexander Franklin
+Q4,5:32,Puerto Rico,68,66,substituicao_sai,Ramon Clemente
+Q4,5:32,Puerto Rico,68,66,substituicao_entra,Devon Collier
+Q4,5:32,Puerto Rico,68,66,substituicao_sai,Isaiah Pineiro
+Q4,5:32,Puerto Rico,68,66,FC,Renaldo Balkman
+Q4,5:32,Italy,68,68,LL_Pts_C,Danilo Gallinari
+Q4,5:32,Italy,68,67,AS,Ariel Filloy
+Q4,5:32,Italy,68,67,LL_Pts_C,Danilo Gallinari
+Q4,5:32,Italy,68,66,FR,Danilo Gallinari
+Q4,5:47,Puerto Rico,68,66,2_Pts_T,Renaldo Balkman
+Q4,5:47,Italy,68,66,RD,Marco Belinelli
+Q4,5:47,Italy,68,66,TO,Amedeo Tessitori
+Q4,6:03,Italy,68,66,AS,Danilo Gallinari
+Q4,6:03,Italy,68,66,,Marco Belinellilayup made
+Q4,6:22,Puerto Rico,68,64,LL_Pts_T,Renaldo Balkman
+Q4,6:22,Puerto Rico,68,64,LL_Pts_T,Renaldo Balkman
+Q4,6:22,Puerto Rico,68,64,FR,Renaldo Balkman
+Q4,6:22,Italy,68,64,RD,Awudu Abass
+Q4,6:22,Italy,68,64,FC,Amedeo Tessitori
+Q4,6:34,Italy,68,64,AS,Marco Belinelli
+Q4,6:34,Italy,68,64,,Amedeo Tessitorilayup made
+Q4,6:55,Puerto Rico,68,62,LL_Pts_T,Renaldo Balkman
+Q4,6:55,Puerto Rico,68,62,LL_Pts_C,Renaldo Balkman
+Q4,6:55,Puerto Rico,67,62,FR,Renaldo Balkman
+Q4,6:55,Italy,68,62,RD,Amedeo Tessitori
+Q4,6:55,Italy,67,62,substituicao_entra,Awudu Abass
+Q4,6:55,Italy,67,62,substituicao_sai,Jeff Brooks
+Q4,6:55,Italy,67,62,FC,Amedeo Tessitori
+Q4,7:01,Puerto Rico,67,62,RD,Ramon Clemente
+Q4,7:01,Italy,67,62,,Ariel Filloy3pt jump shot missed
+Q4,7:15,Puerto Rico,67,62,ER,Gary Browne
+Q4,7:31,Puerto Rico,67,61,substituicao_entra,Isaiah Pineiro
+Q4,7:31,Puerto Rico,67,61,substituicao_sai,Gian Clavell
+Q4,7:31,Puerto Rico,67,61,FC,David Huertas
+Q4,7:31,Italy,67,62,LL_Pts_C,Ariel Filloy
+Q4,7:31,Italy,67,61,FR,Ariel Filloy
+Q4,7:31,Italy,67,61,,Ariel Filloylayup made
+Q4,7:38,Puerto Rico,67,59,ER,Gian Clavell
+Q4,7:48,Puerto Rico,67,59,FR,Gary Browne
+Q4,7:48,Italy,67,59,FC,Ariel Filloy
+Q4,8:04,Italy,67,59,AS,Danilo Gallinari
+Q4,8:04,Italy,67,59,,Marco Belinelli3pt jump shot made
+Q4,8:17,Puerto Rico,67,56,LL_Pts_C,Ramon Clemente
+Q4,8:17,Puerto Rico,66,56,FR,Ramon Clemente
+Q4,8:17,Puerto Rico,66,56,AS,Renaldo Balkman
+Q4,8:17,Puerto Rico,66,56,,Ramon Clementelayup made
+Q4,8:17,Italy,66,56,FC,Jeff Brooks
+Q4,8:37,Puerto Rico,64,56,substituicao_entra,Renaldo Balkman
+Q4,8:37,Puerto Rico,64,56,substituicao_sai,Alexander Franklin
+Q4,8:37,Puerto Rico,64,56,substituicao_entra,David Huertas
+Q4,8:37,Puerto Rico,64,56,substituicao_sai,Angel Rodriguez
+Q4,8:37,Puerto Rico,64,56,substituicao_entra,Gary Browne
+Q4,8:37,Puerto Rico,64,56,substituicao_sai,Devon Collier
+Q4,8:37,Puerto Rico,64,56,tempo_tecnico,
+Q4,8:38,Italy,64,56,AS,Danilo Gallinari
+Q4,8:38,Italy,64,56,,Marco Belinelli3pt jump shot made
+Q4,8:45,Puerto Rico,64,53,2_Pts_T,Devon Collier
+Q4,8:45,Italy,64,53,RD,Danilo Gallinari
+Q4,8:45,Italy,64,53,TO,Jeff Brooks
+Q4,8:53,Puerto Rico,64,53,FR,Angel Rodriguez
+Q4,8:53,Italy,64,53,FC,Jeff Brooks
+Q4,9:12,Italy,64,53,,Ariel Filloy3pt jump shot made
+Q4,9:19,Italy,64,50,RO,
+Q4,9:21,Italy,64,50,,Marco Belinelli3pt jump shot missed
+Q4,9:28,Puerto Rico,64,50,,Alexander Franklintip in missed
+Q4,9:28,Italy,64,50,RD,Danilo Gallinari
+Q4,9:29,Puerto Rico,64,50,RO,Alexander Franklin
+Q4,9:29,Puerto Rico,64,50,,Gian Clavelllayup missed
+Q4,9:35,Puerto Rico,64,50,RD,Alexander Franklin
+Q4,9:35,Italy,64,50,,Jeff Brooks2pt jump shot missed
+Q4,9:52,Puerto Rico,64,50,,Gian Clavell3pt jump shot missed
+Q4,9:52,Italy,64,50,RD,Jeff Brooks
+T1,0:01,Puerto Rico,89,94,,David Huertas3pt jump shot missed
+T1,0:04,Puerto Rico,89,92,tempo_tecnico,
+T1,0:04,Puerto Rico,89,92,substituicao_entra,Javier Mojica
+T1,0:04,Puerto Rico,89,92,substituicao_sai,Angel Rodriguez
+T1,0:04,Puerto Rico,89,92,FC,Angel Rodriguez
+T1,0:04,Italy,89,94,LL_Pts_C,Danilo Gallinari
+T1,0:04,Italy,89,93,LL_Pts_C,Danilo Gallinari
+T1,0:04,Italy,89,92,substituicao_entra,Jeff Brooks
+T1,0:04,Italy,89,92,substituicao_sai,Marco Belinelli
+T1,0:04,Italy,89,92,FR,Danilo Gallinari
+T1,0:09,Puerto Rico,89,92,,Gary Brownelayup made
+T1,0:17,Puerto Rico,87,92,substituicao_entra,Angel Rodriguez
+T1,0:17,Puerto Rico,87,92,substituicao_sai,Devon Collier
+T1,0:17,Puerto Rico,87,90,FC,Devon Collier
+T1,0:17,Italy,87,92,LL_Pts_C,Marco Belinelli
+T1,0:17,Italy,87,91,LL_Pts_C,Marco Belinelli
+T1,0:17,Italy,87,90,FR,Marco Belinelli
+T1,0:19,Puerto Rico,87,90,,David Huertas3pt jump shot missed
+T1,0:19,Italy,87,90,RD,Marco Belinelli
+T1,0:34,Puerto Rico,87,90,RD,Gary Browne
+T1,0:34,Puerto Rico,87,90,substituicao_entra,Gary Browne
+T1,0:34,Puerto Rico,87,90,substituicao_sai,Angel Rodriguez
+T1,0:34,Puerto Rico,87,90,FC,Angel Rodriguez
+T1,0:34,Italy,87,90,LL_Pts_T,Daniel Hackett
+T1,0:34,Italy,87,90,LL_Pts_T,Daniel Hackett
+T1,0:34,Italy,87,90,FR,Daniel Hackett
+T1,0:50,Puerto Rico,87,90,,Angel Rodriguez3pt jump shot blocked
+T1,0:50,Italy,87,90,RD,Awudu Abass
+T1,0:50,Italy,87,90,TO,Amedeo Tessitori
+T1,0:57,Puerto Rico,87,90,LL_Pts_C,David Huertas
+T1,0:57,Puerto Rico,86,90,LL_Pts_C,David Huertas
+T1,0:57,Puerto Rico,85,90,substituicao_entra,David Huertas
+T1,0:57,Puerto Rico,85,90,substituicao_sai,Javier Mojica
+T1,0:57,Puerto Rico,85,90,substituicao_entra,Gian Clavell
+T1,0:57,Puerto Rico,85,90,substituicao_sai,Alexander Franklin
+T1,0:57,Puerto Rico,85,90,FR,Alexander Franklin
+T1,0:57,Puerto Rico,85,90,RD,
+T1,0:57,Italy,85,90,FC_A,Marco Belinelli
+T1,0:58,Italy,85,90,,Marco Belinelli3pt jump shot missed
+T1,1:16,Puerto Rico,85,90,substituicao_entra,Alexander Franklin
+T1,1:16,Puerto Rico,85,90,substituicao_sai,David Huertas
+T1,1:16,Puerto Rico,85,90,substituicao_entra,Devon Collier
+T1,1:16,Puerto Rico,85,90,substituicao_sai,Gian Clavell
+T1,1:24,Puerto Rico,85,90,,Gian Clavelllayup missed
+T1,1:24,Italy,85,90,RD,Daniel Hackett
+T1,1:34,Italy,85,90,AS,Danilo Gallinari
+T1,1:34,Italy,85,90,,Awudu Abass2pt jump shot made
+T1,1:56,Puerto Rico,85,88,,Javier Mojicalayup missed
+T1,1:56,Italy,85,88,RD,Daniel Hackett
+T1,2:07,Puerto Rico,85,86,substituicao_entra,David Huertas
+T1,2:07,Puerto Rico,85,86,substituicao_sai,Alexander Franklin
+T1,2:07,Puerto Rico,85,86,substituicao_entra,Gian Clavell
+T1,2:07,Puerto Rico,85,86,substituicao_sai,Devon Collier
+T1,2:07,Puerto Rico,85,86,FC,Renaldo Balkman
+T1,2:07,Italy,85,88,LL_Pts_C,Marco Belinelli
+T1,2:07,Italy,85,87,LL_Pts_C,Marco Belinelli
+T1,2:07,Italy,85,86,FR,Marco Belinelli
+T1,2:25,Puerto Rico,85,86,,Javier Mojica2pt jump shot missed
+T1,2:25,Italy,85,86,RD,Amedeo Tessitori
+T1,2:49,Italy,85,86,,Amedeo Tessitorilayup made
+T1,3:07,Puerto Rico,85,84,ER,Angel Rodriguez
+T1,3:24,Puerto Rico,85,84,RD,Alexander Franklin
+T1,3:24,Italy,85,84,,Danilo Gallinari3pt jump shot missed
+T1,3:41,Puerto Rico,85,84,,Alexander Franklinlayup made
+T1,4:02,Puerto Rico,83,84,RD,Javier Mojica
+T1,4:02,Italy,83,84,,Danilo Gallinari3pt jump shot missed
+T1,4:27,Italy,83,84,RD,
+T1,4:29,Puerto Rico,83,84,,Angel Rodriguezlayup missed
+T1,4:48,Puerto Rico,83,83,FC,Javier Mojica
+T1,4:48,Italy,83,84,LL_Pts_C,Marco Belinelli
+T1,4:48,Italy,83,83,LL_Pts_T,Marco Belinelli
+T1,4:48,Italy,83,83,FR,Marco Belinelli
+T1,5:00,Italy,83,83,muda_bola,

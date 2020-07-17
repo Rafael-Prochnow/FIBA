@@ -1,0 +1,562 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:02,Australia,20,29,AS,Joe Ingles
+Q1,0:02,Australia,20,29,,Chris Goulding3pt jump shot made
+Q1,0:24,Canada,20,26,2_Pts_T,Phil Scrubb
+Q1,0:24,Australia,20,26,RD,Aron Baynes
+Q1,0:34,Canada,20,24,FC,Khem Birch
+Q1,0:34,Australia,20,26,LL_Pts_C,Aron Baynes
+Q1,0:34,Australia,20,25,LL_Pts_C,Aron Baynes
+Q1,0:34,Australia,20,24,FR,Aron Baynes
+Q1,0:37,Canada,20,24,,Melvin Ejim3pt jump shot missed
+Q1,0:37,Australia,20,24,RD,
+Q1,0:56,Canada,20,22,FC,Andrew Nembhard
+Q1,0:56,Australia,20,24,LL_Pts_C,Joe Ingles
+Q1,0:56,Australia,20,23,LL_Pts_C,Joe Ingles
+Q1,0:56,Australia,20,22,FR,Joe Ingles
+Q1,10:00,Australia,0,0,inicio_quarto,Aron Baynes
+Q1,1:11,Canada,20,22,AS,Andrew Nembhard
+Q1,1:11,Canada,20,22,,Brady Heslip3pt jump shot made
+Q1,1:28,Australia,17,22,2_Pts_C,Chris Goulding
+Q1,1:49,Canada,17,20,2_Pts_C,Phil Scrubb
+Q1,1:53,Canada,15,20,FR,Phil Scrubb
+Q1,1:53,Australia,15,20,FC,Joe Ingles
+Q1,2:05,Canada,15,20,BR,Kevin Pangos
+Q1,2:05,Canada,15,20,substituicao_entra,Brady Heslip
+Q1,2:05,Canada,15,20,substituicao_sai,Kevin Pangos
+Q1,2:05,Canada,15,20,muda_bola,
+Q1,2:05,Australia,15,20,substituicao_entra,Aron Baynes
+Q1,2:05,Australia,15,20,substituicao_sai,Andrew Bogut
+Q1,2:05,Australia,15,20,ER,Matthew Dellavedova
+Q1,2:17,Canada,15,20,,Phil Scrubb2pt jump shot made
+Q1,2:23,Canada,13,20,RD,
+Q1,2:23,Canada,13,20,substituicao_entra,Khem Birch
+Q1,2:23,Canada,13,20,substituicao_sai,Owen Klassen
+Q1,2:23,Canada,13,20,FC,Owen Klassen
+Q1,2:23,Australia,13,20,LL_Pts_T,Chris Goulding
+Q1,2:23,Australia,13,20,substituicao_entra,Matthew Dellavedova
+Q1,2:23,Australia,13,20,substituicao_sai,Patty Mills
+Q1,2:23,Australia,13,20,FR,Chris Goulding
+Q1,2:23,Australia,13,20,,Chris Gouldinglayup made
+Q1,2:42,Canada,13,18,AS,Owen Klassen
+Q1,2:42,Canada,13,18,2_Pts_C,Kevin Pangos
+Q1,2:54,Canada,11,18,RD,Melvin Ejim
+Q1,2:54,Australia,11,18,2_Pts_T,Nic Kay
+Q1,3:10,Canada,11,18,2_Pts_C,Melvin Ejim
+Q1,3:27,Canada,9,17,substituicao_entra,Andrew Nembhard
+Q1,3:27,Canada,9,17,substituicao_sai,Thomas Scrubb
+Q1,3:27,Canada,9,17,FC,Owen Klassen
+Q1,3:27,Australia,9,18,LL_Pts_C,Patty Mills
+Q1,3:27,Australia,9,17,substituicao_entra,Nic Kay
+Q1,3:27,Australia,9,17,substituicao_sai,Jock  Landale
+Q1,3:27,Australia,9,17,FR,Patty Mills
+Q1,3:27,Australia,9,17,2_Pts_C,Patty Mills
+Q1,3:41,Canada,9,15,,Phil Scrubb3pt jump shot missed
+Q1,3:41,Australia,9,15,RD,Andrew Bogut
+Q1,3:55,Canada,9,15,tempo_tecnico,
+Q1,3:55,Australia,9,15,substituicao_entra,Joe Ingles
+Q1,3:55,Australia,9,15,substituicao_sai,Matthew Dellavedova
+Q1,3:55,Australia,9,15,ER,Patty Mills
+Q1,3:58,Australia,9,15,RO,Matthew Dellavedova
+Q1,3:58,Australia,9,15,2_Pts_T,Andrew Bogut
+Q1,4:08,Canada,9,15,,Thomas Scrubb2pt jump shot missed
+Q1,4:08,Australia,9,15,RD,Andrew Bogut
+Q1,4:23,Australia,9,15,AS,Matthew Dellavedova
+Q1,4:23,Australia,9,15,3_Pts_C,Jock  Landale
+Q1,4:44,Canada,9,12,substituicao_entra,Owen Klassen
+Q1,4:44,Canada,9,12,substituicao_sai,Khem Birch
+Q1,4:44,Canada,9,12,LL_Pts_C,Khem Birch
+Q1,4:44,Canada,8,12,AS,Phil Scrubb
+Q1,4:44,Canada,8,12,LL_Pts_C,Khem Birch
+Q1,4:44,Canada,7,12,substituicao_entra,Melvin Ejim
+Q1,4:44,Canada,7,12,substituicao_sai,Cory Joseph
+Q1,4:44,Canada,7,12,FR,Khem Birch
+Q1,4:44,Australia,7,12,FC,Chris Goulding
+Q1,5:01,Canada,7,10,FC,Cory Joseph
+Q1,5:01,Australia,7,12,LL_Pts_C,Patty Mills
+Q1,5:01,Australia,7,11,LL_Pts_C,Patty Mills
+Q1,5:01,Australia,7,10,FR,Patty Mills
+Q1,5:11,Canada,7,10,AS,Kevin Pangos
+Q1,5:11,Canada,7,10,,Khem Birchdunk made
+Q1,5:25,Canada,5,10,FR,Cory Joseph
+Q1,5:25,Australia,5,10,FC,Matthew Dellavedova
+Q1,5:34,Canada,5,10,substituicao_entra,Phil Scrubb
+Q1,5:34,Canada,5,10,substituicao_sai,Melvin Ejim
+Q1,5:34,Canada,5,10,FR,Kevin Pangos
+Q1,5:34,Australia,5,10,substituicao_entra,Chris Goulding
+Q1,5:34,Australia,5,10,substituicao_sai,Joe Ingles
+Q1,5:34,Australia,5,10,FC,Patty Mills
+Q1,5:53,Australia,5,10,AS,Joe Ingles
+Q1,5:53,Australia,5,10,,Andrew Bogutlayup made
+Q1,6:01,Canada,5,8,FC,Cory Joseph
+Q1,6:01,Australia,5,8,substituicao_entra,Andrew Bogut
+Q1,6:01,Australia,5,8,substituicao_sai,Aron Baynes
+Q1,6:01,Australia,5,8,FR,Joe Ingles
+Q1,6:09,Canada,5,8,ER,Kevin Pangos
+Q1,6:09,Australia,5,8,BR,Patty Mills
+Q1,6:35,Australia,5,8,,Jock  Landale2pt jump shot made
+Q1,6:45,Canada,5,6,FC,Thomas Scrubb
+Q1,6:45,Australia,5,6,FR,Joe Ingles
+Q1,6:55,Canada,5,6,AS,Kevin Pangos
+Q1,6:55,Canada,5,6,3_Pts_C,Melvin Ejim
+Q1,7:02,Canada,2,6,RD,Melvin Ejim
+Q1,7:02,Australia,2,6,2_Pts_T,Patty Mills
+Q1,7:19,Canada,2,6,substituicao_entra,Thomas Scrubb
+Q1,7:19,Canada,2,6,substituicao_sai,Kyle Wiltjer
+Q1,7:23,Canada,2,6,ER,Melvin Ejim
+Q1,7:33,Canada,2,6,BR,Melvin Ejim
+Q1,7:33,Australia,2,6,ER,Aron Baynes
+Q1,7:53,Canada,2,6,,Melvin Ejim3pt jump shot missed
+Q1,7:53,Australia,2,6,RD,Matthew Dellavedova
+Q1,8:07,Australia,2,6,,Joe Ingles3pt jump shot made
+Q1,8:16,Canada,2,3,2_Pts_T,Kevin Pangos
+Q1,8:16,Australia,2,3,RD,Joe Ingles
+Q1,8:16,Australia,2,3,TO,Jock  Landale
+Q1,8:30,Australia,2,3,,Matthew Dellavedova2pt jump shot made
+Q1,8:49,Canada,2,1,FC,Kyle Wiltjer
+Q1,8:49,Australia,2,1,FR,Patty Mills
+Q1,8:55,Canada,2,1,2_Pts_C,Cory Joseph
+Q1,9:13,Canada,0,0,FC,Kyle Wiltjer
+Q1,9:13,Australia,0,1,LL_Pts_C,Jock  Landale
+Q1,9:13,Australia,0,0,LL_Pts_T,Jock  Landale
+Q1,9:13,Australia,0,0,FR,Jock  Landale
+Q1,9:27,Canada,0,0,,Cory Joseph2pt jump shot missed
+Q1,9:27,Australia,0,0,RD,Joe Ingles
+Q1,9:33,Canada,0,0,RD,Cory Joseph
+Q1,9:33,Australia,0,0,,Matthew Dellavedova3pt jump shot missed
+Q1,9:44,Canada,0,0,TO,Khem Birch
+Q1,9:44,Australia,0,0,RO,Jock  Landale
+Q1,9:44,Australia,0,0,2_Pts_T,Patty Mills
+Q2,0:01,Canada,40,52,AS,Kevin Pangos
+Q2,0:01,Canada,40,52,2_Pts_C,Kyle Wiltjer
+Q2,0:10,Canada,38,52,substituicao_entra,Kyle Wiltjer
+Q2,0:10,Canada,38,52,substituicao_sai,Owen Klassen
+Q2,0:10,Canada,38,52,substituicao_entra,Brady Heslip
+Q2,0:10,Canada,38,52,substituicao_sai,Andrew Nembhard
+Q2,0:10,Australia,38,52,substituicao_entra,Mitch Creek
+Q2,0:10,Australia,38,52,substituicao_sai,Joe Ingles
+Q2,0:12,Canada,38,52,FR,Melvin Ejim
+Q2,0:12,Australia,38,52,FC_O,Joe Ingles
+Q2,0:23,Canada,38,52,AS,Andrew Nembhard
+Q2,0:23,Canada,38,52,,Thomas Scrubb3pt jump shot made
+Q2,0:41,Australia,35,52,AS,Patty Mills
+Q2,0:41,Australia,35,52,,Nic Kaylayup made
+Q2,0:54,Canada,35,50,,Melvin Ejim3pt jump shot missed
+Q2,0:54,Australia,35,50,RD,Patty Mills
+Q2,10:00,Australia,0,0,muda_bola,
+Q2,1:11,Australia,35,50,AS,Patty Mills
+Q2,1:11,Australia,35,50,2_Pts_C,Aron Baynes
+Q2,1:23,Canada,35,48,ER,Andrew Nembhard
+Q2,1:23,Australia,35,48,BR,Joe Ingles
+Q2,1:37,Australia,35,48,2_Pts_C,Joe Ingles
+Q2,1:54,Canada,35,45,FC_A,Andrew Nembhard
+Q2,1:54,Canada,35,45,ER,Owen Klassen
+Q2,1:54,Australia,35,46,LL_Pts_T,Joe Ingles
+Q2,1:54,Australia,35,46,LL_Pts_C,Joe Ingles
+Q2,1:54,Australia,35,45,FR,Joe Ingles
+Q2,1:54,Australia,35,45,BR,Joe Ingles
+Q2,2:07,Canada,35,45,RD,Melvin Ejim
+Q2,2:07,Australia,35,45,,Aron Baynes3pt jump shot missed
+Q2,2:22,Canada,35,45,substituicao_entra,Thomas Scrubb
+Q2,2:22,Canada,35,45,substituicao_sai,Kyle Wiltjer
+Q2,2:22,Canada,35,45,substituicao_entra,Owen Klassen
+Q2,2:22,Canada,35,45,substituicao_sai,Khem Birch
+Q2,2:22,Canada,35,45,ER,Khem Birch
+Q2,2:22,Australia,35,45,substituicao_entra,Aron Baynes
+Q2,2:22,Australia,35,45,substituicao_sai,Mitch Creek
+Q2,2:22,Australia,35,45,substituicao_entra,Chris Goulding
+Q2,2:22,Australia,35,45,substituicao_sai,Andrew Bogut
+Q2,2:24,Canada,35,45,RO,Khem Birch
+Q2,2:24,Canada,35,45,3_Pts_T,Melvin Ejim
+Q2,2:35,Australia,35,45,2_Pts_C,Joe Ingles
+Q2,2:46,Canada,35,43,,Kevin Pangos3pt jump shot missed
+Q2,2:46,Australia,35,43,RD,Mitch Creek
+Q2,2:56,Canada,35,43,RD,Kevin Pangos
+Q2,2:56,Australia,35,43,,Patty Mills3pt jump shot missed
+Q2,3:02,Australia,35,43,RO,Nic Kay
+Q2,3:02,Australia,35,43,,Patty Mills3pt jump shot missed
+Q2,3:17,Canada,35,43,2_Pts_C,Kevin Pangos
+Q2,3:31,Australia,33,43,ER,Joe Ingles
+Q2,3:43,Canada,33,43,,Kevin Pangos3pt jump shot missed
+Q2,3:43,Australia,33,43,RD,Andrew Bogut
+Q2,3:54,Canada,33,43,FR,Kevin Pangos
+Q2,3:54,Australia,33,43,FC,Nic Kay
+Q2,4:06,Canada,33,43,substituicao_entra,Khem Birch
+Q2,4:06,Canada,33,43,substituicao_sai,Phil Scrubb
+Q2,4:06,Canada,33,43,substituicao_entra,Andrew Nembhard
+Q2,4:06,Canada,33,43,substituicao_sai,Owen Klassen
+Q2,4:06,Canada,33,43,substituicao_entra,Melvin Ejim
+Q2,4:06,Canada,33,43,substituicao_sai,Brady Heslip
+Q2,4:06,Canada,33,43,tempo_tecnico,
+Q2,4:06,Australia,33,43,substituicao_entra,Nic Kay
+Q2,4:06,Australia,33,43,substituicao_sai,Jock  Landale
+Q2,4:06,Australia,33,43,AS,Patty Mills
+Q2,4:06,Australia,33,43,,Andrew Bogutalley oop made
+Q2,4:13,Canada,33,41,AS,Owen Klassen
+Q2,4:13,Canada,33,41,,Kevin Pangos3pt jump shot made
+Q2,4:23,Australia,30,41,,Jock  Landaledunk made
+Q2,4:37,Australia,30,39,RO,Jock  Landale
+Q2,4:37,Australia,30,39,,Joe Ingles3pt jump shot missed
+Q2,4:47,Canada,30,39,,Owen Klassen3pt jump shot missed
+Q2,4:47,Australia,30,39,RD,Mitch Creek
+Q2,4:59,Canada,30,39,RD,Phil Scrubb
+Q2,4:59,Australia,30,39,,Joe Ingles3pt jump shot missed
+Q2,5:14,Canada,30,39,3_Pts_T,Kyle Wiltjer
+Q2,5:14,Australia,30,39,RD,Andrew Bogut
+Q2,5:26,Canada,30,39,RD,Kyle Wiltjer
+Q2,5:26,Australia,30,39,3_Pts_T,Jock  Landale
+Q2,5:39,Canada,30,39,AS,Kevin Pangos
+Q2,5:39,Canada,30,39,,Owen Klassendunk made
+Q2,6:05,Australia,28,39,AS,Joe Ingles
+Q2,6:05,Australia,28,39,,Andrew Bogutdunk made
+Q2,6:20,Canada,28,37,FC,Phil Scrubb
+Q2,6:20,Australia,28,37,FR,Mitch Creek
+Q2,6:24,Canada,28,37,,Kevin Pangos3pt jump shot missed
+Q2,6:24,Australia,28,37,RD,Jock  Landale
+Q2,6:34,Australia,28,37,ER,Joe Ingles
+Q2,6:55,Canada,28,37,LL_Pts_C,Owen Klassen
+Q2,6:55,Canada,27,37,LL_Pts_C,Owen Klassen
+Q2,6:55,Canada,26,37,substituicao_entra,Kyle Wiltjer
+Q2,6:55,Canada,26,37,substituicao_sai,Melvin Ejim
+Q2,6:55,Canada,26,37,FR,Owen Klassen
+Q2,6:55,Canada,26,37,RO,Owen Klassen
+Q2,6:55,Canada,26,37,2_Pts_T,Kevin Pangos
+Q2,6:55,Australia,26,37,substituicao_entra,Joe Ingles
+Q2,6:55,Australia,26,37,substituicao_sai,Aron Baynes
+Q2,6:55,Australia,26,37,substituicao_entra,Andrew Bogut
+Q2,6:55,Australia,26,37,substituicao_sai,Chris Goulding
+Q2,6:55,Australia,26,37,FC,Jock  Landale
+Q2,7:12,Australia,26,37,AS,Jock  Landale
+Q2,7:12,Australia,26,37,2_Pts_C,Patty Mills
+Q2,7:24,Canada,26,35,2_Pts_T,Phil Scrubb
+Q2,7:24,Australia,26,35,RD,Jock  Landale
+Q2,7:33,Canada,26,35,BR,Melvin Ejim
+Q2,7:33,Australia,26,35,ER,Patty Mills
+Q2,7:45,Canada,26,35,substituicao_entra,Kevin Pangos
+Q2,7:45,Canada,26,35,substituicao_sai,Cory Joseph
+Q2,7:45,Canada,26,35,FR,Cory Joseph
+Q2,7:45,Canada,26,35,FC,Cory Joseph
+Q2,7:45,Australia,26,35,FC,Mitch Creek
+Q2,7:45,Australia,26,35,FR,Mitch Creek
+Q2,7:49,Canada,26,35,2_Pts_T,Cory Joseph
+Q2,7:49,Australia,26,35,RD,Jock  Landale
+Q2,8:01,Canada,26,35,substituicao_entra,Owen Klassen
+Q2,8:01,Canada,26,35,substituicao_sai,Khem Birch
+Q2,8:01,Canada,26,35,FR,Phil Scrubb
+Q2,8:01,Australia,26,35,substituicao_entra,Mitch Creek
+Q2,8:01,Australia,26,35,substituicao_sai,Matthew Dellavedova
+Q2,8:01,Australia,26,35,FC,Matthew Dellavedova
+Q2,8:02,Canada,26,35,RD,
+Q2,8:02,Canada,26,35,TO,Khem Birch
+Q2,8:02,Australia,26,35,,Chris Goulding3pt jump shot blocked
+Q2,8:15,Canada,26,34,FC_T,Coach: 
+Q2,8:15,Canada,26,34,FC_O,Khem Birch
+Q2,8:15,Australia,26,35,LL_Pts_C,Patty Mills
+Q2,8:15,Australia,26,34,substituicao_entra,Patty Mills
+Q2,8:15,Australia,26,34,substituicao_sai,Joe Ingles
+Q2,8:15,Australia,26,34,FR,Joe Ingles
+Q2,8:27,Australia,26,34,AS,Jock  Landale
+Q2,8:27,Australia,26,34,,Matthew Dellavedova3pt jump shot made
+Q2,8:46,Canada,26,31,2_Pts_C,Cory Joseph
+Q2,9:07,Australia,24,31,,Aron Baynestip in made
+Q2,9:07,Australia,24,29,RO,Aron Baynes
+Q2,9:07,Australia,24,29,2_Pts_T,Jock  Landale
+Q2,9:21,Canada,24,29,2_Pts_C,Cory Joseph
+Q2,9:21,Australia,24,29,tempo_tecnico,
+Q2,9:25,Canada,22,29,BR,Cory Joseph
+Q2,9:25,Australia,22,29,ER,Jock  Landale
+Q2,9:38,Canada,22,29,2_Pts_C,Cory Joseph
+Q2,9:45,Canada,0,0,RO,Cory Joseph
+Q2,9:45,Canada,0,0,2_Pts_T,Brady Heslip
+Q2,9:51,Australia,0,0,ER backcourt violation,Matthew Dellavedova
+Q3,0:00,Australia,77,76,RO,Matthew Dellavedova
+Q3,0:00,Australia,77,76,,Jock  Landale3pt jump shot missed
+Q3,0:11,Canada,77,76,AS,Kevin Pangos
+Q3,0:11,Canada,77,76,,Thomas Scrubb3pt jump shot made
+Q3,0:37,Australia,74,76,AS,Joe Ingles
+Q3,0:37,Australia,74,76,,Matthew Dellavedova3pt jump shot made
+Q3,0:49,Canada,74,73,substituicao_entra,Kevin Pangos
+Q3,0:49,Canada,74,73,substituicao_sai,Cory Joseph
+Q3,0:49,Canada,74,73,LL_Pts_C,Cory Joseph
+Q3,0:49,Canada,73,73,LL_Pts_C,Cory Joseph
+Q3,0:49,Canada,72,73,FR,Cory Joseph
+Q3,0:49,Australia,72,73,substituicao_entra,Jock  Landale
+Q3,0:49,Australia,72,73,substituicao_sai,Nic Kay
+Q3,0:49,Australia,72,73,FC,Chris Goulding
+Q3,0:50,Canada,72,73,RD,Cory Joseph
+Q3,0:50,Australia,72,73,2_Pts_T,Nic Kay
+Q3,10:00,Canada,0,0,muda_bola,
+Q3,1:14,Canada,72,73,AS,Cory Joseph
+Q3,1:14,Canada,72,73,,Phil Scrubb2pt jump shot made
+Q3,1:27,Canada,70,73,substituicao_entra,Kyle Wiltjer
+Q3,1:27,Canada,70,73,substituicao_sai,Melvin Ejim
+Q3,1:27,Canada,70,73,FR,Thomas Scrubb
+Q3,1:27,Australia,70,73,FC,Aron Baynes
+Q3,1:30,Canada,70,73,RD,Owen Klassen
+Q3,1:30,Canada,70,73,substituicao_entra,Cory Joseph
+Q3,1:30,Canada,70,73,substituicao_sai,Kaza Kajami-Keane
+Q3,1:30,Canada,70,73,FC,Thomas Scrubb
+Q3,1:30,Australia,70,73,LL_Pts_T,Matthew Dellavedova
+Q3,1:30,Australia,70,73,FR,Matthew Dellavedova
+Q3,1:30,Australia,70,73,2_Pts_C,Matthew Dellavedova
+Q3,1:32,Canada,70,71,ER,Kaza Kajami-Keane
+Q3,1:32,Australia,70,71,BR,Matthew Dellavedova
+Q3,1:41,Canada,70,69,FC,Phil Scrubb
+Q3,1:41,Australia,70,71,substituicao_entra,Matthew Dellavedova
+Q3,1:41,Australia,70,71,substituicao_sai,Patty Mills
+Q3,1:41,Australia,70,71,LL_Pts_C,Chris Goulding
+Q3,1:41,Australia,70,70,LL_Pts_C,Chris Goulding
+Q3,1:41,Australia,70,69,FR,Chris Goulding
+Q3,1:53,Canada,70,69,,Phil Scrubb3pt jump shot made
+Q3,2:14,Canada,67,69,substituicao_entra,Thomas Scrubb
+Q3,2:14,Canada,67,69,substituicao_sai,Kyle Wiltjer
+Q3,2:14,Canada,67,66,substituicao_entra,Phil Scrubb
+Q3,2:14,Canada,67,66,substituicao_sai,Khem Birch
+Q3,2:14,Canada,67,66,substituicao_entra,Owen Klassen
+Q3,2:14,Canada,67,66,substituicao_sai,Cory Joseph
+Q3,2:14,Canada,67,66,FC,Kaza Kajami-Keane
+Q3,2:14,Australia,67,69,LL_Pts_C,Patty Mills
+Q3,2:14,Australia,67,68,LL_Pts_C,Patty Mills
+Q3,2:14,Australia,67,67,LL_Pts_C,Patty Mills
+Q3,2:14,Australia,67,66,FR,Patty Mills
+Q3,2:22,Canada,67,66,,Khem Birch2pt jump shot missed
+Q3,2:22,Australia,67,66,RD,Aron Baynes
+Q3,2:40,Australia,67,66,AS,Patty Mills
+Q3,2:40,Australia,67,66,,Chris Goulding3pt jump shot made
+Q3,2:51,Canada,67,63,substituicao_entra,Kaza Kajami-Keane
+Q3,2:51,Canada,67,63,substituicao_sai,Kevin Pangos
+Q3,2:51,Australia,67,63,substituicao_entra,Aron Baynes
+Q3,2:51,Australia,67,63,substituicao_sai,Andrew Bogut
+Q3,2:56,Canada,67,63,AS,Kyle Wiltjer
+Q3,2:56,Canada,67,63,,Khem Birchdunk made
+Q3,3:03,Canada,65,63,RD,Kevin Pangos
+Q3,3:03,Australia,65,63,,Joe Ingles3pt jump shot missed
+Q3,3:11,Canada,65,63,,Phil Scrubb2pt jump shot missed
+Q3,3:11,Australia,65,63,RD,Andrew Bogut
+Q3,3:29,Canada,65,63,FR,Kevin Pangos
+Q3,3:29,Canada,65,63,RO,
+Q3,3:29,Canada,65,63,,Khem Birch3pt jump shot missed
+Q3,3:29,Australia,65,63,substituicao_entra,Joe Ingles
+Q3,3:29,Australia,65,63,substituicao_sai,Matthew Dellavedova
+Q3,3:29,Australia,65,63,FC,Chris Goulding
+Q3,3:34,Australia,65,63,,Andrew Boguttip in made
+Q3,3:42,Australia,65,61,RO,Andrew Bogut
+Q3,3:42,Australia,65,61,2_Pts_T,Nic Kay
+Q3,3:59,Canada,65,61,,Melvin Ejim3pt jump shot missed
+Q3,3:59,Australia,65,61,RD,Andrew Bogut
+Q3,4:20,Australia,65,61,,Chris Goulding2pt jump shot made
+Q3,4:38,Australia,65,59,substituicao_entra,Nic Kay
+Q3,4:38,Australia,65,59,substituicao_sai,Jock  Landale
+Q3,4:38,Australia,65,59,tempo_tecnico,
+Q3,4:40,Canada,65,59,2_Pts_C,Kevin Pangos
+Q3,4:56,Canada,63,59,RD,Melvin Ejim
+Q3,4:56,Australia,63,59,,Jock  Landale3pt jump shot missed
+Q3,5:11,Canada,63,59,LL_Pts_C,Kyle Wiltjer
+Q3,5:11,Canada,62,59,LL_Pts_T,Kyle Wiltjer
+Q3,5:11,Canada,62,59,FR,Kyle Wiltjer
+Q3,5:11,Australia,62,59,substituicao_entra,Chris Goulding
+Q3,5:11,Australia,62,59,substituicao_sai,Joe Ingles
+Q3,5:11,Australia,62,59,FC,Jock  Landale
+Q3,5:29,Australia,62,59,2_Pts_C,Matthew Dellavedova
+Q3,5:33,Canada,62,57,2_Pts_C,Khem Birch
+Q3,5:44,Canada,60,57,RO,Khem Birch
+Q3,5:44,Canada,60,57,2_Pts_T,Kevin Pangos
+Q3,5:54,Canada,60,57,RD,Melvin Ejim
+Q3,5:54,Australia,60,57,,Matthew Dellavedova3pt jump shot missed
+Q3,5:56,Canada,60,57,FC,Melvin Ejim
+Q3,5:56,Australia,60,57,FR,Patty Mills
+Q3,5:59,Canada,60,57,ER,Melvin Ejim
+Q3,5:59,Canada,60,57,RD,Melvin Ejim
+Q3,5:59,Australia,60,57,BR,Patty Mills
+Q3,5:59,Australia,60,57,2_Pts_T,Patty Mills
+Q3,6:12,Canada,60,57,AS,Kevin Pangos
+Q3,6:12,Canada,60,57,2_Pts_C,Melvin Ejim
+Q3,6:29,Australia,58,57,AS,Matthew Dellavedova
+Q3,6:29,Australia,58,57,2_Pts_C,Andrew Bogut
+Q3,6:51,Canada,58,55,AS,Cory Joseph
+Q3,6:51,Canada,58,55,,Kevin Pangos3pt jump shot made
+Q3,6:58,Canada,55,55,LL_Pts_C,Cory Joseph
+Q3,6:58,Canada,54,55,LL_Pts_C,Cory Joseph
+Q3,6:58,Canada,53,55,FR,Cory Joseph
+Q3,6:58,Canada,53,55,BR,Khem Birch
+Q3,6:58,Australia,53,55,substituicao_entra,Andrew Bogut
+Q3,6:58,Australia,53,55,substituicao_sai,Aron Baynes
+Q3,6:58,Australia,53,55,FC_A,Jock  Landale
+Q3,6:58,Australia,53,55,ER,Matthew Dellavedova
+Q3,7:14,Canada,53,55,AS,Kevin Pangos
+Q3,7:14,Canada,53,55,,Khem Birchdunk made
+Q3,7:27,Australia,51,55,AS,Jock  Landale
+Q3,7:27,Australia,51,55,,Matthew Dellavedova3pt jump shot made
+Q3,7:38,Canada,51,52,AS,Cory Joseph
+Q3,7:38,Canada,51,52,2_Pts_C,Khem Birch
+Q3,7:47,Canada,49,52,RD,Melvin Ejim
+Q3,7:47,Australia,49,52,2_Pts_T,Aron Baynes
+Q3,8:07,Australia,49,52,tempo_tecnico,
+Q3,8:08,Canada,49,52,AS,Melvin Ejim
+Q3,8:08,Canada,49,52,,Kyle Wiltjer3pt jump shot made
+Q3,8:22,Australia,46,52,ER,Matthew Dellavedova
+Q3,8:33,Canada,46,52,,Kyle Wiltjer3pt jump shot missed
+Q3,8:33,Australia,46,52,RD,Joe Ingles
+Q3,8:43,Canada,46,52,RD,Kyle Wiltjer
+Q3,8:43,Australia,46,52,,Matthew Dellavedova3pt jump shot missed
+Q3,8:55,Canada,46,52,FC,Melvin Ejim
+Q3,8:55,Australia,46,52,FR,Joe Ingles
+Q3,9:00,Canada,46,52,2_Pts_C,Kevin Pangos
+Q3,9:06,Canada,44,52,BR,Kevin Pangos
+Q3,9:06,Australia,44,52,ER,Patty Mills
+Q3,9:15,Canada,44,52,2_Pts_C,Cory Joseph
+Q3,9:24,Canada,42,52,BR,Cory Joseph
+Q3,9:24,Australia,42,52,ER,Matthew Dellavedova
+Q3,9:44,Canada,42,52,AS,Cory Joseph
+Q3,9:44,Canada,42,52,2_Pts_C,Khem Birch
+Q4,0:00,Canada,92,108,,Brady Heslip3pt jump shot made
+Q4,0:07,Australia,89,108,substituicao_entra,David  Barlow
+Q4,0:07,Australia,89,108,substituicao_sai,Matthew Dellavedova
+Q4,0:08,Canada,89,106,FC,Thomas Scrubb
+Q4,0:08,Australia,89,108,LL_Pts_C,Nic Kay
+Q4,0:08,Australia,89,107,LL_Pts_C,Nic Kay
+Q4,0:08,Australia,89,106,FR,Nic Kay
+Q4,0:28,Canada,89,106,AS,Thomas Scrubb
+Q4,0:28,Canada,89,106,,Brady Heslip2pt jump shot made
+Q4,0:34,Canada,87,106,RD,
+Q4,0:35,Australia,87,106,2_Pts_T,Nic Kay
+Q4,0:55,Canada,87,106,LL_Pts_C,Thomas Scrubb
+Q4,0:55,Canada,86,106,LL_Pts_C,Thomas Scrubb
+Q4,0:55,Canada,85,106,FR,Thomas Scrubb
+Q4,0:55,Australia,85,106,substituicao_entra,Nathan Sobey
+Q4,0:55,Australia,85,106,substituicao_sai,Patty Mills
+Q4,0:55,Australia,85,106,FC,Patty Mills
+Q4,10:00,Australia,0,0,muda_bola,
+Q4,1:04,Australia,85,106,2_Pts_C,Mitch Creek
+Q4,1:06,Canada,85,104,substituicao_entra,Andrew Nembhard
+Q4,1:06,Canada,85,104,substituicao_sai,Cory Joseph
+Q4,1:06,Canada,85,104,substituicao_entra,Brady Heslip
+Q4,1:06,Canada,85,104,substituicao_sai,Kevin Pangos
+Q4,1:06,Canada,85,104,FC,Melvin Ejim
+Q4,1:06,Australia,85,104,RO,Mitch Creek
+Q4,1:06,Australia,85,104,LL_Pts_T,Mitch Creek
+Q4,1:06,Australia,85,104,LL_Pts_T,Mitch Creek
+Q4,1:06,Australia,85,104,FR,Mitch Creek
+Q4,1:08,Canada,85,104,LL_Pts_C,Melvin Ejim
+Q4,1:08,Canada,84,104,LL_Pts_C,Melvin Ejim
+Q4,1:08,Canada,83,104,FR,Melvin Ejim
+Q4,1:08,Australia,83,104,substituicao_entra,Cam Gliddon
+Q4,1:08,Australia,83,104,substituicao_sai,Chris Goulding
+Q4,1:08,Australia,83,104,FC,Chris Goulding
+Q4,1:16,Canada,83,104,substituicao_entra,Thomas Scrubb
+Q4,1:16,Canada,83,104,substituicao_sai,Kyle Wiltjer
+Q4,1:16,Canada,83,104,substituicao_entra,Owen Klassen
+Q4,1:16,Canada,83,104,substituicao_sai,Khem Birch
+Q4,1:16,Canada,83,104,substituicao_entra,Melvin Ejim
+Q4,1:16,Canada,83,104,substituicao_sai,Phil Scrubb
+Q4,1:16,Australia,83,104,substituicao_entra,Mitch Creek
+Q4,1:16,Australia,83,104,substituicao_sai,Joe Ingles
+Q4,1:16,Australia,83,104,substituicao_entra,Chris Goulding
+Q4,1:16,Australia,83,104,substituicao_sai,Andrew Bogut
+Q4,1:16,Australia,83,104,2_Pts_C,Patty Mills
+Q4,1:37,Canada,83,102,2_Pts_T,Phil Scrubb
+Q4,1:37,Australia,83,102,RD,Nic Kay
+Q4,1:37,Australia,83,102,TO,Andrew Bogut
+Q4,1:45,Canada,83,102,RD,Khem Birch
+Q4,1:45,Australia,83,102,2_Pts_T,Joe Ingles
+Q4,2:06,Canada,83,102,,Phil Scrubb3pt jump shot missed
+Q4,2:06,Australia,83,102,RD,Andrew Bogut
+Q4,2:24,Australia,83,102,AS,Joe Ingles
+Q4,2:24,Australia,83,102,,Matthew Dellavedova3pt jump shot made
+Q4,2:40,Canada,83,99,2_Pts_T,Kevin Pangos
+Q4,2:40,Australia,83,99,RD,Nic Kay
+Q4,2:56,Canada,83,99,tempo_tecnico,
+Q4,2:58,Australia,83,99,,Joe Ingles3pt jump shot made
+Q4,3:19,Canada,83,96,3_Pts_T,Khem Birch
+Q4,3:19,Australia,83,96,RD,Andrew Bogut
+Q4,3:34,Australia,83,96,AS,Patty Mills
+Q4,3:34,Australia,83,96,,Nic Kay2pt jump shot made
+Q4,3:46,Canada,83,94,substituicao_entra,Kyle Wiltjer
+Q4,3:46,Canada,83,94,substituicao_sai,Melvin Ejim
+Q4,3:46,Canada,83,94,FC,Cory Joseph
+Q4,3:46,Australia,83,94,FR,Matthew Dellavedova
+Q4,3:55,Canada,83,94,2_Pts_T,Cory Joseph
+Q4,3:55,Australia,83,94,RD,Matthew Dellavedova
+Q4,4:11,Canada,83,94,RD,Phil Scrubb
+Q4,4:11,Australia,83,94,,Patty Mills3pt jump shot missed
+Q4,4:18,Canada,83,94,ER,Khem Birch
+Q4,4:18,Australia,83,94,BR,Andrew Bogut
+Q4,4:32,Australia,83,94,AS,Joe Ingles
+Q4,4:32,Australia,83,94,2_Pts_C,Nic Kay
+Q4,4:36,Canada,83,92,ER,Kevin Pangos
+Q4,4:36,Australia,83,92,BR,Joe Ingles
+Q4,4:56,Canada,83,92,RD,Cory Joseph
+Q4,4:56,Australia,83,92,,Joe Ingles3pt jump shot missed
+Q4,5:14,Canada,83,92,LL_Pts_C,Khem Birch
+Q4,5:14,Canada,82,92,AS,Kevin Pangos
+Q4,5:14,Canada,82,92,LL_Pts_C,Khem Birch
+Q4,5:14,Canada,81,92,FR,Khem Birch
+Q4,5:14,Australia,81,92,FC,Andrew Bogut
+Q4,5:27,Canada,81,92,RD,Khem Birch
+Q4,5:27,Australia,81,92,,Matthew Dellavedova3pt jump shot missed
+Q4,5:53,Canada,81,92,,Khem Birch2pt jump shot made
+Q4,5:54,Canada,79,92,RO,Khem Birch
+Q4,5:54,Canada,79,92,,Melvin Ejim3pt jump shot missed
+Q4,6:01,Canada,79,92,RO,
+Q4,6:01,Canada,79,92,2_Pts_T,Phil Scrubb
+Q4,6:01,Australia,79,92,TO,Joe Ingles
+Q4,6:09,Canada,79,92,FR,Phil Scrubb
+Q4,6:09,Australia,79,92,FC,Joe Ingles
+Q4,6:23,Canada,79,92,substituicao_entra,Melvin Ejim
+Q4,6:23,Canada,79,92,substituicao_sai,Kyle Wiltjer
+Q4,6:23,Canada,79,92,tempo_tecnico,
+Q4,6:23,Australia,79,92,substituicao_entra,Nic Kay
+Q4,6:23,Australia,79,92,substituicao_sai,Jock  Landale
+Q4,6:24,Australia,79,92,AS,Joe Ingles
+Q4,6:24,Australia,79,92,2_Pts_C,Andrew Bogut
+Q4,6:32,Canada,79,90,,Khem Birchlayup missed
+Q4,6:32,Australia,79,90,RD,Joe Ingles
+Q4,6:47,Australia,79,90,AS,Patty Mills
+Q4,6:47,Australia,79,90,,Matthew Dellavedova3pt jump shot made
+Q4,7:00,Canada,79,87,ER,Phil Scrubb
+Q4,7:00,Australia,79,87,substituicao_entra,Matthew Dellavedova
+Q4,7:00,Australia,79,87,substituicao_sai,Chris Goulding
+Q4,7:03,Canada,79,87,FR,Kyle Wiltjer
+Q4,7:03,Australia,79,87,FC,Andrew Bogut
+Q4,7:05,Canada,79,87,RO,Kyle Wiltjer
+Q4,7:05,Canada,79,87,,Kevin Pangos3pt jump shot missed
+Q4,7:14,Canada,79,87,FR,Cory Joseph
+Q4,7:14,Australia,79,87,substituicao_entra,Chris Goulding
+Q4,7:14,Australia,79,87,substituicao_sai,Matthew Dellavedova
+Q4,7:14,Australia,79,87,FC,Matthew Dellavedova
+Q4,7:30,Australia,79,87,AS,Joe Ingles
+Q4,7:30,Australia,79,87,,Matthew Dellavedova3pt jump shot made
+Q4,7:41,Canada,79,84,2_Pts_C,Cory Joseph
+Q4,7:56,Canada,77,84,substituicao_entra,Kyle Wiltjer
+Q4,7:56,Canada,77,84,substituicao_sai,Thomas Scrubb
+Q4,7:56,Canada,77,84,substituicao_entra,Khem Birch
+Q4,7:56,Canada,77,84,substituicao_sai,Owen Klassen
+Q4,7:56,Canada,77,84,tempo_tecnico,
+Q4,7:56,Australia,77,84,substituicao_entra,Andrew Bogut
+Q4,7:56,Australia,77,84,substituicao_sai,Aron Baynes
+Q4,7:57,Australia,77,84,AS,Joe Ingles
+Q4,7:57,Australia,77,84,,Aron Baynesalley oop made
+Q4,8:17,Canada,77,82,3_Pts_T,Owen Klassen
+Q4,8:17,Australia,77,82,RD,Joe Ingles
+Q4,8:24,Canada,77,80,FC,Kevin Pangos
+Q4,8:24,Australia,77,82,LL_Pts_C,Patty Mills
+Q4,8:24,Australia,77,81,AS,Matthew Dellavedova
+Q4,8:24,Australia,77,81,LL_Pts_C,Patty Mills
+Q4,8:24,Australia,77,80,FR,Patty Mills
+Q4,8:28,Canada,77,80,,Cory Josephlayup missed
+Q4,8:28,Australia,77,80,RD,Matthew Dellavedova
+Q4,8:35,Canada,77,80,RD,Owen Klassen
+Q4,8:35,Australia,77,80,,Aron Baynes2pt jump shot missed
+Q4,8:44,Canada,77,80,FC,Kevin Pangos
+Q4,8:44,Australia,77,80,substituicao_entra,Patty Mills
+Q4,8:44,Australia,77,80,substituicao_sai,Chris Goulding
+Q4,8:44,Australia,77,80,FR,Matthew Dellavedova
+Q4,9:01,Canada,77,80,2_Pts_T,Kevin Pangos
+Q4,9:01,Australia,77,80,RD,Aron Baynes
+Q4,9:13,Canada,77,80,FR,Kevin Pangos
+Q4,9:13,Australia,77,80,FC,Chris Goulding
+Q4,9:22,Australia,77,80,AS,Matthew Dellavedova
+Q4,9:22,Australia,77,80,2_Pts_C,Chris Goulding
+Q4,9:39,Canada,77,78,2_Pts_T,Phil Scrubb
+Q4,9:39,Australia,77,78,RD,Jock  Landale
+Q4,9:51,Australia,77,78,AS,Matthew Dellavedova
+Q4,9:51,Australia,77,78,2_Pts_C,Aron Baynes

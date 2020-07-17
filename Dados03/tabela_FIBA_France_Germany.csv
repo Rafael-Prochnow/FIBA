@@ -1,0 +1,515 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:05,France,16,4,FR,Nando De Colo
+Q1,0:05,Germany,16,4,FC,Johannes Voigtmann
+Q1,0:15,France,16,3,FC,Frank Ntilikina
+Q1,0:15,Germany,16,4,LL_Pts_C,Johannes Voigtmann
+Q1,0:15,Germany,16,3,LL_Pts_T,Johannes Voigtmann
+Q1,0:15,Germany,16,3,FR,Johannes Voigtmann
+Q1,0:26,Germany,16,3,RO,Niels Giffey
+Q1,0:26,Germany,16,3,2_Pts_T,Niels Giffey
+Q1,0:50,France,16,3,2_Pts_C,Vincent  Poirier
+Q1,0:55,France,14,3,RO,Vincent  Poirier
+Q1,0:55,France,14,3,2_Pts_T,Amath M'Baye
+Q1,10:00,France,0,0,inicio_quarto,Rudy Gobert
+Q1,1:16,France,14,3,RD,
+Q1,1:17,France,14,3,TO,Nicolas Batum
+Q1,1:17,Germany,14,3,2_Pts_T,Maodo Lo
+Q1,1:40,France,14,3,substituicao_entra,Vincent  Poirier
+Q1,1:40,France,14,3,substituicao_sai,Rudy Gobert
+Q1,1:40,France,14,3,FC,Rudy Gobert
+Q1,1:40,France,14,3,ER,Nando De Colo
+Q1,1:40,Germany,14,3,FR,Robin Benzing
+Q1,1:40,Germany,14,3,BR,Danilo Barthel
+Q1,1:50,Germany,14,3,substituicao_entra,Niels Giffey
+Q1,1:50,Germany,14,3,substituicao_sai,Dennis Schroder
+Q1,2:00,France,14,3,RD,Rudy Gobert
+Q1,2:00,Germany,14,3,2_Pts_T,Dennis Schroder
+Q1,2:19,France,14,3,substituicao_entra,Nando De Colo
+Q1,2:19,France,14,3,substituicao_sai,Evan Fournier
+Q1,2:19,France,14,3,ER,Evan Fournier
+Q1,2:39,Germany,14,3,AS,Dennis Schroder
+Q1,2:39,Germany,14,3,,Maodo Lo3pt jump shot made
+Q1,2:50,France,14,0,3_Pts_T,Nicolas Batum
+Q1,2:50,Germany,14,0,RD,Danilo Barthel
+Q1,3:05,France,14,0,RD,Rudy Gobert
+Q1,3:05,Germany,14,0,,Robin Benzing2pt jump shot missed
+Q1,3:16,France,14,0,FC,Evan Fournier
+Q1,3:16,Germany,14,0,FR,Dennis Schroder
+Q1,3:27,France,14,0,ER,Evan Fournier
+Q1,3:27,Germany,14,0,substituicao_entra,Robin Benzing
+Q1,3:27,Germany,14,0,substituicao_sai,Paul Zipser
+Q1,3:33,France,14,0,RD,Evan Fournier
+Q1,3:33,Germany,14,0,2_Pts_T,Dennis Schroder
+Q1,4:03,France,14,0,AS,Amath M'Baye
+Q1,4:03,France,14,0,,Frank Ntilikina3pt jump shot made
+Q1,4:24,France,11,0,substituicao_entra,Frank Ntilikina
+Q1,4:24,France,11,0,substituicao_sai,Andrew Albicy
+Q1,4:24,France,11,0,FR,Evan Fournier
+Q1,4:24,Germany,11,0,substituicao_entra,Danilo Barthel
+Q1,4:24,Germany,11,0,substituicao_sai,Maximilian Kleber
+Q1,4:24,Germany,11,0,substituicao_entra,Johannes Voigtmann
+Q1,4:24,Germany,11,0,substituicao_sai,Daniel Theis
+Q1,4:24,Germany,11,0,substituicao_entra,Maodo Lo
+Q1,4:24,Germany,11,0,substituicao_sai,Ismet Akpinar
+Q1,4:24,Germany,11,0,FC_O,Daniel Theis
+Q1,4:42,France,11,0,AS,Rudy Gobert
+Q1,4:42,France,11,0,2_Pts_C,Amath M'Baye
+Q1,5:00,France,9,0,RD,Rudy Gobert
+Q1,5:00,France,9,0,TO,Amath M'Baye
+Q1,5:00,Germany,9,0,2_Pts_T,Maximilian Kleber
+Q1,5:05,France,9,0,ER,Andrew Albicy
+Q1,5:05,Germany,9,0,BR,Daniel Theis
+Q1,5:20,France,9,0,RD,Rudy Gobert
+Q1,5:20,Germany,9,0,3_Pts_T,Maximilian Kleber
+Q1,5:36,France,9,0,AS,Andrew Albicy
+Q1,5:36,France,9,0,,Amath M'Bayedunk made
+Q1,5:36,Germany,9,0,tempo_tecnico,
+Q1,5:39,France,7,0,BR,Andrew Albicy
+Q1,5:39,Germany,7,0,ER,Dennis Schroder
+Q1,5:50,France,7,0,2_Pts_T,Evan Fournier
+Q1,5:50,Germany,7,0,RD,Paul Zipser
+Q1,5:59,France,7,0,RD,Andrew Albicy
+Q1,5:59,Germany,7,0,,Daniel Theis2pt jump shot missed
+Q1,6:07,France,7,0,FC,Amath M'Baye
+Q1,6:07,Germany,7,0,FR,Maximilian Kleber
+Q1,6:10,France,7,0,ER,Andrew Albicy
+Q1,6:10,Germany,7,0,BR,Maximilian Kleber
+Q1,6:25,France,7,0,RD,Rudy Gobert
+Q1,6:25,Germany,7,0,,Daniel Theis2pt jump shot missed
+Q1,6:38,France,7,0,,Evan Fournier3pt jump shot missed
+Q1,6:38,Germany,7,0,RD,
+Q1,7:01,France,7,0,RD,Evan Fournier
+Q1,7:01,Germany,7,0,,Paul Zipser2pt jump shot missed
+Q1,7:06,Germany,7,0,RO,Paul Zipser
+Q1,7:06,Germany,7,0,2_Pts_T,Maximilian Kleber
+Q1,7:08,France,7,0,FC,Andrew Albicy
+Q1,7:08,Germany,7,0,FR,Dennis Schroder
+Q1,7:25,France,7,0,LL_Pts_T,Rudy Gobert
+Q1,7:25,France,7,0,AS,Nicolas Batum
+Q1,7:25,France,7,0,LL_Pts_C,Rudy Gobert
+Q1,7:25,France,6,0,FR,Rudy Gobert
+Q1,7:25,Germany,7,0,RD,Daniel Theis
+Q1,7:25,Germany,6,0,FC,Daniel Theis
+Q1,7:43,France,6,0,RD,Nicolas Batum
+Q1,7:43,Germany,6,0,2_Pts_T,Ismet Akpinar
+Q1,8:00,France,6,0,LL_Pts_T,Evan Fournier
+Q1,8:00,France,6,0,LL_Pts_C,Evan Fournier
+Q1,8:00,France,5,0,FR,Evan Fournier
+Q1,8:00,Germany,6,0,RD,Daniel Theis
+Q1,8:00,Germany,5,0,FC,Ismet Akpinar
+Q1,8:04,France,5,0,RD,Amath M'Baye
+Q1,8:04,France,5,0,TO,Rudy Gobert
+Q1,8:04,Germany,5,0,2_Pts_T,Paul Zipser
+Q1,8:19,France,5,0,,Rudy Gobert2pt jump shot missed
+Q1,8:19,Germany,5,0,RD,Daniel Theis
+Q1,8:32,France,5,0,RD,Evan Fournier
+Q1,8:32,Germany,5,0,2_Pts_T,Dennis Schroder
+Q1,8:51,France,5,0,AS,Evan Fournier
+Q1,8:51,France,5,0,,Amath M'Baye3pt jump shot made
+Q1,8:59,France,2,0,RD,Evan Fournier
+Q1,8:59,Germany,2,0,,Maximilian Kleber3pt jump shot missed
+Q1,9:13,France,2,0,,Rudy Gobert2pt turnaround jump shot blocked
+Q1,9:13,Germany,2,0,RD,Maximilian Kleber
+Q1,9:13,Germany,2,0,TO,Maximilian Kleber
+Q1,9:28,France,2,0,RD,Evan Fournier
+Q1,9:28,Germany,2,0,2_Pts_T,Dennis Schroder
+Q1,9:44,France,2,0,2_Pts_C,Evan Fournier
+Q2,0:01,France,36,20,2_Pts_T,Frank Ntilikina
+Q2,0:01,Germany,36,20,TO,Maximilian Kleber
+Q2,0:03,France,36,20,BR,Frank Ntilikina
+Q2,0:03,Germany,36,20,ER,Dennis Schroder
+Q2,0:13,France,36,20,substituicao_entra,Axel Toupane
+Q2,0:13,France,36,20,substituicao_sai,Evan Fournier
+Q2,0:13,France,36,20,LL_Pts_C,Evan Fournier
+Q2,0:13,France,35,20,FR,Evan Fournier
+Q2,0:13,France,35,20,2_Pts_C,Evan Fournier
+Q2,0:13,Germany,35,20,FC,Maodo Lo
+Q2,0:30,France,33,20,RD,Nicolas Batum
+Q2,0:30,France,33,20,TO,Rudy Gobert
+Q2,0:30,Germany,33,20,2_Pts_T,Dennis Schroder
+Q2,0:41,France,33,20,substituicao_entra,Louis Labeyrie
+Q2,0:41,France,33,20,substituicao_sai,Amath M'Baye
+Q2,0:41,France,33,20,substituicao_entra,Frank Ntilikina
+Q2,0:41,France,33,20,substituicao_sai,Andrew Albicy
+Q2,0:41,France,33,20,FC,Amath M'Baye
+Q2,0:41,Germany,33,20,FR,Dennis Schroder
+Q2,10:00,Germany,0,0,muda_bola,
+Q2,1:07,France,33,20,AS,Andrew Albicy
+Q2,1:07,France,33,20,2_Pts_C,Rudy Gobert
+Q2,1:23,France,31,20,RD,Nicolas Batum
+Q2,1:23,Germany,31,20,,Paul Zipser2pt jump shot missed
+Q2,1:44,France,31,20,3_Pts_C,Evan Fournier
+Q2,2:01,Germany,28,20,ER,Johannes Voigtmann
+Q2,2:15,France,28,20,LL_Pts_T,Rudy Gobert
+Q2,2:15,France,28,20,LL_Pts_C,Rudy Gobert
+Q2,2:15,France,27,20,FR,Rudy Gobert
+Q2,2:15,Germany,28,20,RD,Maodo Lo
+Q2,2:15,Germany,27,20,substituicao_entra,Johannes Voigtmann
+Q2,2:15,Germany,27,20,substituicao_sai,Daniel Theis
+Q2,2:15,Germany,27,20,FC,Daniel Theis
+Q2,2:28,Germany,27,20,ER ,
+Q2,2:35,France,27,20,TO,Nicolas Batum
+Q2,2:35,Germany,27,20,substituicao_entra,Maodo Lo
+Q2,2:35,Germany,27,20,substituicao_sai,Ismet Akpinar
+Q2,2:35,Germany,27,20,RO,
+Q2,2:35,Germany,27,20,2_Pts_T,Maximilian Kleber
+Q2,2:44,Germany,27,20,RO,Daniel Theis
+Q2,2:44,Germany,27,20,2_Pts_T,Dennis Schroder
+Q2,2:56,France,27,20,AS,Rudy Gobert
+Q2,2:56,France,27,20,LL_Pts_C,Amath M'Baye
+Q2,2:56,France,26,20,LL_Pts_T,Amath M'Baye
+Q2,2:56,France,26,20,FR,Amath M'Baye
+Q2,2:56,Germany,26,20,FC,Maximilian Kleber
+Q2,3:13,France,26,20,RD,Amath M'Baye
+Q2,3:13,Germany,26,20,3_Pts_T,Dennis Schroder
+Q2,3:24,France,26,20,,Amath M'Baye3pt jump shot missed
+Q2,3:24,Germany,26,20,RD,Daniel Theis
+Q2,3:36,Germany,26,20,substituicao_entra,Maximilian Kleber
+Q2,3:36,Germany,26,20,substituicao_sai,Danilo Barthel
+Q2,3:36,Germany,26,20,substituicao_entra,Daniel Theis
+Q2,3:36,Germany,26,20,substituicao_sai,Johannes Voigtmann
+Q2,3:36,Germany,26,20,ER,Johannes Voigtmann
+Q2,3:54,France,26,20,2_Pts_C,Amath M'Baye
+Q2,4:21,Germany,24,20,,Dennis Schroder3pt jump shot made
+Q2,4:32,France,24,17,AS,Nicolas Batum
+Q2,4:32,France,24,17,,Amath M'Baye3pt jump shot made
+Q2,4:53,France,21,17,RD,Evan Fournier
+Q2,4:53,Germany,21,17,,Johannes Voigtmann3pt jump shot missed
+Q2,5:05,France,21,17,substituicao_entra,Nicolas Batum
+Q2,5:05,France,21,17,substituicao_sai,Axel Toupane
+Q2,5:05,France,21,17,ER,Rudy Gobert
+Q2,5:20,Germany,21,17,AS,Dennis Schroder
+Q2,5:20,Germany,21,17,,Ismet Akpinarlayup made
+Q2,5:24,France,21,15,ER,Evan Fournier
+Q2,5:24,Germany,21,15,BR,Dennis Schroder
+Q2,5:38,France,21,13,substituicao_entra,Rudy Gobert
+Q2,5:38,France,21,13,substituicao_sai,Louis Labeyrie
+Q2,5:38,France,21,13,substituicao_entra,Amath M'Baye
+Q2,5:38,France,21,13,substituicao_sai,Vincent  Poirier
+Q2,5:38,France,21,13,FC,Louis Labeyrie
+Q2,5:38,Germany,21,15,LL_Pts_C,Dennis Schroder
+Q2,5:38,Germany,21,14,LL_Pts_C,Dennis Schroder
+Q2,5:38,Germany,21,13,substituicao_entra,Ismet Akpinar
+Q2,5:38,Germany,21,13,substituicao_sai,Robin Benzing
+Q2,5:38,Germany,21,13,FR,Dennis Schroder
+Q2,5:47,France,21,13,,Evan Fournierlayup missed
+Q2,5:47,Germany,21,13,RD,Danilo Barthel
+Q2,6:08,France,21,13,RD,Evan Fournier
+Q2,6:08,Germany,21,13,,Robin Benzing3pt jump shot missed
+Q2,6:14,France,21,13,ER,Evan Fournier
+Q2,6:14,Germany,21,13,BR,Dennis Schroder
+Q2,6:29,France,21,12,substituicao_entra,Andrew Albicy
+Q2,6:29,France,21,12,substituicao_sai,Nando De Colo
+Q2,6:29,France,21,12,substituicao_entra,Evan Fournier
+Q2,6:29,France,21,12,substituicao_sai,Frank Ntilikina
+Q2,6:29,France,21,12,FC,Axel Toupane
+Q2,6:29,Germany,21,13,substituicao_entra,Paul Zipser
+Q2,6:29,Germany,21,13,substituicao_sai,Maodo Lo
+Q2,6:29,Germany,21,13,LL_Pts_C,Johannes Voigtmann
+Q2,6:29,Germany,21,12,FR,Johannes Voigtmann
+Q2,6:29,Germany,21,12,AS,Dennis Schroder
+Q2,6:29,Germany,21,12,,Johannes Voigtmann2pt jump shot made
+Q2,6:35,France,21,10,,Axel Toupane2pt jump shot missed
+Q2,6:35,Germany,21,10,RD,Dennis Schroder
+Q2,6:59,France,21,10,tempo_tecnico,
+Q2,6:59,Germany,21,10,AS,Maodo Lo
+Q2,6:59,Germany,21,10,2_Pts_C,Johannes Voigtmann
+Q2,7:02,France,21,8,ER,Nando De Colo
+Q2,7:02,Germany,21,8,BR,Danilo Barthel
+Q2,7:32,Germany,21,8,2_Pts_C,Danilo Barthel
+Q2,7:55,France,21,6,ER,Nando De Colo
+Q2,8:15,Germany,21,6,2_Pts_C,Johannes Voigtmann
+Q2,8:29,France,21,4,substituicao_entra,Axel Toupane
+Q2,8:29,France,21,4,substituicao_sai,Nicolas Batum
+Q2,8:29,Germany,21,4,substituicao_entra,Dennis Schroder
+Q2,8:29,Germany,21,4,substituicao_sai,Niels Giffey
+Q2,8:29,Germany,21,4,tempo_tecnico,
+Q2,8:30,France,21,4,AS,Nando De Colo
+Q2,8:30,France,21,4,,Vincent  Poirierdunk made
+Q2,8:37,France,19,4,RD,Nicolas Batum
+Q2,8:37,Germany,19,4,,Robin Benzing3pt jump shot missed
+Q2,8:50,France,19,4,2_Pts_T,Frank Ntilikina
+Q2,8:50,Germany,19,4,RD,Danilo Barthel
+Q2,9:14,France,19,4,RD,Nicolas Batum
+Q2,9:14,Germany,19,4,2_Pts_T,Robin Benzing
+Q2,9:33,France,19,4,AS,Nando De Colo
+Q2,9:33,France,19,4,,Frank Ntilikina3pt jump shot made
+Q2,9:39,France,0,0,RD,Louis Labeyrie
+Q2,9:39,Germany,0,0,,Robin Benzing2pt jump shot missed
+Q2,9:48,France,0,0,TO,Louis Labeyrie
+Q2,9:48,Germany,0,0,RO,Robin Benzing
+Q2,9:48,Germany,0,0,2_Pts_T,Robin Benzing
+Q3,0:01,France,59,50,,Vincent  Poiriertip in missed
+Q3,0:01,France,59,50,RO,Vincent  Poirier
+Q3,0:01,France,59,50,2_Pts_T,Evan Fournier
+Q3,0:06,France,59,48,substituicao_entra,Evan Fournier
+Q3,0:06,France,59,48,substituicao_sai,Axel Toupane
+Q3,0:06,France,59,48,FC,Axel Toupane
+Q3,0:06,Germany,59,50,substituicao_entra,Maodo Lo
+Q3,0:06,Germany,59,50,substituicao_sai,Dennis Schroder
+Q3,0:06,Germany,59,50,LL_Pts_C,Dennis Schroder
+Q3,0:06,Germany,59,49,LL_Pts_C,Dennis Schroder
+Q3,0:06,Germany,59,48,substituicao_entra,Maximilian Kleber
+Q3,0:06,Germany,59,48,substituicao_sai,Andreas Obst
+Q3,0:06,Germany,59,48,substituicao_entra,Ismet Akpinar
+Q3,0:06,Germany,59,48,substituicao_sai,Robin Benzing
+Q3,0:06,Germany,59,48,substituicao_entra,Niels Giffey
+Q3,0:06,Germany,59,48,substituicao_sai,Johannes Voigtmann
+Q3,0:06,Germany,59,48,FR,Dennis Schroder
+Q3,0:20,France,59,48,substituicao_entra,Axel Toupane
+Q3,0:20,France,59,48,substituicao_sai,Evan Fournier
+Q3,0:20,France,59,48,LL_Pts_C,Nando De Colo
+Q3,0:20,France,58,48,LL_Pts_C,Nando De Colo
+Q3,0:20,France,57,48,FR,Nando De Colo
+Q3,0:20,Germany,57,48,FC,Johannes Voigtmann
+Q3,0:33,France,57,48,RD,Vincent  Poirier
+Q3,0:33,France,57,48,FC,Frank Ntilikina
+Q3,0:33,Germany,57,48,LL_Pts_T,Dennis Schroder
+Q3,0:33,Germany,57,48,FR,Dennis Schroder
+Q3,0:33,Germany,57,48,2_Pts_C,Dennis Schroder
+Q3,0:46,France,57,46,LL_Pts_C,Vincent  Poirier
+Q3,0:46,France,56,46,substituicao_entra,Evan Fournier
+Q3,0:46,France,56,46,substituicao_sai,Louis Labeyrie
+Q3,0:46,France,56,46,FR,Vincent  Poirier
+Q3,0:46,France,56,46,2_Pts_C,Vincent  Poirier
+Q3,0:46,Germany,56,46,FC,Johannes Voigtmann
+Q3,10:00,France,0,0,muda_bola,
+Q3,1:14,Germany,54,46,AS,Johannes Voigtmann
+Q3,1:14,Germany,54,46,,Robin Benzinglayup made
+Q3,1:18,France,54,44,ER,Vincent  Poirier
+Q3,1:18,Germany,54,44,BR,Johannes Voigtmann
+Q3,1:41,Germany,54,44,2_Pts_C,Dennis Schroder
+Q3,1:51,France,54,42,,Frank Ntilikinadunk missed
+Q3,1:51,Germany,54,42,RD,Johannes Voigtmann
+Q3,2:07,Germany,54,42,,Robin Benzing3pt jump shot made
+Q3,2:19,France,54,39,LL_Pts_C,Frank Ntilikina
+Q3,2:19,France,53,39,LL_Pts_C,Frank Ntilikina
+Q3,2:19,France,52,39,substituicao_entra,Vincent  Poirier
+Q3,2:19,France,52,39,substituicao_sai,Rudy Gobert
+Q3,2:19,France,52,39,FR,Frank Ntilikina
+Q3,2:19,Germany,52,39,FC,Dennis Schroder
+Q3,2:31,Germany,52,39,AS,Johannes Voigtmann
+Q3,2:31,Germany,52,39,,Robin Benzing3pt jump shot made
+Q3,2:50,France,52,36,FC_O,Louis Labeyrie
+Q3,2:50,Germany,52,36,FR,Andreas Obst
+Q3,3:06,France,52,36,tempo_tecnico,
+Q3,3:08,Germany,52,36,AS,Danilo Barthel
+Q3,3:08,Germany,52,36,,Johannes Voigtmann3pt jump shot made
+Q3,3:24,France,52,33,substituicao_entra,Louis Labeyrie
+Q3,3:24,France,52,33,substituicao_sai,Amath M'Baye
+Q3,3:24,France,52,33,FC_O,Amath M'Baye
+Q3,3:24,Germany,52,33,FR,Robin Benzing
+Q3,3:43,Germany,52,33,AS,Andreas Obst
+Q3,3:43,Germany,52,33,,Johannes Voigtmann3pt jump shot made
+Q3,3:56,France,52,30,substituicao_entra,Frank Ntilikina
+Q3,3:56,France,52,30,substituicao_sai,Andrew Albicy
+Q3,3:56,France,52,30,FC,Andrew Albicy
+Q3,3:56,Germany,52,30,FR,Dennis Schroder
+Q3,3:57,France,52,30,ER,Nando De Colo
+Q3,3:57,Germany,52,30,BR,Dennis Schroder
+Q3,4:17,France,52,28,substituicao_entra,Nando De Colo
+Q3,4:17,France,52,28,substituicao_sai,Evan Fournier
+Q3,4:17,France,52,28,FC,Evan Fournier
+Q3,4:17,Germany,52,30,LL_Pts_C,Johannes Voigtmann
+Q3,4:17,Germany,52,29,AS,Dennis Schroder
+Q3,4:17,Germany,52,29,LL_Pts_C,Johannes Voigtmann
+Q3,4:17,Germany,52,28,substituicao_entra,Danilo Barthel
+Q3,4:17,Germany,52,28,substituicao_sai,Maximilian Kleber
+Q3,4:17,Germany,52,28,substituicao_entra,Robin Benzing
+Q3,4:17,Germany,52,28,substituicao_sai,Paul Zipser
+Q3,4:17,Germany,52,28,FR,Johannes Voigtmann
+Q3,4:36,France,52,28,AS,Evan Fournier
+Q3,4:36,France,52,28,,Amath M'Baye3pt jump shot made
+Q3,4:58,France,49,28,RD,Rudy Gobert
+Q3,4:58,Germany,49,28,2_Pts_T,Andreas Obst
+Q3,5:18,France,49,28,2_Pts_C,Nicolas Batum
+Q3,5:38,Germany,47,28,AS,Andreas Obst
+Q3,5:38,Germany,47,28,,Johannes Voigtmann3pt jump shot made
+Q3,5:46,France,47,25,,Amath M'Baye3pt jump shot missed
+Q3,5:46,Germany,47,25,RD,Paul Zipser
+Q3,5:59,France,47,25,RD,Rudy Gobert
+Q3,5:59,France,47,25,TO,Rudy Gobert
+Q3,5:59,Germany,47,25,2_Pts_T,Dennis Schroder
+Q3,6:02,France,47,25,2_Pts_C,Amath M'Baye
+Q3,6:10,France,45,25,RO,Amath M'Baye
+Q3,6:10,France,45,25,,Evan Fournier2pt jump shot missed
+Q3,6:33,Germany,45,25,AS,Johannes Voigtmann
+Q3,6:33,Germany,45,25,,Dennis Schroder3pt jump shot made
+Q3,6:55,France,45,22,AS,Andrew Albicy
+Q3,6:55,France,45,22,,Amath M'Baye3pt jump shot made
+Q3,7:14,Germany,42,22,ER ,
+Q3,7:38,France,42,22,LL_Pts_C,Evan Fournier
+Q3,7:38,France,41,22,AS,Andrew Albicy
+Q3,7:38,France,41,22,LL_Pts_C,Evan Fournier
+Q3,7:38,France,40,22,FR,Evan Fournier
+Q3,7:38,Germany,40,22,FC,Andreas Obst
+Q3,7:58,Germany,40,22,2_Pts_C,Dennis Schroder
+Q3,8:03,France,40,20,FC,Evan Fournier
+Q3,8:03,Germany,40,20,substituicao_entra,Andreas Obst
+Q3,8:03,Germany,40,20,substituicao_sai,Ismet Akpinar
+Q3,8:03,Germany,40,20,FR,Ismet Akpinar
+Q3,8:25,France,40,20,AS,Andrew Albicy
+Q3,8:25,France,40,20,,Evan Fournier3pt jump shot made
+Q3,8:31,France,37,20,FR,Amath M'Baye
+Q3,8:31,France,37,20,RO,
+Q3,8:31,Germany,37,20,FC,Maximilian Kleber
+Q3,8:32,France,37,20,,Nicolas Batum3pt jump shot missed
+Q3,8:46,France,37,20,FR,Rudy Gobert
+Q3,8:46,Germany,37,20,FC,Dennis Schroder
+Q3,9:03,France,37,20,RD,Evan Fournier
+Q3,9:03,Germany,37,20,2_Pts_T,Paul Zipser
+Q3,9:15,France,37,20,LL_Pts_C,Evan Fournier
+Q3,9:15,France,0,0,LL_Pts_T,Evan Fournier
+Q3,9:15,France,0,0,FR,Evan Fournier
+Q3,9:15,Germany,0,0,FC,Ismet Akpinar
+Q3,9:21,France,0,0,FR,Rudy Gobert
+Q3,9:21,Germany,0,0,FC,Dennis Schroder
+Q3,9:30,France,0,0,RD,Rudy Gobert
+Q3,9:30,Germany,0,0,2_Pts_T,Paul Zipser
+Q3,9:47,France,0,0,,Amath M'Baye2pt pullup jump shot blocked
+Q3,9:47,Germany,0,0,RD,Johannes Voigtmann
+Q3,9:47,Germany,0,0,TO,Maximilian Kleber
+Q4,0:01,Germany,78,74,3_Pts_T,Maximilian Kleber
+Q4,0:04,France,78,74,LL_Pts_C,Evan Fournier
+Q4,0:04,France,77,74,LL_Pts_C,Evan Fournier
+Q4,0:04,France,76,74,FR,Evan Fournier
+Q4,0:04,Germany,76,74,FC,Maodo Lo
+Q4,0:05,France,76,74,tempo_tecnico,
+Q4,0:07,Germany,76,74,AS,Johannes Voigtmann
+Q4,0:07,Germany,76,74,,Paul Zipser2pt jump shot made
+Q4,0:15,Germany,76,72,RO,Johannes Voigtmann
+Q4,0:15,Germany,76,72,,Dennis Schroder3pt jump shot missed
+Q4,0:25,France,76,72,substituicao_entra,Frank Ntilikina
+Q4,0:25,France,76,72,substituicao_sai,Nando De Colo
+Q4,0:25,France,76,72,ER,Nando De Colo
+Q4,0:32,France,76,72,substituicao_entra,Nando De Colo
+Q4,0:32,France,76,72,substituicao_sai,Frank Ntilikina
+Q4,0:32,France,76,70,substituicao_entra,Andrew Albicy
+Q4,0:32,France,76,70,substituicao_sai,Amath M'Baye
+Q4,0:32,France,76,70,FC,Amath M'Baye
+Q4,0:32,France,76,70,substituicao_entra,Frank Ntilikina
+Q4,0:32,France,76,70,substituicao_sai,Andrew Albicy
+Q4,0:32,France,76,70,2_Pts_C,Evan Fournier
+Q4,0:32,Germany,76,72,LL_Pts_C,Maximilian Kleber
+Q4,0:32,Germany,76,71,tempo_tecnico,
+Q4,0:32,Germany,76,71,LL_Pts_C,Maximilian Kleber
+Q4,0:32,Germany,76,70,FR,Maximilian Kleber
+Q4,0:32,Germany,76,70,tempo_tecnico,
+Q4,0:57,France,74,70,RD,Amath M'Baye
+Q4,0:57,Germany,74,70,,Johannes Voigtmann3pt jump shot missed
+Q4,10:00,Germany,0,0,muda_bola,
+Q4,1:11,France,74,70,,Nicolas Batum3pt jump shot missed
+Q4,1:11,Germany,74,70,RD,Paul Zipser
+Q4,1:16,Germany,74,70,AS,Dennis Schroder
+Q4,1:16,Germany,74,70,2_Pts_C,Maximilian Kleber
+Q4,1:25,Germany,74,68,RO,
+Q4,1:28,Germany,74,68,3_Pts_T,Dennis Schroder
+Q4,1:46,France,74,68,LL_Pts_C,Rudy Gobert
+Q4,1:46,France,73,68,substituicao_entra,Amath M'Baye
+Q4,1:46,France,73,68,substituicao_sai,Nando De Colo
+Q4,1:46,France,73,68,FR,Rudy Gobert
+Q4,1:46,France,73,68,AS,Evan Fournier
+Q4,1:46,France,73,68,,Rudy Gobertlayup made
+Q4,1:46,Germany,73,68,FC,Dennis Schroder
+Q4,2:06,Germany,71,68,2_Pts_C,Dennis Schroder
+Q4,2:17,France,71,66,3_Pts_T,Evan Fournier
+Q4,2:17,Germany,71,66,RD,Maodo Lo
+Q4,2:35,Germany,71,66,AS,Dennis Schroder
+Q4,2:35,Germany,71,66,,Johannes Voigtmann3pt jump shot made
+Q4,2:47,France,71,63,LL_Pts_C,Nando De Colo
+Q4,2:47,France,70,63,LL_Pts_T,Nando De Colo
+Q4,2:47,France,70,63,FR,Nando De Colo
+Q4,2:47,Germany,70,63,FC,Maodo Lo
+Q4,2:50,France,70,63,RO,Nando De Colo
+Q4,2:50,France,70,63,,Andrew Albicy3pt jump shot missed
+Q4,3:04,France,70,62,FC,Rudy Gobert
+Q4,3:04,Germany,70,63,LL_Pts_C,Dennis Schroder
+Q4,3:04,Germany,70,62,LL_Pts_T,Dennis Schroder
+Q4,3:04,Germany,70,62,FR,Dennis Schroder
+Q4,3:26,France,70,62,3_Pts_T,Nando De Colo
+Q4,3:26,Germany,70,62,RD,Dennis Schroder
+Q4,3:43,France,70,60,FC,Andrew Albicy
+Q4,3:43,Germany,70,62,LL_Pts_C,Dennis Schroder
+Q4,3:43,Germany,70,61,LL_Pts_C,Dennis Schroder
+Q4,3:43,Germany,70,60,FR,Dennis Schroder
+Q4,3:56,France,70,60,AS,Nicolas Batum
+Q4,3:56,France,70,60,,Rudy Gobertdunk made
+Q4,4:08,France,68,60,FR,Evan Fournier
+Q4,4:08,Germany,68,60,FC,Paul Zipser
+Q4,4:17,Germany,68,60,ER,Dennis Schroder
+Q4,4:26,France,68,60,TO,Rudy Gobert
+Q4,4:26,Germany,68,60,RO,Dennis Schroder
+Q4,4:26,Germany,68,60,2_Pts_T,Maodo Lo
+Q4,4:35,France,68,60,2_Pts_T,Nando De Colo
+Q4,4:35,Germany,68,60,RD,Maodo Lo
+Q4,4:35,Germany,68,60,TO,Maximilian Kleber
+Q4,4:49,France,68,60,tempo_tecnico,
+Q4,4:49,Germany,68,60,AS,Maodo Lo
+Q4,4:49,Germany,68,60,,Johannes Voigtmann3pt jump shot made
+Q4,4:53,Germany,68,57,RO,Maodo Lo
+Q4,4:53,Germany,68,57,2_Pts_T,Maximilian Kleber
+Q4,5:10,France,68,57,substituicao_entra,Nicolas Batum
+Q4,5:10,France,68,57,substituicao_sai,Amath M'Baye
+Q4,5:10,France,68,57,ER,Andrew Albicy
+Q4,5:10,Germany,68,57,substituicao_entra,Johannes Voigtmann
+Q4,5:10,Germany,68,57,substituicao_sai,Daniel Theis
+Q4,5:21,France,68,57,BR,Andrew Albicy
+Q4,5:21,Germany,68,57,ER,Maximilian Kleber
+Q4,5:36,France,68,57,2_Pts_T,Evan Fournier
+Q4,5:36,Germany,68,57,RD,Maodo Lo
+Q4,5:36,Germany,68,57,TO,Paul Zipser
+Q4,5:53,France,68,57,RD,Evan Fournier
+Q4,5:53,Germany,68,57,,Daniel Theis2pt jump shot missed
+Q4,5:58,Germany,68,57,RO,Daniel Theis
+Q4,5:58,Germany,68,57,,Maximilian Kleber3pt jump shot missed
+Q4,6:11,France,68,57,TO,Rudy Gobert
+Q4,6:11,Germany,68,57,RO,Daniel Theis
+Q4,6:11,Germany,68,57,2_Pts_T,Dennis Schroder
+Q4,6:23,France,68,57,,Andrew Albicy3pt jump shot missed
+Q4,6:23,Germany,68,57,RD,Dennis Schroder
+Q4,6:43,Germany,68,57,2_Pts_C,Dennis Schroder
+Q4,6:49,France,68,55,FC,Nando De Colo
+Q4,6:49,Germany,68,55,FR,Daniel Theis
+Q4,6:51,France,68,55,FC,Amath M'Baye
+Q4,6:51,Germany,68,55,FR,Daniel Theis
+Q4,6:51,Germany,68,55,RO,
+Q4,6:51,Germany,68,55,,Maodo Lo3pt jump shot missed
+Q4,7:08,France,68,55,3_Pts_C,Evan Fournier
+Q4,7:08,Germany,68,55,substituicao_entra,Paul Zipser
+Q4,7:08,Germany,68,55,substituicao_sai,Robin Benzing
+Q4,7:08,Germany,68,55,tempo_tecnico,
+Q4,7:25,France,65,55,RD,Evan Fournier
+Q4,7:25,Germany,65,55,2_Pts_T,Robin Benzing
+Q4,7:37,France,65,55,2_Pts_C,Evan Fournier
+Q4,7:53,France,63,55,FR,Nando De Colo
+Q4,7:53,Germany,63,55,FC,Robin Benzing
+Q4,8:07,France,63,55,RD,Rudy Gobert
+Q4,8:07,Germany,63,55,,Daniel Theis2pt jump shot missed
+Q4,8:15,France,63,55,substituicao_entra,Amath M'Baye
+Q4,8:15,France,63,55,substituicao_sai,Nicolas Batum
+Q4,8:15,France,63,55,FC,Nando De Colo
+Q4,8:15,Germany,63,55,FR,Dennis Schroder
+Q4,8:19,France,63,55,,Nando De Cololayup missed
+Q4,8:19,Germany,63,55,RD,Daniel Theis
+Q4,8:30,France,63,55,BR,Nando De Colo
+Q4,8:30,Germany,63,55,ER,Dennis Schroder
+Q4,8:44,Germany,63,55,RO,Maximilian Kleber
+Q4,8:44,Germany,63,55,2_Pts_T,Dennis Schroder
+Q4,8:53,France,63,55,substituicao_entra,Rudy Gobert
+Q4,8:53,France,63,55,substituicao_sai,Vincent  Poirier
+Q4,8:53,France,63,55,LL_Pts_C,Vincent  Poirier
+Q4,8:53,France,62,55,LL_Pts_C,Vincent  Poirier
+Q4,8:53,France,61,55,FR,Vincent  Poirier
+Q4,8:53,Germany,61,55,FC,Daniel Theis
+Q4,8:54,France,61,55,RO,Vincent  Poirier
+Q4,8:54,France,61,55,3_Pts_T,Evan Fournier
+Q4,9:11,Germany,61,55,AS,Dennis Schroder
+Q4,9:11,Germany,61,55,,Maximilian Kleber2pt jump shot made
+Q4,9:33,France,61,53,2_Pts_C,Evan Fournier
+Q4,9:49,France,59,52,substituicao_entra,Andrew Albicy
+Q4,9:49,France,59,52,substituicao_sai,Frank Ntilikina
+Q4,9:49,France,59,52,FC,Vincent  Poirier
+Q4,9:49,Germany,59,53,LL_Pts_C,Daniel Theis
+Q4,9:49,Germany,59,52,FR,Daniel Theis
+Q4,9:49,Germany,59,52,AS,Dennis Schroder
+Q4,9:49,Germany,59,52,,Daniel Theisalley oop made

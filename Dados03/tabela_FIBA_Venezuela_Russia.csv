@@ -1,0 +1,563 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Russia,10,13,,Mikhail Kulagin2pt jump shot missed
+Q1,0:22,Venezuela,10,13,ER,Pedro Chourio
+Q1,0:22,Russia,10,13,BR,Andrey Zubkov
+Q1,0:26,Venezuela,10,13,substituicao_entra,Nestor Colmenares
+Q1,0:26,Venezuela,10,13,substituicao_sai,Michael Carrera
+Q1,0:31,Russia,10,13,substituicao_entra,Sergey Karasev
+Q1,0:31,Russia,10,13,substituicao_sai,Andrey Vorontsevich
+Q1,0:40,Venezuela,10,13,muda_bola,
+Q1,0:40,Venezuela,10,13,RD,Michael Carrera
+Q1,0:42,Russia,10,13,,Mikhail Kulagin3pt jump shot missed
+Q1,10:00,Russia,0,0,inicio_quarto,Vladimir Ivlev
+Q1,1:06,Venezuela,10,13,,Michael Carreralayup missed
+Q1,1:06,Russia,10,13,RD,Andrey Vorontsevich
+Q1,1:11,Venezuela,10,13,RO,Michael Carrera
+Q1,1:11,Venezuela,10,13,,Jhornan Zamora3pt jump shot missed
+Q1,1:21,Venezuela,10,13,RD,Pedro Chourio
+Q1,1:21,Russia,10,13,,Andrey Vorontsevich2pt jump shot missed
+Q1,1:31,Venezuela,10,13,TO,Michael Carrera
+Q1,1:31,Russia,10,13,RO,
+Q1,1:31,Russia,10,13,2_Pts_T,Andrey Zubkov
+Q1,1:39,Russia,10,13,substituicao_entra,Andrey Zubkov
+Q1,1:39,Russia,10,13,substituicao_sai,Nikita Kurbanov
+Q1,1:44,Venezuela,10,13,LL_Pts_T,Michael Carrera
+Q1,1:44,Venezuela,10,13,LL_Pts_C,Michael Carrera
+Q1,1:44,Venezuela,9,13,FR,Michael Carrera
+Q1,1:44,Venezuela,9,13,RO,
+Q1,1:44,Venezuela,9,13,LL_Pts_T,Luis Bethelmy
+Q1,1:44,Venezuela,9,13,substituicao_entra,Heissler Guillent
+Q1,1:44,Venezuela,9,13,substituicao_sai,Gregory Vargas
+Q1,1:44,Venezuela,9,13,LL_Pts_C,Luis Bethelmy
+Q1,1:44,Venezuela,8,13,FR,Luis Bethelmy
+Q1,1:44,Venezuela,8,13,3_Pts_T,Luis Bethelmy
+Q1,1:44,Russia,10,13,RD,Andrey Vorontsevich
+Q1,1:44,Russia,9,13,FC,Andrey Vorontsevich
+Q1,1:44,Russia,8,13,FC,Mikhail Kulagin
+Q1,1:51,Venezuela,8,13,RD,Gregory Vargas
+Q1,1:51,Russia,8,13,2_Pts_T,Vitaly Fridzon
+Q1,2:15,Venezuela,8,13,,Jhornan Zamora2pt jump shot made
+Q1,2:30,Venezuela,6,13,FR,Michael Carrera
+Q1,2:30,Russia,6,13,substituicao_entra,Mikhail Kulagin
+Q1,2:30,Russia,6,13,substituicao_sai,Andrei Sopin
+Q1,2:30,Russia,6,13,FC,Semen Antonov
+Q1,2:44,Venezuela,6,13,RD,Luis Bethelmy
+Q1,2:44,Russia,6,13,,Nikita Kurbanov2pt jump shot missed
+Q1,3:09,Venezuela,6,13,2_Pts_C,Michael Carrera
+Q1,3:16,Venezuela,4,13,RO,Michael Carrera
+Q1,3:16,Venezuela,4,13,,Gregory Vargaslayup missed
+Q1,3:20,Venezuela,4,13,BR,Gregory Vargas
+Q1,3:20,Russia,4,13,ER,Andrei Sopin
+Q1,3:53,Venezuela,4,13,FR,Gregory Vargas
+Q1,3:53,Venezuela,4,13,2_Pts_C,Michael Carrera
+Q1,3:53,Russia,4,13,substituicao_entra,Vitaly Fridzon
+Q1,3:53,Russia,4,13,substituicao_sai,Evgenii Baburin
+Q1,3:53,Russia,4,13,FC,Evgenii Baburin
+Q1,3:56,Venezuela,2,13,RD,Pedro Chourio
+Q1,3:56,Russia,2,13,,Nikita Kurbanov3pt jump shot missed
+Q1,4:07,Venezuela,2,13,,Jhornan Zamora3pt jump shot missed
+Q1,4:07,Russia,2,13,RD,Nikita Kurbanov
+Q1,4:17,Venezuela,2,13,RO,Luis Bethelmy
+Q1,4:17,Venezuela,2,13,,Luis Bethelmy2pt jump shot missed
+Q1,4:24,Venezuela,2,13,RO,Luis Bethelmy
+Q1,4:24,Venezuela,2,13,,Jhornan Zamoralayup missed
+Q1,4:35,Venezuela,2,13,RO,
+Q1,4:35,Venezuela,2,13,FR,Luis Bethelmy
+Q1,4:35,Venezuela,2,13,2_Pts_T,Gregory Vargas
+Q1,4:35,Russia,2,13,FC,Andrei Sopin
+Q1,4:58,Venezuela,2,11,FC,Michael Carrera
+Q1,4:58,Russia,2,13,LL_Pts_C,Andrey Vorontsevich
+Q1,4:58,Russia,2,12,LL_Pts_C,Andrey Vorontsevich
+Q1,4:58,Russia,2,11,substituicao_entra,Semen Antonov
+Q1,4:58,Russia,2,11,substituicao_sai,Vladimir Ivlev
+Q1,4:58,Russia,2,11,FR,Andrey Vorontsevich
+Q1,4:59,Venezuela,2,11,3_Pts_T,Luis Bethelmy
+Q1,4:59,Russia,2,11,RD,Andrey Vorontsevich
+Q1,5:12,Venezuela,2,9,tempo_tecnico,
+Q1,5:12,Venezuela,2,9,FC,Luis Bethelmy
+Q1,5:12,Russia,2,11,LL_Pts_C,Vladimir Ivlev
+Q1,5:12,Russia,2,10,AS,Andrey Vorontsevich
+Q1,5:12,Russia,2,10,LL_Pts_C,Vladimir Ivlev
+Q1,5:12,Russia,2,9,substituicao_entra,Andrei Sopin
+Q1,5:12,Russia,2,9,substituicao_sai,Mikhail Kulagin
+Q1,5:12,Russia,2,9,FR,Vladimir Ivlev
+Q1,5:29,Venezuela,2,9,,Jhornan Zamora3pt jump shot missed
+Q1,5:29,Russia,2,9,RD,Andrey Vorontsevich
+Q1,5:46,Venezuela,2,7,substituicao_entra,Gregory Vargas
+Q1,5:46,Venezuela,2,7,substituicao_sai,Heissler Guillent
+Q1,5:46,Venezuela,2,7,substituicao_entra,Luis Bethelmy
+Q1,5:46,Venezuela,2,7,substituicao_sai,Miguel Ruiz
+Q1,5:46,Venezuela,2,7,FC,Heissler Guillent
+Q1,5:46,Russia,2,9,LL_Pts_C,Nikita Kurbanov
+Q1,5:46,Russia,2,8,LL_Pts_C,Nikita Kurbanov
+Q1,5:46,Russia,2,7,FR,Nikita Kurbanov
+Q1,5:57,Venezuela,2,7,2_Pts_T,Miguel Ruiz
+Q1,5:57,Russia,2,7,RD,Nikita Kurbanov
+Q1,6:01,Venezuela,2,7,substituicao_entra,Michael Carrera
+Q1,6:01,Venezuela,2,7,substituicao_sai,Nestor Colmenares
+Q1,6:01,Venezuela,2,7,substituicao_entra,Jhornan Zamora
+Q1,6:01,Venezuela,2,7,substituicao_sai,Dwight Lewis
+Q1,6:26,Russia,2,7,AS,Nikita Kurbanov
+Q1,6:26,Russia,2,7,3_Pts_C,Andrey Vorontsevich
+Q1,6:34,Venezuela,2,4,2_Pts_T,Heissler Guillent
+Q1,6:34,Russia,2,4,RD,Nikita Kurbanov
+Q1,6:55,Venezuela,2,4,FR,Miguel Ruiz
+Q1,6:55,Russia,2,4,FC_O,Mikhail Kulagin
+Q1,7:08,Venezuela,2,4,2_Pts_T,Nestor Colmenares
+Q1,7:08,Russia,2,4,RD,Nikita Kurbanov
+Q1,7:30,Venezuela,2,2,substituicao_entra,Pedro Chourio
+Q1,7:30,Venezuela,2,2,substituicao_sai,Jose Vargas
+Q1,7:30,Venezuela,2,2,FC,Jose Vargas
+Q1,7:30,Russia,2,4,LL_Pts_C,Mikhail Kulagin
+Q1,7:30,Russia,2,3,LL_Pts_C,Mikhail Kulagin
+Q1,7:30,Russia,2,2,FR,Mikhail Kulagin
+Q1,7:43,Venezuela,2,2,AS,Heissler Guillent
+Q1,7:43,Venezuela,2,2,,Nestor Colmenares2pt jump shot made
+Q1,8:01,Venezuela,0,2,RD,Heissler Guillent
+Q1,8:01,Russia,0,2,,Mikhail Kulagin3pt jump shot missed
+Q1,8:12,Venezuela,0,2,2_Pts_T,Jose Vargas
+Q1,8:12,Russia,0,2,RD,Vladimir Ivlev
+Q1,8:24,Venezuela,0,1,FC,Jose Vargas
+Q1,8:24,Russia,0,2,LL_Pts_C,Nikita Kurbanov
+Q1,8:24,Russia,0,1,LL_Pts_T,Nikita Kurbanov
+Q1,8:24,Russia,0,1,FR,Nikita Kurbanov
+Q1,8:31,Venezuela,0,1,,Miguel Ruizlayup missed
+Q1,8:31,Russia,0,1,RD,Mikhail Kulagin
+Q1,8:57,Venezuela,0,0,FC,Nestor Colmenares
+Q1,8:57,Russia,0,1,AS,Andrey Vorontsevich
+Q1,8:57,Russia,0,1,LL_Pts_C,Vladimir Ivlev
+Q1,8:57,Russia,0,0,LL_Pts_T,Vladimir Ivlev
+Q1,8:57,Russia,0,0,FR,Vladimir Ivlev
+Q1,9:09,Venezuela,0,0,FC,Dwight Lewis
+Q1,9:09,Russia,0,0,FR,Vladimir Ivlev
+Q1,9:24,Venezuela,0,0,ER,Miguel Ruiz
+Q1,9:24,Russia,0,0,BR,Evgenii Baburin
+Q1,9:32,Venezuela,0,0,BR,Jose Vargas
+Q1,9:40,Russia,0,0,ER,Andrey Vorontsevich
+Q2,0:00,Russia,27,27,,Andrey Zubkov2pt jump shot missed
+Q2,0:04,Russia,27,27,tempo_tecnico,
+Q2,0:06,Venezuela,27,27,substituicao_entra,Jose Vargas
+Q2,0:06,Venezuela,27,27,substituicao_sai,Miguel Ruiz
+Q2,0:06,Venezuela,27,27,substituicao_entra,Pedro Chourio
+Q2,0:06,Venezuela,27,27,substituicao_sai,Luis Bethelmy
+Q2,0:07,Venezuela,27,27,AS,Gregory Vargas
+Q2,0:07,Venezuela,27,27,,Jhornan Zamora3pt jump shot made
+Q2,0:24,Venezuela,24,27,FR,Gregory Vargas
+Q2,0:24,Russia,24,27,substituicao_entra,Grigory Motovilov
+Q2,0:24,Russia,24,27,substituicao_sai,Mikhail Kulagin
+Q2,0:24,Russia,24,27,FC,Andrey Vorontsevich
+Q2,0:24,Russia,24,27,AS,Andrey Zubkov
+Q2,0:24,Russia,24,27,,Mikhail Kulagin3pt jump shot made
+Q2,0:30,Russia,24,24,RO,Andrey Zubkov
+Q2,0:30,Russia,24,24,,Nikita Kurbanov3pt jump shot missed
+Q2,0:57,Venezuela,24,24,AS,Gregory Vargas
+Q2,0:57,Venezuela,24,24,,Jhornan Zamora3pt jump shot made
+Q2,10:00,Russia,10,13,muda_bola,
+Q2,1:09,Venezuela,21,24,substituicao_entra,Gregory Vargas
+Q2,1:09,Venezuela,21,24,substituicao_sai,Heissler Guillent
+Q2,1:09,Venezuela,21,24,FR,Jhornan Zamora
+Q2,1:09,Russia,21,24,FC,Nikita Kurbanov
+Q2,1:24,Venezuela,21,24,RD,Miguel Ruiz
+Q2,1:24,Russia,21,24,,Evgenii Baburin3pt jump shot missed
+Q2,1:44,Venezuela,21,24,2_Pts_T,Heissler Guillent
+Q2,1:44,Venezuela,10,13,RO,
+Q2,1:44,Russia,21,24,RD,Andrey Vorontsevich
+Q2,2:08,Venezuela,21,22,tempo_tecnico,
+Q2,2:08,Venezuela,21,22,FC,Luis Bethelmy
+Q2,2:08,Russia,21,24,LL_Pts_C,Andrey Vorontsevich
+Q2,2:08,Russia,21,23,LL_Pts_C,Andrey Vorontsevich
+Q2,2:08,Russia,21,22,FR,Andrey Vorontsevich
+Q2,2:30,Venezuela,21,22,ER,Dwight Lewis
+Q2,2:30,Russia,21,22,substituicao_entra,Andrey Zubkov
+Q2,2:30,Russia,21,22,substituicao_sai,Vladimir Ivlev
+Q2,2:46,Venezuela,21,22,RD,
+Q2,2:46,Russia,21,22,substituicao_entra,Mikhail Kulagin
+Q2,2:46,Russia,21,22,substituicao_sai,Andrey Zubkov
+Q2,2:46,Russia,21,22,2_Pts_T,Vladimir Ivlev
+Q2,2:49,Russia,21,22,RD,Andrey Vorontsevich
+Q2,2:53,Russia,21,22,substituicao_entra,Andrey Vorontsevich
+Q2,2:53,Russia,21,22,substituicao_sai,Mikhail Kulagin
+Q2,3:10,Venezuela,21,22,,Luis Bethelmy3pt jump shot missed
+Q2,3:22,Venezuela,21,22,RD,Dwight Lewis
+Q2,3:22,Russia,21,22,,Mikhail Kulagin3pt jump shot missed
+Q2,3:46,Venezuela,21,22,AS,Heissler Guillent
+Q2,3:46,Venezuela,21,22,,Dwight Lewis2pt jump shot made
+Q2,4:06,Venezuela,19,21,substituicao_entra,Luis Bethelmy
+Q2,4:06,Venezuela,19,21,substituicao_sai,Michael Carrera
+Q2,4:06,Venezuela,19,21,FC,Miguel Ruiz
+Q2,4:06,Venezuela,19,21,2_Pts_T,Michael Carrera
+Q2,4:06,Russia,19,22,LL_Pts_C,Evgenii Baburin
+Q2,4:06,Russia,19,21,LL_Pts_T,Evgenii Baburin
+Q2,4:06,Russia,19,21,FR,Evgenii Baburin
+Q2,4:06,Russia,19,21,RD,
+Q2,4:23,Venezuela,19,19,substituicao_entra,Jhornan Zamora
+Q2,4:23,Venezuela,19,19,substituicao_sai,Pedro Chourio
+Q2,4:23,Venezuela,19,19,FC,Dwight Lewis
+Q2,4:23,Russia,19,21,LL_Pts_C,Nikita Kurbanov
+Q2,4:23,Russia,19,20,LL_Pts_C,Nikita Kurbanov
+Q2,4:23,Russia,19,19,FR,Nikita Kurbanov
+Q2,4:32,Venezuela,19,19,substituicao_entra,Dwight Lewis
+Q2,4:32,Venezuela,19,19,substituicao_sai,Gregory Vargas
+Q2,4:32,Venezuela,19,19,FC,Michael Carrera
+Q2,4:32,Venezuela,19,19,2_Pts_T,Gregory Vargas
+Q2,4:32,Russia,19,19,FR,Nikita Kurbanov
+Q2,4:32,Russia,19,19,RD,Nikita Kurbanov
+Q2,4:46,Venezuela,19,19,RO,Miguel Ruiz
+Q2,4:46,Venezuela,19,19,2_Pts_T,Michael Carrera
+Q2,4:54,Venezuela,19,19,BR,Michael Carrera
+Q2,4:54,Russia,19,19,ER,Evgenii Baburin
+Q2,5:00,Venezuela,19,19,,Heissler Guillent2pt jump shot missed
+Q2,5:00,Russia,19,19,RD,Evgenii Baburin
+Q2,5:17,Russia,19,19,ER,Mikhail Kulagin
+Q2,5:17,Russia,19,19,substituicao_entra,Mikhail Kulagin
+Q2,5:17,Russia,19,19,substituicao_sai,Grigory Motovilov
+Q2,5:31,Venezuela,19,19,2_Pts_C,Heissler Guillent
+Q2,5:53,Russia,17,19,AS,Nikita Kurbanov
+Q2,5:53,Russia,17,19,2_Pts_C,Vladimir Ivlev
+Q2,5:57,Venezuela,17,17,FC,Gregory Vargas
+Q2,5:57,Russia,17,17,FR,Evgenii Baburin
+Q2,5:57,Russia,17,17,RO,
+Q2,5:57,Russia,17,17,,Andrey Zubkov3pt jump shot missed
+Q2,6:13,Russia,17,17,RO,Evgenii Baburin
+Q2,6:13,Russia,17,17,,Grigory Motovilov3pt jump shot missed
+Q2,6:33,Venezuela,17,17,substituicao_entra,Pedro Chourio
+Q2,6:33,Venezuela,17,17,substituicao_sai,Dwight Lewis
+Q2,6:33,Russia,17,17,substituicao_entra,Nikita Kurbanov
+Q2,6:33,Russia,17,17,substituicao_sai,Vitaly Fridzon
+Q2,6:33,Russia,17,17,substituicao_entra,Evgenii Baburin
+Q2,6:33,Russia,17,17,substituicao_sai,Sergey Karasev
+Q2,6:33,Russia,17,17,tempo_tecnico,
+Q2,6:34,Venezuela,17,17,AS,Dwight Lewis
+Q2,6:34,Venezuela,17,17,,Heissler Guillent3pt jump shot made
+Q2,6:43,Venezuela,14,17,RD,Dwight Lewis
+Q2,6:43,Russia,14,17,3_Pts_T,Andrey Zubkov
+Q2,7:06,Venezuela,14,17,AS,Miguel Ruiz
+Q2,7:06,Venezuela,14,17,2_Pts_C,Dwight Lewis
+Q2,7:10,Venezuela,12,17,BR,Miguel Ruiz
+Q2,7:10,Russia,12,17,ER,Sergey Karasev
+Q2,7:16,Venezuela,12,17,ER,Heissler Guillent
+Q2,7:16,Russia,12,17,BR,Sergey Karasev
+Q2,7:17,Venezuela,12,17,RO,
+Q2,7:17,Venezuela,12,17,2_Pts_T,Dwight Lewis
+Q2,7:35,Venezuela,12,17,RD,Miguel Ruiz
+Q2,7:35,Russia,12,17,,Sergey Karasev3pt jump shot missed
+Q2,7:39,Russia,12,17,RO,Sergey Karasev
+Q2,7:39,Russia,12,17,3_Pts_T,Andrey Zubkov
+Q2,7:57,Venezuela,12,17,substituicao_entra,Miguel Ruiz
+Q2,7:57,Venezuela,12,17,substituicao_sai,Luis Bethelmy
+Q2,7:57,Venezuela,12,17,LL_Pts_C,Luis Bethelmy
+Q2,7:57,Venezuela,11,17,AS,Heissler Guillent
+Q2,7:57,Venezuela,11,17,LL_Pts_C,Luis Bethelmy
+Q2,7:57,Venezuela,10,17,FR,Luis Bethelmy
+Q2,7:57,Russia,10,17,FC,Vladimir Ivlev
+Q2,8:23,Russia,10,17,,Vladimir Ivlevdunk made
+Q2,8:27,Russia,10,15,RO,Vladimir Ivlev
+Q2,8:27,Russia,10,15,,Vladimir Ivlev2pt jump shot missed
+Q2,8:29,Venezuela,10,15,substituicao_entra,Michael Carrera
+Q2,8:29,Venezuela,10,15,substituicao_sai,Nestor Colmenares
+Q2,8:34,Venezuela,10,15,FC,Nestor Colmenares
+Q2,8:34,Venezuela,10,15,,Nestor Colmenareslayup missed
+Q2,8:34,Russia,10,15,FR,Sergey Karasev
+Q2,8:34,Russia,10,15,RD,
+Q2,8:56,Russia,10,15,2_Pts_C,Grigory Motovilov
+Q2,9:03,Venezuela,10,13,ER,Gregory Vargas
+Q2,9:03,Russia,10,13,BR,Andrey Zubkov
+Q2,9:08,Venezuela,10,13,BR,Gregory Vargas
+Q2,9:08,Russia,10,13,ER,Andrey Zubkov
+Q2,9:15,Venezuela,10,13,substituicao_entra,Gregory Vargas
+Q2,9:15,Venezuela,10,13,substituicao_sai,Pedro Chourio
+Q2,9:15,Venezuela,10,13,FC,Nestor Colmenares
+Q2,9:15,Russia,10,13,FR,Andrey Zubkov
+Q2,9:29,Venezuela,10,13,,Pedro Chourio3pt jump shot missed
+Q2,9:29,Russia,10,13,RD,Andrey Zubkov
+Q2,9:40,Russia,10,13,ER,Vladimir Ivlev
+Q3,0:00,Venezuela,42,48,,Jose Vargas3pt jump shot missed
+Q3,0:02,Venezuela,42,48,RD,Miguel Ruiz
+Q3,0:02,Russia,42,48,2_Pts_T,Andrey Zubkov
+Q3,0:05,Venezuela,42,48,FC,Gregory Vargas
+Q3,0:05,Russia,42,48,FR,Grigory Motovilov
+Q3,0:18,Venezuela,42,48,3_Pts_T,Gregory Vargas
+Q3,0:18,Russia,42,48,RD,Nikita Kurbanov
+Q3,0:41,Russia,42,48,LL_Pts_T,Evgeny Valiev
+Q3,0:44,Venezuela,42,47,FC,Miguel Ruiz
+Q3,0:44,Venezuela,42,45,TO,Jose Vargas
+Q3,0:44,Russia,42,47,FR,Evgeny Valiev
+Q3,0:44,Russia,42,47,,Evgeny Valiev2pt jump shot made
+Q3,0:44,Russia,42,45,RO,Evgeny Valiev
+Q3,0:44,Russia,42,45,substituicao_entra,Evgeny Valiev
+Q3,0:44,Russia,42,45,substituicao_sai,Andrey Vorontsevich
+Q3,0:44,Russia,42,45,2_Pts_T,Grigory Motovilov
+Q3,0:44,Russia,42,45,substituicao_entra,Andrey Zubkov
+Q3,0:44,Russia,42,45,substituicao_sai,Evgeny Valiev
+Q3,0:51,Venezuela,42,45,substituicao_entra,Nestor Colmenares
+Q3,0:51,Venezuela,42,45,substituicao_sai,Michael Carrera
+Q3,0:51,Venezuela,42,45,substituicao_entra,Miguel Ruiz
+Q3,0:51,Venezuela,42,45,substituicao_sai,Luis Bethelmy
+Q3,0:51,Venezuela,42,45,FC,Heissler Guillent
+Q3,0:51,Russia,42,45,FR,Grigory Motovilov
+Q3,0:52,Venezuela,42,45,ER,Michael Carrera
+Q3,0:52,Russia,42,45,BR,Grigory Motovilov
+Q3,10:00,Venezuela,27,27,muda_bola,
+Q3,1:10,Venezuela,42,45,RD,Luis Bethelmy
+Q3,1:10,Russia,42,45,,Grigory Motovilov3pt jump shot missed
+Q3,1:23,Russia,42,45,RO,Evgenii Baburin
+Q3,1:23,Russia,42,45,2_Pts_T,Nikita Kurbanov
+Q3,1:44,Russia,42,45,RD,
+Q3,1:46,Venezuela,42,45,3_Pts_T,Heissler Guillent
+Q3,1:57,Venezuela,42,45,substituicao_entra,Heissler Guillent
+Q3,1:57,Venezuela,42,45,substituicao_sai,Pedro Chourio
+Q3,1:57,Venezuela,42,45,FR,Michael Carrera
+Q3,1:57,Russia,42,45,FC,Evgeny Valiev
+Q3,2:10,Russia,42,45,AS,Andrey Vorontsevich
+Q3,2:10,Russia,42,45,3_Pts_C,Evgenii Baburin
+Q3,2:26,Venezuela,42,42,LL_Pts_T,Luis Bethelmy
+Q3,2:26,Russia,42,42,RD,Andrey Vorontsevich
+Q3,2:27,Venezuela,42,42,FR,Luis Bethelmy
+Q3,2:27,Venezuela,42,42,AS,Michael Carrera
+Q3,2:27,Venezuela,42,42,,Luis Bethelmylayup made
+Q3,2:27,Russia,42,42,FC,Evgenii Baburin
+Q3,2:34,Venezuela,40,42,tempo_tecnico,
+Q3,2:34,Russia,40,42,substituicao_entra,Nikita Kurbanov
+Q3,2:34,Russia,40,42,substituicao_sai,Vitaly Fridzon
+Q3,2:34,Russia,40,42,2_Pts_C,Grigory Motovilov
+Q3,2:47,Venezuela,40,40,,Pedro Chourio3pt jump shot missed
+Q3,2:47,Russia,40,40,RD,Vitaly Fridzon
+Q3,2:50,Russia,40,40,substituicao_entra,Evgenii Baburin
+Q3,2:50,Russia,40,40,substituicao_sai,Vladimir Ivlev
+Q3,3:11,Russia,40,40,AS,Evgenii Baburin
+Q3,3:11,Russia,40,40,3_Pts_C,Andrey Vorontsevich
+Q3,3:27,Venezuela,40,37,2_Pts_C,Michael Carrera
+Q3,3:53,Venezuela,38,37,RD,Luis Bethelmy
+Q3,3:53,Russia,38,37,2_Pts_T,Vitaly Fridzon
+Q3,4:00,Venezuela,38,37,ER,Jose Vargas
+Q3,4:00,Russia,38,37,BR,Grigory Motovilov
+Q3,4:13,Venezuela,38,37,substituicao_entra,Gregory Vargas
+Q3,4:13,Venezuela,38,37,substituicao_sai,Heissler Guillent
+Q3,4:13,Venezuela,38,37,FR,Pedro Chourio
+Q3,4:13,Russia,38,37,FC,Vitaly Fridzon
+Q3,4:18,Russia,38,37,,Grigory Motovilov3pt jump shot made
+Q3,4:31,Venezuela,38,34,2_Pts_C,Jose Vargas
+Q3,4:45,Venezuela,36,34,substituicao_entra,Heissler Guillent
+Q3,4:45,Venezuela,36,34,substituicao_sai,Dwight Lewis
+Q3,4:45,Venezuela,36,34,substituicao_entra,Luis Bethelmy
+Q3,4:45,Venezuela,36,34,substituicao_sai,Miguel Ruiz
+Q3,4:45,Venezuela,36,34,RO,
+Q3,4:47,Venezuela,36,34,2_Pts_T,Dwight Lewis
+Q3,5:05,Russia,36,34,AS,Andrey Vorontsevich
+Q3,5:05,Russia,36,34,2_Pts_C,Evgeny Valiev
+Q3,5:25,Venezuela,36,32,substituicao_entra,Jose Vargas
+Q3,5:25,Venezuela,36,32,substituicao_sai,Heissler Guillent
+Q3,5:25,Venezuela,36,32,substituicao_entra,Pedro Chourio
+Q3,5:25,Venezuela,36,32,substituicao_sai,Jhornan Zamora
+Q3,5:25,Russia,36,32,substituicao_entra,Evgeny Valiev
+Q3,5:25,Russia,36,32,substituicao_sai,Nikita Kurbanov
+Q3,5:26,Venezuela,36,32,ER,Michael Carrera
+Q3,5:47,Russia,36,32,AS,Grigory Motovilov
+Q3,5:47,Russia,36,32,,Nikita Kurbanov3pt jump shot made
+Q3,6:03,Venezuela,36,29,,Jhornan Zamora2pt jump shot missed
+Q3,6:03,Russia,36,29,RD,Grigory Motovilov
+Q3,6:10,Venezuela,36,29,BR,Michael Carrera
+Q3,6:10,Russia,36,29,ER,Vladimir Ivlev
+Q3,6:21,Venezuela,36,29,,Michael Carrera2pt jump shot missed
+Q3,6:21,Russia,36,29,RD,Nikita Kurbanov
+Q3,6:31,Venezuela,36,29,RD,Michael Carrera
+Q3,6:31,Russia,36,29,,Vladimir Ivlevlayup missed
+Q3,6:47,Venezuela,36,29,ER ,
+Q3,6:55,Venezuela,36,29,2_Pts_T,Miguel Ruiz
+Q3,6:58,Venezuela,36,29,RO,Miguel Ruiz
+Q3,6:58,Venezuela,36,29,,Heissler Guillent2pt jump shot missed
+Q3,7:20,Venezuela,36,29,FR,Heissler Guillent
+Q3,7:20,Venezuela,36,29,RD,
+Q3,7:20,Russia,36,29,FC,Vladimir Ivlev
+Q3,7:20,Russia,36,29,2_Pts_T,Grigory Motovilov
+Q3,7:38,Venezuela,36,29,AS,Heissler Guillent
+Q3,7:38,Venezuela,36,29,,Jhornan Zamora3pt jump shot made
+Q3,7:57,Russia,33,29,2_Pts_C,Grigory Motovilov
+Q3,8:19,Venezuela,33,27,AS,Heissler Guillent
+Q3,8:19,Venezuela,33,27,2_Pts_C,Jhornan Zamora
+Q3,8:19,Russia,33,27,substituicao_entra,Grigory Motovilov
+Q3,8:19,Russia,33,27,substituicao_sai,Mikhail Kulagin
+Q3,8:19,Russia,33,27,tempo_tecnico,
+Q3,8:23,Venezuela,31,27,RD,Michael Carrera
+Q3,8:23,Venezuela,31,27,TO,Michael Carrera
+Q3,8:23,Russia,31,27,2_Pts_T,Vitaly Fridzon
+Q3,8:50,Venezuela,31,27,AS,Miguel Ruiz
+Q3,8:50,Venezuela,31,27,,Michael Carrera2pt jump shot made
+Q3,9:08,Venezuela,29,27,RD,
+Q3,9:09,Russia,29,27,,Andrey Vorontsevichlayup missed
+Q3,9:28,Venezuela,29,27,2_Pts_C,Dwight Lewis
+Q3,9:43,Venezuela,27,27,RO,Michael Carrera
+Q3,9:43,Venezuela,27,27,,Heissler Guillent3pt jump shot missed
+Q4,0:02,Venezuela,60,67,FC,Miguel Ruiz
+Q4,0:02,Russia,60,69,substituicao_entra,Andrei Sopin
+Q4,0:02,Russia,60,69,substituicao_sai,Andrey Vorontsevich
+Q4,0:02,Russia,60,69,LL_Pts_C,Andrey Vorontsevich
+Q4,0:02,Russia,60,68,LL_Pts_C,Andrey Vorontsevich
+Q4,0:02,Russia,60,67,FR,Andrey Vorontsevich
+Q4,0:16,Venezuela,60,67,,Jhornan Zamora3pt jump shot missed
+Q4,0:16,Russia,60,67,RD,Nikita Kurbanov
+Q4,0:22,Venezuela,60,67,RD,Luis Bethelmy
+Q4,0:22,Venezuela,60,66,substituicao_entra,Luis Bethelmy
+Q4,0:22,Venezuela,60,66,substituicao_sai,Michael Carrera
+Q4,0:22,Venezuela,60,66,FC,Michael Carrera
+Q4,0:22,Russia,60,67,LL_Pts_T,Andrey Zubkov
+Q4,0:22,Russia,60,67,LL_Pts_C,Andrey Zubkov
+Q4,0:22,Russia,60,66,FR,Andrey Zubkov
+Q4,0:23,Venezuela,60,66,LL_Pts_C,Michael Carrera
+Q4,0:23,Venezuela,59,66,LL_Pts_C,Michael Carrera
+Q4,0:23,Venezuela,58,66,substituicao_entra,Pedro Chourio
+Q4,0:23,Venezuela,58,66,substituicao_sai,Luis Bethelmy
+Q4,0:23,Venezuela,58,66,FR,Michael Carrera
+Q4,0:23,Russia,58,66,FC,Nikita Kurbanov
+Q4,0:37,Venezuela,58,66,RD,Michael Carrera
+Q4,0:37,Venezuela,58,66,substituicao_entra,Luis Bethelmy
+Q4,0:37,Venezuela,58,66,substituicao_sai,Nestor Colmenares
+Q4,0:37,Venezuela,58,66,FC,Nestor Colmenares
+Q4,0:37,Russia,58,66,LL_Pts_T,Grigory Motovilov
+Q4,0:37,Russia,58,66,LL_Pts_T,Grigory Motovilov
+Q4,0:37,Russia,58,66,FR,Grigory Motovilov
+Q4,0:44,Venezuela,58,66,2_Pts_C,Gregory Vargas
+Q4,0:44,Russia,58,66,substituicao_entra,Andrey Vorontsevich
+Q4,0:44,Russia,58,66,substituicao_sai,Evgeny Valiev
+Q4,0:44,Russia,58,66,substituicao_entra,Vitaly Fridzon
+Q4,0:44,Russia,58,66,substituicao_sai,Evgenii Baburin
+Q4,0:44,Russia,58,66,tempo_tecnico,
+Q4,0:50,Venezuela,56,66,substituicao_entra,Jhornan Zamora
+Q4,0:50,Venezuela,56,66,substituicao_sai,Pedro Chourio
+Q4,0:50,Venezuela,56,66,tempo_tecnico,
+Q4,0:50,Venezuela,56,65,FC,Pedro Chourio
+Q4,0:50,Russia,56,66,LL_Pts_C,Andrey Zubkov
+Q4,0:50,Russia,56,65,LL_Pts_T,Andrey Zubkov
+Q4,0:50,Russia,56,65,FR,Andrey Zubkov
+Q4,0:52,Venezuela,56,65,2_Pts_T,Michael Carrera
+Q4,0:52,Russia,56,65,RD,Andrey Zubkov
+Q4,10:00,Russia,42,48,muda_bola,
+Q4,1:10,Venezuela,56,65,RD,Michael Carrera
+Q4,1:10,Russia,56,65,LL_Pts_T,Evgeny Valiev
+Q4,1:13,Venezuela,56,65,substituicao_entra,Gregory Vargas
+Q4,1:13,Venezuela,56,65,substituicao_sai,Heissler Guillent
+Q4,1:13,Venezuela,56,65,FC,Michael Carrera
+Q4,1:13,Russia,56,65,FR,Evgeny Valiev
+Q4,1:13,Russia,56,65,AS,Evgenii Baburin
+Q4,1:13,Russia,56,65,,Evgeny Valiev2pt jump shot made
+Q4,1:28,Venezuela,56,63,LL_Pts_C,Michael Carrera
+Q4,1:28,Venezuela,55,63,LL_Pts_C,Michael Carrera
+Q4,1:28,Venezuela,54,63,FR,Michael Carrera
+Q4,1:28,Russia,54,63,FC,Nikita Kurbanov
+Q4,1:28,Russia,54,63,RD,
+Q4,1:29,Venezuela,54,63,,Nestor Colmenares3pt jump shot missed
+Q4,1:42,Venezuela,54,63,RD,Michael Carrera
+Q4,1:42,Venezuela,54,62,FC,Miguel Ruiz
+Q4,1:42,Russia,54,63,LL_Pts_T,Evgeny Valiev
+Q4,1:42,Russia,54,63,LL_Pts_C,Evgeny Valiev
+Q4,1:42,Russia,54,62,substituicao_entra,Evgenii Baburin
+Q4,1:42,Russia,54,62,substituicao_sai,Vitaly Fridzon
+Q4,1:42,Russia,54,62,FR,Evgeny Valiev
+Q4,1:42,Russia,54,62,RO,
+Q4,1:43,Russia,54,62,2_Pts_T,Grigory Motovilov
+Q4,2:13,Venezuela,54,62,,Heissler Guillent2pt jump shot made
+Q4,2:26,Venezuela,52,61,FC,Heissler Guillent
+Q4,2:26,Russia,52,62,substituicao_entra,Andrey Zubkov
+Q4,2:26,Russia,52,62,substituicao_sai,Andrey Vorontsevich
+Q4,2:26,Russia,52,62,LL_Pts_C,Grigory Motovilov
+Q4,2:26,Russia,52,61,FR,Grigory Motovilov
+Q4,2:26,Russia,52,61,,Grigory Motovilov2pt jump shot made
+Q4,2:46,Venezuela,52,59,,Nestor Colmenares2pt jump shot made
+Q4,2:49,Venezuela,50,59,RO,Nestor Colmenares
+Q4,2:49,Venezuela,50,59,2_Pts_T,Michael Carrera
+Q4,3:10,Russia,50,59,2_Pts_C,Nikita Kurbanov
+Q4,3:22,Venezuela,50,57,FC,Michael Carrera
+Q4,3:22,Russia,50,57,FR,Nikita Kurbanov
+Q4,3:33,Venezuela,50,57,LL_Pts_C,Michael Carrera
+Q4,3:33,Venezuela,49,57,LL_Pts_C,Michael Carrera
+Q4,3:33,Venezuela,48,57,substituicao_entra,Miguel Ruiz
+Q4,3:33,Venezuela,48,57,substituicao_sai,Jhornan Zamora
+Q4,3:33,Venezuela,48,57,FR,Michael Carrera
+Q4,3:33,Russia,48,57,substituicao_entra,Evgeny Valiev
+Q4,3:33,Russia,48,57,substituicao_sai,Andrey Zubkov
+Q4,3:33,Russia,48,57,FC,Andrey Vorontsevich
+Q4,3:49,Russia,48,57,,Nikita Kurbanov2pt jump shot made
+Q4,4:00,Venezuela,48,55,substituicao_entra,Pedro Chourio
+Q4,4:00,Venezuela,48,55,substituicao_sai,Gregory Vargas
+Q4,4:00,Venezuela,48,55,FC,Jhornan Zamora
+Q4,4:00,Russia,48,55,substituicao_entra,Nikita Kurbanov
+Q4,4:00,Russia,48,55,substituicao_sai,Vladimir Ivlev
+Q4,4:00,Russia,48,55,FR,Andrey Zubkov
+Q4,4:11,Venezuela,48,55,,Michael Carrera2pt jump shot made
+Q4,4:14,Venezuela,46,55,RO,Michael Carrera
+Q4,4:14,Venezuela,46,55,2_Pts_T,Gregory Vargas
+Q4,4:19,Venezuela,46,55,RO,Gregory Vargas
+Q4,4:19,Venezuela,46,55,2_Pts_T,Heissler Guillent
+Q4,4:27,Venezuela,46,55,RD,Gregory Vargas
+Q4,4:27,Russia,46,55,,Grigory Motovilov3pt jump shot missed
+Q4,4:40,Venezuela,46,55,,Jhornan Zamoralayup missed
+Q4,4:40,Russia,46,55,RD,Vladimir Ivlev
+Q4,5:02,Russia,46,55,ER,Grigory Motovilov
+Q4,5:23,Venezuela,46,55,ER ,
+Q4,5:25,Venezuela,46,55,RO,Jhornan Zamora
+Q4,5:25,Venezuela,46,55,2_Pts_T,Gregory Vargas
+Q4,5:51,Russia,46,55,AS,Vladimir Ivlev
+Q4,5:51,Russia,46,55,3_Pts_C,Andrey Vorontsevich
+Q4,5:55,Venezuela,46,52,FC,Nestor Colmenares
+Q4,5:55,Russia,46,52,FR,Vladimir Ivlev
+Q4,6:08,Venezuela,46,52,2_Pts_T,Heissler Guillent
+Q4,6:08,Russia,46,52,RD,Andrey Vorontsevich
+Q4,6:22,Russia,46,52,ER,Vitaly Fridzon
+Q4,6:25,Venezuela,46,52,LL_Pts_C,Michael Carrera
+Q4,6:25,Venezuela,45,52,LL_Pts_C,Michael Carrera
+Q4,6:25,Venezuela,44,52,substituicao_entra,Heissler Guillent
+Q4,6:25,Venezuela,44,52,substituicao_sai,Dwight Lewis
+Q4,6:25,Venezuela,44,52,FR,Michael Carrera
+Q4,6:25,Russia,44,52,FC,Vladimir Ivlev
+Q4,6:46,Venezuela,44,52,substituicao_entra,Michael Carrera
+Q4,6:46,Venezuela,44,52,substituicao_sai,Miguel Ruiz
+Q4,6:46,Venezuela,44,52,tempo_tecnico,
+Q4,6:46,Russia,44,52,substituicao_entra,Vladimir Ivlev
+Q4,6:46,Russia,44,52,substituicao_sai,Evgeny Valiev
+Q4,6:46,Russia,44,52,AS,Andrey Zubkov
+Q4,6:46,Russia,44,52,,Andrey Vorontsevich2pt jump shot made
+Q4,7:05,Venezuela,44,50,2_Pts_T,Nestor Colmenares
+Q4,7:05,Russia,44,50,RD,Grigory Motovilov
+Q4,7:05,Russia,44,50,TO,Evgeny Valiev
+Q4,7:26,Russia,44,50,AS,Andrey Vorontsevich
+Q4,7:26,Russia,44,50,2_Pts_C,Andrey Zubkov
+Q4,7:32,Venezuela,44,48,LL_Pts_T,Nestor Colmenares
+Q4,7:32,Venezuela,44,48,LL_Pts_C,Nestor Colmenares
+Q4,7:32,Venezuela,43,48,FR,Nestor Colmenares
+Q4,7:32,Russia,44,48,RD,Andrey Vorontsevich
+Q4,7:32,Russia,43,48,FC,Andrey Vorontsevich
+Q4,7:54,Venezuela,43,48,FR,Miguel Ruiz
+Q4,7:54,Russia,43,48,substituicao_entra,Andrey Vorontsevich
+Q4,7:54,Russia,43,48,substituicao_sai,Nikita Kurbanov
+Q4,7:54,Russia,43,48,FC,Andrey Zubkov
+Q4,7:55,Venezuela,43,48,BR,Miguel Ruiz
+Q4,7:55,Russia,43,48,ER,Nikita Kurbanov
+Q4,7:57,Venezuela,43,48,substituicao_entra,Dwight Lewis
+Q4,7:57,Venezuela,43,48,substituicao_sai,Jose Vargas
+Q4,7:57,Venezuela,43,48,FC,Jhornan Zamora
+Q4,7:57,Russia,43,48,substituicao_entra,Vitaly Fridzon
+Q4,7:57,Russia,43,48,substituicao_sai,Evgenii Baburin
+Q4,7:57,Russia,43,48,FR,Andrey Zubkov
+Q4,8:11,Venezuela,43,48,,Jhornan Zamora3pt jump shot missed
+Q4,8:11,Russia,43,48,RD,Grigory Motovilov
+Q4,8:21,Venezuela,43,48,RO,Jose Vargas
+Q4,8:21,Venezuela,43,48,2_Pts_T,Jose Vargas
+Q4,8:21,Russia,43,48,TO,Andrey Zubkov
+Q4,8:30,Venezuela,43,48,RD,Miguel Ruiz
+Q4,8:30,Russia,43,48,,Grigory Motovilov2pt jump shot missed
+Q4,8:54,Venezuela,43,48,AS,Jhornan Zamora
+Q4,8:54,Venezuela,43,48,LL_Pts_C,Nestor Colmenares
+Q4,8:54,Venezuela,42,48,LL_Pts_T,Nestor Colmenares
+Q4,8:54,Venezuela,42,48,FR,Nestor Colmenares
+Q4,8:54,Russia,42,48,FC,Andrey Zubkov
+Q4,9:17,Venezuela,42,48,substituicao_entra,Jhornan Zamora
+Q4,9:17,Venezuela,42,48,substituicao_sai,Heissler Guillent
+Q4,9:17,Russia,42,48,ER,Nikita Kurbanov
+Q4,9:24,Venezuela,42,48,3_Pts_T,Jose Vargas
+Q4,9:24,Russia,42,48,RD,Evgeny Valiev
+Q4,9:33,Venezuela,42,48,RO,Miguel Ruiz
+Q4,9:33,Venezuela,42,48,2_Pts_T,Gregory Vargas
+Q4,9:48,Venezuela,42,48,FR,Jose Vargas
+Q4,9:48,Venezuela,42,48,BR,Jose Vargas
+Q4,9:48,Russia,42,48,FC,Andrey Zubkov
+Q4,9:48,Russia,42,48,ER,Grigory Motovilov

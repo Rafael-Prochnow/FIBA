@@ -1,0 +1,519 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Russia,18,27,,Sergey Karasev3pt jump shot missed
+Q1,0:04,Korea,18,27,,Daesung Lee3pt jump shot made
+Q1,0:22,Russia,15,27,AS,Evgenii Baburin
+Q1,0:22,Russia,15,27,,Grigory Motovilov3pt jump shot made
+Q1,0:44,Korea,15,24,LL_Pts_C,Sunhyung Kim
+Q1,0:44,Korea,14,24,FR,Sunhyung Kim
+Q1,0:44,Korea,14,24,AS,Daesung Lee
+Q1,0:44,Korea,14,24,,Sunhyung Kimlayup made
+Q1,0:44,Russia,14,24,FC,Grigory Motovilov
+Q1,0:57,Korea,12,22,FC,Heejong Yang
+Q1,0:57,Russia,12,24,substituicao_entra,Evgenii Baburin
+Q1,0:57,Russia,12,24,substituicao_sai,Mikhail Kulagin
+Q1,0:57,Russia,12,24,LL_Pts_C,Sergey Karasev
+Q1,0:57,Russia,12,23,LL_Pts_T,Sergey Karasev
+Q1,0:57,Russia,12,23,AS,Mikhail Kulagin
+Q1,0:57,Russia,12,23,LL_Pts_C,Sergey Karasev
+Q1,0:57,Russia,12,22,FR,Sergey Karasev
+Q1,10:00,Korea,0,0,inicio_quarto,Guna RA
+Q1,1:26,Korea,12,22,LL_Pts_T,Guna RA
+Q1,1:26,Korea,12,22,LL_Pts_C,Guna RA
+Q1,1:26,Korea,11,22,FR,Guna RA
+Q1,1:26,Russia,12,22,RD,Semen Antonov
+Q1,1:26,Russia,11,22,substituicao_entra,Andrey Zubkov
+Q1,1:26,Russia,11,22,substituicao_sai,Andrey Vorontsevich
+Q1,1:26,Russia,11,22,substituicao_entra,Grigory Motovilov
+Q1,1:26,Russia,11,22,substituicao_sai,Vitaly Fridzon
+Q1,1:26,Russia,11,22,FC,Vitaly Fridzon
+Q1,1:40,Russia,11,22,AS,Andrey Vorontsevich
+Q1,1:40,Russia,11,22,,Semen Antonov2pt jump shot made
+Q1,1:58,Korea,11,20,AS,Daesung Lee
+Q1,1:58,Korea,11,20,,Sunhyung Kimlayup made
+Q1,2:09,Korea,9,20,RD,Daesung Lee
+Q1,2:09,Russia,9,20,,Andrey Vorontsevich3pt jump shot missed
+Q1,2:16,Korea,9,20,,Daesung Lee3pt jump shot missed
+Q1,2:16,Russia,9,20,RD,Mikhail Kulagin
+Q1,2:26,Korea,9,20,RD,Guna RA
+Q1,2:26,Russia,9,20,,Andrey Vorontsevich2pt jump shot missed
+Q1,2:44,Korea,9,20,,Daesung Leelayup made
+Q1,3:02,Russia,7,20,ER,Sergey Karasev
+Q1,3:20,Korea,7,20,LL_Pts_T,Guna RA
+Q1,3:20,Korea,7,20,LL_Pts_T,Guna RA
+Q1,3:20,Korea,7,20,FR,Guna RA
+Q1,3:20,Korea,7,20,RO,
+Q1,3:20,Russia,7,20,RD,Andrey Vorontsevich
+Q1,3:20,Russia,7,20,substituicao_entra,Sergey Karasev
+Q1,3:20,Russia,7,20,substituicao_sai,Nikita Kurbanov
+Q1,3:20,Russia,7,20,FC,Semen Antonov
+Q1,3:22,Korea,7,20,,Sunhyung Kim3pt jump shot missed
+Q1,3:44,Russia,7,20,AS,Nikita Kurbanov
+Q1,3:44,Russia,7,20,3_Pts_C,Andrey Vorontsevich
+Q1,4:01,Korea,7,17,,Guna RAlayup missed
+Q1,4:01,Russia,7,17,RD,Andrey Vorontsevich
+Q1,4:06,Korea,7,17,RO,Guna RA
+Q1,4:06,Korea,7,17,,Seounghyun Lee3pt jump shot missed
+Q1,4:18,Korea,7,17,substituicao_entra,Daesung Lee
+Q1,4:18,Korea,7,17,substituicao_sai,Junghyun Lee
+Q1,4:18,Korea,7,17,substituicao_entra,Heejong Yang
+Q1,4:18,Korea,7,17,substituicao_sai,Junyong Choi
+Q1,4:18,Korea,7,17,FR,Sunhyung Kim
+Q1,4:18,Russia,7,17,substituicao_entra,Semen Antonov
+Q1,4:18,Russia,7,17,substituicao_sai,Vladimir Ivlev
+Q1,4:18,Russia,7,17,FC,Vladimir Ivlev
+Q1,4:32,Russia,7,17,AS,Andrey Vorontsevich
+Q1,4:32,Russia,7,17,,Vitaly Fridzon3pt jump shot made
+Q1,4:56,Korea,7,14,,Junghyun Lee2pt jump shot missed
+Q1,4:56,Russia,7,14,RD,Mikhail Kulagin
+Q1,5:20,Russia,7,14,AS,Nikita Kurbanov
+Q1,5:20,Russia,7,14,,Vladimir Ivlevdunk made
+Q1,5:28,Korea,7,12,FC,Sunhyung Kim
+Q1,5:28,Russia,7,12,FR,Mikhail Kulagin
+Q1,5:41,Russia,7,12,RO,Andrey Vorontsevich
+Q1,5:41,Russia,7,12,,Vitaly Fridzon3pt jump shot missed
+Q1,5:53,Korea,7,12,ER,Seounghyun Lee
+Q1,6:11,Korea,7,12,RD,Seounghyun Lee
+Q1,6:11,Korea,7,11,FC,Junyong Choi
+Q1,6:11,Russia,7,12,LL_Pts_T,Vladimir Ivlev
+Q1,6:11,Russia,7,12,AS,Nikita Kurbanov
+Q1,6:11,Russia,7,12,LL_Pts_C,Vladimir Ivlev
+Q1,6:11,Russia,7,11,FR,Vladimir Ivlev
+Q1,6:19,Korea,7,11,,Guna RA2pt jump shot missed
+Q1,6:19,Russia,7,11,RD,Andrey Vorontsevich
+Q1,6:32,Korea,7,11,FR,Seounghyun Lee
+Q1,6:32,Russia,7,11,FC,Mikhail Kulagin
+Q1,6:35,Korea,7,11,FR,Guna RA
+Q1,6:35,Russia,7,11,FC,Vitaly Fridzon
+Q1,6:37,Korea,7,11,RO,Guna RA
+Q1,6:37,Korea,7,11,,Sunhyung Kim3pt jump shot missed
+Q1,6:49,Korea,7,11,RD,Guna RA
+Q1,6:49,Russia,7,11,,Nikita Kurbanov2pt jump shot missed
+Q1,7:08,Korea,7,11,,Guna RAlayup made
+Q1,7:10,Korea,5,11,RO,Guna RA
+Q1,7:10,Korea,5,11,,Junghyun Lee3pt jump shot missed
+Q1,7:20,Korea,5,11,tempo_tecnico,
+Q1,7:25,Russia,5,11,,Andrey Vorontsevichlayup made
+Q1,7:39,Russia,5,9,RO,Vladimir Ivlev
+Q1,7:39,Russia,5,9,,Vladimir Ivlevtip in missed
+Q1,7:40,Russia,5,9,RO,Vladimir Ivlev
+Q1,7:40,Russia,5,9,,Andrey Vorontsevich2pt jump shot missed
+Q1,7:43,Korea,5,9,ER,Guna RA
+Q1,7:43,Russia,5,9,BR,Vitaly Fridzon
+Q1,8:04,Russia,5,9,AS,Vitaly Fridzon
+Q1,8:04,Russia,5,9,,Andrey Vorontsevichlayup made
+Q1,8:19,Korea,5,7,AS,Sunhyung Kim
+Q1,8:19,Korea,5,7,,Junyong Choilayup made
+Q1,8:31,Russia,3,7,AS,Nikita Kurbanov
+Q1,8:31,Russia,3,7,,Vitaly Fridzon3pt jump shot made
+Q1,8:48,Korea,3,4,AS,Junyong Choi
+Q1,8:48,Korea,3,4,,Seounghyun Lee2pt jump shot made
+Q1,8:58,Korea,1,2,FC,Junyong Choi
+Q1,8:58,Russia,1,4,LL_Pts_C,Nikita Kurbanov
+Q1,8:58,Russia,1,3,LL_Pts_C,Nikita Kurbanov
+Q1,8:58,Russia,1,2,FR,Nikita Kurbanov
+Q1,9:11,Korea,1,2,LL_Pts_T,Junghyun Lee
+Q1,9:11,Korea,1,2,LL_Pts_C,Junghyun Lee
+Q1,9:11,Korea,0,2,FR,Junghyun Lee
+Q1,9:11,Russia,1,2,RD,Nikita Kurbanov
+Q1,9:11,Russia,0,2,FC,Nikita Kurbanov
+Q1,9:23,Russia,0,2,AS,Vitaly Fridzon
+Q1,9:23,Russia,0,2,,Andrey Vorontsevichlayup made
+Q1,9:30,Korea,0,0,,Junyong Choi3pt jump shot missed
+Q1,9:30,Russia,0,0,RD,Vladimir Ivlev
+Q1,9:45,Korea,0,0,RD,Sunhyung Kim
+Q1,9:45,Russia,0,0,,Mikhail Kulagin2pt jump shot missed
+Q1,9:51,Korea,0,0,ER,Guna RA
+Q1,9:51,Russia,0,0,BR,Mikhail Kulagin
+Q2,0:00,Korea,37,40,3_Pts_T,Chan Hee Park
+Q2,0:04,Korea,37,40,RD,Hyogeun Jeong
+Q2,0:04,Korea,37,39,FC,Hyogeun Jeong
+Q2,0:04,Russia,37,40,LL_Pts_T,Vitaly Fridzon
+Q2,0:04,Russia,37,40,LL_Pts_C,Vitaly Fridzon
+Q2,0:04,Russia,37,39,substituicao_entra,Evgeny Valiev
+Q2,0:04,Russia,37,39,substituicao_sai,Semen Antonov
+Q2,0:04,Russia,37,39,FR,Vitaly Fridzon
+Q2,0:05,Korea,37,39,ER,Seounghyun Lee
+Q2,0:05,Russia,37,39,BR,Vitaly Fridzon
+Q2,0:19,Korea,37,39,RD,Junghyun Lee
+Q2,0:19,Russia,37,39,,Semen Antonovlayup missed
+Q2,0:22,Russia,37,39,RO,Semen Antonov
+Q2,0:22,Russia,37,39,,Semen Antonovlayup missed
+Q2,0:43,Russia,37,39,tempo_tecnico,
+Q2,0:44,Korea,37,39,AS,Junghyun Lee
+Q2,0:44,Korea,37,39,,Hyogeun Jeong2pt jump shot made
+Q2,0:56,Korea,35,39,RD,Junghyun Lee
+Q2,0:56,Russia,35,39,,Andrey Vorontsevich3pt jump shot missed
+Q2,10:00,Russia,0,0,muda_bola,
+Q2,1:05,Russia,35,39,RO,
+Q2,1:09,Russia,35,39,,Vitaly Fridzonlayup missed
+Q2,1:31,Korea,35,39,ER,Hyogeun Jeong
+Q2,1:35,Korea,35,39,BR,Chan Hee Park
+Q2,1:35,Russia,35,39,ER,Nikita Kurbanov
+Q2,1:52,Korea,35,39,LL_Pts_C,Chan Hee Park
+Q2,1:52,Korea,34,39,LL_Pts_T,Chan Hee Park
+Q2,1:52,Korea,34,39,substituicao_entra,Seounghyun Lee
+Q2,1:52,Korea,34,39,substituicao_sai,Guna RA
+Q2,1:52,Korea,34,39,tempo_tecnico,
+Q2,1:52,Korea,34,39,FR,Chan Hee Park
+Q2,1:52,Russia,34,39,substituicao_entra,Semen Antonov
+Q2,1:52,Russia,34,39,substituicao_sai,Vladimir Ivlev
+Q2,1:52,Russia,34,39,FC,Vladimir Ivlev
+Q2,2:05,Korea,34,39,RD,Chan Hee Park
+Q2,2:05,Russia,34,39,,Nikita Kurbanovtip in missed
+Q2,2:07,Russia,34,39,RO,Nikita Kurbanov
+Q2,2:07,Russia,34,39,,Mikhail Kulagin2pt jump shot missed
+Q2,2:13,Korea,34,39,,Guna RA2pt jump shot missed
+Q2,2:13,Russia,34,39,RD,Andrey Vorontsevich
+Q2,2:37,Russia,34,39,AS,Nikita Kurbanov
+Q2,2:37,Russia,34,39,,Vitaly Fridzonlayup made
+Q2,2:51,Korea,34,37,LL_Pts_C,Guna RA
+Q2,2:51,Korea,33,37,LL_Pts_C,Guna RA
+Q2,2:51,Korea,32,37,FR,Guna RA
+Q2,2:51,Russia,32,37,FC,Vladimir Ivlev
+Q2,3:10,Korea,32,37,substituicao_entra,Junyong Choi
+Q2,3:10,Korea,32,37,substituicao_sai,Seounghyun Lee
+Q2,3:10,Korea,32,35,FC,Chan Hee Park
+Q2,3:10,Russia,32,37,LL_Pts_C,Mikhail Kulagin
+Q2,3:10,Russia,32,36,LL_Pts_C,Mikhail Kulagin
+Q2,3:10,Russia,32,35,substituicao_entra,Vladimir Ivlev
+Q2,3:10,Russia,32,35,substituicao_sai,Andrey Zubkov
+Q2,3:10,Russia,32,35,FR,Mikhail Kulagin
+Q2,3:30,Korea,32,35,AS,Chan Hee Park
+Q2,3:30,Korea,32,35,,Guna RA2pt jump shot made
+Q2,3:41,Russia,30,35,,Andrey Zubkovlayup made
+Q2,3:46,Russia,30,33,RO,Andrey Zubkov
+Q2,3:46,Russia,30,33,,Mikhail Kulagin3pt jump shot missed
+Q2,4:04,Korea,30,33,,Guna RAlayup made
+Q2,4:07,Korea,28,33,RO,Guna RA
+Q2,4:07,Korea,28,33,,Junghyun Lee3pt jump shot missed
+Q2,4:26,Korea,28,33,substituicao_entra,Junghyun Lee
+Q2,4:26,Korea,28,33,substituicao_sai,Daesung Lee
+Q2,4:26,Korea,28,32,FC,Guna RA
+Q2,4:26,Russia,28,33,AS,Andrey Vorontsevich
+Q2,4:26,Russia,28,33,LL_Pts_C,Nikita Kurbanov
+Q2,4:26,Russia,28,32,LL_Pts_T,Nikita Kurbanov
+Q2,4:26,Russia,28,32,FR,Nikita Kurbanov
+Q2,4:36,Korea,28,32,ER,Guna RA
+Q2,4:42,Korea,28,32,FR,Chan Hee Park
+Q2,4:42,Russia,28,32,FC,Mikhail Kulagin
+Q2,4:50,Korea,28,32,substituicao_entra,Hyogeun Jeong
+Q2,4:50,Korea,28,32,substituicao_sai,Heejong Yang
+Q2,4:52,Korea,28,31,FC,Heejong Yang
+Q2,4:52,Russia,28,32,LL_Pts_C,Nikita Kurbanov
+Q2,4:52,Russia,28,31,LL_Pts_T,Nikita Kurbanov
+Q2,4:52,Russia,28,31,FR,Nikita Kurbanov
+Q2,5:04,Korea,28,31,FC_O,Seounghyun Lee
+Q2,5:04,Russia,28,31,FR,Mikhail Kulagin
+Q2,5:13,Korea,28,31,RD,Heejong Yang
+Q2,5:13,Russia,28,31,,Andrey Zubkovlayup missed
+Q2,5:31,Korea,28,31,FC_O,Chan Hee Park
+Q2,5:31,Russia,28,31,FR,Vitaly Fridzon
+Q2,5:49,Korea,28,31,substituicao_entra,Chan Hee Park
+Q2,5:49,Korea,28,31,substituicao_sai,Sunhyung Kim
+Q2,5:49,Korea,28,31,FR,Daesung Lee
+Q2,5:49,Russia,28,31,substituicao_entra,Vitaly Fridzon
+Q2,5:49,Russia,28,31,substituicao_sai,Evgenii Baburin
+Q2,5:49,Russia,28,31,FC,Evgenii Baburin
+Q2,5:55,Korea,28,31,RD,Guna RA
+Q2,5:55,Russia,28,31,,Mikhail Kulagin3pt jump shot missed
+Q2,6:12,Russia,28,31,RD,
+Q2,6:13,Korea,28,31,,Daesung Lee3pt jump shot missed
+Q2,6:23,Korea,28,31,RO,Seounghyun Lee
+Q2,6:23,Korea,28,31,,Heejong Yang3pt jump shot missed
+Q2,6:47,Russia,28,31,AS,Andrey Vorontsevich
+Q2,6:47,Russia,28,31,,Andrey Zubkovlayup made
+Q2,7:00,Korea,28,29,FC,Sunhyung Kim
+Q2,7:00,Russia,28,29,substituicao_entra,Mikhail Kulagin
+Q2,7:00,Russia,28,29,substituicao_sai,Grigory Motovilov
+Q2,7:00,Russia,28,29,FR,Andrey Zubkov
+Q2,7:12,Korea,28,29,AS,Sunhyung Kim
+Q2,7:12,Korea,28,29,,Guna RAlayup made
+Q2,7:32,Russia,26,29,AS,Nikita Kurbanov
+Q2,7:32,Russia,26,29,,Andrey Vorontsevichlayup made
+Q2,7:48,Korea,26,27,FC,Daesung Lee
+Q2,7:48,Russia,26,27,substituicao_entra,Nikita Kurbanov
+Q2,7:48,Russia,26,27,substituicao_sai,Sergey Karasev
+Q2,7:48,Russia,26,27,FR,Grigory Motovilov
+Q2,7:57,Korea,26,27,AS,Sunhyung Kim
+Q2,7:57,Korea,26,27,,Seounghyun Lee3pt jump shot made
+Q2,8:02,Korea,23,27,FR,Seounghyun Lee
+Q2,8:02,Russia,23,27,FC,Grigory Motovilov
+Q2,8:15,Korea,23,27,BR,Heejong Yang
+Q2,8:15,Russia,23,27,ER,Andrey Zubkov
+Q2,8:42,Korea,23,27,,Daesung Lee3pt jump shot missed
+Q2,8:42,Russia,23,27,RD,Andrey Zubkov
+Q2,8:46,Korea,23,27,BR,Daesung Lee
+Q2,8:46,Russia,23,27,ER,Grigory Motovilov
+Q2,8:53,Russia,23,27,substituicao_entra,Andrey Vorontsevich
+Q2,8:53,Russia,23,27,substituicao_sai,Semen Antonov
+Q2,8:53,Russia,23,27,tempo_tecnico,
+Q2,8:54,Korea,23,27,AS,Sunhyung Kim
+Q2,8:54,Korea,23,27,,Guna RAlayup made
+Q2,9:10,Korea,21,27,RD,
+Q2,9:13,Russia,21,27,,Andrey Zubkov2pt jump shot missed
+Q2,9:40,Korea,21,27,,Daesung Lee3pt jump shot made
+Q2,9:49,Korea,0,0,RD,Heejong Yang
+Q2,9:49,Russia,0,0,,Semen Antonovlayup missed
+Q2,9:54,Korea,0,0,FC,Heejong Yang
+Q2,9:54,Russia,0,0,FR,Sergey Karasev
+Q3,0:00,Korea,49,63,3_Pts_T,Sunhyung Kim
+Q3,0:01,Korea,49,61,FC,Guna RA
+Q3,0:01,Russia,49,63,substituicao_entra,Evgenii Baburin
+Q3,0:01,Russia,49,63,substituicao_sai,Grigory Motovilov
+Q3,0:01,Russia,49,63,LL_Pts_C,Andrey Zubkov
+Q3,0:01,Russia,49,62,LL_Pts_C,Andrey Zubkov
+Q3,0:01,Russia,49,61,FR,Andrey Zubkov
+Q3,0:01,Russia,49,61,RD,
+Q3,0:03,Korea,49,61,,Sunhyung Kim2pt jump shot missed
+Q3,0:17,Korea,49,61,RD,Junyong Choi
+Q3,0:17,Russia,49,61,,Evgeny Valievlayup missed
+Q3,0:45,Korea,49,61,,Seounghyun Lee2pt jump shot missed
+Q3,0:45,Russia,49,61,RD,Andrey Zubkov
+Q3,10:00,Korea,0,0,muda_bola,
+Q3,1:10,Russia,49,61,,Grigory Motovilovlayup made
+Q3,1:30,Korea,49,59,,Guna RAlayup missed
+Q3,1:30,Russia,49,59,RD,Evgeny Valiev
+Q3,1:55,Russia,49,59,AS,Grigory Motovilov
+Q3,1:55,Russia,49,59,,Sergey Karasevlayup made
+Q3,2:02,Korea,49,57,FC,Daesung Lee
+Q3,2:02,Russia,49,57,FR,Grigory Motovilov
+Q3,2:07,Korea,49,57,ER,Junyong Choi
+Q3,2:09,Korea,49,57,RO,Junyong Choi
+Q3,2:09,Korea,49,57,,Junyong Choi3pt jump shot blocked
+Q3,2:09,Russia,49,57,TO,Andrey Zubkov
+Q3,2:24,Korea,49,57,BR,Guna RA
+Q3,2:24,Russia,49,57,ER,Semen Antonov
+Q3,2:46,Korea,49,57,,Daesung Lee3pt jump shot made
+Q3,2:55,Korea,46,57,RD,Junyong Choi
+Q3,2:55,Korea,46,57,FC,Sunhyung Kim
+Q3,2:55,Russia,46,57,LL_Pts_T,Grigory Motovilov
+Q3,2:55,Russia,46,57,,Grigory Motovilov1st of 2 free throw missed
+Q3,2:55,Russia,46,57,FR,Grigory Motovilov
+Q3,3:10,Russia,46,57,RO,Evgeny Valiev
+Q3,3:10,Russia,46,57,,Sergey Karasev3pt jump shot missed
+Q3,3:18,Korea,46,57,ER,Guna RA
+Q3,3:18,Russia,46,57,BR,Semen Antonov
+Q3,3:32,Russia,46,57,,Semen Antonovlayup made
+Q3,3:34,Korea,46,55,TO,Seounghyun Lee
+Q3,3:34,Russia,46,55,RO,Semen Antonov
+Q3,3:34,Russia,46,55,2_Pts_T,Sergey Karasev
+Q3,3:39,Korea,46,55,2_Pts_T,Sunhyung Kim
+Q3,3:39,Russia,46,55,RD,Semen Antonov
+Q3,3:39,Russia,46,55,TO,Andrey Zubkov
+Q3,3:49,Korea,46,55,LL_Pts_C,Sunhyung Kim
+Q3,3:49,Korea,45,55,LL_Pts_T,Sunhyung Kim
+Q3,3:49,Korea,45,55,FR,Sunhyung Kim
+Q3,3:49,Russia,45,55,FC_A,Sergey Karasev
+Q3,3:57,Korea,45,55,RD,Seounghyun Lee
+Q3,3:57,Russia,45,55,,Grigory Motovilov3pt jump shot missed
+Q3,4:20,Korea,45,55,LL_Pts_C,Guna RA
+Q3,4:20,Korea,44,55,LL_Pts_C,Guna RA
+Q3,4:20,Korea,43,55,FR,Guna RA
+Q3,4:20,Russia,43,55,substituicao_entra,Evgeny Valiev
+Q3,4:20,Russia,43,55,substituicao_sai,Nikita Kurbanov
+Q3,4:20,Russia,43,55,substituicao_entra,Semen Antonov
+Q3,4:20,Russia,43,55,substituicao_sai,Vladimir Ivlev
+Q3,4:20,Russia,43,55,FC,Grigory Motovilov
+Q3,4:36,Russia,43,55,AS,Sergey Karasev
+Q3,4:36,Russia,43,55,,Vladimir Ivlevdunk made
+Q3,4:42,Korea,43,53,,Seounghyun Lee2pt jump shot missed
+Q3,4:42,Russia,43,53,RD,Nikita Kurbanov
+Q3,4:52,Russia,43,53,AS,Andrey Zubkov
+Q3,4:52,Russia,43,53,,Vladimir Ivlevlayup made
+Q3,5:12,Korea,43,51,,Guna RAlayup made
+Q3,5:30,Korea,41,49,FC,Daesung Lee
+Q3,5:30,Russia,41,51,LL_Pts_C,Grigory Motovilov
+Q3,5:30,Russia,41,50,LL_Pts_C,Grigory Motovilov
+Q3,5:30,Russia,41,49,FR,Grigory Motovilov
+Q3,5:40,Korea,41,49,,Sunhyung Kim2pt jump shot missed
+Q3,5:40,Russia,41,49,RD,Nikita Kurbanov
+Q3,5:52,Korea,41,49,RD,Daesung Lee
+Q3,5:52,Russia,41,49,,Sergey Karasev2pt jump shot missed
+Q3,6:11,Korea,41,49,AS,Seounghyun Lee
+Q3,6:11,Korea,41,49,,Guna RA2pt jump shot made
+Q3,6:15,Korea,39,49,FR,Daesung Lee
+Q3,6:15,Russia,39,49,substituicao_entra,Andrey Zubkov
+Q3,6:15,Russia,39,49,substituicao_sai,Andrey Vorontsevich
+Q3,6:15,Russia,39,49,FC,Sergey Karasev
+Q3,6:25,Korea,39,49,substituicao_entra,Sunhyung Kim
+Q3,6:25,Korea,39,49,substituicao_sai,Hyogeun Jeong
+Q3,6:25,Korea,39,49,substituicao_entra,Junyong Choi
+Q3,6:25,Korea,39,49,substituicao_sai,Chan Hee Park
+Q3,6:25,Korea,39,49,FR,Daesung Lee
+Q3,6:25,Russia,39,49,substituicao_entra,Grigory Motovilov
+Q3,6:25,Russia,39,49,substituicao_sai,Mikhail Kulagin
+Q3,6:25,Russia,39,49,FC,Mikhail Kulagin
+Q3,6:34,Korea,39,49,RD,Chan Hee Park
+Q3,6:34,Russia,39,49,,Andrey Vorontsevich3pt jump shot missed
+Q3,6:47,Korea,39,49,,Seounghyun Lee2pt jump shot missed
+Q3,6:47,Russia,39,49,RD,Nikita Kurbanov
+Q3,7:01,Korea,39,49,RD,Guna RA
+Q3,7:01,Russia,39,49,,Andrey Vorontsevich3pt jump shot missed
+Q3,7:23,Korea,39,49,,Daesung Lee2pt jump shot missed
+Q3,7:23,Russia,39,49,RD,Andrey Vorontsevich
+Q3,7:45,Russia,39,49,,Nikita Kurbanovlayup made
+Q3,7:47,Russia,39,47,RO,Nikita Kurbanov
+Q3,7:47,Russia,39,47,,Mikhail Kulaginlayup missed
+Q3,7:54,Korea,39,47,,Hyogeun Jeong3pt jump shot missed
+Q3,7:54,Russia,39,47,RD,Andrey Vorontsevich
+Q3,8:01,Korea,39,47,RO,Guna RA
+Q3,8:01,Korea,39,47,,Daesung Lee3pt jump shot missed
+Q3,8:07,Korea,39,47,BR,Chan Hee Park
+Q3,8:07,Russia,39,47,ER,Mikhail Kulagin
+Q3,8:26,Korea,39,47,ER,Daesung Lee
+Q3,8:41,Korea,39,47,substituicao_entra,Daesung Lee
+Q3,8:41,Korea,39,47,substituicao_sai,Junghyun Lee
+Q3,8:45,Korea,39,47,tempo_tecnico,
+Q3,8:45,Russia,39,47,,Sergey Karasevlayup made
+Q3,8:48,Korea,39,45,ER,Junghyun Lee
+Q3,8:48,Russia,39,45,BR,Sergey Karasev
+Q3,9:09,Russia,39,45,AS,Mikhail Kulagin
+Q3,9:09,Russia,39,45,,Sergey Karasev3pt jump shot made
+Q3,9:13,Korea,39,42,FC,Junghyun Lee
+Q3,9:13,Russia,39,42,FR,Vladimir Ivlev
+Q3,9:23,Korea,39,42,,Guna RAlayup missed
+Q3,9:23,Russia,39,42,RD,Vladimir Ivlev
+Q3,9:37,Russia,39,42,AS,Nikita Kurbanov
+Q3,9:37,Russia,39,42,,Mikhail Kulaginlayup made
+Q3,9:44,Russia,39,40,substituicao_entra,Sergey Karasev
+Q3,9:44,Russia,39,40,substituicao_sai,Vitaly Fridzon
+Q3,9:47,Korea,39,40,AS,Guna RA
+Q3,9:47,Korea,39,40,,Chan Hee Park2pt jump shot made
+Q4,0:01,Russia,73,87,AS,Mikhail Kulagin
+Q4,0:01,Russia,73,87,,Andrey Vorontsevichlayup made
+Q4,0:24,Korea,73,85,AS,Jongkyu Kim
+Q4,0:24,Korea,73,85,,Hoon Heo2pt jump shot made
+Q4,0:42,Russia,71,85,,Mikhail Kulagin2pt jump shot made
+Q4,10:00,Korea,0,0,FC,Junghyun Lee
+Q4,10:00,Russia,0,0,FR,Sergey Karasev
+Q4,10:00,Russia,0,0,muda_bola,
+Q4,1:06,Korea,71,83,LL_Pts_T,Hoon Heo
+Q4,1:06,Korea,71,83,LL_Pts_C,Hoon Heo
+Q4,1:06,Korea,70,83,FR,Hoon Heo
+Q4,1:06,Russia,71,83,RD,Sergey Karasev
+Q4,1:06,Russia,70,83,FC,Grigory Motovilov
+Q4,1:19,Korea,70,81,substituicao_entra,Sunhyung Kim
+Q4,1:19,Korea,70,81,substituicao_sai,Daesung Lee
+Q4,1:19,Korea,70,81,FC,Daesung Lee
+Q4,1:19,Russia,70,83,LL_Pts_C,Mikhail Kulagin
+Q4,1:19,Russia,70,82,LL_Pts_C,Mikhail Kulagin
+Q4,1:19,Russia,70,81,FR,Mikhail Kulagin
+Q4,1:30,Russia,70,81,substituicao_entra,Grigory Motovilov
+Q4,1:30,Russia,70,81,substituicao_sai,Andrei Sopin
+Q4,1:36,Korea,70,81,LL_Pts_C,Daesung Lee
+Q4,1:36,Korea,69,81,LL_Pts_C,Daesung Lee
+Q4,1:36,Korea,68,81,LL_Pts_C,Daesung Lee
+Q4,1:36,Korea,67,81,FR,Daesung Lee
+Q4,1:36,Russia,70,81,substituicao_entra,Mikhail Kulagin
+Q4,1:36,Russia,70,81,substituicao_sai,Evgenii Baburin
+Q4,1:36,Russia,70,81,tempo_tecnico,
+Q4,1:36,Russia,67,81,FC,Andrei Sopin
+Q4,1:52,Korea,67,81,substituicao_entra,Jongkyu Kim
+Q4,1:52,Korea,67,81,substituicao_sai,Seounghyun Lee
+Q4,1:52,Korea,67,81,substituicao_entra,Hyogeun Jeong
+Q4,1:52,Korea,67,81,substituicao_sai,Junghyun Lee
+Q4,1:52,Russia,67,81,substituicao_entra,Andrey Vorontsevich
+Q4,1:52,Russia,67,81,substituicao_sai,Nikita Kurbanov
+Q4,1:52,Russia,67,81,substituicao_entra,Evgenii Baburin
+Q4,1:52,Russia,67,81,substituicao_sai,Evgeny Valiev
+Q4,1:52,Russia,67,81,substituicao_entra,Sergey Karasev
+Q4,1:52,Russia,67,81,substituicao_sai,Mikhail Kulagin
+Q4,1:52,Russia,67,81,substituicao_entra,Andrei Sopin
+Q4,1:52,Russia,67,81,substituicao_sai,Vitaly Fridzon
+Q4,1:58,Korea,67,81,FR,Daesung Lee
+Q4,1:58,Korea,67,81,BR,Daesung Lee
+Q4,1:58,Russia,67,81,FC,Andrey Zubkov
+Q4,1:58,Russia,67,81,ER,Nikita Kurbanov
+Q4,2:16,Korea,67,81,AS,Junghyun Lee
+Q4,2:16,Korea,67,81,,Daesung Lee3pt jump shot made
+Q4,2:42,Russia,64,81,AS,Vitaly Fridzon
+Q4,2:42,Russia,64,81,,Nikita Kurbanovlayup made
+Q4,2:53,Russia,64,79,RO,Evgeny Valiev
+Q4,2:53,Russia,64,79,,Mikhail Kulaginlayup missed
+Q4,3:20,Korea,64,79,AS,Junghyun Lee
+Q4,3:20,Korea,64,79,,Sangjae Kang3pt jump shot made
+Q4,3:39,Russia,61,79,AS,Nikita Kurbanov
+Q4,3:39,Russia,61,79,,Vitaly Fridzon2pt jump shot made
+Q4,3:43,Korea,61,77,ER,Sangjae Kang
+Q4,3:43,Russia,61,77,BR,Vitaly Fridzon
+Q4,3:58,Korea,61,77,FR,Sangjae Kang
+Q4,3:58,Russia,61,77,FC,Andrey Zubkov
+Q4,3:59,Korea,61,77,RD,Sangjae Kang
+Q4,3:59,Russia,61,77,,Andrey Zubkovdunk missed
+Q4,4:08,Korea,61,77,substituicao_entra,Sangjae Kang
+Q4,4:08,Korea,61,77,substituicao_sai,Guna RA
+Q4,4:08,Korea,61,77,substituicao_entra,Hoon Heo
+Q4,4:08,Korea,61,77,substituicao_sai,Chan Hee Park
+Q4,4:08,Korea,61,77,FC,Daesung Lee
+Q4,4:08,Russia,61,77,FR,Evgeny Valiev
+Q4,4:27,Korea,61,77,,Daesung Lee3pt jump shot missed
+Q4,4:27,Russia,61,77,RD,Vitaly Fridzon
+Q4,4:36,Korea,61,77,tempo_tecnico,
+Q4,4:36,Russia,61,77,AS,Mikhail Kulagin
+Q4,4:36,Russia,61,77,,Vitaly Fridzonlayup made
+Q4,4:39,Korea,61,75,ER,Junghyun Lee
+Q4,4:39,Russia,61,75,BR,Mikhail Kulagin
+Q4,4:53,Russia,61,75,,Mikhail Kulagin3pt jump shot made
+Q4,5:09,Korea,61,72,substituicao_entra,Daesung Lee
+Q4,5:09,Korea,61,72,substituicao_sai,Hyogeun Jeong
+Q4,5:09,Korea,61,72,LL_Pts_C,Hyogeun Jeong
+Q4,5:09,Korea,60,72,AS,Chan Hee Park
+Q4,5:09,Korea,60,72,LL_Pts_C,Hyogeun Jeong
+Q4,5:09,Korea,59,72,FR,Hyogeun Jeong
+Q4,5:09,Russia,59,72,substituicao_entra,Mikhail Kulagin
+Q4,5:09,Russia,59,72,substituicao_sai,Grigory Motovilov
+Q4,5:09,Russia,59,72,FC,Evgeny Valiev
+Q4,5:15,Korea,59,72,BR,Hyogeun Jeong
+Q4,5:15,Russia,59,72,ER,Grigory Motovilov
+Q4,5:20,Korea,59,72,ER,Chan Hee Park
+Q4,5:20,Russia,59,72,BR,Evgeny Valiev
+Q4,5:44,Russia,59,72,AS,Grigory Motovilov
+Q4,5:44,Russia,59,72,,Evgeny Valievlayup made
+Q4,5:50,Korea,59,70,FC,Junghyun Lee
+Q4,5:50,Russia,59,70,FR,Vitaly Fridzon
+Q4,6:09,Korea,59,70,AS,Seounghyun Lee
+Q4,6:09,Korea,59,70,,Junghyun Lee3pt jump shot made
+Q4,6:19,Russia,56,70,AS,Nikita Kurbanov
+Q4,6:19,Russia,56,70,,Andrey Zubkovlayup made
+Q4,6:44,Russia,56,68,tempo_tecnico,
+Q4,6:46,Korea,56,68,AS,Chan Hee Park
+Q4,6:46,Korea,56,68,,Junghyun Lee3pt jump shot made
+Q4,6:54,Korea,53,68,RD,Chan Hee Park
+Q4,6:54,Russia,53,68,,Nikita Kurbanovlayup missed
+Q4,6:58,Russia,53,68,RO,Evgeny Valiev
+Q4,6:58,Russia,53,68,,Grigory Motovilov3pt jump shot missed
+Q4,7:00,Korea,53,68,FC,Hyogeun Jeong
+Q4,7:00,Russia,53,68,substituicao_entra,Vitaly Fridzon
+Q4,7:00,Russia,53,68,substituicao_sai,Semen Antonov
+Q4,7:00,Russia,53,68,FR,Andrey Zubkov
+Q4,7:15,Korea,53,68,AS,Junghyun Lee
+Q4,7:15,Korea,53,68,,Seounghyun Lee2pt jump shot made
+Q4,7:23,Korea,51,68,RO,Chan Hee Park
+Q4,7:23,Korea,51,68,,Hyogeun Jeong3pt jump shot missed
+Q4,7:30,Korea,51,68,RO,Seounghyun Lee
+Q4,7:30,Korea,51,68,,Junghyun Lee3pt jump shot missed
+Q4,7:45,Korea,51,68,RD,Hyogeun Jeong
+Q4,7:45,Russia,51,68,,Nikita Kurbanov3pt jump shot missed
+Q4,8:04,Korea,51,68,,Guna RAlayup missed
+Q4,8:04,Russia,51,68,RD,Nikita Kurbanov
+Q4,8:14,Korea,51,68,tempo_tecnico,
+Q4,8:14,Russia,51,68,substituicao_entra,Nikita Kurbanov
+Q4,8:14,Russia,51,68,substituicao_sai,Sergey Karasev
+Q4,8:14,Russia,51,68,,Semen Antonovlayup made
+Q4,8:16,Russia,51,66,RO,Semen Antonov
+Q4,8:16,Russia,51,66,,Evgeny Valievlayup missed
+Q4,8:23,Korea,51,66,2_Pts_T,Junghyun Lee
+Q4,8:23,Russia,51,66,RD,Andrey Zubkov
+Q4,8:23,Russia,51,66,TO,Semen Antonov
+Q4,8:40,Russia,51,66,AS,Sergey Karasev
+Q4,8:40,Russia,51,66,,Andrey Zubkov3pt jump shot made
+Q4,9:00,Korea,51,63,AS,Junghyun Lee
+Q4,9:00,Korea,51,63,,Seounghyun Leelayup made
+Q4,9:11,Korea,0,0,RD,Junghyun Lee
+Q4,9:11,Russia,0,0,,Andrey Zubkov3pt jump shot missed
+Q4,9:30,Korea,0,0,2_Pts_T,Guna RA
+Q4,9:30,Russia,0,0,RD,Semen Antonov
+Q4,9:30,Russia,0,0,TO,Andrey Zubkov
+Q4,9:48,Korea,0,0,RD,Guna RA
+Q4,9:48,Korea,0,0,TO,Hyogeun Jeong
+Q4,9:48,Russia,0,0,2_Pts_T,Evgeny Valiev

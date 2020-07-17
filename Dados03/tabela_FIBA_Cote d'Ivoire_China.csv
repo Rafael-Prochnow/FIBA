@@ -1,0 +1,459 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,China,16,14,,Shuo Fang3pt jump shot missed
+Q1,0:05,Cote d'Ivoire,16,14,3_Pts_C,Souleyman Diabate
+Q1,0:30,Cote d'Ivoire,13,14,RD,Frejus Zerbo
+Q1,0:30,Cote d'Ivoire,13,14,FC,Frejus Zerbo
+Q1,0:30,China,13,14,LL_Pts_T,Zhelin Wang
+Q1,0:30,China,13,14,LL_Pts_T,Zhelin Wang
+Q1,0:30,China,13,14,FR,Zhelin Wang
+Q1,0:36,Cote d'Ivoire,13,14,ER,Souleyman Diabate
+Q1,0:36,China,13,14,BR,Zhelin Wang
+Q1,0:41,Cote d'Ivoire,13,14,BR,Frejus Zerbo
+Q1,0:41,China,13,14,ER,Shuo Fang
+Q1,10:00,China,0,0,inicio_quarto,Qi Zhou
+Q1,1:02,Cote d'Ivoire,13,14,AS,Tiegbe Bamba
+Q1,1:02,Cote d'Ivoire,13,14,,Frejus Zerbolayup made
+Q1,1:07,Cote d'Ivoire,11,14,substituicao_entra,Bryan Pamba
+Q1,1:07,Cote d'Ivoire,11,14,substituicao_sai,Guy Landry Edi
+Q1,1:20,Cote d'Ivoire,11,14,FR,Deon Thompson
+Q1,1:20,Cote d'Ivoire,11,14,RD,
+Q1,1:20,China,11,14,FC,Zhelin Wang
+Q1,1:20,China,11,14,,Shuo Fang2pt jump shot missed
+Q1,1:43,Cote d'Ivoire,11,14,ER,Guy Landry Edi
+Q1,1:43,China,11,14,substituicao_entra,Rui Zhao
+Q1,1:43,China,11,14,substituicao_sai,Ailun Guo
+Q1,1:52,Cote d'Ivoire,11,13,FC,Frejus Zerbo
+Q1,1:52,China,11,14,LL_Pts_C,Zhelin Wang
+Q1,1:52,China,11,13,LL_Pts_T,Zhelin Wang
+Q1,1:52,China,11,13,substituicao_entra,Jianlian Yi
+Q1,1:52,China,11,13,substituicao_sai,Qi Zhou
+Q1,1:52,China,11,13,FR,Zhelin Wang
+Q1,2:12,Cote d'Ivoire,11,13,2_Pts_C,Deon Thompson
+Q1,2:27,China,9,13,substituicao_entra,Abudushalamu Abudurexiti
+Q1,2:27,China,9,13,substituicao_sai,Xiaochuan Zhai
+Q1,2:27,China,9,13,ER,Xiaochuan Zhai
+Q1,2:52,Cote d'Ivoire,9,13,AS,Souleyman Diabate
+Q1,2:52,Cote d'Ivoire,9,13,2_Pts_C,Deon Thompson
+Q1,3:06,Cote d'Ivoire,7,13,RO,Deon Thompson
+Q1,3:06,Cote d'Ivoire,7,13,,Guy Landry Edi3pt jump shot missed
+Q1,3:15,Cote d'Ivoire,7,13,RO,Deon Thompson
+Q1,3:15,Cote d'Ivoire,7,13,,Deon Thompson3pt jump shot missed
+Q1,3:22,Cote d'Ivoire,7,13,substituicao_entra,Tiegbe Bamba
+Q1,3:22,Cote d'Ivoire,7,13,substituicao_sai,Charles Abouo
+Q1,3:22,Cote d'Ivoire,7,13,FR,Frejus Zerbo
+Q1,3:22,China,7,13,FC,Zhelin Wang
+Q1,3:35,China,7,13,AS,Shuo Fang
+Q1,3:35,China,7,13,,Xiaochuan Zhaidunk made
+Q1,3:39,Cote d'Ivoire,7,11,ER,Souleyman Diabate
+Q1,3:39,China,7,11,BR,Qi Zhou
+Q1,4:08,China,7,11,AS,Ailun Guo
+Q1,4:08,China,7,11,3_Pts_C,Qi Zhou
+Q1,4:14,Cote d'Ivoire,7,8,FC,Souleyman Diabate
+Q1,4:14,China,7,8,substituicao_entra,Shuo Fang
+Q1,4:14,China,7,8,substituicao_sai,Jiwei Zhao
+Q1,4:14,China,7,8,FR,Jiwei Zhao
+Q1,4:38,Cote d'Ivoire,7,8,2_Pts_C,Frejus Zerbo
+Q1,4:58,Cote d'Ivoire,5,8,substituicao_entra,Frejus Zerbo
+Q1,4:58,Cote d'Ivoire,5,8,substituicao_sai,Mohamed Kone
+Q1,4:58,Cote d'Ivoire,5,8,FR,Mohamed Kone
+Q1,4:58,Cote d'Ivoire,5,8,BR,Guy Landry Edi
+Q1,4:58,China,5,8,substituicao_entra,Zhelin Wang
+Q1,4:58,China,5,8,substituicao_sai,Jianlian Yi
+Q1,4:58,China,5,8,FC,Xiaochuan Zhai
+Q1,4:58,China,5,8,ER,Jiwei Zhao
+Q1,5:02,Cote d'Ivoire,5,8,,Mohamed Konetip in missed
+Q1,5:02,China,5,8,RD,Xiaochuan Zhai
+Q1,5:09,Cote d'Ivoire,5,8,RO,Mohamed Kone
+Q1,5:09,Cote d'Ivoire,5,8,2_Pts_T,Guy Landry Edi
+Q1,5:33,Cote d'Ivoire,5,8,RD,Mohamed Kone
+Q1,5:33,China,5,8,,Ailun Guo2pt jump shot missed
+Q1,5:51,Cote d'Ivoire,5,8,2_Pts_T,Deon Thompson
+Q1,5:51,China,5,8,RD,Qi Zhou
+Q1,5:56,Cote d'Ivoire,5,8,RO,Deon Thompson
+Q1,5:56,Cote d'Ivoire,5,8,,Mohamed Kone2pt jump shot missed
+Q1,6:12,China,5,8,AS,Ailun Guo
+Q1,6:12,China,5,8,,Xiaochuan Zhailayup made
+Q1,6:20,Cote d'Ivoire,5,6,2_Pts_T,Charles Abouo
+Q1,6:20,China,5,6,RD,Ailun Guo
+Q1,6:26,Cote d'Ivoire,5,6,BR,Deon Thompson
+Q1,6:26,China,5,6,ER,Jianlian Yi
+Q1,6:37,Cote d'Ivoire,5,6,,Deon Thompson3pt jump shot missed
+Q1,6:37,China,5,6,RD,Qi Zhou
+Q1,6:45,Cote d'Ivoire,5,6,RD,Charles Abouo
+Q1,6:45,China,5,6,,Jianlian Yi2pt jump shot missed
+Q1,7:10,Cote d'Ivoire,5,6,,Souleyman Diabate3pt jump shot made
+Q1,7:28,Cote d'Ivoire,2,4,FC,Mohamed Kone
+Q1,7:28,China,2,6,LL_Pts_C,Jianlian Yi
+Q1,7:28,China,2,5,LL_Pts_C,Jianlian Yi
+Q1,7:28,China,2,4,FR,Jianlian Yi
+Q1,7:30,China,2,4,RO,Jianlian Yi
+Q1,7:30,China,2,4,,Ailun Guo2pt jump shot missed
+Q1,7:55,Cote d'Ivoire,2,4,AS,Guy Landry Edi
+Q1,7:55,Cote d'Ivoire,2,4,,Mohamed Kone2pt jump shot made
+Q1,8:01,China,0,4,,Ailun Guolayup made
+Q1,8:18,China,0,2,RO,Xiaochuan Zhai
+Q1,8:18,China,0,2,,Qi Zhou3pt jump shot missed
+Q1,8:21,Cote d'Ivoire,0,2,FC,Mohamed Kone
+Q1,8:21,Cote d'Ivoire,0,2,FC,Guy Landry Edi
+Q1,8:21,China,0,2,FR,Jiwei Zhao
+Q1,8:21,China,0,2,FR,Xiaochuan Zhai
+Q1,8:21,China,0,2,RO,
+Q1,8:21,China,0,2,,Jianlian Yi2pt jump shot missed
+Q1,8:43,Cote d'Ivoire,0,2,2_Pts_T,Souleyman Diabate
+Q1,8:43,China,0,2,RD,Jiwei Zhao
+Q1,8:52,Cote d'Ivoire,0,2,RO,Mohamed Kone
+Q1,8:52,Cote d'Ivoire,0,2,,Charles Abouo3pt jump shot missed
+Q1,9:15,China,0,2,,Xiaochuan Zhaitip in made
+Q1,9:20,China,0,0,RO,Xiaochuan Zhai
+Q1,9:20,China,0,0,,Ailun Guolayup missed
+Q1,9:35,China,0,0,RO,Xiaochuan Zhai
+Q1,9:35,China,0,0,3_Pts_T,Jiwei Zhao
+Q2,0:01,China,29,29,RO,Ailun Guo
+Q2,0:01,China,29,29,2_Pts_T,Qi Zhou
+Q2,0:23,Cote d'Ivoire,29,29,ER ,
+Q2,0:26,Cote d'Ivoire,29,29,RO,Guy Landry Edi
+Q2,0:26,Cote d'Ivoire,29,29,2_Pts_T,Souleyman Diabate
+Q2,0:54,China,29,29,AS,Ailun Guo
+Q2,0:54,China,29,29,,Qi Zhoulayup made
+Q2,10:00,Cote d'Ivoire,0,0,muda_bola,
+Q2,1:14,Cote d'Ivoire,29,27,substituicao_entra,Vafessa Fofana
+Q2,1:14,Cote d'Ivoire,29,27,substituicao_sai,Frejus Zerbo
+Q2,1:14,Cote d'Ivoire,29,27,FC,Frejus Zerbo
+Q2,1:14,Cote d'Ivoire,29,27,,Charles Abouo3pt jump shot missed
+Q2,1:14,China,29,27,tempo_tecnico,
+Q2,1:14,China,29,27,FR,Qi Zhou
+Q2,1:14,China,29,27,RD,
+Q2,1:22,Cote d'Ivoire,29,27,RO,Deon Thompson
+Q2,1:22,Cote d'Ivoire,29,27,3_Pts_T,Souleyman Diabate
+Q2,1:41,China,29,27,2_Pts_C,Ailun Guo
+Q2,1:59,Cote d'Ivoire,29,25,AS,Souleyman Diabate
+Q2,1:59,Cote d'Ivoire,29,25,,Charles Abouo3pt jump shot made
+Q2,2:17,Cote d'Ivoire,26,25,RD,Frejus Zerbo
+Q2,2:17,China,26,25,,Zhelin Wanglayup missed
+Q2,2:33,Cote d'Ivoire,26,25,substituicao_entra,Frejus Zerbo
+Q2,2:33,Cote d'Ivoire,26,25,substituicao_sai,Vafessa Fofana
+Q2,2:33,Cote d'Ivoire,26,25,ER,Vafessa Fofana
+Q2,2:38,Cote d'Ivoire,26,25,RD,Vafessa Fofana
+Q2,2:38,China,26,25,3_Pts_T,Ailun Guo
+Q2,2:56,Cote d'Ivoire,26,25,,Charles Abouo3pt jump shot missed
+Q2,2:56,China,26,25,RD,Zhelin Wang
+Q2,3:14,China,26,25,AS,Ailun Guo
+Q2,3:14,China,26,25,,Xiaochuan Zhailayup made
+Q2,3:23,Cote d'Ivoire,26,23,ER,Deon Thompson
+Q2,3:23,China,26,23,BR,Ailun Guo
+Q2,3:44,China,26,23,,Ailun Guolayup made
+Q2,4:01,Cote d'Ivoire,26,21,LL_Pts_C,Charles Abouo
+Q2,4:01,Cote d'Ivoire,25,21,LL_Pts_C,Charles Abouo
+Q2,4:01,Cote d'Ivoire,24,21,AS,Vafessa Fofana
+Q2,4:01,Cote d'Ivoire,24,21,LL_Pts_C,Charles Abouo
+Q2,4:01,Cote d'Ivoire,23,21,substituicao_entra,Guy Landry Edi
+Q2,4:01,Cote d'Ivoire,23,21,substituicao_sai,Tiegbe Bamba
+Q2,4:01,Cote d'Ivoire,23,21,substituicao_entra,Souleyman Diabate
+Q2,4:01,Cote d'Ivoire,23,21,substituicao_sai,Bryan Pamba
+Q2,4:01,Cote d'Ivoire,23,21,FR,Charles Abouo
+Q2,4:01,China,23,21,FC,Ailun Guo
+Q2,4:21,China,23,21,2_Pts_C,Ailun Guo
+Q2,4:30,Cote d'Ivoire,23,19,tempo_tecnico,
+Q2,4:30,Cote d'Ivoire,23,19,FC,Charles Abouo
+Q2,4:30,China,23,19,substituicao_entra,Zhelin Wang
+Q2,4:30,China,23,19,substituicao_sai,Jianlian Yi
+Q2,4:30,China,23,19,FR,Qi Zhou
+Q2,4:41,Cote d'Ivoire,23,19,2_Pts_T,Bryan Pamba
+Q2,4:41,China,23,19,RD,Jianlian Yi
+Q2,4:59,China,23,19,AS,Jiwei Zhao
+Q2,4:59,China,23,19,,Xiaochuan Zhailayup made
+Q2,5:23,Cote d'Ivoire,23,17,AS,Bryan Pamba
+Q2,5:23,Cote d'Ivoire,23,17,2_Pts_C,Vafessa Fofana
+Q2,5:32,Cote d'Ivoire,21,17,RD,Bryan Pamba
+Q2,5:32,China,21,17,3_Pts_T,Qi Zhou
+Q2,5:46,China,21,17,tempo_tecnico,
+Q2,5:47,Cote d'Ivoire,21,17,AS,Bryan Pamba
+Q2,5:47,Cote d'Ivoire,21,17,,Tiegbe Bamba3pt jump shot made
+Q2,5:54,Cote d'Ivoire,18,17,RD,Bryan Pamba
+Q2,5:54,China,18,17,,Jiwei Zhao2pt jump shot missed
+Q2,6:13,Cote d'Ivoire,18,17,,Charles Abouolayup missed
+Q2,6:13,China,18,17,RD,Xiaochuan Zhai
+Q2,6:24,Cote d'Ivoire,18,17,FR,Charles Abouo
+Q2,6:24,China,18,17,FC,Ailun Guo
+Q2,6:31,Cote d'Ivoire,18,17,substituicao_entra,Deon Thompson
+Q2,6:31,Cote d'Ivoire,18,17,substituicao_sai,Mohamed Kone
+Q2,6:32,China,18,17,ER,Jianlian Yi
+Q2,6:43,Cote d'Ivoire,18,17,FC,Tiegbe Bamba
+Q2,6:43,China,18,17,FR,Ailun Guo
+Q2,6:54,Cote d'Ivoire,18,17,,Vafessa Fofana3pt jump shot missed
+Q2,6:54,China,18,17,RD,Xiaochuan Zhai
+Q2,7:10,Cote d'Ivoire,18,17,RD,
+Q2,7:10,Cote d'Ivoire,18,16,FC,Charles Abouo
+Q2,7:10,Cote d'Ivoire,18,16,ER,Vafessa Fofana
+Q2,7:10,China,18,17,LL_Pts_T,Qi Zhou
+Q2,7:10,China,18,17,AS,Jianlian Yi
+Q2,7:10,China,18,17,LL_Pts_C,Qi Zhou
+Q2,7:10,China,18,16,FR,Qi Zhou
+Q2,7:10,China,18,16,BR,Jiwei Zhao
+Q2,7:14,China,18,16,substituicao_entra,Jiwei Zhao
+Q2,7:14,China,18,16,substituicao_sai,Rui Zhao
+Q2,7:17,Cote d'Ivoire,18,16,FR,Bryan Pamba
+Q2,7:17,Cote d'Ivoire,18,16,RD,
+Q2,7:17,China,18,16,FC,Qi Zhou
+Q2,7:17,China,18,16,,Ailun Guolayup missed
+Q2,7:26,Cote d'Ivoire,18,16,,Bryan Pamba2pt jump shot missed
+Q2,7:26,China,18,16,RD,Jianlian Yi
+Q2,7:39,Cote d'Ivoire,18,16,RO,Bryan Pamba
+Q2,7:39,Cote d'Ivoire,18,16,,Vafessa Fofana3pt jump shot missed
+Q2,7:48,Cote d'Ivoire,18,16,substituicao_entra,Mohamed Kone
+Q2,7:48,Cote d'Ivoire,18,16,substituicao_sai,Frejus Zerbo
+Q2,7:48,Cote d'Ivoire,18,16,RO,
+Q2,7:48,China,18,16,substituicao_entra,Qi Zhou
+Q2,7:48,China,18,16,substituicao_sai,Zhelin Wang
+Q2,7:49,Cote d'Ivoire,18,16,2_Pts_T,Bryan Pamba
+Q2,8:08,China,18,16,AS,Ailun Guo
+Q2,8:08,China,18,16,,Zhelin Wanglayup made
+Q2,8:30,Cote d'Ivoire,18,14,2_Pts_T,Tiegbe Bamba
+Q2,8:30,China,18,14,RD,Zhelin Wang
+Q2,8:42,China,18,14,ER ,
+Q2,8:54,Cote d'Ivoire,18,14,substituicao_entra,Charles Abouo
+Q2,8:54,Cote d'Ivoire,18,14,substituicao_sai,Souleyman Diabate
+Q2,8:54,China,18,14,substituicao_entra,Xiaochuan Zhai
+Q2,8:54,China,18,14,substituicao_sai,Shuo Fang
+Q2,9:10,Cote d'Ivoire,18,14,AS,Vafessa Fofana
+Q2,9:10,Cote d'Ivoire,18,14,,Souleyman Diabatelayup made
+Q2,9:18,Cote d'Ivoire,0,0,RD,Frejus Zerbo
+Q2,9:18,China,0,0,,Shuo Fang3pt jump shot missed
+Q2,9:40,Cote d'Ivoire,0,0,ER,Souleyman Diabate
+Q3,0:00,Cote d'Ivoire,41,51,3_Pts_T,Bryan Pamba
+Q3,0:03,China,41,51,AS,Rui Zhao
+Q3,0:03,China,41,51,,Qi Zhoulayup made
+Q3,0:20,Cote d'Ivoire,41,49,ER ,
+Q3,0:35,Cote d'Ivoire,41,49,LL_Pts_C,Vafessa Fofana
+Q3,0:35,Cote d'Ivoire,40,49,LL_Pts_C,Vafessa Fofana
+Q3,0:35,Cote d'Ivoire,39,49,FR,Vafessa Fofana
+Q3,0:35,China,39,49,FC_A,Qi Zhou
+Q3,0:53,Cote d'Ivoire,39,49,RD,Bryan Pamba
+Q3,0:53,China,39,49,,Jianlian Yi2pt jump shot missed
+Q3,10:00,China,0,0,muda_bola,
+Q3,1:14,Cote d'Ivoire,39,49,,Vafessa Fofanalayup missed
+Q3,1:14,China,39,49,RD,Qi Zhou
+Q3,1:35,Cote d'Ivoire,39,49,RD,Deon Thompson
+Q3,1:35,China,39,49,2_Pts_T,Jiwei Zhao
+Q3,1:45,Cote d'Ivoire,39,49,tempo_tecnico,
+Q3,1:45,Cote d'Ivoire,39,49,ER,Deon Thompson
+Q3,1:45,China,39,49,substituicao_entra,Jianlian Yi
+Q3,1:45,China,39,49,substituicao_sai,Zhelin Wang
+Q3,2:03,Cote d'Ivoire,39,48,FC,Deon Thompson
+Q3,2:03,China,39,49,LL_Pts_C,Rui Zhao
+Q3,2:03,China,39,48,FR,Rui Zhao
+Q3,2:03,China,39,48,2_Pts_C,Rui Zhao
+Q3,2:14,Cote d'Ivoire,39,46,substituicao_entra,Vafessa Fofana
+Q3,2:14,Cote d'Ivoire,39,46,substituicao_sai,Frejus Zerbo
+Q3,2:14,Cote d'Ivoire,39,46,FC_O,Frejus Zerbo
+Q3,2:14,China,39,46,substituicao_entra,Jiwei Zhao
+Q3,2:14,China,39,46,substituicao_sai,Ailun Guo
+Q3,2:14,China,39,46,FR,Zhelin Wang
+Q3,2:30,China,39,46,AS,Ailun Guo
+Q3,2:30,China,39,46,2_Pts_C,Zhelin Wang
+Q3,2:51,Cote d'Ivoire,39,44,AS,Bryan Pamba
+Q3,2:51,Cote d'Ivoire,39,44,,Deon Thompsondunk made
+Q3,2:58,Cote d'Ivoire,37,44,RO,Bryan Pamba
+Q3,2:58,Cote d'Ivoire,37,44,2_Pts_T,Guy Landry Edi
+Q3,3:07,Cote d'Ivoire,37,44,substituicao_entra,Frejus Zerbo
+Q3,3:07,Cote d'Ivoire,37,44,substituicao_sai,Mohamed Kone
+Q3,3:07,Cote d'Ivoire,37,44,RO,
+Q3,3:07,Cote d'Ivoire,37,44,2_Pts_T,Deon Thompson
+Q3,3:07,China,37,44,substituicao_entra,Shuo Fang
+Q3,3:07,China,37,44,substituicao_sai,Xiaochuan Zhai
+Q3,3:07,China,37,44,TO,Qi Zhou
+Q3,3:29,China,37,44,2_Pts_C,Ailun Guo
+Q3,3:46,Cote d'Ivoire,37,42,substituicao_entra,Tiegbe Bamba
+Q3,3:46,Cote d'Ivoire,37,42,substituicao_sai,Souleyman Diabate
+Q3,3:46,China,37,42,substituicao_entra,Rui Zhao
+Q3,3:46,China,37,42,substituicao_sai,Jiwei Zhao
+Q3,3:46,China,37,42,RD,
+Q3,3:48,Cote d'Ivoire,37,42,,Deon Thompson2pt jump shot missed
+Q3,4:02,China,37,42,,Zhelin Wanglayup made
+Q3,4:06,Cote d'Ivoire,37,40,,Deon Thompsontip in missed
+Q3,4:06,China,37,40,RD,Qi Zhou
+Q3,4:13,Cote d'Ivoire,37,40,RO,Deon Thompson
+Q3,4:13,Cote d'Ivoire,37,40,2_Pts_T,Guy Landry Edi
+Q3,4:29,Cote d'Ivoire,37,40,RO,
+Q3,4:29,China,37,40,substituicao_entra,Zhelin Wang
+Q3,4:29,China,37,40,substituicao_sai,Jianlian Yi
+Q3,4:32,Cote d'Ivoire,37,40,,Mohamed Kone2pt jump shot missed
+Q3,4:43,China,37,40,2_Pts_C,Ailun Guo
+Q3,4:48,Cote d'Ivoire,37,38,ER,Souleyman Diabate
+Q3,4:48,China,37,38,BR,Xiaochuan Zhai
+Q3,4:57,Cote d'Ivoire,37,38,RO,Mohamed Kone
+Q3,4:57,Cote d'Ivoire,37,38,2_Pts_T,Souleyman Diabate
+Q3,5:15,China,37,38,ER,Jianlian Yi
+Q3,5:28,Cote d'Ivoire,37,38,substituicao_entra,Bryan Pamba
+Q3,5:28,Cote d'Ivoire,37,38,substituicao_sai,Charles Abouo
+Q3,5:28,Cote d'Ivoire,37,38,FC,Charles Abouo
+Q3,5:28,China,37,38,FR,Xiaochuan Zhai
+Q3,5:37,Cote d'Ivoire,37,38,AS,Charles Abouo
+Q3,5:37,Cote d'Ivoire,37,38,,Guy Landry Edi3pt jump shot made
+Q3,6:01,China,34,38,,Jianlian Yi2pt jump shot made
+Q3,6:04,China,34,36,RO,Jianlian Yi
+Q3,6:04,China,34,36,2_Pts_T,Qi Zhou
+Q3,6:23,Cote d'Ivoire,34,36,AS,Souleyman Diabate
+Q3,6:23,Cote d'Ivoire,34,36,,Guy Landry Edi3pt jump shot made
+Q3,6:33,Cote d'Ivoire,31,36,RO,Souleyman Diabate
+Q3,6:33,Cote d'Ivoire,31,36,,Mohamed Kone2pt jump shot missed
+Q3,6:54,China,31,36,ER,Jianlian Yi
+Q3,6:58,Cote d'Ivoire,31,36,ER,Guy Landry Edi
+Q3,6:58,China,31,36,BR,Xiaochuan Zhai
+Q3,7:06,Cote d'Ivoire,31,36,RD,Mohamed Kone
+Q3,7:06,Cote d'Ivoire,31,35,FC,Mohamed Kone
+Q3,7:06,China,31,36,LL_Pts_T,Ailun Guo
+Q3,7:06,China,31,36,LL_Pts_C,Ailun Guo
+Q3,7:06,China,31,35,FR,Ailun Guo
+Q3,7:23,Cote d'Ivoire,31,35,AS,Deon Thompson
+Q3,7:23,Cote d'Ivoire,31,35,,Mohamed Konelayup made
+Q3,7:50,China,29,35,AS,Jiwei Zhao
+Q3,7:50,China,29,35,2_Pts_C,Qi Zhou
+Q3,7:58,Cote d'Ivoire,29,33,2_Pts_T,Souleyman Diabate
+Q3,7:58,China,29,33,RD,Jianlian Yi
+Q3,8:06,Cote d'Ivoire,29,33,RD,Mohamed Kone
+Q3,8:06,China,29,33,,Qi Zhoulayup missed
+Q3,8:16,Cote d'Ivoire,29,33,ER,Charles Abouo
+Q3,8:16,China,29,33,BR,Ailun Guo
+Q3,8:39,Cote d'Ivoire,29,31,FC,Deon Thompson
+Q3,8:39,China,29,33,LL_Pts_C,Jianlian Yi
+Q3,8:39,China,29,32,LL_Pts_C,Jianlian Yi
+Q3,8:39,China,29,31,FR,Jianlian Yi
+Q3,8:54,Cote d'Ivoire,29,31,,Deon Thompson2pt jump shot missed
+Q3,8:54,China,29,31,RD,Qi Zhou
+Q3,9:09,Cote d'Ivoire,29,31,RD,Mohamed Kone
+Q3,9:09,China,29,31,2_Pts_T,Ailun Guo
+Q3,9:22,Cote d'Ivoire,29,31,3_Pts_T,Mohamed Kone
+Q3,9:22,China,29,31,RD,Jianlian Yi
+Q3,9:35,Cote d'Ivoire,29,31,FR,Deon Thompson
+Q3,9:35,China,29,31,FC,Xiaochuan Zhai
+Q3,9:47,China,29,31,2_Pts_C,Jianlian Yi
+Q4,0:00,Cote d'Ivoire,55,70,3_Pts_C,Vafessa Fofana
+Q4,0:06,Cote d'Ivoire,52,70,BR,Deon Thompson
+Q4,0:06,China,52,70,ER,Rui Zhao
+Q4,0:24,Cote d'Ivoire,52,70,LL_Pts_T,Guy Landry Edi
+Q4,0:24,Cote d'Ivoire,52,70,LL_Pts_C,Guy Landry Edi
+Q4,0:24,Cote d'Ivoire,51,70,FR,Guy Landry Edi
+Q4,0:24,China,52,70,RD,Xiaochuan Zhai
+Q4,0:24,China,51,70,substituicao_entra,Shuo Fang
+Q4,0:24,China,51,70,substituicao_sai,Ailun Guo
+Q4,0:24,China,51,70,FC,Rui Zhao
+Q4,0:28,China,51,70,2_Pts_C,Jianlian Yi
+Q4,0:49,Cote d'Ivoire,51,68,2_Pts_T,Deon Thompson
+Q4,0:49,China,51,68,RD,Jiwei Zhao
+Q4,10:00,Cote d'Ivoire,0,0,muda_bola,
+Q4,1:09,Cote d'Ivoire,51,68,substituicao_entra,Vafessa Fofana
+Q4,1:09,Cote d'Ivoire,51,68,substituicao_sai,Mohamed Kone
+Q4,1:09,China,51,68,2_Pts_C,Ailun Guo
+Q4,1:29,Cote d'Ivoire,51,66,,Guy Landry Edi3pt jump shot missed
+Q4,1:29,China,51,66,RD,Xiaochuan Zhai
+Q4,1:36,Cote d'Ivoire,51,66,tempo_tecnico,
+Q4,1:36,China,51,66,substituicao_entra,Xiaochuan Zhai
+Q4,1:36,China,51,66,substituicao_sai,Qi Zhou
+Q4,1:37,China,51,66,AS,Ailun Guo
+Q4,1:37,China,51,66,,Qi Zhoudunk made
+Q4,1:54,Cote d'Ivoire,51,64,ER,Deon Thompson
+Q4,2:06,China,51,64,AS,Jiwei Zhao
+Q4,2:06,China,51,64,,Jianlian Yidunk made
+Q4,2:17,Cote d'Ivoire,51,62,tempo_tecnico,
+Q4,2:17,Cote d'Ivoire,51,62,,Mohamed Kone3pt jump shot missed
+Q4,2:17,China,51,62,RD,
+Q4,2:39,China,51,62,2_Pts_C,Jianlian Yi
+Q4,2:59,Cote d'Ivoire,51,60,2_Pts_T,Souleyman Diabate
+Q4,2:59,China,51,60,RD,Qi Zhou
+Q4,3:09,Cote d'Ivoire,51,60,RD,Guy Landry Edi
+Q4,3:09,China,51,60,,Rui Zhao3pt jump shot missed
+Q4,3:25,Cote d'Ivoire,51,60,LL_Pts_C,Guy Landry Edi
+Q4,3:25,Cote d'Ivoire,50,60,FR,Guy Landry Edi
+Q4,3:25,Cote d'Ivoire,50,60,2_Pts_C,Guy Landry Edi
+Q4,3:25,China,50,60,FC,Rui Zhao
+Q4,3:34,China,48,60,AS,Ailun Guo
+Q4,3:34,China,48,60,2_Pts_C,Jianlian Yi
+Q4,3:58,Cote d'Ivoire,48,58,substituicao_entra,Tiegbe Bamba
+Q4,3:58,Cote d'Ivoire,48,58,substituicao_sai,Vafessa Fofana
+Q4,3:58,Cote d'Ivoire,48,58,LL_Pts_C,Vafessa Fofana
+Q4,3:58,Cote d'Ivoire,47,58,LL_Pts_T,Vafessa Fofana
+Q4,3:58,Cote d'Ivoire,47,58,FR,Vafessa Fofana
+Q4,3:58,Cote d'Ivoire,47,58,RO,
+Q4,3:58,China,47,58,FC,Ailun Guo
+Q4,3:59,Cote d'Ivoire,47,58,3_Pts_T,Souleyman Diabate
+Q4,4:15,Cote d'Ivoire,47,56,FC,Deon Thompson
+Q4,4:15,China,47,58,LL_Pts_C,Jiwei Zhao
+Q4,4:15,China,47,57,LL_Pts_C,Jiwei Zhao
+Q4,4:15,China,47,56,FR,Jiwei Zhao
+Q4,4:16,Cote d'Ivoire,47,56,ER,Vafessa Fofana
+Q4,4:16,China,47,56,BR,Jiwei Zhao
+Q4,4:29,Cote d'Ivoire,47,56,RD,Deon Thompson
+Q4,4:29,China,47,56,,Jianlian Yi3pt jump shot missed
+Q4,4:43,Cote d'Ivoire,47,56,ER ,
+Q4,4:45,Cote d'Ivoire,47,56,2_Pts_T,Mohamed Kone
+Q4,4:45,China,47,56,TO,Qi Zhou
+Q4,5:08,Cote d'Ivoire,47,56,RD,Guy Landry Edi
+Q4,5:08,Cote d'Ivoire,47,56,substituicao_entra,Guy Landry Edi
+Q4,5:08,Cote d'Ivoire,47,56,substituicao_sai,Bryan Pamba
+Q4,5:08,Cote d'Ivoire,47,56,FC,Deon Thompson
+Q4,5:08,China,47,56,LL_Pts_T,Jianlian Yi
+Q4,5:08,China,47,56,LL_Pts_T,Jianlian Yi
+Q4,5:08,China,47,56,FR,Jianlian Yi
+Q4,5:10,Cote d'Ivoire,47,56,ER,Vafessa Fofana
+Q4,5:10,China,47,56,BR,Jianlian Yi
+Q4,5:20,China,47,56,ER ,
+Q4,5:36,China,47,56,RO,Ailun Guo
+Q4,5:36,China,47,56,,Jianlian Yi2pt jump shot missed
+Q4,5:59,China,47,56,substituicao_entra,Jiwei Zhao
+Q4,5:59,China,47,56,substituicao_sai,Shuo Fang
+Q4,5:59,China,47,56,tempo_tecnico,
+Q4,6:01,Cote d'Ivoire,47,56,2_Pts_C,Mohamed Kone
+Q4,6:18,Cote d'Ivoire,45,56,RD,Vafessa Fofana
+Q4,6:18,China,45,56,2_Pts_T,Ailun Guo
+Q4,6:22,Cote d'Ivoire,45,56,ER,Vafessa Fofana
+Q4,6:22,China,45,56,BR,Rui Zhao
+Q4,6:31,Cote d'Ivoire,45,56,RD,Deon Thompson
+Q4,6:31,China,45,56,,Ailun Guo3pt jump shot missed
+Q4,6:54,Cote d'Ivoire,45,56,LL_Pts_C,Mohamed Kone
+Q4,6:54,Cote d'Ivoire,44,56,LL_Pts_C,Mohamed Kone
+Q4,6:54,Cote d'Ivoire,43,56,FR,Mohamed Kone
+Q4,6:54,China,43,56,FC,Shuo Fang
+Q4,6:57,Cote d'Ivoire,43,56,LL_Pts_C,Deon Thompson
+Q4,6:57,Cote d'Ivoire,42,56,LL_Pts_T,Deon Thompson
+Q4,6:57,Cote d'Ivoire,42,56,FR,Deon Thompson
+Q4,6:57,China,42,56,FC_A,Jianlian Yi
+Q4,7:09,China,42,56,2_Pts_C,Ailun Guo
+Q4,7:28,Cote d'Ivoire,42,54,LL_Pts_T,Mohamed Kone
+Q4,7:28,Cote d'Ivoire,42,54,LL_Pts_C,Mohamed Kone
+Q4,7:28,Cote d'Ivoire,41,54,FR,Mohamed Kone
+Q4,7:28,China,42,54,RD,Jianlian Yi
+Q4,7:28,China,41,54,FC,Jianlian Yi
+Q4,7:29,Cote d'Ivoire,41,54,RO,Mohamed Kone
+Q4,7:29,Cote d'Ivoire,41,54,,Vafessa Fofanadunk missed
+Q4,7:46,Cote d'Ivoire,41,54,RD,Vafessa Fofana
+Q4,7:46,Cote d'Ivoire,41,53,FC,Souleyman Diabate
+Q4,7:46,China,41,54,LL_Pts_T,Jianlian Yi
+Q4,7:46,China,41,54,AS,Qi Zhou
+Q4,7:46,China,41,54,LL_Pts_C,Jianlian Yi
+Q4,7:46,China,41,53,substituicao_entra,Ailun Guo
+Q4,7:46,China,41,53,substituicao_sai,Jiwei Zhao
+Q4,7:46,China,41,53,FR,Jianlian Yi
+Q4,7:59,Cote d'Ivoire,41,53,2_Pts_T,Mohamed Kone
+Q4,7:59,China,41,53,RD,Jianlian Yi
+Q4,8:12,China,41,53,ER,Rui Zhao
+Q4,8:23,Cote d'Ivoire,41,53,substituicao_entra,Souleyman Diabate
+Q4,8:23,Cote d'Ivoire,41,53,substituicao_sai,Tiegbe Bamba
+Q4,8:23,Cote d'Ivoire,41,53,FC_O,Tiegbe Bamba
+Q4,8:23,China,41,53,FR,Jiwei Zhao
+Q4,8:42,China,41,53,AS,Jiwei Zhao
+Q4,8:42,China,41,53,2_Pts_C,Jianlian Yi
+Q4,8:55,Cote d'Ivoire,0,0,FC,Tiegbe Bamba
+Q4,8:55,China,0,0,FR,Shuo Fang
+Q4,9:09,Cote d'Ivoire,0,0,ER ,
+Q4,9:09,Cote d'Ivoire,0,0,,Bryan Pambalayup missed
+Q4,9:23,Cote d'Ivoire,0,0,FR,Tiegbe Bamba
+Q4,9:23,Cote d'Ivoire,0,0,RO,
+Q4,9:23,Cote d'Ivoire,0,0,,Deon Thompson3pt jump shot missed
+Q4,9:23,China,0,0,substituicao_entra,Qi Zhou
+Q4,9:23,China,0,0,substituicao_sai,Zhelin Wang
+Q4,9:23,China,0,0,FC,Zhelin Wang
+Q4,9:37,Cote d'Ivoire,0,0,FR,Tiegbe Bamba
+Q4,9:37,Cote d'Ivoire,0,0,RO,Tiegbe Bamba
+Q4,9:37,China,0,0,FC,Zhelin Wang
+Q4,9:40,Cote d'Ivoire,0,0,,Bryan Pamba3pt jump shot missed

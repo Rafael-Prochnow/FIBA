@@ -1,0 +1,478 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Argentina,17,12,AS,Nicolás Laprovittola
+Q1,0:00,Argentina,17,12,,Facundo Campazzo3pt jump shot made
+Q1,0:24,Venezuela,14,12,2_Pts_C,Gregory Vargas
+Q1,0:37,Argentina,14,10,substituicao_entra,Facundo Campazzo
+Q1,0:37,Argentina,14,10,substituicao_sai,Luca Vildoza
+Q1,0:43,Argentina,14,10,2_Pts_T,Marcos Delia
+Q1,0:43,Venezuela,14,10,RD,Michael Carrera
+Q1,0:43,Venezuela,14,10,TO,Windi Graterol
+Q1,0:55,Venezuela,14,10,AS,Gregory Vargas
+Q1,0:55,Venezuela,14,10,,Jhornan Zamora2pt jump shot made
+Q1,10:00,Argentina,0,0,inicio_quarto,Marcos Delia
+Q1,1:13,Argentina,14,8,AS,Nicolás Laprovittola
+Q1,1:13,Argentina,14,8,2_Pts_C,Marcos Delia
+Q1,1:36,Argentina,12,8,BR,Luca Vildoza
+Q1,1:36,Venezuela,12,8,ER,Gregory Vargas
+Q1,1:56,Argentina,12,8,LL_Pts_T,Gabriel Deck
+Q1,1:56,Argentina,12,8,LL_Pts_C,Gabriel Deck
+Q1,1:56,Argentina,11,8,FR,Gabriel Deck
+Q1,1:56,Venezuela,12,8,RD,Jhornan Zamora
+Q1,1:56,Venezuela,11,8,FC,Windi Graterol
+Q1,2:14,Venezuela,11,8,,Michael Carrera2pt jump shot made
+Q1,2:20,Venezuela,11,6,RO,Michael Carrera
+Q1,2:20,Venezuela,11,6,2_Pts_T,Jhornan Zamora
+Q1,2:30,Argentina,11,6,FC,Nicolás Laprovittola
+Q1,2:30,Venezuela,11,6,FR,Jhornan Zamora
+Q1,2:34,Argentina,11,6,FC,Patricio Garino
+Q1,2:34,Venezuela,11,6,substituicao_entra,Gregory Vargas
+Q1,2:34,Venezuela,11,6,substituicao_sai,Heissler Guillent
+Q1,2:34,Venezuela,11,6,substituicao_entra,Windi Graterol
+Q1,2:34,Venezuela,11,6,substituicao_sai,Nestor Colmenares
+Q1,2:34,Venezuela,11,6,substituicao_entra,Pedro Chourio
+Q1,2:34,Venezuela,11,6,substituicao_sai,Jose Vargas
+Q1,2:34,Venezuela,11,6,FR,Michael Carrera
+Q1,2:54,Argentina,11,6,AS,Nicolás Laprovittola
+Q1,2:54,Argentina,11,6,2_Pts_C,Marcos Delia
+Q1,3:13,Venezuela,9,6,ER ,
+Q1,3:37,Argentina,9,6,substituicao_entra,Gabriel Deck
+Q1,3:37,Argentina,9,6,substituicao_sai,Luís Scola
+Q1,3:37,Argentina,9,6,LL_Pts_C,Luís Scola
+Q1,3:37,Argentina,8,6,LL_Pts_T,Luís Scola
+Q1,3:37,Argentina,8,6,FR,Luís Scola
+Q1,3:37,Venezuela,8,6,FC,Michael Carrera
+Q1,3:54,Venezuela,8,6,2_Pts_C,Michael Carrera
+Q1,4:17,Argentina,8,4,AS,Marcos Delia
+Q1,4:17,Argentina,8,4,,Luís Scoladunk made
+Q1,4:28,Argentina,6,4,RO,Luís Scola
+Q1,4:28,Argentina,6,4,2_Pts_T,Patricio Garino
+Q1,4:28,Venezuela,6,4,TO,Michael Carrera
+Q1,4:40,Argentina,6,4,RD,Luís Scola
+Q1,4:40,Venezuela,6,4,2_Pts_T,Heissler Guillent
+Q1,4:46,Argentina,6,4,substituicao_entra,Nicolás Laprovittola
+Q1,4:46,Argentina,6,4,substituicao_sai,Facundo Campazzo
+Q1,4:49,Argentina,6,4,FC,Luís Scola
+Q1,4:49,Venezuela,6,4,substituicao_entra,Michael Carrera
+Q1,4:49,Venezuela,6,4,substituicao_sai,Miguel Ruiz
+Q1,4:49,Venezuela,6,4,FR,Jhornan Zamora
+Q1,4:54,Venezuela,6,4,RO,Miguel Ruiz
+Q1,4:54,Venezuela,6,4,,Jhornan Zamora3pt jump shot missed
+Q1,5:01,Venezuela,6,4,RO,Miguel Ruiz
+Q1,5:01,Venezuela,6,4,,Nestor Colmenares2pt jump shot missed
+Q1,5:22,Argentina,6,4,AS,Facundo Campazzo
+Q1,5:22,Argentina,6,4,,Luís Scolalayup made
+Q1,5:31,Argentina,4,4,BR,Marcos Delia
+Q1,5:31,Venezuela,4,4,ER,Jose Vargas
+Q1,5:42,Argentina,4,4,,Luís Scola3pt jump shot missed
+Q1,5:42,Venezuela,4,4,RD,Jose Vargas
+Q1,5:50,Argentina,4,4,FR,Patricio Garino
+Q1,5:50,Venezuela,4,4,FC,Miguel Ruiz
+Q1,5:57,Venezuela,4,4,substituicao_entra,Jhornan Zamora
+Q1,5:57,Venezuela,4,4,substituicao_sai,Dwight Lewis
+Q1,6:04,Venezuela,4,4,ER,Dwight Lewis
+Q1,6:05,Argentina,4,4,ER,Luca Vildoza
+Q1,6:05,Venezuela,4,4,BR,Jose Vargas
+Q1,6:15,Argentina,4,4,BR,Luca Vildoza
+Q1,6:15,Venezuela,4,4,ER,Nestor Colmenares
+Q1,6:36,Argentina,4,4,ER ,
+Q1,7:00,Venezuela,4,4,ER,Nestor Colmenares
+Q1,7:15,Argentina,4,4,2_Pts_T,Luís Scola
+Q1,7:15,Venezuela,4,4,RD,Miguel Ruiz
+Q1,7:22,Argentina,4,4,BR,Luca Vildoza
+Q1,7:22,Venezuela,4,4,ER,Heissler Guillent
+Q1,7:32,Argentina,4,4,2_Pts_C,Facundo Campazzo
+Q1,7:42,Argentina,2,4,RO,Luís Scola
+Q1,7:42,Argentina,2,4,,Patricio Garino3pt jump shot missed
+Q1,7:49,Argentina,2,4,RD,Marcos Delia
+Q1,7:49,Venezuela,2,4,,Nestor Colmenareslayup missed
+Q1,7:55,Argentina,2,4,ER,Facundo Campazzo
+Q1,7:55,Venezuela,2,4,BR,Dwight Lewis
+Q1,7:57,Argentina,2,4,FR,Patricio Garino
+Q1,7:57,Venezuela,2,4,FC,Miguel Ruiz
+Q1,8:16,Venezuela,2,4,2_Pts_C,Dwight Lewis
+Q1,8:38,Argentina,2,2,,Luca Vildoza3pt jump shot missed
+Q1,8:38,Venezuela,2,2,RD,Heissler Guillent
+Q1,8:50,Venezuela,2,2,,Heissler Guillent2pt jump shot made
+Q1,9:06,Venezuela,2,0,RO,Dwight Lewis
+Q1,9:06,Venezuela,2,0,2_Pts_T,Miguel Ruiz
+Q1,9:10,Venezuela,2,0,RO,Miguel Ruiz
+Q1,9:10,Venezuela,2,0,,Jose Vargas3pt jump shot missed
+Q1,9:17,Argentina,2,0,TO,Luís Scola
+Q1,9:17,Venezuela,2,0,RO,Nestor Colmenares
+Q1,9:17,Venezuela,2,0,2_Pts_T,Nestor Colmenares
+Q1,9:35,Argentina,2,0,AS,Facundo Campazzo
+Q1,9:35,Argentina,2,0,,Luís Scolalayup made
+Q1,9:45,Argentina,0,0,FR,Facundo Campazzo
+Q1,9:45,Venezuela,0,0,FC,Heissler Guillent
+Q2,0:05,Argentina,38,25,substituicao_entra,Nicolás Laprovittola
+Q2,0:05,Argentina,38,25,substituicao_sai,Maximo Fjellerup
+Q2,0:05,Argentina,38,25,tempo_tecnico,
+Q2,0:05,Venezuela,38,25,substituicao_entra,Nestor Colmenares
+Q2,0:05,Venezuela,38,25,substituicao_sai,Luis Bethelmy
+Q2,0:05,Venezuela,38,25,substituicao_entra,Michael Carrera
+Q2,0:05,Venezuela,38,25,substituicao_sai,Jose Vargas
+Q2,0:09,Argentina,38,25,RD,Marcos Delia
+Q2,0:09,Venezuela,38,25,,Gregory Vargaslayup missed
+Q2,0:20,Argentina,38,25,LL_Pts_C,Facundo Campazzo
+Q2,0:20,Argentina,37,25,LL_Pts_C,Facundo Campazzo
+Q2,0:20,Argentina,36,25,substituicao_entra,Maximo Fjellerup
+Q2,0:20,Argentina,36,25,substituicao_sai,Nicolás Laprovittola
+Q2,0:20,Argentina,36,25,FR,Facundo Campazzo
+Q2,0:20,Venezuela,36,25,substituicao_entra,Miguel Ruiz
+Q2,0:20,Venezuela,36,25,substituicao_sai,Nestor Colmenares
+Q2,0:20,Venezuela,36,25,tempo_tecnico,
+Q2,0:20,Venezuela,36,25,FC,Jose Vargas
+Q2,0:35,Argentina,36,25,RD,Nicolas Brussino
+Q2,0:35,Venezuela,36,25,,Heissler Guillentlayup missed
+Q2,0:55,Argentina,36,25,,Nicolas Brussinotip in made
+Q2,10:00,Venezuela,17,12,muda_bola,
+Q2,1:03,Argentina,34,25,RO,Nicolas Brussino
+Q2,1:03,Argentina,34,25,,Facundo Campazzo3pt jump shot missed
+Q2,1:08,Argentina,34,25,RD,Nicolás Laprovittola
+Q2,1:08,Venezuela,34,25,2_Pts_T,Jose Vargas
+Q2,1:20,Argentina,34,25,,Nicolas Brussino3pt jump shot missed
+Q2,1:20,Venezuela,34,25,RD,Luis Bethelmy
+Q2,1:28,Argentina,34,25,RD,Marcos Delia
+Q2,1:28,Argentina,34,25,TO,Marcos Delia
+Q2,1:28,Venezuela,34,25,2_Pts_T,Gregory Vargas
+Q2,1:50,Argentina,34,25,AS,Facundo Campazzo
+Q2,1:50,Argentina,34,25,,Gabriel Decklayup made
+Q2,2:07,Venezuela,32,25,2_Pts_C,Gregory Vargas
+Q2,2:15,Argentina,32,23,substituicao_entra,Marcos Delia
+Q2,2:15,Argentina,32,23,substituicao_sai,Luís Scola
+Q2,2:27,Argentina,32,23,FC_O,Luís Scola
+Q2,2:27,Argentina,32,23,3_Pts_T,Nicolás Laprovittola
+Q2,2:27,Venezuela,32,23,RD,
+Q2,2:27,Venezuela,32,23,FR,Nestor Colmenares
+Q2,2:30,Argentina,32,23,RD,Luís Scola
+Q2,2:30,Venezuela,32,23,,Nestor Colmenarestip in missed
+Q2,2:35,Venezuela,32,23,RO,Nestor Colmenares
+Q2,2:35,Venezuela,32,23,,Heissler Guillentlayup missed
+Q2,2:49,Argentina,32,23,,Gabriel Deck3pt jump shot missed
+Q2,2:49,Venezuela,32,23,RD,Nestor Colmenares
+Q2,2:56,Argentina,32,23,substituicao_entra,Nicolas Brussino
+Q2,2:56,Argentina,32,23,substituicao_sai,Patricio Garino
+Q2,2:56,Argentina,32,23,FR,Facundo Campazzo
+Q2,2:56,Venezuela,32,23,FC,Gregory Vargas
+Q2,3:08,Argentina,32,23,RD,Patricio Garino
+Q2,3:08,Venezuela,32,23,,Heissler Guillent3pt jump shot missed
+Q2,3:20,Argentina,32,23,2_Pts_C,Gabriel Deck
+Q2,3:36,Argentina,30,23,RD,
+Q2,3:36,Venezuela,30,23,,Luis Bethelmylayup missed
+Q2,3:48,Argentina,30,23,,Nicolás Laprovittola3pt jump shot missed
+Q2,3:48,Venezuela,30,23,RD,Gregory Vargas
+Q2,4:02,Venezuela,30,23,AS,Heissler Guillent
+Q2,4:02,Venezuela,30,23,,Luis Bethelmy3pt jump shot made
+Q2,4:09,Venezuela,30,20,RO,Nestor Colmenares
+Q2,4:09,Venezuela,30,20,,Gregory Vargas3pt jump shot missed
+Q2,4:22,Argentina,30,20,tempo_tecnico,
+Q2,4:22,Venezuela,30,20,RO,
+Q2,4:22,Venezuela,30,20,,Jose Vargaslayup missed
+Q2,4:32,Argentina,30,20,FC,Luís Scola
+Q2,4:32,Venezuela,30,20,FR,Nestor Colmenares
+Q2,4:46,Argentina,30,20,LL_Pts_C,Gabriel Deck
+Q2,4:46,Argentina,29,20,FR,Gabriel Deck
+Q2,4:46,Argentina,29,20,,Gabriel Decklayup made
+Q2,4:46,Venezuela,29,20,substituicao_entra,Jose Vargas
+Q2,4:46,Venezuela,29,20,substituicao_sai,Pedro Chourio
+Q2,4:46,Venezuela,29,20,FC,Pedro Chourio
+Q2,4:53,Argentina,27,20,RD,Nicolás Laprovittola
+Q2,4:53,Venezuela,27,20,,Nestor Colmenareslayup missed
+Q2,4:58,Argentina,27,20,ER,Nicolás Laprovittola
+Q2,4:58,Venezuela,27,20,BR,Nestor Colmenares
+Q2,5:14,Venezuela,27,20,AS,Nestor Colmenares
+Q2,5:14,Venezuela,27,20,,Luis Bethelmy3pt jump shot made
+Q2,5:19,Venezuela,27,17,RO,Nestor Colmenares
+Q2,5:19,Venezuela,27,17,,Pedro Chourio3pt jump shot missed
+Q2,5:27,Argentina,27,17,,Luís Scolaalley oop missed
+Q2,5:27,Venezuela,27,17,RD,Luis Bethelmy
+Q2,5:51,Venezuela,27,17,AS,Gregory Vargas
+Q2,5:51,Venezuela,27,17,,Heissler Guillent3pt jump shot made
+Q2,6:08,Argentina,27,14,,Gabriel Decklayup missed
+Q2,6:08,Venezuela,27,14,RD,Luis Bethelmy
+Q2,6:26,Argentina,27,14,RD,Gabriel Deck
+Q2,6:26,Venezuela,27,14,2_Pts_T,Heissler Guillent
+Q2,6:47,Argentina,27,14,AS,Gabriel Deck
+Q2,6:47,Argentina,27,14,3_Pts_C,Nicolás Laprovittola
+Q2,6:54,Argentina,24,14,FR,Patricio Garino
+Q2,6:54,Venezuela,24,14,tempo_tecnico,
+Q2,6:54,Venezuela,24,14,substituicao_entra,Luis Bethelmy
+Q2,6:54,Venezuela,24,14,substituicao_sai,Windi Graterol
+Q2,6:54,Venezuela,24,14,FC,Gregory Vargas
+Q2,7:07,Argentina,24,14,BR,Patricio Garino
+Q2,7:07,Venezuela,24,14,ER,Nestor Colmenares
+Q2,7:17,Argentina,24,14,,Luís Scola3pt jump shot missed
+Q2,7:17,Venezuela,24,14,RD,Pedro Chourio
+Q2,7:23,Argentina,24,14,RO,Patricio Garino
+Q2,7:23,Argentina,24,14,,Gabriel Deck3pt jump shot missed
+Q2,7:38,Argentina,24,14,RD,Patricio Garino
+Q2,7:38,Venezuela,24,14,,Pedro Chouriolayup missed
+Q2,7:51,Argentina,24,14,AS,Facundo Campazzo
+Q2,7:51,Argentina,24,14,,Luís Scolalayup made
+Q2,8:13,Venezuela,22,14,AS,Nestor Colmenares
+Q2,8:13,Venezuela,22,14,2_Pts_C,Heissler Guillent
+Q2,8:23,Argentina,22,12,ER,Nicolás Laprovittola
+Q2,8:23,Venezuela,22,12,substituicao_entra,Nestor Colmenares
+Q2,8:23,Venezuela,22,12,substituicao_sai,Michael Carrera
+Q2,8:23,Venezuela,22,12,substituicao_entra,Heissler Guillent
+Q2,8:23,Venezuela,22,12,substituicao_sai,Jhornan Zamora
+Q2,8:31,Argentina,22,12,RD,Nicolás Laprovittola
+Q2,8:31,Venezuela,22,12,,Michael Carrera3pt jump shot missed
+Q2,8:54,Argentina,22,12,2_Pts_C,Gabriel Deck
+Q2,9:11,Argentina,20,12,BR,Facundo Campazzo
+Q2,9:11,Venezuela,20,12,ER,Gregory Vargas
+Q2,9:32,Argentina,20,12,LL_Pts_C,Nicolás Laprovittola
+Q2,9:32,Argentina,19,12,LL_Pts_C,Nicolás Laprovittola
+Q2,9:32,Argentina,18,12,AS,Luís Scola
+Q2,9:32,Argentina,18,12,LL_Pts_C,Nicolás Laprovittola
+Q2,9:32,Argentina,17,12,FR,Nicolás Laprovittola
+Q2,9:32,Venezuela,17,12,FC,Windi Graterol
+Q2,9:44,Argentina,17,12,RD,Gabriel Deck
+Q2,9:44,Venezuela,17,12,,Jhornan Zamora3pt jump shot missed
+Q3,0:00,Venezuela,63,47,2_Pts_T,Heissler Guillent
+Q3,0:22,Argentina,63,47,AS,Nicolás Laprovittola
+Q3,0:22,Argentina,63,47,,Gabriel Deck3pt jump shot made
+Q3,0:44,Venezuela,60,47,2_Pts_C,Michael Carrera
+Q3,10:00,Argentina,38,25,muda_bola,
+Q3,1:05,Argentina,60,45,substituicao_entra,Luca Vildoza
+Q3,1:05,Argentina,60,45,substituicao_sai,Facundo Campazzo
+Q3,1:05,Argentina,60,45,LL_Pts_C,Facundo Campazzo
+Q3,1:05,Argentina,59,45,LL_Pts_C,Facundo Campazzo
+Q3,1:05,Argentina,58,45,FR,Facundo Campazzo
+Q3,1:05,Venezuela,58,45,FC,Jhornan Zamora
+Q3,1:12,Argentina,58,45,RD,Marcos Delia
+Q3,1:12,Argentina,58,44,FC,Facundo Campazzo
+Q3,1:12,Venezuela,58,45,LL_Pts_T,Michael Carrera
+Q3,1:12,Venezuela,58,45,LL_Pts_C,Michael Carrera
+Q3,1:12,Venezuela,58,44,FR,Michael Carrera
+Q3,1:24,Argentina,58,44,ER ,
+Q3,1:49,Argentina,58,44,substituicao_entra,Nicolás Laprovittola
+Q3,1:49,Argentina,58,44,substituicao_sai,Patricio Garino
+Q3,1:49,Argentina,58,44,tempo_tecnico,
+Q3,1:49,Venezuela,58,44,substituicao_entra,Heissler Guillent
+Q3,1:49,Venezuela,58,44,substituicao_sai,Gregory Vargas
+Q3,1:49,Venezuela,58,44,2_Pts_C,Gregory Vargas
+Q3,1:54,Argentina,58,42,ER,Facundo Campazzo
+Q3,1:54,Venezuela,58,42,BR,Miguel Ruiz
+Q3,2:15,Argentina,58,42,RD,Nicolas Brussino
+Q3,2:15,Argentina,58,42,TO,Marcos Delia
+Q3,2:15,Venezuela,58,42,2_Pts_T,Gregory Vargas
+Q3,2:27,Argentina,58,42,ER,Marcos Delia
+Q3,2:27,Venezuela,58,42,BR,Miguel Ruiz
+Q3,2:53,Argentina,58,42,RD,Facundo Campazzo
+Q3,2:53,Venezuela,58,42,,Michael Carrera3pt jump shot missed
+Q3,3:08,Argentina,58,42,AS,Facundo Campazzo
+Q3,3:08,Argentina,58,42,2_Pts_C,Patricio Garino
+Q3,3:17,Argentina,56,42,RD,Facundo Campazzo
+Q3,3:17,Venezuela,56,42,,Jhornan Zamora3pt jump shot missed
+Q3,3:26,Argentina,56,42,,Patricio Garino3pt jump shot missed
+Q3,3:26,Venezuela,56,42,RD,Gregory Vargas
+Q3,3:42,Venezuela,56,42,LL_Pts_C,Michael Carrera
+Q3,3:42,Venezuela,56,41,substituicao_entra,Jhornan Zamora
+Q3,3:42,Venezuela,56,41,substituicao_sai,Heissler Guillent
+Q3,3:44,Argentina,56,41,FC,Patricio Garino
+Q3,3:44,Venezuela,56,41,FR,Michael Carrera
+Q3,3:44,Venezuela,56,41,AS,Heissler Guillent
+Q3,3:44,Venezuela,56,41,,Michael Carreralayup made
+Q3,3:46,Argentina,56,39,ER,Gabriel Deck
+Q3,3:46,Venezuela,56,39,BR,Heissler Guillent
+Q3,3:50,Argentina,56,39,BR,Gabriel Deck
+Q3,3:50,Venezuela,56,39,ER,Heissler Guillent
+Q3,4:13,Argentina,56,39,,Patricio Garino2pt jump shot made
+Q3,4:23,Argentina,54,39,RD,Marcos Delia
+Q3,4:23,Venezuela,54,39,2_Pts_T,Miguel Ruiz
+Q3,4:32,Venezuela,54,39,RO,Miguel Ruiz
+Q3,4:32,Venezuela,54,39,,Gregory Vargaslayup missed
+Q3,4:40,Argentina,54,39,ER,Facundo Campazzo
+Q3,4:40,Venezuela,54,39,BR,Heissler Guillent
+Q3,4:59,Argentina,54,38,FC,Facundo Campazzo
+Q3,4:59,Venezuela,54,39,LL_Pts_C,Michael Carrera
+Q3,4:59,Venezuela,54,38,FR,Michael Carrera
+Q3,4:59,Venezuela,54,38,AS,Gregory Vargas
+Q3,4:59,Venezuela,54,38,,Michael Carreralayup made
+Q3,5:17,Venezuela,54,36,substituicao_entra,Miguel Ruiz
+Q3,5:17,Venezuela,54,36,substituicao_sai,Nestor Colmenares
+Q3,5:17,Venezuela,54,36,tempo_tecnico,
+Q3,5:18,Argentina,54,36,AS,Facundo Campazzo
+Q3,5:18,Argentina,54,36,2_Pts_C,Patricio Garino
+Q3,5:34,Venezuela,52,36,AS,Nestor Colmenares
+Q3,5:34,Venezuela,52,36,2_Pts_C,Michael Carrera
+Q3,5:56,Argentina,52,34,AS,Facundo Campazzo
+Q3,5:56,Argentina,52,34,,Marcos Deliaalley oop made
+Q3,6:12,Venezuela,50,34,AS,Gregory Vargas
+Q3,6:12,Venezuela,50,34,2_Pts_C,Michael Carrera
+Q3,6:33,Argentina,50,32,AS,Nicolas Brussino
+Q3,6:33,Argentina,50,32,,Gabriel Decklayup made
+Q3,6:46,Argentina,48,32,RD,Nicolas Brussino
+Q3,6:46,Venezuela,48,32,3_Pts_T,Heissler Guillent
+Q3,7:08,Argentina,48,32,LL_Pts_C,Patricio Garino
+Q3,7:08,Argentina,47,32,AS,Facundo Campazzo
+Q3,7:08,Argentina,47,32,LL_Pts_C,Patricio Garino
+Q3,7:08,Argentina,46,32,FR,Patricio Garino
+Q3,7:08,Venezuela,48,32,substituicao_entra,Anthony Perez
+Q3,7:08,Venezuela,48,32,substituicao_sai,Miguel Ruiz
+Q3,7:08,Venezuela,46,32,FC,Nestor Colmenares
+Q3,7:28,Argentina,46,30,FC,Gabriel Deck
+Q3,7:28,Venezuela,46,32,LL_Pts_C,Michael Carrera
+Q3,7:28,Venezuela,46,31,LL_Pts_C,Michael Carrera
+Q3,7:28,Venezuela,46,30,FR,Michael Carrera
+Q3,7:45,Argentina,46,30,LL_Pts_C,Patricio Garino
+Q3,7:45,Argentina,45,30,AS,Facundo Campazzo
+Q3,7:45,Argentina,45,30,LL_Pts_C,Patricio Garino
+Q3,7:45,Argentina,44,30,FR,Patricio Garino
+Q3,7:45,Venezuela,44,30,FC,Nestor Colmenares
+Q3,8:06,Venezuela,44,30,AS,Michael Carrera
+Q3,8:06,Venezuela,44,30,,Miguel Ruizlayup made
+Q3,8:18,Argentina,44,28,FC,Gabriel Deck
+Q3,8:18,Venezuela,44,28,FR,Nestor Colmenares
+Q3,8:32,Argentina,44,28,LL_Pts_C,Gabriel Deck
+Q3,8:32,Argentina,43,28,FR,Gabriel Deck
+Q3,8:32,Argentina,43,28,AS,Nicolas Brussino
+Q3,8:32,Argentina,43,28,,Gabriel Deck2pt jump shot made
+Q3,8:32,Venezuela,43,28,FC,Miguel Ruiz
+Q3,8:59,Venezuela,41,28,AS,Heissler Guillent
+Q3,8:59,Venezuela,41,28,,Gregory Vargas3pt jump shot made
+Q3,9:24,Argentina,41,25,ER ,
+Q3,9:39,Argentina,41,25,FR,Marcos Delia
+Q3,9:39,Argentina,41,25,,Facundo Campazzo3pt jump shot made
+Q3,9:39,Venezuela,41,25,FC,Michael Carrera
+Q4,0:12,Argentina,87,67,RD,Maximo Fjellerup
+Q4,0:12,Venezuela,87,67,,Jose Vargas3pt jump shot missed
+Q4,0:21,Argentina,87,67,LL_Pts_C,Agustin Caffaro
+Q4,0:21,Argentina,86,67,FR,Agustin Caffaro
+Q4,0:21,Argentina,86,67,AS,Maximo Fjellerup
+Q4,0:21,Argentina,86,67,,Agustin Caffaro2pt jump shot made
+Q4,0:21,Argentina,84,67,BR,Maximo Fjellerup
+Q4,0:21,Venezuela,86,67,FC,Gregory Vargas
+Q4,0:21,Venezuela,84,67,ER,Gregory Vargas
+Q4,0:26,Argentina,84,67,,Tayavek Gallizzi2pt jump shot missed
+Q4,0:26,Venezuela,84,67,RD,Gregory Vargas
+Q4,0:33,Argentina,84,67,RO,Tayavek Gallizzi
+Q4,0:33,Argentina,84,67,,Lucio Redivo2pt jump shot missed
+Q4,0:37,Argentina,84,67,RO,Nicolás Laprovittola
+Q4,0:37,Argentina,84,67,,Lucio Redivo3pt jump shot missed
+Q4,10:00,Venezuela,63,47,muda_bola,
+Q4,1:00,Argentina,84,66,FC,Maximo Fjellerup
+Q4,1:00,Venezuela,84,67,LL_Pts_T,Nestor Colmenares
+Q4,1:00,Venezuela,84,66,FR,Nestor Colmenares
+Q4,1:00,Venezuela,84,66,,Nestor Colmenares2pt jump shot made
+Q4,1:03,Venezuela,84,64,RO,Nestor Colmenares
+Q4,1:03,Venezuela,84,64,,Luis Bethelmy3pt jump shot missed
+Q4,1:24,Argentina,84,64,substituicao_entra,Agustin Caffaro
+Q4,1:24,Argentina,84,64,substituicao_sai,Luís Scola
+Q4,1:24,Argentina,84,64,LL_Pts_C,Luís Scola
+Q4,1:24,Argentina,83,64,AS,Nicolás Laprovittola
+Q4,1:24,Argentina,83,64,LL_Pts_C,Luís Scola
+Q4,1:24,Argentina,82,64,FR,Luís Scola
+Q4,1:24,Venezuela,82,64,FC,Dwight Lewis
+Q4,1:48,Argentina,82,64,RD,Tayavek Gallizzi
+Q4,1:48,Argentina,82,63,FC,Tayavek Gallizzi
+Q4,1:48,Venezuela,82,64,LL_Pts_T,Gregory Vargas
+Q4,1:48,Venezuela,82,64,AS,Jose Vargas
+Q4,1:48,Venezuela,82,64,LL_Pts_C,Gregory Vargas
+Q4,1:48,Venezuela,82,63,FR,Gregory Vargas
+Q4,1:52,Argentina,82,63,ER,Lucio Redivo
+Q4,1:52,Venezuela,82,63,BR,Nestor Colmenares
+Q4,2:08,Argentina,82,61,FC,Maximo Fjellerup
+Q4,2:08,Venezuela,82,63,LL_Pts_C,Dwight Lewis
+Q4,2:08,Venezuela,82,62,LL_Pts_C,Dwight Lewis
+Q4,2:08,Venezuela,82,61,FR,Dwight Lewis
+Q4,2:29,Argentina,82,61,,Nicolás Laprovittola3pt jump shot missed
+Q4,2:29,Venezuela,82,61,RD,Gregory Vargas
+Q4,2:41,Venezuela,82,61,,Dwight Lewis2pt jump shot made
+Q4,3:03,Argentina,82,59,substituicao_entra,Lucio Redivo
+Q4,3:03,Argentina,82,59,substituicao_sai,Patricio Garino
+Q4,3:03,Argentina,82,59,substituicao_entra,Maximo Fjellerup
+Q4,3:03,Argentina,82,59,substituicao_sai,Luca Vildoza
+Q4,3:03,Argentina,82,59,LL_Pts_C,Tayavek Gallizzi
+Q4,3:03,Argentina,81,59,LL_Pts_C,Tayavek Gallizzi
+Q4,3:03,Argentina,80,59,FR,Tayavek Gallizzi
+Q4,3:03,Venezuela,80,59,FC,Luis Bethelmy
+Q4,3:14,Argentina,80,59,RD,Luís Scola
+Q4,3:14,Venezuela,80,59,2_Pts_T,Dwight Lewis
+Q4,3:33,Argentina,80,59,LL_Pts_C,Luís Scola
+Q4,3:33,Argentina,79,59,LL_Pts_C,Luís Scola
+Q4,3:33,Argentina,78,59,substituicao_entra,Tayavek Gallizzi
+Q4,3:33,Argentina,78,59,substituicao_sai,Gabriel Deck
+Q4,3:33,Argentina,78,59,FR,Luís Scola
+Q4,3:33,Venezuela,78,59,FC,Dwight Lewis
+Q4,3:44,Argentina,78,59,RD,Gabriel Deck
+Q4,3:44,Venezuela,78,59,3_Pts_T,Gregory Vargas
+Q4,4:03,Argentina,78,59,LL_Pts_C,Nicolás Laprovittola
+Q4,4:03,Argentina,77,59,FR,Nicolás Laprovittola
+Q4,4:03,Argentina,77,59,2_Pts_C,Nicolás Laprovittola
+Q4,4:03,Venezuela,77,59,FC,Jose Vargas
+Q4,4:23,Venezuela,75,59,2_Pts_C,Luis Bethelmy
+Q4,4:35,Argentina,75,57,,Patricio Garino3pt jump shot missed
+Q4,4:35,Venezuela,75,57,RD,Dwight Lewis
+Q4,5:03,Venezuela,75,57,AS,Gregory Vargas
+Q4,5:03,Venezuela,75,57,2_Pts_C,Nestor Colmenares
+Q4,5:24,Argentina,75,55,AS,Luca Vildoza
+Q4,5:24,Argentina,75,55,,Gabriel Deck3pt jump shot made
+Q4,5:44,Venezuela,72,55,AS,Nestor Colmenares
+Q4,5:44,Venezuela,72,55,3_Pts_C,Luis Bethelmy
+Q4,5:55,Argentina,72,52,LL_Pts_C,Luís Scola
+Q4,5:55,Argentina,71,52,AS,Luca Vildoza
+Q4,5:55,Argentina,71,52,LL_Pts_C,Luís Scola
+Q4,5:55,Argentina,70,52,FR,Luís Scola
+Q4,5:55,Venezuela,70,52,FC,Jose Vargas
+Q4,6:07,Argentina,70,52,RD,Luís Scola
+Q4,6:07,Venezuela,70,52,2_Pts_T,Gregory Vargas
+Q4,6:29,Argentina,70,52,LL_Pts_C,Gabriel Deck
+Q4,6:29,Argentina,69,52,AS,Nicolás Laprovittola
+Q4,6:29,Argentina,69,52,LL_Pts_C,Gabriel Deck
+Q4,6:29,Argentina,68,52,FR,Gabriel Deck
+Q4,6:29,Venezuela,68,52,FC,Nestor Colmenares
+Q4,6:32,Argentina,68,52,BR,Nicolás Laprovittola
+Q4,6:32,Venezuela,68,52,ER,Gregory Vargas
+Q4,6:40,Argentina,68,52,substituicao_entra,Patricio Garino
+Q4,6:40,Argentina,68,52,substituicao_sai,Nicolas Brussino
+Q4,6:40,Argentina,68,52,substituicao_entra,Luís Scola
+Q4,6:40,Argentina,68,52,substituicao_sai,Marcos Delia
+Q4,6:40,Venezuela,68,52,substituicao_entra,Jose Vargas
+Q4,6:40,Venezuela,68,52,substituicao_sai,Pedro Chourio
+Q4,6:46,Argentina,68,52,ER,Luca Vildoza
+Q4,6:46,Venezuela,68,52,BR,Pedro Chourio
+Q4,6:58,Argentina,68,52,RD,Luca Vildoza
+Q4,6:58,Venezuela,68,52,2_Pts_T,Pedro Chourio
+Q4,7:08,Argentina,68,52,,Nicolás Laprovittola3pt jump shot missed
+Q4,7:08,Venezuela,68,52,RD,Nestor Colmenares
+Q4,7:17,Venezuela,68,52,2_Pts_C,Pedro Chourio
+Q4,7:33,Argentina,68,50,FC,Luca Vildoza
+Q4,7:33,Venezuela,68,50,FR,Gregory Vargas
+Q4,7:33,Venezuela,68,50,substituicao_entra,Nestor Colmenares
+Q4,7:33,Venezuela,68,50,substituicao_sai,Michael Carrera
+Q4,7:33,Venezuela,68,50,substituicao_entra,Dwight Lewis
+Q4,7:33,Venezuela,68,50,substituicao_sai,Heissler Guillent
+Q4,7:33,Venezuela,68,50,substituicao_entra,Luis Bethelmy
+Q4,7:33,Venezuela,68,50,substituicao_sai,Miguel Ruiz
+Q4,7:33,Venezuela,68,50,substituicao_entra,Gregory Vargas
+Q4,7:33,Venezuela,68,50,substituicao_sai,Jhornan Zamora
+Q4,7:35,Argentina,68,50,FC,Luca Vildoza
+Q4,7:35,Venezuela,68,50,FR,Heissler Guillent
+Q4,7:59,Argentina,68,50,AS,Gabriel Deck
+Q4,7:59,Argentina,68,50,,Luca Vildoza3pt jump shot made
+Q4,8:10,Argentina,65,50,RD,Gabriel Deck
+Q4,8:10,Venezuela,65,50,,Michael Carreralayup missed
+Q4,8:20,Argentina,65,50,,Marcos Delialayup missed
+Q4,8:20,Venezuela,65,50,RD,Michael Carrera
+Q4,8:30,Argentina,65,50,RD,Nicolas Brussino
+Q4,8:30,Venezuela,65,50,3_Pts_T,Heissler Guillent
+Q4,8:58,Argentina,65,50,AS,Nicolás Laprovittola
+Q4,8:58,Argentina,65,50,,Gabriel Decklayup made
+Q4,9:07,Argentina,63,50,RD,Nicolás Laprovittola
+Q4,9:07,Venezuela,63,50,2_Pts_T,Heissler Guillent
+Q4,9:12,Argentina,63,50,FC,Nicolás Laprovittola
+Q4,9:12,Venezuela,63,50,FR,Miguel Ruiz
+Q4,9:23,Argentina,63,50,,Nicolas Brussino2pt jump shot missed
+Q4,9:23,Venezuela,63,50,RD,Miguel Ruiz
+Q4,9:28,Argentina,63,50,FR,Nicolas Brussino
+Q4,9:28,Venezuela,63,50,FC,Pedro Chourio
+Q4,9:34,Venezuela,63,50,substituicao_entra,Pedro Chourio
+Q4,9:34,Venezuela,63,50,substituicao_sai,Anthony Perez
+Q4,9:38,Argentina,63,50,FR,Nicolas Brussino
+Q4,9:38,Venezuela,63,50,FC,Anthony Perez
+Q4,9:45,Venezuela,63,50,AS,Michael Carrera
+Q4,9:45,Venezuela,63,50,,Heissler Guillent3pt jump shot made
+Q4,9:50,Venezuela,63,47,RO,Michael Carrera
+Q4,9:50,Venezuela,63,47,,Jhornan Zamora3pt jump shot missed

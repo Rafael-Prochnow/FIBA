@@ -1,0 +1,454 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Czech Republic,18,18,RO,Patrik Auda
+Q1,0:00,Czech Republic,18,18,2_Pts_T,Tomas Satoransky
+Q1,0:24,Japan,18,18,substituicao_entra,Yudai Baba
+Q1,0:24,Japan,18,18,substituicao_sai,Rui Hachimura
+Q1,0:24,Japan,18,18,LL_Pts_C,Rui Hachimura
+Q1,0:24,Japan,17,18,LL_Pts_T,Rui Hachimura
+Q1,0:24,Japan,17,18,FR,Rui Hachimura
+Q1,0:24,Czech Republic,18,18,substituicao_entra,Jaromir Bohacik
+Q1,0:24,Czech Republic,18,18,substituicao_sai,Martin Kriz
+Q1,0:24,Czech Republic,17,18,FC,Martin Kriz
+Q1,0:45,Czech Republic,17,18,3_Pts_C,Blake Schilb
+Q1,0:53,Japan,17,15,FC,Joji Takeuchi
+Q1,0:53,Czech Republic,17,15,substituicao_entra,Patrik Auda
+Q1,0:53,Czech Republic,17,15,substituicao_sai,Ondrej Balvín
+Q1,0:53,Czech Republic,17,15,FR,Ondrej Balvín
+Q1,0:53,Czech Republic,17,15,RO,
+Q1,0:53,Czech Republic,17,15,,Tomas Satoransky2pt jump shot missed
+Q1,10:00,Japan,0,0,inicio_quarto,Rui Hachimura
+Q1,1:19,Japan,17,15,AS,Ryusei Shinoyama
+Q1,1:19,Japan,17,15,2_Pts_C,Yuta Watanabe
+Q1,1:40,Japan,15,15,substituicao_entra,Joji Takeuchi
+Q1,1:40,Japan,15,15,substituicao_sai,Nick Fazekas
+Q1,1:40,Japan,15,15,FR,Rui Hachimura
+Q1,1:40,Japan,15,15,RD,Rui Hachimura
+Q1,1:40,Czech Republic,15,15,substituicao_entra,Pavel Pumprla
+Q1,1:40,Czech Republic,15,15,substituicao_sai,Vojtech Hruban
+Q1,1:40,Czech Republic,15,15,FC,Vojtech Hruban
+Q1,1:40,Czech Republic,15,15,,Blake Schilb2pt jump shot missed
+Q1,2:02,Japan,15,15,AS,Ryusei Shinoyama
+Q1,2:02,Japan,15,15,,Daiki Tanaka2pt jump shot made
+Q1,2:06,Japan,13,15,RO,
+Q1,2:06,Japan,13,15,2_Pts_T,Nick Fazekas
+Q1,2:06,Czech Republic,13,15,TO,Ondrej Balvín
+Q1,2:27,Czech Republic,13,15,2_Pts_C,Vojtech Hruban
+Q1,2:35,Czech Republic,13,13,RO,Ondrej Balvín
+Q1,2:35,Czech Republic,13,13,,Vojtech Hruban3pt jump shot missed
+Q1,2:44,Japan,13,13,substituicao_entra,Ryusei Shinoyama
+Q1,2:44,Japan,13,13,substituicao_sai,Yudai Baba
+Q1,2:44,Japan,13,13,FC,Yudai Baba
+Q1,2:44,Czech Republic,13,13,substituicao_entra,Blake Schilb
+Q1,2:44,Czech Republic,13,13,substituicao_sai,Jaromir Bohacik
+Q1,2:44,Czech Republic,13,13,FR,Vojtech Hruban
+Q1,3:00,Japan,13,13,3_Pts_C,Daiki Tanaka
+Q1,3:19,Czech Republic,10,13,2_Pts_C,Ondrej Balvín
+Q1,3:34,Japan,10,11,2_Pts_C,Yuta Watanabe
+Q1,3:50,Japan,8,11,RD,Nick Fazekas
+Q1,3:50,Czech Republic,8,11,2_Pts_T,Jaromir Bohacik
+Q1,4:14,Japan,8,11,2_Pts_C,Daiki Tanaka
+Q1,4:30,Czech Republic,6,11,2_Pts_C,Ondrej Balvín
+Q1,4:48,Japan,6,9,,Rui Hachimurafree throw missed
+Q1,4:48,Czech Republic,6,9,RD,Ondrej Balvín
+Q1,4:49,Japan,6,9,FR,Rui Hachimura
+Q1,4:49,Japan,6,9,,Rui Hachimura2pt jump shot made
+Q1,4:49,Japan,4,9,RO,Rui Hachimura
+Q1,4:49,Japan,4,9,2_Pts_T,Yudai Baba
+Q1,4:49,Czech Republic,6,9,FC,Ondrej Balvín
+Q1,5:11,Japan,4,9,RD,
+Q1,5:11,Czech Republic,4,9,,Vojtech Hruban3pt jump shot missed
+Q1,5:19,Japan,4,9,,Yuta Watanabe3pt jump shot missed
+Q1,5:19,Czech Republic,4,9,RD,Tomas Satoransky
+Q1,5:41,Czech Republic,4,9,AS,Tomas Satoransky
+Q1,5:41,Czech Republic,4,9,,Martin Krizlayup made
+Q1,5:48,Japan,4,7,2_Pts_T,Daiki Tanaka
+Q1,5:48,Czech Republic,4,7,RD,Tomas Satoransky
+Q1,5:48,Czech Republic,4,7,TO,Vojtech Hruban
+Q1,5:52,Japan,4,7,BR,Rui Hachimura
+Q1,5:52,Czech Republic,4,7,ER,Tomas Satoransky
+Q1,6:10,Japan,4,7,AS,Rui Hachimura
+Q1,6:10,Japan,4,7,2_Pts_C,Yuta Watanabe
+Q1,6:19,Japan,2,7,RD,Rui Hachimura
+Q1,6:19,Czech Republic,2,7,3_Pts_T,Jaromir Bohacik
+Q1,6:33,Japan,2,7,,Rui Hachimura2pt jump shot missed
+Q1,6:33,Czech Republic,2,7,RD,Ondrej Balvín
+Q1,6:49,Czech Republic,2,7,AS,Tomas Satoransky
+Q1,6:49,Czech Republic,2,7,,Jaromir Bohacik3pt jump shot made
+Q1,6:52,Czech Republic,2,4,RO,Martin Kriz
+Q1,6:52,Czech Republic,2,4,,Jaromir Bohaciktip in missed
+Q1,7:00,Czech Republic,2,4,RO,Jaromir Bohacik
+Q1,7:00,Czech Republic,2,4,,Jaromir Bohacik3pt jump shot missed
+Q1,7:21,Czech Republic,2,4,RD,
+Q1,7:22,Japan,2,4,3_Pts_T,Daiki Tanaka
+Q1,7:51,Czech Republic,2,4,2_Pts_C,Jaromir Bohacik
+Q1,8:01,Japan,2,2,2_Pts_T,Daiki Tanaka
+Q1,8:01,Czech Republic,2,2,RD,Tomas Satoransky
+Q1,8:17,Japan,2,2,RD,Nick Fazekas
+Q1,8:17,Czech Republic,2,2,2_Pts_T,Tomas Satoransky
+Q1,8:43,Japan,2,2,2_Pts_T,Yuta Watanabe
+Q1,8:43,Czech Republic,2,2,RD,Jaromir Bohacik
+Q1,8:48,Japan,2,2,RD,Yudai Baba
+Q1,8:48,Czech Republic,2,2,,Jaromir Bohacik3pt jump shot missed
+Q1,8:53,Czech Republic,2,2,RO,Martin Kriz
+Q1,8:53,Czech Republic,2,2,,Martin Kriz2pt jump shot missed
+Q1,9:11,Japan,2,2,,Rui Hachimura2pt jump shot missed
+Q1,9:11,Czech Republic,2,2,RD,Ondrej Balvín
+Q1,9:32,Czech Republic,2,2,2_Pts_C,Tomas Satoransky
+Q1,9:46,Japan,2,0,LL_Pts_C,Rui Hachimura
+Q1,9:46,Japan,1,0,LL_Pts_C,Rui Hachimura
+Q1,9:46,Japan,0,0,FR,Rui Hachimura
+Q1,9:46,Czech Republic,0,0,FC,Martin Kriz
+Q2,0:00,Japan,40,45,2_Pts_C,Makoto Hiejima
+Q2,0:06,Japan,38,45,tempo_tecnico,
+Q2,0:06,Czech Republic,38,45,2_Pts_C,Tomas Satoransky
+Q2,0:26,Japan,38,43,LL_Pts_T,Rui Hachimura
+Q2,0:26,Japan,38,43,LL_Pts_C,Rui Hachimura
+Q2,0:26,Japan,37,43,FR,Rui Hachimura
+Q2,0:26,Czech Republic,38,43,RD,Pavel Pumprla
+Q2,0:26,Czech Republic,37,43,FC,Jaromir Bohacik
+Q2,0:44,Czech Republic,37,43,AS,Tomas Satoransky
+Q2,0:44,Czech Republic,37,43,,Blake Schilb3pt jump shot made
+Q2,10:00,Czech Republic,0,0,muda_bola,
+Q2,1:08,Japan,37,40,2_Pts_C,Yuta Watanabe
+Q2,1:29,Japan,35,40,RD,Nick Fazekas
+Q2,1:29,Japan,35,40,FC,Rui Hachimura
+Q2,1:29,Czech Republic,35,40,LL_Pts_T,Pavel Pumprla
+Q2,1:29,Czech Republic,35,40,LL_Pts_T,Pavel Pumprla
+Q2,1:29,Czech Republic,35,40,substituicao_entra,Patrik Auda
+Q2,1:29,Czech Republic,35,40,substituicao_sai,Ondrej Balvín
+Q2,1:29,Czech Republic,35,40,FR,Pavel Pumprla
+Q2,1:49,Japan,35,40,,Nick Fazekas3pt jump shot made
+Q2,1:55,Japan,32,40,RO,Nick Fazekas
+Q2,1:55,Japan,32,40,3_Pts_T,Rui Hachimura
+Q2,2:10,Japan,32,39,FC,Nick Fazekas
+Q2,2:10,Czech Republic,32,40,LL_Pts_C,Ondrej Balvín
+Q2,2:10,Czech Republic,32,39,LL_Pts_T,Ondrej Balvín
+Q2,2:10,Czech Republic,32,39,FR,Ondrej Balvín
+Q2,2:21,Japan,32,39,FC,Rui Hachimura
+Q2,2:21,Czech Republic,32,39,FR,Ondrej Balvín
+Q2,2:35,Japan,32,39,LL_Pts_C,Yuta Watanabe
+Q2,2:35,Japan,31,39,FR,Yuta Watanabe
+Q2,2:35,Japan,31,39,2_Pts_C,Yuta Watanabe
+Q2,2:35,Czech Republic,31,39,substituicao_entra,Pavel Pumprla
+Q2,2:35,Czech Republic,31,39,substituicao_sai,Martin Peterka
+Q2,2:35,Czech Republic,31,39,tempo_tecnico,
+Q2,2:35,Czech Republic,31,39,FC,Ondrej Balvín
+Q2,2:44,Japan,29,39,RD,Yuta Watanabe
+Q2,2:44,Czech Republic,29,39,,Jaromir Bohacik3pt jump shot missed
+Q2,2:58,Japan,29,39,2_Pts_T,Daiki Tanaka
+Q2,2:58,Czech Republic,29,39,RD,Ondrej Balvín
+Q2,3:23,Czech Republic,29,39,AS,Tomas Satoransky
+Q2,3:23,Czech Republic,29,39,,Jaromir Bohacik3pt jump shot made
+Q2,3:29,Japan,29,36,2_Pts_T,Yuta Watanabe
+Q2,3:29,Czech Republic,29,36,RD,Tomas Satoransky
+Q2,3:36,Japan,29,36,FR,Rui Hachimura
+Q2,3:36,Czech Republic,29,36,substituicao_entra,Tomas Satoransky
+Q2,3:36,Czech Republic,29,36,substituicao_sai,Vojtech Hruban
+Q2,3:36,Czech Republic,29,36,FC,Vojtech Hruban
+Q2,3:46,Czech Republic,29,36,substituicao_entra,Ondrej Balvín
+Q2,3:46,Czech Republic,29,36,substituicao_sai,Patrik Auda
+Q2,3:49,Japan,29,36,RD,Nick Fazekas
+Q2,3:49,Czech Republic,29,36,,Vojtech Hruban3pt jump shot missed
+Q2,4:04,Japan,29,36,AS,Makoto Hiejima
+Q2,4:04,Japan,29,36,2_Pts_C,Nick Fazekas
+Q2,4:16,Czech Republic,27,36,,Blake Schilb3pt jump shot made
+Q2,4:31,Japan,27,33,AS,Rui Hachimura
+Q2,4:31,Japan,27,33,,Nick Fazekas2pt jump shot made
+Q2,4:42,Japan,25,33,RD,Yuta Watanabe
+Q2,4:42,Czech Republic,25,33,2_Pts_T,Vojtech Hruban
+Q2,4:45,Japan,25,33,ER,Makoto Hiejima
+Q2,4:45,Czech Republic,25,33,BR,Blake Schilb
+Q2,4:54,Japan,25,33,substituicao_entra,Rui Hachimura
+Q2,4:54,Japan,25,33,substituicao_sai,Joji Takeuchi
+Q2,4:54,Japan,25,33,tempo_tecnico,
+Q2,4:56,Czech Republic,25,33,AS,Vojtech Hruban
+Q2,4:56,Czech Republic,25,33,,Jaromir Bohacik3pt jump shot made
+Q2,5:01,Japan,25,30,ER,Makoto Hiejima
+Q2,5:01,Czech Republic,25,30,BR,Vojtech Hruban
+Q2,5:15,Japan,25,30,RD,Joji Takeuchi
+Q2,5:15,Czech Republic,25,30,2_Pts_T,Jaromir Bohacik
+Q2,5:32,Japan,25,30,2_Pts_C,Makoto Hiejima
+Q2,5:55,Czech Republic,23,30,AS,Jaromir Bohacik
+Q2,5:55,Czech Republic,23,30,,Blake Schilb3pt jump shot made
+Q2,6:01,Japan,23,27,substituicao_entra,Daiki Tanaka
+Q2,6:01,Japan,23,27,substituicao_sai,Ryusei Shinoyama
+Q2,6:01,Japan,23,27,FC,Ryusei Shinoyama
+Q2,6:01,Czech Republic,23,27,FR,Jaromir Bohacik
+Q2,6:04,Japan,23,27,FC,Ryusei Shinoyama
+Q2,6:04,Czech Republic,23,27,FR,Jaromir Bohacik
+Q2,6:14,Japan,23,27,AS,Joji Takeuchi
+Q2,6:14,Japan,23,27,,Nick Fazekaslayup made
+Q2,6:30,Czech Republic,21,27,2_Pts_C,Jaromir Bohacik
+Q2,6:43,Japan,21,25,ER ,
+Q2,6:43,Czech Republic,21,25,substituicao_entra,Martin Peterka
+Q2,6:43,Czech Republic,21,25,substituicao_sai,Pavel Pumprla
+Q2,6:50,Japan,21,25,substituicao_entra,Nick Fazekas
+Q2,6:50,Japan,21,25,substituicao_sai,Yudai Baba
+Q2,6:50,Japan,21,25,substituicao_entra,Yuta Watanabe
+Q2,6:50,Japan,21,25,substituicao_sai,Rui Hachimura
+Q2,6:50,Japan,21,25,RO,
+Q2,6:50,Japan,21,25,2_Pts_T,Joji Takeuchi
+Q2,6:50,Czech Republic,21,25,TO,Pavel Pumprla
+Q2,7:10,Czech Republic,21,25,AS,Patrik Auda
+Q2,7:10,Czech Republic,21,25,,Vojtech Hruban2pt jump shot made
+Q2,7:28,Japan,21,23,,Ryusei Shinoyama3pt jump shot missed
+Q2,7:28,Czech Republic,21,23,RD,Blake Schilb
+Q2,7:51,Czech Republic,21,23,ER double dribble,Vojtech Hruban
+Q2,8:08,Japan,21,23,LL_Pts_T,Makoto Hiejima
+Q2,8:08,Japan,21,23,AS,Rui Hachimura
+Q2,8:08,Japan,21,23,LL_Pts_C,Makoto Hiejima
+Q2,8:08,Japan,20,23,FR,Makoto Hiejima
+Q2,8:08,Czech Republic,21,23,RD,Blake Schilb
+Q2,8:08,Czech Republic,20,23,substituicao_entra,Vojtech Hruban
+Q2,8:08,Czech Republic,20,23,substituicao_sai,Tomas Satoransky
+Q2,8:08,Czech Republic,20,23,FC,Jaromir Bohacik
+Q2,8:28,Japan,20,23,FR,Yudai Baba
+Q2,8:28,Japan,20,23,RD,Yudai Baba
+Q2,8:28,Czech Republic,20,23,FC,Patrik Auda
+Q2,8:28,Czech Republic,20,23,2_Pts_T,Blake Schilb
+Q2,8:45,Japan,20,23,ER,Rui Hachimura
+Q2,8:55,Japan,20,23,FR,Rui Hachimura
+Q2,8:55,Czech Republic,20,23,FC,Pavel Pumprla
+Q2,8:59,Czech Republic,20,23,AS,Jaromir Bohacik
+Q2,8:59,Czech Republic,20,23,,Patrik Audalayup made
+Q2,9:15,Japan,20,21,2_Pts_C,Rui Hachimura
+Q2,9:32,Japan,18,20,FC,Yudai Baba
+Q2,9:32,Czech Republic,18,21,LL_Pts_T,Pavel Pumprla
+Q2,9:32,Czech Republic,18,20,FR,Pavel Pumprla
+Q2,9:32,Czech Republic,18,20,2_Pts_C,Pavel Pumprla
+Q2,9:46,Czech Republic,0,0,RO,Jaromir Bohacik
+Q2,9:46,Czech Republic,0,0,,Tomas Satoransky3pt jump shot missed
+Q3,0:01,Czech Republic,55,64,AS,Pavel Pumprla
+Q3,0:01,Czech Republic,55,64,,Patrik Audalayup made
+Q3,0:06,Japan,55,62,2_Pts_T,Nick Fazekas
+Q3,0:06,Czech Republic,55,62,RD,Pavel Pumprla
+Q3,0:31,Japan,55,62,RD,Nick Fazekas
+Q3,0:31,Czech Republic,55,62,2_Pts_T,Patrik Auda
+Q3,0:45,Japan,55,62,2_Pts_C,Ryusei Shinoyama
+Q3,10:00,Japan,0,0,muda_bola,
+Q3,1:09,Japan,53,62,RD,Ryusei Shinoyama
+Q3,1:09,Czech Republic,53,62,2_Pts_T,Vojtech Hruban
+Q3,1:12,Japan,53,62,ER,Nick Fazekas
+Q3,1:12,Czech Republic,53,62,BR,Tomas Satoransky
+Q3,1:36,Czech Republic,53,62,AS,Pavel Pumprla
+Q3,1:36,Czech Republic,53,62,,Patrik Audalayup made
+Q3,1:59,Japan,53,60,LL_Pts_C,Nick Fazekas
+Q3,1:59,Japan,52,60,LL_Pts_T,Nick Fazekas
+Q3,1:59,Japan,52,60,FR,Nick Fazekas
+Q3,1:59,Czech Republic,52,60,substituicao_entra,Jaromir Bohacik
+Q3,1:59,Czech Republic,52,60,substituicao_sai,Blake Schilb
+Q3,1:59,Czech Republic,52,60,FC,Blake Schilb
+Q3,2:13,Japan,52,60,RD,Nick Fazekas
+Q3,2:13,Czech Republic,52,60,,Patrik Audadunk missed
+Q3,2:18,Japan,52,60,substituicao_entra,Nick Fazekas
+Q3,2:18,Japan,52,60,substituicao_sai,Rui Hachimura
+Q3,2:27,Czech Republic,52,60,substituicao_entra,Pavel Pumprla
+Q3,2:27,Czech Republic,52,60,substituicao_sai,Martin Kriz
+Q3,2:31,Japan,52,60,AS,Ryusei Shinoyama
+Q3,2:31,Japan,52,60,,Makoto Hiejima3pt jump shot made
+Q3,2:31,Czech Republic,52,60,tempo_tecnico,
+Q3,2:45,Japan,49,60,RD,Joji Takeuchi
+Q3,2:45,Czech Republic,49,60,,Martin Krizlayup missed
+Q3,2:54,Japan,49,60,substituicao_entra,Makoto Hiejima
+Q3,2:54,Japan,49,60,substituicao_sai,Daiki Tanaka
+Q3,2:54,Czech Republic,49,60,substituicao_entra,Vojtech Hruban
+Q3,2:54,Czech Republic,49,60,substituicao_sai,Jaromir Bohacik
+Q3,2:54,Czech Republic,49,60,RO,
+Q3,2:56,Czech Republic,49,60,3_Pts_T,Tomas Satoransky
+Q3,3:12,Japan,49,60,3_Pts_T,Joji Takeuchi
+Q3,3:12,Czech Republic,49,60,RD,Tomas Satoransky
+Q3,3:30,Japan,49,60,FR,Rui Hachimura
+Q3,3:30,Japan,49,60,RD,
+Q3,3:30,Czech Republic,49,60,FC,Patrik Auda
+Q3,3:30,Czech Republic,49,60,2_Pts_T,Tomas Satoransky
+Q3,3:37,Czech Republic,49,60,RO,Patrik Auda
+Q3,3:37,Czech Republic,49,60,,Martin Krizlayup missed
+Q3,3:55,Japan,49,60,,Rui Hachimura2pt jump shot made
+Q3,3:59,Japan,47,60,RO,Rui Hachimura
+Q3,3:59,Japan,47,60,2_Pts_T,Daiki Tanaka
+Q3,4:27,Czech Republic,47,60,AS,Tomas Satoransky
+Q3,4:27,Czech Republic,47,60,,Jaromir Bohacik3pt jump shot made
+Q3,4:42,Japan,47,57,FC_O,Rui Hachimura
+Q3,4:42,Czech Republic,47,57,FR,Martin Kriz
+Q3,4:51,Japan,47,57,LL_Pts_T,Yuta Watanabe
+Q3,4:51,Czech Republic,47,57,FC_T,Patrik Auda
+Q3,4:52,Czech Republic,47,57,AS,Jaromir Bohacik
+Q3,4:52,Czech Republic,47,57,2_Pts_C,Tomas Satoransky
+Q3,5:01,Czech Republic,47,55,substituicao_entra,Patrik Auda
+Q3,5:01,Czech Republic,47,55,substituicao_sai,Ondrej Balvín
+Q3,5:10,Japan,47,55,AS,Ryusei Shinoyama
+Q3,5:10,Japan,47,55,,Yuta Watanabelayup made
+Q3,5:29,Japan,45,55,RD,Yuta Watanabe
+Q3,5:29,Czech Republic,45,55,,Ondrej Balvíndunk missed
+Q3,5:39,Japan,45,55,tempo_tecnico,
+Q3,5:39,Japan,45,55,ER ,
+Q3,5:39,Japan,45,55,3_Pts_T,Daiki Tanaka
+Q3,6:09,Czech Republic,45,55,2_Pts_C,Blake Schilb
+Q3,6:16,Japan,45,53,substituicao_entra,Joji Takeuchi
+Q3,6:16,Japan,45,53,substituicao_sai,Nick Fazekas
+Q3,6:16,Japan,45,53,FC,Ryusei Shinoyama
+Q3,6:16,Czech Republic,45,53,FR,Jaromir Bohacik
+Q3,6:16,Czech Republic,45,53,RO,Jaromir Bohacik
+Q3,6:16,Czech Republic,45,53,2_Pts_T,Jaromir Bohacik
+Q3,6:25,Japan,45,53,,Rui Hachimuradunk made
+Q3,6:34,Japan,43,53,RO,Rui Hachimura
+Q3,6:34,Japan,43,53,,Yuta Watanabe2pt jump shot missed
+Q3,6:50,Japan,43,53,RD,
+Q3,6:52,Czech Republic,43,53,,Ondrej Balvín2pt jump shot missed
+Q3,6:52,Czech Republic,43,53,LL_Pts_T,Tomas Satoransky
+Q3,6:58,Japan,43,52,FC_T,Coach: 
+Q3,6:58,Japan,43,52,FC,Yuta Watanabe
+Q3,6:58,Czech Republic,43,52,FR,Ondrej Balvín
+Q3,6:58,Czech Republic,43,52,RO,
+Q3,7:00,Czech Republic,43,52,,Jaromir Bohacik3pt jump shot missed
+Q3,7:10,Japan,43,52,2_Pts_T,Yuta Watanabe
+Q3,7:10,Czech Republic,43,52,RD,Blake Schilb
+Q3,7:10,Czech Republic,43,52,TO,Ondrej Balvín
+Q3,7:36,Japan,43,52,FR,Rui Hachimura
+Q3,7:36,Czech Republic,43,52,FC,Jaromir Bohacik
+Q3,7:38,Japan,43,52,substituicao_entra,Ryusei Shinoyama
+Q3,7:38,Japan,43,52,substituicao_sai,Yudai Baba
+Q3,7:38,Japan,43,52,tempo_tecnico,
+Q3,7:38,Czech Republic,43,52,AS,Ondrej Balvín
+Q3,7:38,Czech Republic,43,52,2_Pts_C,Jaromir Bohacik
+Q3,7:41,Japan,43,50,,Yudai Baba2pt jump shot missed
+Q3,7:41,Czech Republic,43,50,RD,Ondrej Balvín
+Q3,8:03,Czech Republic,43,50,AS,Jaromir Bohacik
+Q3,8:03,Czech Republic,43,50,,Blake Schilb3pt jump shot made
+Q3,8:12,Japan,43,47,FC,Yudai Baba
+Q3,8:12,Czech Republic,43,47,FR,Martin Kriz
+Q3,8:18,Czech Republic,43,47,RO,
+Q3,8:20,Czech Republic,43,47,3_Pts_T,Jaromir Bohacik
+Q3,8:35,Japan,43,47,LL_Pts_C,Rui Hachimura
+Q3,8:35,Japan,42,47,FR,Rui Hachimura
+Q3,8:35,Japan,42,47,,Rui Hachimura2pt jump shot made
+Q3,8:35,Czech Republic,43,47,substituicao_entra,Blake Schilb
+Q3,8:35,Czech Republic,43,47,substituicao_sai,Vojtech Hruban
+Q3,8:35,Czech Republic,42,47,FC,Vojtech Hruban
+Q3,8:51,Czech Republic,40,47,,Martin Kriztip in made
+Q3,8:58,Czech Republic,0,0,RO,Martin Kriz
+Q3,8:58,Czech Republic,0,0,2_Pts_T,Tomas Satoransky
+Q3,9:17,Japan,0,0,FC_O,Nick Fazekas
+Q3,9:17,Czech Republic,0,0,FR,Jaromir Bohacik
+Q3,9:24,Japan,0,0,RD,Nick Fazekas
+Q3,9:24,Czech Republic,0,0,2_Pts_T,Ondrej Balvín
+Q3,9:45,Japan,0,0,,Daiki Tanaka3pt jump shot missed
+Q3,9:45,Czech Republic,0,0,RD,Ondrej Balvín
+Q4,0:01,Japan,76,89,,Ryusei Shinoyama3pt jump shot missed
+Q4,0:02,Czech Republic,76,89,AS,Tomas Satoransky
+Q4,0:02,Czech Republic,76,89,,Blake Schilb3pt jump shot made
+Q4,0:26,Japan,76,86,AS,Yudai Baba
+Q4,0:26,Japan,76,86,2_Pts_C,Joji Takeuchi
+Q4,0:26,Czech Republic,76,86,tempo_tecnico,
+Q4,0:28,Japan,74,86,BR,Ryusei Shinoyama
+Q4,0:28,Czech Republic,74,86,ER,Ondrej Balvín
+Q4,0:38,Japan,74,86,AS,Yuta Watanabe
+Q4,0:38,Japan,74,86,2_Pts_C,Yudai Baba
+Q4,0:43,Japan,72,86,RD,Yuta Watanabe
+Q4,0:43,Czech Republic,72,86,2_Pts_T,Pavel Pumprla
+Q4,10:00,Czech Republic,0,0,muda_bola,
+Q4,1:02,Japan,72,86,ER,Yudai Baba
+Q4,1:26,Czech Republic,72,86,2_Pts_C,Tomas Satoransky
+Q4,1:29,Japan,72,84,ER,Yuta Watanabe
+Q4,1:29,Czech Republic,72,84,BR,Tomas Satoransky
+Q4,1:36,Japan,72,84,FR,Yudai Baba
+Q4,1:36,Czech Republic,72,84,FC,Tomas Satoransky
+Q4,1:47,Japan,72,84,RD,Yuta Watanabe
+Q4,1:47,Czech Republic,72,84,2_Pts_T,Vojtech Hruban
+Q4,2:05,Japan,72,84,2_Pts_C,Yuta Watanabe
+Q4,2:17,Czech Republic,70,84,2_Pts_C,Blake Schilb
+Q4,2:41,Japan,70,82,2_Pts_C,Rui Hachimura
+Q4,2:56,Japan,68,80,substituicao_entra,Joji Takeuchi
+Q4,2:56,Japan,68,80,substituicao_sai,Nick Fazekas
+Q4,2:56,Japan,68,80,FC,Nick Fazekas
+Q4,2:56,Czech Republic,68,82,LL_Pts_C,Pavel Pumprla
+Q4,2:56,Czech Republic,68,81,AS,Tomas Satoransky
+Q4,2:56,Czech Republic,68,81,LL_Pts_C,Pavel Pumprla
+Q4,2:56,Czech Republic,68,80,FR,Pavel Pumprla
+Q4,3:12,Japan,68,80,,Rui Hachimura2pt jump shot made
+Q4,3:16,Japan,66,80,tempo_tecnico,
+Q4,3:16,Japan,66,80,RO,
+Q4,3:16,Japan,66,80,2_Pts_T,Rui Hachimura
+Q4,3:16,Czech Republic,66,80,TO,Ondrej Balvín
+Q4,3:38,Czech Republic,66,80,AS,Vojtech Hruban
+Q4,3:38,Czech Republic,66,80,,Ondrej Balvín2pt jump shot made
+Q4,3:49,Czech Republic,66,78,RO,Tomas Satoransky
+Q4,3:49,Czech Republic,66,78,,Blake Schilb3pt jump shot missed
+Q4,4:14,Japan,66,78,AS,Yudai Baba
+Q4,4:14,Japan,66,78,,Ryusei Shinoyama3pt jump shot made
+Q4,4:37,Czech Republic,63,78,2_Pts_C,Pavel Pumprla
+Q4,4:41,Japan,63,76,ER,Nick Fazekas
+Q4,4:41,Czech Republic,63,76,BR,Pavel Pumprla
+Q4,4:59,Japan,63,74,FC,Ryusei Shinoyama
+Q4,4:59,Czech Republic,63,76,LL_Pts_C,Tomas Satoransky
+Q4,4:59,Czech Republic,63,75,AS,Pavel Pumprla
+Q4,4:59,Czech Republic,63,75,LL_Pts_C,Tomas Satoransky
+Q4,4:59,Czech Republic,63,74,FR,Tomas Satoransky
+Q4,5:23,Japan,63,74,,Nick Fazekas2pt jump shot made
+Q4,5:27,Japan,61,74,RO,Nick Fazekas
+Q4,5:27,Japan,61,74,LL_Pts_T,Yudai Baba
+Q4,5:27,Japan,61,74,LL_Pts_T,Yudai Baba
+Q4,5:27,Japan,61,74,substituicao_entra,Yuta Watanabe
+Q4,5:27,Japan,61,74,substituicao_sai,Makoto Hiejima
+Q4,5:27,Japan,61,74,FR,Yudai Baba
+Q4,5:27,Czech Republic,61,74,substituicao_entra,Vojtech Hruban
+Q4,5:27,Czech Republic,61,74,substituicao_sai,Jaromir Bohacik
+Q4,5:27,Czech Republic,61,74,FC,Jaromir Bohacik
+Q4,5:28,Japan,61,74,BR,Makoto Hiejima
+Q4,5:28,Czech Republic,61,74,ER,Jaromir Bohacik
+Q4,5:44,Japan,61,74,ER,Ryusei Shinoyama
+Q4,5:44,Czech Republic,61,74,BR,Pavel Pumprla
+Q4,6:00,Japan,61,74,RD,Rui Hachimura
+Q4,6:00,Japan,61,73,FC,Nick Fazekas
+Q4,6:00,Czech Republic,61,74,LL_Pts_T,Tomas Satoransky
+Q4,6:00,Czech Republic,61,74,AS,Blake Schilb
+Q4,6:00,Czech Republic,61,74,LL_Pts_C,Tomas Satoransky
+Q4,6:00,Czech Republic,61,73,FR,Tomas Satoransky
+Q4,6:19,Japan,61,73,AS,Yudai Baba
+Q4,6:19,Japan,61,73,,Rui Hachimuradunk made
+Q4,6:30,Czech Republic,59,73,AS,Ondrej Balvín
+Q4,6:30,Czech Republic,59,73,2_Pts_C,Jaromir Bohacik
+Q4,6:50,Japan,59,71,2_Pts_T,Yudai Baba
+Q4,6:50,Czech Republic,59,71,substituicao_entra,Blake Schilb
+Q4,6:50,Czech Republic,59,71,substituicao_sai,Vojtech Hruban
+Q4,6:50,Czech Republic,59,71,RD,
+Q4,6:56,Japan,59,71,RD,Makoto Hiejima
+Q4,6:56,Czech Republic,59,71,,Vojtech Hruban3pt jump shot missed
+Q4,7:17,Japan,59,71,AS,Nick Fazekas
+Q4,7:17,Japan,59,71,2_Pts_C,Ryusei Shinoyama
+Q4,7:35,Czech Republic,57,71,2_Pts_C,Vojtech Hruban
+Q4,7:42,Japan,57,69,AS,Rui Hachimura
+Q4,7:42,Japan,57,69,,Makoto Hiejimalayup made
+Q4,7:58,Japan,55,69,FR,Yudai Baba
+Q4,7:58,Czech Republic,55,69,FC,Tomas Satoransky
+Q4,8:00,Japan,55,69,RD,Yudai Baba
+Q4,8:00,Czech Republic,55,69,,Tomas Satoransky3pt jump shot missed
+Q4,8:05,Japan,55,69,ER,Nick Fazekas
+Q4,8:05,Czech Republic,55,69,BR,Pavel Pumprla
+Q4,8:11,Japan,55,69,RD,Nick Fazekas
+Q4,8:11,Czech Republic,55,69,2_Pts_T,Jaromir Bohacik
+Q4,8:17,Japan,55,69,ER,Makoto Hiejima
+Q4,8:17,Czech Republic,55,69,BR,Tomas Satoransky
+Q4,8:25,Japan,55,69,BR,Yudai Baba
+Q4,8:25,Czech Republic,55,69,ER,Ondrej Balvín
+Q4,8:49,Japan,55,69,LL_Pts_T,Nick Fazekas
+Q4,8:49,Japan,55,69,LL_Pts_T,Nick Fazekas
+Q4,8:49,Japan,55,69,substituicao_entra,Yudai Baba
+Q4,8:49,Japan,55,69,substituicao_sai,Joji Takeuchi
+Q4,8:49,Japan,55,69,substituicao_entra,Rui Hachimura
+Q4,8:49,Japan,55,69,substituicao_sai,Yuta Watanabe
+Q4,8:49,Japan,55,69,FR,Nick Fazekas
+Q4,8:49,Czech Republic,55,69,RD,Ondrej Balvín
+Q4,8:49,Czech Republic,55,69,substituicao_entra,Pavel Pumprla
+Q4,8:49,Czech Republic,55,69,substituicao_sai,Martin Peterka
+Q4,8:49,Czech Republic,55,69,FC,Ondrej Balvín
+Q4,9:09,Czech Republic,55,69,AS,Ondrej Balvín
+Q4,9:09,Czech Republic,55,69,,Tomas Satoransky3pt jump shot made
+Q4,9:29,Japan,55,66,,Makoto Hiejima3pt jump shot missed
+Q4,9:29,Czech Republic,55,66,RD,Martin Peterka
+Q4,9:39,Japan,0,0,FC,Nick Fazekas
+Q4,9:39,Czech Republic,55,66,LL_Pts_C,Jaromir Bohacik
+Q4,9:39,Czech Republic,55,65,LL_Pts_C,Jaromir Bohacik
+Q4,9:39,Czech Republic,0,0,substituicao_entra,Martin Peterka
+Q4,9:39,Czech Republic,0,0,substituicao_sai,Pavel Pumprla
+Q4,9:39,Czech Republic,0,0,FR,Jaromir Bohacik

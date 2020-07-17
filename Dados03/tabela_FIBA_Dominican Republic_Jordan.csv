@@ -1,0 +1,496 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:03,Dominican Republic,22,17,3_Pts_C,Ronald Ramon
+Q1,0:12,Dominican Republic,19,17,RD,Juan Garcia
+Q1,0:12,Jordan,19,17,,Dar Tucker3pt jump shot missed
+Q1,0:36,Dominican Republic,19,17,2_Pts_C,Ronald Ramon
+Q1,0:54,Jordan,17,17,ER,Mahmoud Abdeen
+Q1,0:58,Dominican Republic,17,17,ER,Luis Montero
+Q1,0:58,Jordan,17,17,BR,Mahmoud Abdeen
+Q1,10:00,Jordan,0,0,inicio_quarto,Ahmad Al Dwairi
+Q1,1:11,Jordan,17,17,LL_Pts_C,Dar Tucker
+Q1,1:19,Dominican Republic,17,16,FC,Luis Montero
+Q1,1:19,Jordan,17,16,substituicao_entra,Yousef AbuWazaneh
+Q1,1:19,Jordan,17,16,substituicao_sai,Ahmad Al Dwairi
+Q1,1:19,Jordan,17,16,substituicao_entra,Ahmad Alhamarsheh
+Q1,1:19,Jordan,17,16,substituicao_sai,Mousa Alawadi
+Q1,1:19,Jordan,17,16,substituicao_entra,Jordan Al-Dasuqi
+Q1,1:19,Jordan,17,16,substituicao_sai,Zaid Abbas
+Q1,1:19,Jordan,17,16,FR,Dar Tucker
+Q1,1:19,Jordan,17,16,,Dar Tuckerlayup made
+Q1,1:38,Dominican Republic,17,14,,Ronald Robertslayup made
+Q1,1:54,Dominican Republic,15,14,RD,Juan Garcia
+Q1,1:54,Jordan,15,14,,Ahmad Al Dwairilayup missed
+Q1,2:00,Jordan,15,14,substituicao_entra,Mahmoud Abdeen
+Q1,2:00,Jordan,15,14,substituicao_sai,Freddy Ibrahim
+Q1,2:00,Jordan,15,14,RO,
+Q1,2:03,Jordan,15,14,2_Pts_T,Freddy Ibrahim
+Q1,2:19,Dominican Republic,15,14,,Luis Montero3pt jump shot missed
+Q1,2:19,Jordan,15,14,RD,Freddy Ibrahim
+Q1,2:31,Dominican Republic,15,14,RD,Ronald Roberts
+Q1,2:31,Jordan,15,14,,Dar Tucker3pt jump shot missed
+Q1,2:36,Jordan,15,14,RO,Ahmad Al Dwairi
+Q1,2:36,Jordan,15,14,LL_Pts_T,Dar Tucker
+Q1,2:39,Dominican Republic,15,14,substituicao_entra,Luis Montero
+Q1,2:39,Dominican Republic,15,14,substituicao_sai,Eulis Baez
+Q1,2:39,Dominican Republic,15,14,substituicao_entra,Juan Garcia
+Q1,2:39,Dominican Republic,15,14,substituicao_sai,Sadiel Rojas
+Q1,2:39,Dominican Republic,15,14,FC,Sadiel Rojas
+Q1,2:39,Jordan,15,14,FR,Dar Tucker
+Q1,2:39,Jordan,15,14,,Dar Tuckerlayup made
+Q1,2:47,Dominican Republic,15,12,,Rigoberto Mendoza3pt jump shot missed
+Q1,2:47,Jordan,15,12,RD,Dar Tucker
+Q1,3:04,Jordan,15,12,AS,Zaid Abbas
+Q1,3:04,Jordan,15,12,,Ahmad Al Dwairi2pt jump shot made
+Q1,3:19,Dominican Republic,15,10,AS,Eulis Baez
+Q1,3:19,Dominican Republic,15,10,2_Pts_C,Ronald Roberts
+Q1,3:42,Jordan,13,10,,Dar Tuckerlayup made
+Q1,3:55,Dominican Republic,13,8,,Eulis Baez3pt jump shot missed
+Q1,3:55,Jordan,13,8,RD,Dar Tucker
+Q1,4:08,Dominican Republic,13,8,substituicao_entra,Ronald Roberts
+Q1,4:08,Dominican Republic,13,8,substituicao_sai,Gelvis Solano
+Q1,4:08,Dominican Republic,13,8,substituicao_entra,Ronald Ramon
+Q1,4:08,Dominican Republic,13,8,substituicao_sai,Eloy Vargas
+Q1,4:08,Dominican Republic,13,8,substituicao_entra,Rigoberto Mendoza
+Q1,4:08,Dominican Republic,13,8,substituicao_sai,Victor Liz
+Q1,4:08,Dominican Republic,13,8,RO,
+Q1,4:10,Dominican Republic,13,8,,Eulis Baez3pt jump shot missed
+Q1,4:21,Dominican Republic,13,8,BR,Gelvis Solano
+Q1,4:21,Jordan,13,8,ER,Zaid Abbas
+Q1,4:32,Dominican Republic,13,8,,Sadiel Rojas3pt jump shot missed
+Q1,4:32,Jordan,13,8,RD,Freddy Ibrahim
+Q1,4:49,Jordan,13,8,2_Pts_C,Ahmad Al Dwairi
+Q1,4:57,Jordan,13,6,RO,Ahmad Al Dwairi
+Q1,4:57,Jordan,13,6,,Dar Tuckerlayup missed
+Q1,5:08,Dominican Republic,13,6,3_Pts_T,Gelvis Solano
+Q1,5:08,Jordan,13,6,RD,Dar Tucker
+Q1,5:28,Jordan,13,6,AS,Dar Tucker
+Q1,5:28,Jordan,13,6,,Ahmad Al Dwairidunk made
+Q1,5:29,Dominican Republic,13,4,FC,Eloy Vargas
+Q1,5:29,Jordan,13,4,FR,Ahmad Al Dwairi
+Q1,5:44,Dominican Republic,13,4,AS,Sadiel Rojas
+Q1,5:44,Dominican Republic,13,4,,Victor Liz3pt jump shot made
+Q1,5:58,Dominican Republic,10,4,RD,Eloy Vargas
+Q1,5:58,Jordan,10,4,,Dar Tucker3pt jump shot missed
+Q1,6:15,Dominican Republic,10,4,FC,Gelvis Solano
+Q1,6:15,Jordan,10,4,FR,Freddy Ibrahim
+Q1,6:24,Dominican Republic,10,4,AS,Gelvis Solano
+Q1,6:24,Dominican Republic,10,4,,Eloy Vargas2pt jump shot made
+Q1,6:37,Jordan,8,4,,Ahmad Al Dwairilayup made
+Q1,6:46,Dominican Republic,8,2,,Victor Liz2pt jump shot missed
+Q1,6:46,Jordan,8,2,RD,Ahmad Al Dwairi
+Q1,6:55,Dominican Republic,8,2,FR,Eloy Vargas
+Q1,6:55,Dominican Republic,8,2,RD,
+Q1,6:55,Jordan,8,2,FC,Ahmad Al Dwairi
+Q1,6:56,Jordan,8,2,,Mousa Alawadi3pt jump shot missed
+Q1,7:13,Dominican Republic,8,2,AS,Gelvis Solano
+Q1,7:13,Dominican Republic,8,2,,Sadiel Rojas3pt jump shot made
+Q1,7:36,Jordan,5,2,ER,Freddy Ibrahim
+Q1,7:52,Dominican Republic,5,2,,Sadiel Rojas2pt jump shot missed
+Q1,7:52,Jordan,5,2,RD,Zaid Abbas
+Q1,8:01,Dominican Republic,5,2,RD,Gelvis Solano
+Q1,8:01,Jordan,5,2,,Dar Tucker3pt jump shot missed
+Q1,8:22,Dominican Republic,5,2,AS,Gelvis Solano
+Q1,8:22,Dominican Republic,5,2,,Victor Liz3pt jump shot made
+Q1,8:27,Dominican Republic,2,2,BR,Sadiel Rojas
+Q1,8:27,Jordan,2,2,ER,Freddy Ibrahim
+Q1,8:31,Dominican Republic,2,2,,Eloy Vargastip in made
+Q1,8:39,Dominican Republic,0,2,RO,Eloy Vargas
+Q1,8:39,Dominican Republic,0,2,,Gelvis Solanolayup missed
+Q1,8:50,Dominican Republic,0,2,FR,Victor Liz
+Q1,8:50,Jordan,0,2,FC,Zaid Abbas
+Q1,9:02,Jordan,0,2,AS,Mousa Alawadi
+Q1,9:02,Jordan,0,2,,Freddy Ibrahimlayup made
+Q1,9:09,Dominican Republic,0,0,ER,Victor Liz
+Q1,9:09,Jordan,0,0,BR,Mousa Alawadi
+Q1,9:18,Dominican Republic,0,0,RD,Victor Liz
+Q1,9:18,Jordan,0,0,,Ahmad Al Dwairi2pt jump shot missed
+Q1,9:33,Dominican Republic,0,0,ER,Gelvis Solano
+Q1,9:49,Dominican Republic,0,0,RD,Sadiel Rojas
+Q1,9:49,Jordan,0,0,2_Pts_T,Zaid Abbas
+Q2,0:01,Dominican Republic,47,36,,Ronald Ramon3pt jump shot missed
+Q2,0:01,Jordan,47,36,RD,Mousa Alawadi
+Q2,0:05,Dominican Republic,47,36,RO,Rigoberto Mendoza
+Q2,0:05,Dominican Republic,47,36,,Ronald Ramon2pt jump shot missed
+Q2,0:21,Dominican Republic,47,36,substituicao_entra,Rigoberto Mendoza
+Q2,0:21,Dominican Republic,47,36,substituicao_sai,Ronald Roberts
+Q2,0:21,Dominican Republic,47,34,FC,Eulis Baez
+Q2,0:21,Dominican Republic,47,34,,Eulis Baezlayup missed
+Q2,0:21,Jordan,47,36,substituicao_entra,Yousef AbuWazaneh
+Q2,0:21,Jordan,47,36,substituicao_sai,Ahmad Al Dwairi
+Q2,0:21,Jordan,47,36,LL_Pts_C,Ahmad Al Dwairi
+Q2,0:21,Jordan,47,35,LL_Pts_C,Ahmad Al Dwairi
+Q2,0:21,Jordan,47,34,substituicao_entra,Ahmad Alhamarsheh
+Q2,0:21,Jordan,47,34,substituicao_sai,Freddy Ibrahim
+Q2,0:21,Jordan,47,34,FR,Ahmad Al Dwairi
+Q2,0:21,Jordan,47,34,RD,
+Q2,0:25,Dominican Republic,47,34,RO,Eulis Baez
+Q2,0:25,Dominican Republic,47,34,,Victor Lizlayup missed
+Q2,0:44,Dominican Republic,47,34,RD,Ronald Roberts
+Q2,0:44,Jordan,47,34,,Dar Tucker3pt jump shot missed
+Q2,0:51,Jordan,47,34,substituicao_entra,Freddy Ibrahim
+Q2,0:51,Jordan,47,34,substituicao_sai,Ahmad Alhamarsheh
+Q2,0:51,Jordan,47,34,RO,
+Q2,0:52,Jordan,47,34,2_Pts_T,Ahmad Al Dwairi
+Q2,10:00,Dominican Republic,0,0,muda_bola,
+Q2,1:07,Dominican Republic,47,34,,Eulis Baez2pt jump shot missed
+Q2,1:07,Jordan,47,34,RD,Zaid Abbas
+Q2,1:17,Dominican Republic,47,34,substituicao_entra,Eulis Baez
+Q2,1:17,Dominican Republic,47,34,substituicao_sai,Luis Montero
+Q2,1:17,Dominican Republic,47,34,tempo_tecnico,
+Q2,1:17,Dominican Republic,47,34,FR,Victor Liz
+Q2,1:17,Jordan,47,34,FC,Ahmad Alhamarsheh
+Q2,1:29,Dominican Republic,47,34,BR,Luis Montero
+Q2,1:29,Jordan,47,34,ER,Zaid Abbas
+Q2,1:37,Dominican Republic,47,32,FC_A,Ronald Roberts
+Q2,1:37,Jordan,47,34,LL_Pts_C,Dar Tucker
+Q2,1:37,Jordan,47,33,LL_Pts_C,Dar Tucker
+Q2,1:37,Jordan,47,32,FR,Dar Tucker
+Q2,1:45,Dominican Republic,47,32,,Ronald Roberts2pt jump shot missed
+Q2,1:45,Jordan,47,32,RD,Zaid Abbas
+Q2,2:05,Dominican Republic,47,32,RD,Ronald Roberts
+Q2,2:05,Dominican Republic,47,32,FC,Juan Miguel Suero
+Q2,2:05,Jordan,47,32,LL_Pts_T,Dar Tucker
+Q2,2:05,Jordan,47,32,LL_Pts_T,Dar Tucker
+Q2,2:05,Jordan,47,32,FR,Dar Tucker
+Q2,2:12,Dominican Republic,47,32,substituicao_entra,Juan Miguel Suero
+Q2,2:12,Dominican Republic,47,32,substituicao_sai,Rigoberto Mendoza
+Q2,2:24,Dominican Republic,47,32,AS,Luis Montero
+Q2,2:24,Dominican Republic,47,32,,Victor Liz3pt jump shot made
+Q2,2:31,Dominican Republic,44,32,RO,Luis Montero
+Q2,2:31,Dominican Republic,44,32,,Luis Monterolayup missed
+Q2,2:38,Dominican Republic,44,32,BR,Luis Montero
+Q2,2:38,Jordan,44,32,ER,Zaid Abbas
+Q2,2:49,Dominican Republic,44,32,AS,Rigoberto Mendoza
+Q2,2:49,Dominican Republic,44,32,,Luis Montero3pt jump shot made
+Q2,3:08,Jordan,41,32,AS,Dar Tucker
+Q2,3:08,Jordan,41,32,,Ahmad Al Dwairi2pt jump shot made
+Q2,3:25,Dominican Republic,41,30,2_Pts_C,Rigoberto Mendoza
+Q2,3:48,Jordan,39,30,AS,Zaid Abbas
+Q2,3:48,Jordan,39,30,,Ahmad Al Dwairi2pt jump shot made
+Q2,4:13,Dominican Republic,39,28,substituicao_entra,Ronald Ramon
+Q2,4:13,Dominican Republic,39,28,substituicao_sai,Gelvis Solano
+Q2,4:13,Dominican Republic,39,28,tempo_tecnico,
+Q2,4:13,Dominican Republic,39,28,substituicao_entra,Ronald Roberts
+Q2,4:13,Dominican Republic,39,28,substituicao_sai,Eloy Vargas
+Q2,4:13,Dominican Republic,39,28,ER,Victor Liz
+Q2,4:34,Jordan,39,28,2_Pts_C,Ahmad Al Dwairi
+Q2,4:52,Dominican Republic,39,26,FC_O,Eloy Vargas
+Q2,4:52,Jordan,39,26,substituicao_entra,Ahmad Alhamarsheh
+Q2,4:52,Jordan,39,26,substituicao_sai,Freddy Ibrahim
+Q2,4:52,Jordan,39,26,FR,Freddy Ibrahim
+Q2,5:01,Dominican Republic,39,26,substituicao_entra,Victor Liz
+Q2,5:01,Dominican Republic,39,26,substituicao_sai,Juan Garcia
+Q2,5:01,Jordan,39,26,ER backcourt violation,Dar Tucker
+Q2,5:03,Dominican Republic,39,26,substituicao_entra,Luis Montero
+Q2,5:03,Dominican Republic,39,26,substituicao_sai,Sadiel Rojas
+Q2,5:03,Dominican Republic,39,26,FC,Sadiel Rojas
+Q2,5:03,Jordan,39,26,FR,Dar Tucker
+Q2,5:19,Dominican Republic,39,26,substituicao_entra,Eloy Vargas
+Q2,5:19,Dominican Republic,39,26,substituicao_sai,Ronald Roberts
+Q2,5:19,Jordan,39,26,tempo_tecnico,
+Q2,5:21,Dominican Republic,39,26,AS,Gelvis Solano
+Q2,5:21,Dominican Republic,39,26,2_Pts_C,Rigoberto Mendoza
+Q2,5:36,Dominican Republic,37,26,RD,Sadiel Rojas
+Q2,5:36,Jordan,37,26,,Zaid Abbas2pt jump shot missed
+Q2,6:03,Dominican Republic,37,26,AS,Sadiel Rojas
+Q2,6:03,Dominican Republic,37,26,,Rigoberto Mendoza3pt jump shot made
+Q2,6:22,Jordan,34,26,AS,Dar Tucker
+Q2,6:22,Jordan,34,26,,Ahmad Al Dwairialley oop made
+Q2,6:36,Dominican Republic,34,24,LL_Pts_C,Ronald Roberts
+Q2,6:36,Dominican Republic,33,24,FR,Ronald Roberts
+Q2,6:36,Dominican Republic,33,24,AS,Gelvis Solano
+Q2,6:36,Dominican Republic,33,24,,Ronald Robertslayup made
+Q2,6:36,Jordan,33,24,FC,Ahmad Al Dwairi
+Q2,6:52,Jordan,31,24,,Freddy Ibrahim2pt jump shot made
+Q2,7:00,Dominican Republic,31,22,,Rigoberto Mendozalayup missed
+Q2,7:00,Jordan,31,22,RD,Ahmad Al Dwairi
+Q2,7:15,Dominican Republic,31,21,substituicao_entra,Sadiel Rojas
+Q2,7:15,Dominican Republic,31,21,substituicao_sai,Luis Montero
+Q2,7:15,Dominican Republic,31,21,FC,Juan Garcia
+Q2,7:15,Jordan,31,22,LL_Pts_C,Ahmad Al Dwairi
+Q2,7:15,Jordan,31,21,LL_Pts_T,Ahmad Al Dwairi
+Q2,7:15,Jordan,31,21,FR,Ahmad Al Dwairi
+Q2,7:15,Jordan,31,21,RO,Ahmad Al Dwairi
+Q2,7:15,Jordan,31,21,,Zaid Abbas2pt jump shot missed
+Q2,7:19,Jordan,31,21,RO,Zaid Abbas
+Q2,7:19,Jordan,31,21,,Dar Tucker2pt jump shot missed
+Q2,7:31,Dominican Republic,31,21,,Gelvis Solano3pt jump shot missed
+Q2,7:31,Jordan,31,21,RD,Ahmad Al Dwairi
+Q2,7:45,Dominican Republic,31,21,FR,Luis Montero
+Q2,7:45,Jordan,31,21,FC,Freddy Ibrahim
+Q2,7:46,Dominican Republic,31,21,BR,Luis Montero
+Q2,7:46,Jordan,31,21,ER,Mousa Alawadi
+Q2,7:47,Dominican Republic,31,21,2_Pts_C,Ronald Roberts
+Q2,7:47,Jordan,31,21,tempo_tecnico,
+Q2,7:51,Dominican Republic,29,21,RO,Ronald Roberts
+Q2,7:51,Dominican Republic,29,21,,Luis Montero2pt jump shot missed
+Q2,7:51,Jordan,29,21,TO,Ahmad Al Dwairi
+Q2,8:10,Dominican Republic,29,21,RD,Gelvis Solano
+Q2,8:10,Jordan,29,21,,Zaid Abbas2pt jump shot missed
+Q2,8:17,Dominican Republic,29,21,substituicao_entra,Gelvis Solano
+Q2,8:17,Dominican Republic,29,21,substituicao_sai,Ronald Ramon
+Q2,8:17,Dominican Republic,29,21,FC,Luis Montero
+Q2,8:17,Jordan,29,21,substituicao_entra,Mousa Alawadi
+Q2,8:17,Jordan,29,21,substituicao_sai,Jordan Al-Dasuqi
+Q2,8:17,Jordan,29,21,FR,Dar Tucker
+Q2,8:33,Dominican Republic,29,21,,Ronald Robertslayup made
+Q2,8:46,Jordan,27,21,,Dar Tuckerlayup made
+Q2,9:03,Dominican Republic,27,19,,Ronald Ramon2pt jump shot made
+Q2,9:20,Jordan,25,19,AS,Zaid Abbas
+Q2,9:20,Jordan,25,19,,Ahmad Al Dwairi2pt jump shot made
+Q2,9:36,Dominican Republic,25,17,,Ronald Ramon3pt jump shot made
+Q2,9:36,Dominican Republic,0,0,AS,Rigoberto Mendoza
+Q3,0:01,Dominican Republic,61,53,,Eloy Vargas2pt jump shot missed
+Q3,0:12,Jordan,61,53,AS,Dar Tucker
+Q3,0:12,Jordan,61,53,,Ahmad Alhamarsheh3pt jump shot made
+Q3,0:27,Jordan,61,50,RO,Ahmad Alhamarsheh
+Q3,0:27,Jordan,61,50,,Dar Tucker3pt jump shot missed
+Q3,0:50,Dominican Republic,61,50,AS,Juan Garcia
+Q3,0:50,Dominican Republic,61,50,3_Pts_C,Gelvis Solano
+Q3,10:00,Jordan,0,0,muda_bola,
+Q3,1:16,Jordan,58,50,2_Pts_C,Ahmad Al Dwairi
+Q3,1:40,Dominican Republic,58,48,,Juan Miguel Suero2pt jump shot missed
+Q3,1:40,Jordan,58,48,RD,Ahmad Alhamarsheh
+Q3,1:55,Dominican Republic,58,48,RD,Rigoberto Mendoza
+Q3,1:55,Dominican Republic,58,48,substituicao_entra,Juan Garcia
+Q3,1:55,Dominican Republic,58,48,substituicao_sai,Luis Montero
+Q3,1:55,Dominican Republic,58,48,substituicao_entra,Gelvis Solano
+Q3,1:55,Dominican Republic,58,48,substituicao_sai,Ronald Roberts
+Q3,1:55,Dominican Republic,58,48,substituicao_entra,Eloy Vargas
+Q3,1:55,Dominican Republic,58,48,substituicao_sai,Ronald Ramon
+Q3,1:55,Dominican Republic,58,48,substituicao_entra,Juan Miguel Suero
+Q3,1:55,Dominican Republic,58,48,substituicao_sai,Dagoberto Peña
+Q3,1:55,Jordan,58,48,LL_Pts_T,Ahmad Al Dwairi
+Q3,1:56,Dominican Republic,58,48,FC,Ronald Roberts
+Q3,1:56,Jordan,58,48,FR,Ahmad Al Dwairi
+Q3,1:56,Jordan,58,48,,Ahmad Al Dwairi2pt jump shot made
+Q3,2:14,Dominican Republic,58,46,,Ronald Roberts2pt jump shot missed
+Q3,2:14,Jordan,58,46,RD,Ahmad Al Dwairi
+Q3,2:28,Jordan,58,46,AS,Mahmoud Abdeen
+Q3,2:28,Jordan,58,46,,Dar Tucker3pt jump shot made
+Q3,2:35,Dominican Republic,58,43,ER,Rigoberto Mendoza
+Q3,2:45,Dominican Republic,58,43,RD,Rigoberto Mendoza
+Q3,2:45,Dominican Republic,58,43,TO,Luis Montero
+Q3,2:45,Jordan,58,43,2_Pts_T,Dar Tucker
+Q3,2:54,Dominican Republic,58,43,2_Pts_T,Ronald Roberts
+Q3,2:54,Jordan,58,43,RD,Dar Tucker
+Q3,2:54,Jordan,58,43,TO,Dar Tucker
+Q3,3:17,Dominican Republic,58,43,RD,Ronald Roberts
+Q3,3:17,Dominican Republic,58,42,FC,Ronald Roberts
+Q3,3:17,Jordan,58,43,LL_Pts_T,Ahmad Al Dwairi
+Q3,3:17,Jordan,58,43,LL_Pts_C,Ahmad Al Dwairi
+Q3,3:17,Jordan,58,42,FR,Ahmad Al Dwairi
+Q3,3:24,Dominican Republic,58,42,FC,Ronald Ramon
+Q3,3:24,Jordan,58,42,FR,Mahmoud Abdeen
+Q3,3:36,Dominican Republic,58,42,,Rigoberto Mendoza2pt jump shot missed
+Q3,3:36,Jordan,58,42,RD,Ahmad Alhamarsheh
+Q3,3:52,Dominican Republic,58,42,FR,Luis Montero
+Q3,3:52,Jordan,58,42,substituicao_entra,Ahmad Alhamarsheh
+Q3,3:52,Jordan,58,42,substituicao_sai,Zaid Abbas
+Q3,3:52,Jordan,58,42,FC_O,Zaid Abbas
+Q3,3:58,Dominican Republic,58,42,substituicao_entra,Ronald Roberts
+Q3,3:58,Dominican Republic,58,42,substituicao_sai,Eloy Vargas
+Q3,3:58,Dominican Republic,58,42,LL_Pts_C,Eloy Vargas
+Q3,3:58,Dominican Republic,57,42,LL_Pts_C,Eloy Vargas
+Q3,3:58,Dominican Republic,56,42,FR,Eloy Vargas
+Q3,3:58,Dominican Republic,56,42,RO,Eloy Vargas
+Q3,3:58,Dominican Republic,56,42,,Luis Monterolayup missed
+Q3,3:58,Jordan,56,42,FC,Zaid Abbas
+Q3,4:04,Dominican Republic,56,42,RO,Luis Montero
+Q3,4:04,Dominican Republic,56,42,,Eloy Vargaslayup missed
+Q3,4:24,Jordan,56,42,,Mahmoud Abdeen2pt jump shot made
+Q3,4:36,Dominican Republic,56,40,ER backcourt violation,Ronald Ramon
+Q3,4:39,Dominican Republic,56,40,BR,Ronald Ramon
+Q3,4:39,Jordan,56,40,ER,Ahmad Al Dwairi
+Q3,4:47,Dominican Republic,56,40,substituicao_entra,Luis Montero
+Q3,4:47,Dominican Republic,56,40,substituicao_sai,Gelvis Solano
+Q3,4:47,Dominican Republic,56,40,substituicao_entra,Ronald Ramon
+Q3,4:47,Dominican Republic,56,40,substituicao_sai,Eulis Baez
+Q3,4:47,Dominican Republic,56,40,substituicao_entra,Rigoberto Mendoza
+Q3,4:47,Dominican Republic,56,40,substituicao_sai,Sadiel Rojas
+Q3,4:47,Dominican Republic,56,40,substituicao_entra,Dagoberto Peña
+Q3,4:47,Dominican Republic,56,40,substituicao_sai,Victor Liz
+Q3,4:47,Jordan,56,40,RO,Zaid Abbas
+Q3,4:47,Jordan,56,40,,Dar Tucker3pt jump shot missed
+Q3,4:47,Jordan,56,40,substituicao_entra,Mahmoud Abdeen
+Q3,4:47,Jordan,56,40,substituicao_sai,Freddy Ibrahim
+Q3,5:08,Dominican Republic,56,40,AS,Gelvis Solano
+Q3,5:08,Dominican Republic,56,40,,Eloy Vargaslayup made
+Q3,5:21,Jordan,54,40,2_Pts_C,Ahmad Al Dwairi
+Q3,5:44,Dominican Republic,54,38,,Eloy Vargas2pt jump shot made
+Q3,6:04,Jordan,52,38,AS,Zaid Abbas
+Q3,6:04,Jordan,52,38,,Ahmad Al Dwairidunk made
+Q3,6:20,Dominican Republic,52,36,LL_Pts_C,Gelvis Solano
+Q3,6:20,Dominican Republic,51,36,LL_Pts_T,Gelvis Solano
+Q3,6:20,Dominican Republic,51,36,FR,Gelvis Solano
+Q3,6:20,Jordan,51,36,FC,Freddy Ibrahim
+Q3,6:28,Dominican Republic,51,36,FR,Victor Liz
+Q3,6:28,Jordan,51,36,FC,Jordan Al-Dasuqi
+Q3,6:40,Dominican Republic,51,36,FR,Eulis Baez
+Q3,6:40,Jordan,51,36,FC,Freddy Ibrahim
+Q3,6:43,Dominican Republic,51,36,RD,Eulis Baez
+Q3,6:43,Jordan,51,36,,Freddy Ibrahimlayup missed
+Q3,6:53,Dominican Republic,51,36,ER,Victor Liz
+Q3,6:57,Dominican Republic,51,36,RD,Eloy Vargas
+Q3,6:57,Dominican Republic,51,36,TO,Eloy Vargas
+Q3,6:57,Jordan,51,36,2_Pts_T,Dar Tucker
+Q3,7:08,Dominican Republic,51,36,2_Pts_C,Eulis Baez
+Q3,7:14,Dominican Republic,49,36,RO,Eulis Baez
+Q3,7:14,Dominican Republic,49,36,,Sadiel Rojas2pt jump shot missed
+Q3,7:29,Dominican Republic,49,36,FR,Sadiel Rojas
+Q3,7:29,Jordan,49,36,FC_O,Zaid Abbas
+Q3,7:46,Dominican Republic,49,36,3_Pts_T,Eulis Baez
+Q3,7:46,Jordan,49,36,RD,Freddy Ibrahim
+Q3,7:59,Dominican Republic,49,36,RD,Eloy Vargas
+Q3,7:59,Jordan,49,36,,Dar Tucker2pt jump shot missed
+Q3,8:21,Dominican Republic,49,36,,Victor Lizunsportsmanlike foul
+Q3,8:21,Jordan,49,36,substituicao_entra,Jordan Al-Dasuqi
+Q3,8:21,Jordan,49,36,substituicao_sai,Mousa Alawadi
+Q3,8:21,Jordan,49,36,,Mousa Alawadidisqualifying foul
+Q3,8:21,Jordan,49,36,FR,Mousa Alawadi
+Q3,8:23,Dominican Republic,49,36,,Eloy Vargas2pt jump shot made
+Q3,8:34,Dominican Republic,0,0,BR,Eulis Baez
+Q3,8:34,Jordan,0,0,ER,Freddy Ibrahim
+Q3,8:40,Dominican Republic,0,0,,Gelvis Solano3pt jump shot missed
+Q3,8:40,Jordan,0,0,RD,Freddy Ibrahim
+Q3,8:51,Dominican Republic,0,0,RD,Eloy Vargas
+Q3,8:51,Jordan,0,0,,Freddy Ibrahim2pt jump shot missed
+Q3,9:20,Dominican Republic,0,0,,Victor Liz3pt jump shot missed
+Q3,9:20,Jordan,0,0,RD,
+Q3,9:40,Dominican Republic,0,0,RD,Eulis Baez
+Q3,9:40,Jordan,0,0,,Freddy Ibrahim2pt jump shot missed
+Q4,0:01,Jordan,80,76,3_Pts_T,Mahmoud Abdeen
+Q4,0:07,Dominican Republic,80,76,LL_Pts_C,Luis Montero
+Q4,0:07,Dominican Republic,79,76,LL_Pts_T,Luis Montero
+Q4,0:07,Dominican Republic,79,76,FR,Luis Montero
+Q4,0:07,Jordan,79,76,FC,Ahmad Al Dwairi
+Q4,0:10,Dominican Republic,79,76,RD,Luis Montero
+Q4,0:10,Jordan,79,76,3_Pts_T,Jordan Al-Dasuqi
+Q4,0:18,Dominican Republic,79,76,substituicao_entra,Ronald Roberts
+Q4,0:18,Dominican Republic,79,76,substituicao_sai,Eloy Vargas
+Q4,0:18,Dominican Republic,79,76,LL_Pts_C,Victor Liz
+Q4,0:18,Dominican Republic,78,76,LL_Pts_C,Victor Liz
+Q4,0:18,Dominican Republic,77,76,substituicao_entra,Sadiel Rojas
+Q4,0:18,Dominican Republic,77,76,substituicao_sai,Ronald Ramon
+Q4,0:18,Dominican Republic,77,76,FR,Victor Liz
+Q4,0:18,Jordan,79,76,tempo_tecnico,
+Q4,0:18,Jordan,77,76,FC,Dar Tucker
+Q4,0:24,Dominican Republic,77,76,substituicao_entra,Ronald Ramon
+Q4,0:24,Dominican Republic,77,76,substituicao_sai,Sadiel Rojas
+Q4,0:24,Dominican Republic,77,76,tempo_tecnico,
+Q4,0:24,Dominican Republic,77,74,FC,Eloy Vargas
+Q4,0:24,Jordan,77,76,LL_Pts_C,Dar Tucker
+Q4,0:24,Jordan,77,75,LL_Pts_C,Dar Tucker
+Q4,0:24,Jordan,77,74,FR,Dar Tucker
+Q4,0:28,Dominican Republic,77,74,,Luis Monterotip in made
+Q4,0:28,Dominican Republic,75,74,RO,Luis Montero
+Q4,0:28,Dominican Republic,75,74,,Rigoberto Mendozalayup missed
+Q4,0:28,Jordan,77,74,tempo_tecnico,
+Q4,0:48,Dominican Republic,75,74,BR,Luis Montero
+Q4,0:48,Jordan,75,74,ER,Dar Tucker
+Q4,0:58,Dominican Republic,75,74,2_Pts_T,Victor Liz
+Q4,0:58,Jordan,75,74,RD,Dar Tucker
+Q4,10:00,Dominican Republic,0,0,muda_bola,
+Q4,1:03,Dominican Republic,75,74,RO,Sadiel Rojas
+Q4,1:03,Dominican Republic,75,74,3_Pts_T,Luis Montero
+Q4,1:25,Dominican Republic,75,74,RD,Rigoberto Mendoza
+Q4,1:25,Jordan,75,74,,Dar Tuckerlayup missed
+Q4,1:37,Dominican Republic,75,74,LL_Pts_C,Victor Liz
+Q4,1:37,Dominican Republic,74,74,LL_Pts_C,Victor Liz
+Q4,1:37,Dominican Republic,73,74,substituicao_entra,Eloy Vargas
+Q4,1:37,Dominican Republic,73,74,substituicao_sai,Ronald Roberts
+Q4,1:37,Dominican Republic,73,74,substituicao_entra,Sadiel Rojas
+Q4,1:37,Dominican Republic,73,74,substituicao_sai,Ronald Ramon
+Q4,1:37,Dominican Republic,73,74,FR,Victor Liz
+Q4,1:37,Jordan,73,74,substituicao_entra,Ahmad Alhamarsheh
+Q4,1:37,Jordan,73,74,substituicao_sai,Zaid Abbas
+Q4,1:37,Jordan,73,74,FC,Zaid Abbas
+Q4,1:49,Jordan,73,74,2_Pts_C,Ahmad Al Dwairi
+Q4,2:09,Dominican Republic,73,72,2_Pts_C,Rigoberto Mendoza
+Q4,2:30,Jordan,71,72,,Dar Tuckerlayup made
+Q4,2:36,Dominican Republic,71,70,ER,Rigoberto Mendoza
+Q4,2:36,Jordan,71,70,BR,Dar Tucker
+Q4,2:55,Dominican Republic,71,70,substituicao_entra,Ronald Ramon
+Q4,2:55,Dominican Republic,71,70,substituicao_sai,Gelvis Solano
+Q4,2:55,Dominican Republic,71,70,FR,Victor Liz
+Q4,2:55,Dominican Republic,71,70,BR,Victor Liz
+Q4,2:55,Jordan,71,70,substituicao_entra,Zaid Abbas
+Q4,2:55,Jordan,71,70,substituicao_sai,Ahmad Alhamarsheh
+Q4,2:55,Jordan,71,70,FC,Mahmoud Abdeen
+Q4,2:55,Jordan,71,70,ER,Dar Tucker
+Q4,3:01,Dominican Republic,71,70,,Ronald Roberts2pt jump shot missed
+Q4,3:01,Jordan,71,70,RD,Ahmad Al Dwairi
+Q4,3:07,Dominican Republic,71,70,RO,Ronald Roberts
+Q4,3:07,Dominican Republic,71,70,,Victor Liz3pt jump shot missed
+Q4,3:26,Jordan,71,70,2_Pts_C,Mahmoud Abdeen
+Q4,3:41,Jordan,71,68,RO,Mahmoud Abdeen
+Q4,3:41,Jordan,71,68,,Dar Tucker3pt jump shot missed
+Q4,3:51,Dominican Republic,71,68,,Victor Lizlayup missed
+Q4,3:51,Jordan,71,68,RD,Ahmad Al Dwairi
+Q4,4:15,Jordan,71,68,2_Pts_C,Mahmoud Abdeen
+Q4,4:41,Dominican Republic,71,66,AS,Gelvis Solano
+Q4,4:41,Dominican Republic,71,66,,Luis Montero3pt jump shot made
+Q4,4:51,Dominican Republic,68,64,FC,Ronald Roberts
+Q4,4:51,Jordan,68,66,LL_Pts_C,Dar Tucker
+Q4,4:51,Jordan,68,65,LL_Pts_C,Dar Tucker
+Q4,4:51,Jordan,68,64,FR,Dar Tucker
+Q4,5:04,Dominican Republic,68,64,AS,Ronald Roberts
+Q4,5:04,Dominican Republic,68,64,,Gelvis Solanodunk made
+Q4,5:04,Jordan,68,64,substituicao_entra,Dar Tucker
+Q4,5:04,Jordan,68,64,substituicao_sai,Zaid Abbas
+Q4,5:04,Jordan,68,64,substituicao_entra,Mahmoud Abdeen
+Q4,5:04,Jordan,68,64,substituicao_sai,Freddy Ibrahim
+Q4,5:04,Jordan,68,64,tempo_tecnico,
+Q4,5:08,Dominican Republic,66,64,BR,Ronald Roberts
+Q4,5:08,Jordan,66,64,ER,Ahmad Al Dwairi
+Q4,5:24,Dominican Republic,66,64,,Victor Lizlayup made
+Q4,5:38,Dominican Republic,64,64,RD,Victor Liz
+Q4,5:38,Jordan,64,64,,Freddy Ibrahim3pt jump shot missed
+Q4,5:54,Dominican Republic,64,64,,Gelvis Solano3pt jump shot missed
+Q4,5:54,Jordan,64,64,RD,Ahmad Alhamarsheh
+Q4,6:16,Dominican Republic,64,62,FC,Rigoberto Mendoza
+Q4,6:16,Jordan,64,64,LL_Pts_C,Ahmad Al Dwairi
+Q4,6:16,Jordan,64,63,LL_Pts_C,Ahmad Al Dwairi
+Q4,6:16,Jordan,64,62,FR,Ahmad Al Dwairi
+Q4,6:23,Dominican Republic,64,62,substituicao_entra,Victor Liz
+Q4,6:23,Dominican Republic,64,62,substituicao_sai,Eulis Baez
+Q4,6:23,Dominican Republic,64,62,substituicao_entra,Gelvis Solano
+Q4,6:23,Dominican Republic,64,62,substituicao_sai,Ronald Ramon
+Q4,6:23,Dominican Republic,64,62,FC,Ronald Ramon
+Q4,6:23,Jordan,64,62,FR,Freddy Ibrahim
+Q4,6:36,Dominican Republic,64,62,FC_O,Eulis Baez
+Q4,6:36,Jordan,64,62,FR,Freddy Ibrahim
+Q4,7:05,Jordan,64,62,AS,Ahmad Al Dwairi
+Q4,7:05,Jordan,64,62,,Ahmad Alhamarsheh3pt jump shot made
+Q4,7:24,Dominican Republic,64,59,tempo_tecnico,
+Q4,7:24,Dominican Republic,64,59,substituicao_entra,Luis Montero
+Q4,7:24,Dominican Republic,64,59,substituicao_sai,Sadiel Rojas
+Q4,7:24,Dominican Republic,64,59,ER,Sadiel Rojas
+Q4,7:24,Jordan,64,59,substituicao_entra,Zaid Abbas
+Q4,7:24,Jordan,64,59,substituicao_sai,Dar Tucker
+Q4,7:38,Jordan,64,59,2_Pts_C,Dar Tucker
+Q4,7:56,Dominican Republic,64,57,substituicao_entra,Ronald Ramon
+Q4,7:56,Dominican Republic,64,57,substituicao_sai,Gelvis Solano
+Q4,7:56,Jordan,64,57,RD,
+Q4,7:58,Dominican Republic,64,57,,Gelvis Solano3pt jump shot missed
+Q4,8:07,Dominican Republic,64,57,substituicao_entra,Ronald Roberts
+Q4,8:07,Dominican Republic,64,57,substituicao_sai,Eloy Vargas
+Q4,8:07,Dominican Republic,64,57,FR,Gelvis Solano
+Q4,8:07,Jordan,64,57,substituicao_entra,Freddy Ibrahim
+Q4,8:07,Jordan,64,57,substituicao_sai,Mahmoud Abdeen
+Q4,8:07,Jordan,64,57,FC,Mahmoud Abdeen
+Q4,8:21,Dominican Republic,64,57,RD,Eulis Baez
+Q4,8:21,Jordan,64,57,,Ahmad Al Dwairi2pt jump shot missed
+Q4,8:28,Dominican Republic,64,57,,Eloy Vargaslayup missed
+Q4,8:28,Jordan,64,57,RD,Mahmoud Abdeen
+Q4,8:58,Jordan,64,57,AS,Ahmad Al Dwairi
+Q4,8:58,Jordan,64,57,,Ahmad Alhamarsheh2pt jump shot made
+Q4,9:16,Dominican Republic,64,55,FC_O,Sadiel Rojas
+Q4,9:16,Jordan,64,55,FR,Ahmad Alhamarsheh
+Q4,9:26,Dominican Republic,64,53,FC,Eloy Vargas
+Q4,9:26,Jordan,64,55,LL_Pts_C,Dar Tucker
+Q4,9:26,Jordan,64,54,LL_Pts_C,Dar Tucker
+Q4,9:26,Jordan,64,53,FR,Dar Tucker
+Q4,9:41,Dominican Republic,64,53,3_Pts_C,Gelvis Solano
+Q4,9:50,Dominican Republic,0,0,FR,Eulis Baez
+Q4,9:50,Jordan,0,0,FC,Ahmad Alhamarsheh

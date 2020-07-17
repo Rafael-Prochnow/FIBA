@@ -1,0 +1,534 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Lithuania,19,27,2_Pts_T,Domantas Sabonis
+Q1,0:03,Lithuania,19,27,RO,Domantas Sabonis
+Q1,0:03,Lithuania,19,27,,Jonas Maciulis3pt jump shot missed
+Q1,0:12,Lithuania,19,27,RD,Jonas Maciulis
+Q1,0:12,Australia,19,27,,Patty Mills3pt fadeaway jump shot missed
+Q1,0:36,Lithuania,19,27,2_Pts_T,Edgaras Ulanovas
+Q1,0:36,Australia,19,27,RD,Andrew Bogut
+Q1,0:59,Australia,19,27,2_Pts_C,Chris Goulding
+Q1,10:00,Australia,0,0,inicio_quarto,Aron Baynes
+Q1,1:16,Lithuania,19,25,2_Pts_T,Jonas Maciulis
+Q1,1:16,Australia,19,25,RD,Joe Ingles
+Q1,1:23,Lithuania,19,25,RD,Renaldas Seibutis
+Q1,1:23,Australia,19,25,,Nic Kaylayup missed
+Q1,1:33,Lithuania,19,25,LL_Pts_C,Edgaras Ulanovas
+Q1,1:33,Lithuania,18,25,LL_Pts_C,Edgaras Ulanovas
+Q1,1:33,Lithuania,17,25,FR,Edgaras Ulanovas
+Q1,1:33,Australia,17,25,FC,Joe Ingles
+Q1,1:51,Australia,17,25,AS,Patty Mills
+Q1,1:51,Australia,17,25,,Nic Kaylayup made
+Q1,2:03,Lithuania,17,23,AS,Edgaras Ulanovas
+Q1,2:03,Lithuania,17,23,,Renaldas Seibutis2pt jump shot made
+Q1,2:08,Lithuania,15,23,substituicao_entra,Lukas Lekavicius
+Q1,2:08,Lithuania,15,23,substituicao_sai,Mantas Kalnietis
+Q1,2:08,Lithuania,15,23,FR,Edgaras Ulanovas
+Q1,2:08,Australia,15,23,substituicao_entra,Joe Ingles
+Q1,2:08,Australia,15,23,substituicao_sai,Matthew Dellavedova
+Q1,2:08,Australia,15,23,FC,Chris Goulding
+Q1,2:25,Australia,15,23,AS,Matthew Dellavedova
+Q1,2:25,Australia,15,23,2_Pts_C,Nic Kay
+Q1,2:37,Lithuania,15,21,AS,Domantas Sabonis
+Q1,2:37,Lithuania,15,21,2_Pts_C,Mantas Kalnietis
+Q1,3:02,Lithuania,13,21,RD,Jonas Maciulis
+Q1,3:02,Australia,13,21,,Patty Mills3pt jump shot missed
+Q1,3:22,Lithuania,13,21,FC,Jonas Maciulis
+Q1,3:22,Australia,13,21,FR,Nic Kay
+Q1,3:23,Lithuania,13,21,,Mantas Kalnietis3pt jump shot missed
+Q1,3:23,Australia,13,21,RD,Nic Kay
+Q1,3:34,Lithuania,13,21,FR,Domantas Sabonis
+Q1,3:34,Lithuania,13,21,RD,
+Q1,3:34,Australia,13,21,FC,Andrew Bogut
+Q1,3:34,Australia,13,21,2_Pts_T,Chris Goulding
+Q1,3:58,Lithuania,13,21,AS,Domantas Sabonis
+Q1,3:58,Lithuania,13,21,,Mantas Kalnietis2pt jump shot made
+Q1,4:02,Lithuania,11,21,substituicao_entra,Edgaras Ulanovas
+Q1,4:02,Lithuania,11,21,substituicao_sai,Arnas Butkevicius
+Q1,4:02,Lithuania,11,21,substituicao_entra,Renaldas Seibutis
+Q1,4:02,Lithuania,11,21,substituicao_sai,Marius Grigonis
+Q1,4:02,Lithuania,11,21,substituicao_entra,Jonas Maciulis
+Q1,4:02,Lithuania,11,21,substituicao_sai,Jonas Valanciunas
+Q1,4:02,Lithuania,11,21,FR,Mantas Kalnietis
+Q1,4:02,Australia,11,21,substituicao_entra,Nic Kay
+Q1,4:02,Australia,11,21,substituicao_sai,Jock  Landale
+Q1,4:02,Australia,11,21,substituicao_entra,Andrew Bogut
+Q1,4:02,Australia,11,21,substituicao_sai,Aron Baynes
+Q1,4:02,Australia,11,21,substituicao_entra,Chris Goulding
+Q1,4:02,Australia,11,21,substituicao_sai,Joe Ingles
+Q1,4:02,Australia,11,21,FC,Matthew Dellavedova
+Q1,4:12,Australia,11,21,AS,Joe Ingles
+Q1,4:12,Australia,11,21,3_Pts_C,Matthew Dellavedova
+Q1,4:23,Lithuania,11,18,,Mantas Kalnietis3pt jump shot made
+Q1,4:34,Lithuania,8,18,RD,Arnas Butkevicius
+Q1,4:34,Australia,8,18,,Joe Ingles2pt jump shot missed
+Q1,4:39,Lithuania,8,18,,Marius Grigonis2pt jump shot missed
+Q1,4:39,Australia,8,18,RD,Aron Baynes
+Q1,5:02,Australia,8,18,AS,Aron Baynes
+Q1,5:02,Australia,8,18,,Patty Mills3pt jump shot made
+Q1,5:05,Lithuania,8,15,TO,Jonas Valanciunas
+Q1,5:05,Australia,8,15,RO,Aron Baynes
+Q1,5:05,Australia,8,15,2_Pts_T,Aron Baynes
+Q1,5:17,Lithuania,8,15,2_Pts_C,Marius Grigonis
+Q1,5:38,Australia,6,15,AS,Joe Ingles
+Q1,5:38,Australia,6,15,3_Pts_C,Aron Baynes
+Q1,5:49,Lithuania,6,12,2_Pts_T,Marius Grigonis
+Q1,5:49,Australia,6,12,RD,Aron Baynes
+Q1,5:57,Lithuania,6,12,RD,Jonas Valanciunas
+Q1,5:57,Australia,6,12,2_Pts_T,Patty Mills
+Q1,6:11,Australia,6,12,RD,
+Q1,6:12,Lithuania,6,12,2_Pts_T,Jonas Valanciunas
+Q1,6:32,Australia,6,12,,Matthew Dellavedova3pt jump shot made
+Q1,6:45,Lithuania,6,9,FC,Marius Grigonis
+Q1,6:45,Australia,6,9,FR,Aron Baynes
+Q1,6:53,Lithuania,6,9,2_Pts_C,Domantas Sabonis
+Q1,7:12,Lithuania,4,9,tempo_tecnico,
+Q1,7:13,Australia,4,9,AS,Patty Mills
+Q1,7:13,Australia,4,9,,Jock  Landaledunk made
+Q1,7:18,Lithuania,4,7,2_Pts_T,Jonas Valanciunas
+Q1,7:18,Australia,4,7,RD,Matthew Dellavedova
+Q1,7:35,Australia,4,7,AS,Joe Ingles
+Q1,7:35,Australia,4,7,2_Pts_C,Matthew Dellavedova
+Q1,7:58,Lithuania,4,5,2_Pts_T,Mantas Kalnietis
+Q1,7:58,Australia,4,5,RD,Aron Baynes
+Q1,8:13,Australia,4,5,,Aron Baynestip in made
+Q1,8:18,Australia,4,3,RO,Aron Baynes
+Q1,8:18,Australia,4,3,2_Pts_T,Joe Ingles
+Q1,8:30,Lithuania,4,3,3_Pts_T,Marius Grigonis
+Q1,8:30,Australia,4,3,RD,Jock  Landale
+Q1,8:48,Australia,4,3,,Patty Mills3pt jump shot made
+Q1,8:56,Lithuania,4,0,2_Pts_C,Marius Grigonis
+Q1,9:07,Lithuania,2,0,RD,Jonas Valanciunas
+Q1,9:07,Australia,2,0,2_Pts_T,Aron Baynes
+Q1,9:15,Australia,2,0,RO,Aron Baynes
+Q1,9:15,Australia,2,0,,Matthew Dellavedova3pt jump shot missed
+Q1,9:30,Lithuania,2,0,,Marius Grigonis2pt jump shot made
+Q1,9:42,Lithuania,0,0,FR,Arnas Butkevicius
+Q1,9:42,Australia,0,0,FC_O,Aron Baynes
+Q2,0:00,Lithuania,41,52,,Lukas Lekavicius3pt jump shot missed
+Q2,0:04,Lithuania,41,52,substituicao_entra,Lukas Lekavicius
+Q2,0:04,Lithuania,41,52,substituicao_sai,Arnas Butkevicius
+Q2,0:04,Australia,41,52,substituicao_entra,Nic Kay
+Q2,0:04,Australia,41,52,substituicao_sai,Jock  Landale
+Q2,0:04,Australia,41,52,substituicao_entra,Matthew Dellavedova
+Q2,0:04,Australia,41,52,substituicao_sai,Joe Ingles
+Q2,0:04,Australia,41,52,ER ,
+Q2,0:32,Lithuania,41,52,2_Pts_C,Renaldas Seibutis
+Q2,0:37,Lithuania,39,52,BR,Jonas Maciulis
+Q2,0:37,Australia,39,52,ER,Joe Ingles
+Q2,0:58,Lithuania,39,52,,Renaldas Seibutis2pt jump shot made
+Q2,10:00,Lithuania,0,0,muda_bola,
+Q2,1:13,Lithuania,37,51,FC,Mantas Kalnietis
+Q2,1:13,Australia,37,52,LL_Pts_C,Aron Baynes
+Q2,1:13,Australia,37,51,FR,Aron Baynes
+Q2,1:13,Australia,37,51,AS,Joe Ingles
+Q2,1:13,Australia,37,51,2_Pts_C,Aron Baynes
+Q2,1:22,Lithuania,37,49,,Mantas Kalnietis2pt jump shot missed
+Q2,1:22,Australia,37,49,RD,Mitch Creek
+Q2,1:30,Lithuania,37,49,BR,Jonas Maciulis
+Q2,1:30,Australia,37,49,ER,Patty Mills
+Q2,1:39,Lithuania,37,49,LL_Pts_C,Domantas Sabonis
+Q2,1:39,Lithuania,36,49,AS,Mantas Kalnietis
+Q2,1:39,Lithuania,36,49,LL_Pts_C,Domantas Sabonis
+Q2,1:39,Lithuania,35,49,FR,Domantas Sabonis
+Q2,1:39,Australia,35,49,substituicao_entra,Aron Baynes
+Q2,1:39,Australia,35,49,substituicao_sai,Andrew Bogut
+Q2,1:39,Australia,35,49,FC,Andrew Bogut
+Q2,1:43,Lithuania,35,49,substituicao_entra,Domantas Sabonis
+Q2,1:43,Lithuania,35,49,substituicao_sai,Marius Grigonis
+Q2,1:43,Lithuania,35,49,substituicao_entra,Renaldas Seibutis
+Q2,1:43,Lithuania,35,49,substituicao_sai,Jonas Valanciunas
+Q2,1:43,Lithuania,35,49,substituicao_entra,Jonas Maciulis
+Q2,1:43,Lithuania,35,49,substituicao_sai,Paulius Jankunas
+Q2,1:43,Australia,35,49,substituicao_entra,Joe Ingles
+Q2,1:43,Australia,35,49,substituicao_sai,Chris Goulding
+Q2,1:45,Lithuania,35,49,FR,Mantas Kalnietis
+Q2,1:45,Australia,35,49,FC,Mitch Creek
+Q2,1:59,Australia,35,49,AS,Mitch Creek
+Q2,1:59,Australia,35,49,,Jock  Landale3pt jump shot made
+Q2,2:14,Australia,35,46,RO,Jock  Landale
+Q2,2:14,Australia,35,46,,Mitch Creeklayup missed
+Q2,2:23,Lithuania,35,46,,Paulius Jankunas3pt jump shot missed
+Q2,2:23,Australia,35,46,RD,Patty Mills
+Q2,2:42,Australia,35,46,AS,Chris Goulding
+Q2,2:42,Australia,35,46,,Jock  Landaledunk made
+Q2,3:06,Lithuania,35,44,AS,Paulius Jankunas
+Q2,3:06,Lithuania,35,44,2_Pts_C,Jonas Valanciunas
+Q2,3:22,Lithuania,33,44,RD,Paulius Jankunas
+Q2,3:22,Australia,33,44,,Chris Goulding3pt jump shot missed
+Q2,3:34,Lithuania,33,44,,Paulius Jankunas2pt jump shot missed
+Q2,3:34,Australia,33,44,RD,Andrew Bogut
+Q2,3:50,Lithuania,33,42,substituicao_entra,Arnas Butkevicius
+Q2,3:50,Lithuania,33,42,substituicao_sai,Edgaras Ulanovas
+Q2,3:50,Lithuania,33,42,substituicao_entra,Mantas Kalnietis
+Q2,3:50,Lithuania,33,42,substituicao_sai,Lukas Lekavicius
+Q2,3:50,Lithuania,33,42,FC,Lukas Lekavicius
+Q2,3:50,Australia,33,44,substituicao_entra,Chris Goulding
+Q2,3:50,Australia,33,44,substituicao_sai,Matthew Dellavedova
+Q2,3:50,Australia,33,44,LL_Pts_C,Matthew Dellavedova
+Q2,3:50,Australia,33,43,LL_Pts_C,Matthew Dellavedova
+Q2,3:50,Australia,33,42,substituicao_entra,Andrew Bogut
+Q2,3:50,Australia,33,42,substituicao_sai,Aron Baynes
+Q2,3:50,Australia,33,42,FR,Matthew Dellavedova
+Q2,4:00,Lithuania,33,42,2_Pts_C,Marius Grigonis
+Q2,4:14,Lithuania,31,42,RD,Marius Grigonis
+Q2,4:14,Australia,31,42,,Aron Baynesalley oop missed
+Q2,4:35,Lithuania,31,42,,Lukas Lekavicius2pt jump shot made
+Q2,5:00,Australia,29,42,AS,Mitch Creek
+Q2,5:00,Australia,29,42,2_Pts_C,Patty Mills
+Q2,5:05,Lithuania,29,40,,Paulius Jankunas3pt jump shot missed
+Q2,5:05,Australia,29,40,RD,Patty Mills
+Q2,5:27,Australia,29,40,AS,Aron Baynes
+Q2,5:27,Australia,29,40,,Jock  Landale3pt jump shot made
+Q2,5:42,Lithuania,29,37,,Lukas Lekavicius2pt jump shot made
+Q2,5:58,Lithuania,27,37,tempo_tecnico,
+Q2,5:58,Australia,27,37,substituicao_entra,Jock  Landale
+Q2,5:58,Australia,27,37,substituicao_sai,Nic Kay
+Q2,6:02,Australia,27,37,AS,Nic Kay
+Q2,6:02,Australia,27,37,3_Pts_C,Aron Baynes
+Q2,6:08,Lithuania,27,34,substituicao_entra,Paulius Jankunas
+Q2,6:08,Lithuania,27,34,substituicao_sai,Jonas Maciulis
+Q2,6:08,Lithuania,27,34,FC,Jonas Maciulis
+Q2,6:08,Australia,27,34,FR,Patty Mills
+Q2,6:18,Lithuania,27,34,,Marius Grigonislayup missed
+Q2,6:18,Australia,27,34,RD,Mitch Creek
+Q2,6:37,Australia,27,34,AS,Matthew Dellavedova
+Q2,6:37,Australia,27,34,,Aron Baynesalley oop made
+Q2,6:42,Lithuania,27,32,substituicao_entra,Jonas Valanciunas
+Q2,6:42,Lithuania,27,32,substituicao_sai,Domantas Sabonis
+Q2,6:42,Lithuania,27,32,FC,Lukas Lekavicius
+Q2,6:42,Australia,27,32,substituicao_entra,Mitch Creek
+Q2,6:42,Australia,27,32,substituicao_sai,Joe Ingles
+Q2,6:42,Australia,27,32,FR,Patty Mills
+Q2,6:48,Lithuania,27,32,2_Pts_T,Edgaras Ulanovas
+Q2,6:48,Australia,27,32,RD,Matthew Dellavedova
+Q2,7:13,Australia,27,32,AS,Matthew Dellavedova
+Q2,7:13,Australia,27,32,,Nic Kay3pt jump shot made
+Q2,7:24,Lithuania,27,29,FC,Edgaras Ulanovas
+Q2,7:24,Australia,27,29,FR,Joe Ingles
+Q2,7:36,Lithuania,27,29,AS,Marius Grigonis
+Q2,7:36,Lithuania,27,29,2_Pts_C,Edgaras Ulanovas
+Q2,7:49,Lithuania,25,29,substituicao_entra,Marius Grigonis
+Q2,7:49,Lithuania,25,29,substituicao_sai,Renaldas Seibutis
+Q2,7:49,Lithuania,25,29,FR,Lukas Lekavicius
+Q2,7:49,Australia,25,29,substituicao_entra,Patty Mills
+Q2,7:49,Australia,25,29,substituicao_sai,Chris Goulding
+Q2,7:49,Australia,25,29,FC_O,Joe Ingles
+Q2,7:57,Lithuania,25,29,,Lukas Lekavicius3pt jump shot missed
+Q2,7:57,Australia,25,29,RD,Nic Kay
+Q2,8:16,Australia,25,29,AS,Matthew Dellavedova
+Q2,8:16,Australia,25,29,,Aron Baynesdunk made
+Q2,8:37,Australia,25,27,tempo_tecnico,
+Q2,8:38,Lithuania,25,27,2_Pts_C,Lukas Lekavicius
+Q2,8:51,Australia,23,27,ER ,
+Q2,8:51,Australia,23,27,,Aron Baynes3pt jump shot missed
+Q2,9:15,Lithuania,23,27,LL_Pts_C,Domantas Sabonis
+Q2,9:15,Lithuania,22,27,LL_Pts_C,Domantas Sabonis
+Q2,9:15,Lithuania,21,27,FR,Domantas Sabonis
+Q2,9:15,Australia,21,27,substituicao_entra,Aron Baynes
+Q2,9:15,Australia,21,27,substituicao_sai,Andrew Bogut
+Q2,9:15,Australia,21,27,FC,Andrew Bogut
+Q2,9:35,Lithuania,21,27,RD,Jonas Maciulis
+Q2,9:35,Lithuania,21,27,TO,Domantas Sabonis
+Q2,9:35,Australia,21,27,2_Pts_T,Andrew Bogut
+Q2,9:46,Lithuania,21,27,AS,Renaldas Seibutis
+Q2,9:46,Lithuania,21,27,,Domantas Sabonislayup made
+Q3,0:00,Lithuania,60,67,FC,Domantas Sabonis
+Q3,0:00,Australia,60,68,,Aron Baynes2pt jump shot missed
+Q3,0:00,Australia,60,68,RO,Aron Baynes
+Q3,0:00,Australia,60,68,LL_Pts_C,Aron Baynes
+Q3,0:00,Australia,60,67,LL_Pts_T,Aron Baynes
+Q3,0:00,Australia,60,67,FR,Aron Baynes
+Q3,0:00,Australia,60,67,RO,Aron Baynes
+Q3,0:00,Australia,60,67,,Aron Baynestip in missed
+Q3,0:00,Australia,60,67,RO,Aron Baynes
+Q3,0:00,Australia,60,67,,Nic Kaylayup missed
+Q3,0:06,Lithuania,60,67,substituicao_entra,Domantas Sabonis
+Q3,0:06,Lithuania,60,67,substituicao_sai,Mindaugas Kuzminskas
+Q3,0:06,Lithuania,60,67,substituicao_entra,Jonas Maciulis
+Q3,0:06,Lithuania,60,67,substituicao_sai,Jonas Valanciunas
+Q3,0:06,Lithuania,60,67,FC,Jonas Valanciunas
+Q3,0:06,Australia,60,67,substituicao_entra,Patty Mills
+Q3,0:06,Australia,60,67,substituicao_sai,Mitch Creek
+Q3,0:06,Australia,60,67,FR,Matthew Dellavedova
+Q3,0:20,Lithuania,60,67,AS,Lukas Lekavicius
+Q3,0:20,Lithuania,60,67,,Mindaugas Kuzminskas3pt jump shot made
+Q3,0:32,Lithuania,57,67,substituicao_entra,Marius Grigonis
+Q3,0:32,Lithuania,57,67,substituicao_sai,Renaldas Seibutis
+Q3,0:32,Australia,57,67,substituicao_entra,Mitch Creek
+Q3,0:32,Australia,57,67,substituicao_sai,Chris Goulding
+Q3,0:32,Australia,57,67,ER,Chris Goulding
+Q3,0:41,Lithuania,57,67,,Edgaras Ulanovas2pt jump shot inside the paint blocked
+Q3,0:41,Australia,57,67,RD,Chris Goulding
+Q3,0:41,Australia,57,67,TO,Aron Baynes
+Q3,0:48,Lithuania,57,67,RO,Edgaras Ulanovas
+Q3,0:48,Lithuania,57,67,2_Pts_T,Jonas Valanciunas
+Q3,10:00,Australia,0,0,muda_bola,
+Q3,1:04,Australia,57,67,ER,Joe Ingles
+Q3,1:16,Lithuania,57,67,LL_Pts_C,Jonas Valanciunas
+Q3,1:16,Lithuania,56,67,LL_Pts_C,Jonas Valanciunas
+Q3,1:16,Lithuania,55,67,FR,Jonas Valanciunas
+Q3,1:16,Australia,55,67,substituicao_entra,Aron Baynes
+Q3,1:16,Australia,55,67,substituicao_sai,Andrew Bogut
+Q3,1:16,Australia,55,67,FC,Andrew Bogut
+Q3,1:30,Lithuania,55,67,RD,Edgaras Ulanovas
+Q3,1:30,Australia,55,67,,Joe Ingles3pt jump shot missed
+Q3,1:37,Lithuania,55,67,FC,Renaldas Seibutis
+Q3,1:37,Australia,55,67,FR,Joe Ingles
+Q3,1:53,Lithuania,55,67,ER,Jonas Valanciunas
+Q3,2:01,Lithuania,55,67,FR,Renaldas Seibutis
+Q3,2:01,Australia,55,67,FC,Chris Goulding
+Q3,2:05,Lithuania,55,67,substituicao_entra,Lukas Lekavicius
+Q3,2:05,Lithuania,55,67,substituicao_sai,Mantas Kalnietis
+Q3,2:05,Australia,55,67,substituicao_entra,Matthew Dellavedova
+Q3,2:05,Australia,55,67,substituicao_sai,Patty Mills
+Q3,2:15,Australia,55,67,,Nic Kaylayup made
+Q3,2:21,Australia,55,65,RO,Nic Kay
+Q3,2:21,Australia,55,65,,Patty Mills3pt jump shot missed
+Q3,2:36,Lithuania,55,65,,Mantas Kalnietistip in made
+Q3,2:37,Lithuania,53,65,RO,Mantas Kalnietis
+Q3,2:37,Lithuania,53,65,2_Pts_T,Renaldas Seibutis
+Q3,2:53,Australia,53,65,AS,Joe Ingles
+Q3,2:53,Australia,53,65,2_Pts_C,Andrew Bogut
+Q3,3:04,Lithuania,53,63,ER,Mantas Kalnietis
+Q3,3:04,Australia,53,63,BR,Patty Mills
+Q3,3:20,Lithuania,53,63,substituicao_entra,Mindaugas Kuzminskas
+Q3,3:20,Lithuania,53,63,substituicao_sai,Jonas Maciulis
+Q3,3:20,Lithuania,53,63,tempo_tecnico,
+Q3,3:22,Australia,53,63,AS,Joe Ingles
+Q3,3:22,Australia,53,63,2_Pts_C,Patty Mills
+Q3,3:28,Lithuania,53,61,,Renaldas Seibutis2pt jump shot missed
+Q3,3:28,Australia,53,61,RD,Joe Ingles
+Q3,3:39,Lithuania,53,61,FR,Renaldas Seibutis
+Q3,3:39,Australia,53,61,substituicao_entra,Nic Kay
+Q3,3:39,Australia,53,61,substituicao_sai,Jock  Landale
+Q3,3:39,Australia,53,61,FC,Chris Goulding
+Q3,3:54,Australia,53,61,2_Pts_C,Patty Mills
+Q3,4:04,Lithuania,53,59,2_Pts_C,Jonas Valanciunas
+Q3,4:13,Lithuania,51,59,RO,Jonas Valanciunas
+Q3,4:13,Lithuania,51,59,2_Pts_T,Mantas Kalnietis
+Q3,4:31,Lithuania,51,59,substituicao_entra,Jonas Valanciunas
+Q3,4:31,Lithuania,51,59,substituicao_sai,Domantas Sabonis
+Q3,4:31,Australia,51,59,substituicao_entra,Chris Goulding
+Q3,4:31,Australia,51,59,substituicao_sai,Matthew Dellavedova
+Q3,4:31,Australia,51,59,ER,Jock  Landale
+Q3,4:42,Lithuania,51,59,2_Pts_T,Jonas Maciulis
+Q3,4:42,Australia,51,59,RD,Joe Ingles
+Q3,4:53,Australia,51,59,,Andrew Boguttip in made
+Q3,4:59,Australia,51,57,RD,Andrew Bogut
+Q3,4:59,Australia,51,57,,Matthew Dellavedova2pt jump shot missed
+Q3,5:30,Lithuania,51,57,AS,Mantas Kalnietis
+Q3,5:30,Lithuania,51,57,,Jonas Maciulis3pt jump shot made
+Q3,5:50,Lithuania,48,57,substituicao_entra,Edgaras Ulanovas
+Q3,5:50,Lithuania,48,57,substituicao_sai,Arnas Butkevicius
+Q3,5:50,Lithuania,48,57,substituicao_entra,Renaldas Seibutis
+Q3,5:50,Lithuania,48,57,substituicao_sai,Marius Grigonis
+Q3,5:50,Australia,48,57,substituicao_entra,Andrew Bogut
+Q3,5:50,Australia,48,57,substituicao_sai,Aron Baynes
+Q3,5:50,Australia,48,57,AS,Matthew Dellavedova
+Q3,5:50,Australia,48,57,2_Pts_C,Patty Mills
+Q3,5:53,Lithuania,48,55,,Mantas Kalnietis3pt jump shot missed
+Q3,5:53,Australia,48,55,RO,Matthew Dellavedova
+Q3,6:01,Lithuania,48,55,RD,Marius Grigonis
+Q3,6:01,Australia,48,55,,Matthew Dellavedova3pt jump shot missed
+Q3,6:21,Lithuania,48,55,2_Pts_C,Domantas Sabonis
+Q3,6:38,Lithuania,46,55,RD,Arnas Butkevicius
+Q3,6:38,Australia,46,55,,Joe Ingleslayup missed
+Q3,6:58,Lithuania,46,55,2_Pts_T,Jonas Maciulis
+Q3,6:58,Australia,46,55,RD,Jock  Landale
+Q3,7:17,Australia,46,55,ER,Joe Ingles
+Q3,7:36,Lithuania,46,55,FC_O,Arnas Butkevicius
+Q3,7:36,Australia,46,55,FR,Patty Mills
+Q3,7:55,Australia,46,55,AS,Joe Ingles
+Q3,7:55,Australia,46,55,,Aron Baynes3pt jump shot made
+Q3,8:18,Australia,46,52,tempo_tecnico,
+Q3,8:20,Lithuania,46,52,AS,Domantas Sabonis
+Q3,8:20,Lithuania,46,52,,Marius Grigonis3pt jump shot made
+Q3,8:27,Lithuania,43,52,RD,Marius Grigonis
+Q3,8:27,Australia,43,52,,Jock  Landale3pt jump shot missed
+Q3,8:46,Lithuania,43,52,FC,Mantas Kalnietis
+Q3,8:46,Australia,43,52,substituicao_entra,Aron Baynes
+Q3,8:46,Australia,43,52,substituicao_sai,Andrew Bogut
+Q3,8:46,Australia,43,52,FR,Patty Mills
+Q3,8:49,Lithuania,43,52,,Jonas Maciulis2pt jump shot missed
+Q3,8:49,Australia,43,52,RD,Joe Ingles
+Q3,9:00,Lithuania,43,52,RD,Mantas Kalnietis
+Q3,9:00,Australia,43,52,2_Pts_T,Matthew Dellavedova
+Q3,9:19,Lithuania,43,52,2_Pts_C,Domantas Sabonis
+Q3,9:43,Australia,0,0,substituicao_entra,Andrew Bogut
+Q3,9:43,Australia,0,0,substituicao_sai,Aron Baynes
+Q3,9:43,Australia,0,0,ER,Aron Baynes
+Q4,0:00,Lithuania,82,87,,Jonas Maciulis3pt jump shot missed
+Q4,0:03,Lithuania,82,87,RO,Domantas Sabonis
+Q4,0:03,Lithuania,82,87,,Edgaras Ulanovas3pt floating jump shot missed
+Q4,0:08,Lithuania,82,85,substituicao_entra,Mantas Kalnietis
+Q4,0:08,Lithuania,82,85,substituicao_sai,Lukas Lekavicius
+Q4,0:08,Lithuania,82,85,FC,Lukas Lekavicius
+Q4,0:08,Australia,82,87,LL_Pts_C,Joe Ingles
+Q4,0:08,Australia,82,86,LL_Pts_C,Joe Ingles
+Q4,0:08,Australia,82,85,FR,Joe Ingles
+Q4,0:10,Lithuania,82,85,2_Pts_C,Lukas Lekavicius
+Q4,0:16,Lithuania,80,85,RD,Edgaras Ulanovas
+Q4,0:16,Lithuania,80,85,substituicao_entra,Lukas Lekavicius
+Q4,0:16,Lithuania,80,85,substituicao_sai,Arnas Butkevicius
+Q4,0:16,Lithuania,80,85,FC,Marius Grigonis
+Q4,0:16,Australia,80,85,LL_Pts_T,Matthew Dellavedova
+Q4,0:16,Australia,80,85,LL_Pts_T,Matthew Dellavedova
+Q4,0:16,Australia,80,85,substituicao_entra,Mitch Creek
+Q4,0:16,Australia,80,85,substituicao_sai,Chris Goulding
+Q4,0:16,Australia,80,85,FR,Matthew Dellavedova
+Q4,0:17,Lithuania,80,83,substituicao_entra,Arnas Butkevicius
+Q4,0:17,Lithuania,80,83,substituicao_sai,Lukas Lekavicius
+Q4,0:17,Lithuania,80,83,substituicao_entra,Jonas Maciulis
+Q4,0:17,Lithuania,80,83,substituicao_sai,Jonas Valanciunas
+Q4,0:17,Lithuania,80,83,FC_A,Domantas Sabonis
+Q4,0:17,Australia,80,85,substituicao_entra,Chris Goulding
+Q4,0:17,Australia,80,85,substituicao_sai,Mitch Creek
+Q4,0:17,Australia,80,85,LL_Pts_C,Mitch Creek
+Q4,0:17,Australia,80,84,LL_Pts_C,Mitch Creek
+Q4,0:17,Australia,80,83,FR,Mitch Creek
+Q4,0:23,Lithuania,80,83,AS,Lukas Lekavicius
+Q4,0:23,Lithuania,80,83,2_Pts_C,Marius Grigonis
+Q4,0:32,Lithuania,78,83,tempo_tecnico,
+Q4,0:32,Australia,78,83,substituicao_entra,Mitch Creek
+Q4,0:32,Australia,78,83,substituicao_sai,Nic Kay
+Q4,0:32,Australia,78,83,,Patty Mills3pt jump shot made
+Q4,0:54,Lithuania,78,80,2_Pts_C,Lukas Lekavicius
+Q4,10:00,Lithuania,0,0,FR,Marius Grigonis
+Q4,10:00,Lithuania,0,0,muda_bola,
+Q4,10:00,Australia,0,0,FC,Mitch Creek
+Q4,1:06,Lithuania,76,80,tempo_tecnico,
+Q4,1:06,Lithuania,76,78,substituicao_entra,Lukas Lekavicius
+Q4,1:06,Lithuania,76,78,substituicao_sai,Renaldas Seibutis
+Q4,1:06,Lithuania,76,78,substituicao_entra,Marius Grigonis
+Q4,1:06,Lithuania,76,78,substituicao_sai,Mantas Kalnietis
+Q4,1:06,Lithuania,76,78,FC,Domantas Sabonis
+Q4,1:06,Australia,76,80,LL_Pts_C,Nic Kay
+Q4,1:06,Australia,76,79,LL_Pts_C,Nic Kay
+Q4,1:06,Australia,76,78,FR,Nic Kay
+Q4,1:06,Australia,76,78,RO,
+Q4,1:06,Australia,76,78,,Patty Mills3pt jump shot missed
+Q4,1:10,Lithuania,76,78,,Domantas Sabonis2pt jump shot missed
+Q4,1:10,Australia,76,78,RD,Aron Baynes
+Q4,1:14,Lithuania,76,78,RO,Domantas Sabonis
+Q4,1:14,Lithuania,76,78,,Renaldas Seibutis2pt jump shot missed
+Q4,1:42,Australia,76,78,2_Pts_C,Patty Mills
+Q4,1:59,Lithuania,76,76,LL_Pts_T,Jonas Valanciunas
+Q4,1:59,Lithuania,76,76,LL_Pts_C,Jonas Valanciunas
+Q4,1:59,Lithuania,75,76,FR,Jonas Valanciunas
+Q4,1:59,Australia,76,76,RD,Aron Baynes
+Q4,1:59,Australia,75,76,FC,Aron Baynes
+Q4,2:19,Lithuania,75,76,RD,Domantas Sabonis
+Q4,2:19,Australia,75,76,,Joe Ingles3pt jump shot missed
+Q4,2:39,Lithuania,75,76,substituicao_entra,Renaldas Seibutis
+Q4,2:39,Lithuania,75,76,substituicao_sai,Marius Grigonis
+Q4,2:39,Lithuania,75,76,ER,Marius Grigonis
+Q4,2:56,Lithuania,75,74,FC,Mantas Kalnietis
+Q4,2:56,Australia,75,76,LL_Pts_C,Patty Mills
+Q4,2:56,Australia,75,75,LL_Pts_C,Patty Mills
+Q4,2:56,Australia,75,74,FR,Patty Mills
+Q4,2:58,Lithuania,75,74,,Edgaras Ulanovaslayup made
+Q4,3:03,Lithuania,73,74,RO,Edgaras Ulanovas
+Q4,3:03,Lithuania,73,74,2_Pts_T,Marius Grigonis
+Q4,3:14,Lithuania,73,74,substituicao_entra,Edgaras Ulanovas
+Q4,3:14,Lithuania,73,74,substituicao_sai,Mindaugas Kuzminskas
+Q4,3:14,Lithuania,73,74,substituicao_entra,Jonas Valanciunas
+Q4,3:14,Lithuania,73,74,substituicao_sai,Renaldas Seibutis
+Q4,3:14,Australia,73,74,substituicao_entra,Nic Kay
+Q4,3:14,Australia,73,74,substituicao_sai,Mitch Creek
+Q4,3:30,Australia,73,74,AS,Joe Ingles
+Q4,3:30,Australia,73,74,,Aron Bayneslayup made
+Q4,3:37,Lithuania,73,72,ER,Marius Grigonis
+Q4,3:37,Australia,73,72,BR,Joe Ingles
+Q4,3:49,Lithuania,73,72,BR,Mantas Kalnietis
+Q4,3:49,Australia,73,72,ER,Matthew Dellavedova
+Q4,4:06,Lithuania,73,72,LL_Pts_T,Mindaugas Kuzminskas
+Q4,4:06,Lithuania,73,72,LL_Pts_T,Mindaugas Kuzminskas
+Q4,4:06,Lithuania,73,72,FR,Mindaugas Kuzminskas
+Q4,4:06,Australia,73,72,RD,Aron Baynes
+Q4,4:06,Australia,73,72,FC,Aron Baynes
+Q4,4:24,Lithuania,73,70,substituicao_entra,Mantas Kalnietis
+Q4,4:24,Lithuania,73,70,substituicao_sai,Lukas Lekavicius
+Q4,4:24,Lithuania,73,70,FC,Lukas Lekavicius
+Q4,4:24,Australia,73,72,LL_Pts_C,Mitch Creek
+Q4,4:24,Australia,73,71,LL_Pts_C,Mitch Creek
+Q4,4:24,Australia,73,70,FR,Mitch Creek
+Q4,4:36,Lithuania,73,70,AS,Domantas Sabonis
+Q4,4:36,Lithuania,73,70,2_Pts_C,Renaldas Seibutis
+Q4,4:53,Lithuania,71,70,substituicao_entra,Marius Grigonis
+Q4,4:53,Lithuania,71,70,substituicao_sai,Edgaras Ulanovas
+Q4,4:53,Lithuania,71,68,FC,Renaldas Seibutis
+Q4,4:53,Australia,71,70,LL_Pts_C,Patty Mills
+Q4,4:53,Australia,71,69,LL_Pts_C,Patty Mills
+Q4,4:53,Australia,71,68,FR,Patty Mills
+Q4,4:55,Lithuania,71,68,substituicao_entra,Domantas Sabonis
+Q4,4:55,Lithuania,71,68,substituicao_sai,Jonas Valanciunas
+Q4,4:55,Lithuania,71,68,FC,Edgaras Ulanovas
+Q4,4:55,Australia,71,68,substituicao_entra,Mitch Creek
+Q4,4:55,Australia,71,68,substituicao_sai,Jock  Landale
+Q4,4:55,Australia,71,68,FR,Joe Ingles
+Q4,5:04,Lithuania,71,68,2_Pts_T,Lukas Lekavicius
+Q4,5:04,Australia,71,68,RD,Joe Ingles
+Q4,5:17,Lithuania,71,68,FR,Mindaugas Kuzminskas
+Q4,5:17,Australia,71,68,substituicao_entra,Aron Baynes
+Q4,5:17,Australia,71,68,substituicao_sai,Andrew Bogut
+Q4,5:17,Australia,71,68,FC_O,Andrew Bogut
+Q4,5:28,Lithuania,71,68,2_Pts_T,Lukas Lekavicius
+Q4,5:28,Australia,71,68,RD,Andrew Bogut
+Q4,5:37,Lithuania,71,68,RD,Lukas Lekavicius
+Q4,5:37,Lithuania,71,68,TO,Jonas Valanciunas
+Q4,5:37,Australia,71,68,2_Pts_T,Jock  Landale
+Q4,5:56,Lithuania,71,68,substituicao_entra,Renaldas Seibutis
+Q4,5:56,Lithuania,71,68,substituicao_sai,Marius Grigonis
+Q4,5:56,Lithuania,71,68,FC_O,Mindaugas Kuzminskas
+Q4,5:56,Australia,71,68,FR,Matthew Dellavedova
+Q4,6:11,Lithuania,71,68,RD,Jonas Valanciunas
+Q4,6:11,Australia,71,68,2_Pts_T,Patty Mills
+Q4,6:22,Lithuania,71,68,AS,Lukas Lekavicius
+Q4,6:22,Lithuania,71,68,,Marius Grigonislayup made
+Q4,6:32,Lithuania,69,68,RD,Jonas Valanciunas
+Q4,6:32,Australia,69,68,,Patty Mills3pt jump shot missed
+Q4,6:32,Australia,69,68,substituicao_entra,Matthew Dellavedova
+Q4,6:32,Australia,69,68,substituicao_sai,Mitch Creek
+Q4,6:32,Australia,69,68,substituicao_entra,Andrew Bogut
+Q4,6:32,Australia,69,68,substituicao_sai,Aron Baynes
+Q4,6:49,Lithuania,69,68,FC,Jonas Valanciunas
+Q4,6:49,Australia,69,68,FR,Mitch Creek
+Q4,6:49,Australia,69,68,RO,Mitch Creek
+Q4,6:52,Australia,69,68,,Jock  Landale3pt jump shot missed
+Q4,7:14,Lithuania,69,68,2_Pts_C,Lukas Lekavicius
+Q4,7:27,Lithuania,67,68,RD,Jonas Valanciunas
+Q4,7:27,Australia,67,68,2_Pts_T,Patty Mills
+Q4,7:41,Lithuania,67,68,LL_Pts_C,Marius Grigonis
+Q4,7:41,Lithuania,66,68,LL_Pts_C,Marius Grigonis
+Q4,7:41,Lithuania,65,68,FR,Marius Grigonis
+Q4,7:41,Australia,65,68,substituicao_entra,Joe Ingles
+Q4,7:41,Australia,65,68,substituicao_sai,Matthew Dellavedova
+Q4,7:41,Australia,65,68,FC,Patty Mills
+Q4,7:51,Australia,65,68,ER,Patty Mills
+Q4,8:10,Australia,65,68,tempo_tecnico,
+Q4,8:11,Lithuania,65,68,AS,Edgaras Ulanovas
+Q4,8:11,Lithuania,65,68,2_Pts_C,Marius Grigonis
+Q4,8:16,Lithuania,63,68,RO,
+Q4,8:16,Lithuania,63,68,2_Pts_T,Marius Grigonis
+Q4,8:30,Lithuania,63,68,RD,Jonas Valanciunas
+Q4,8:30,Australia,63,68,,Matthew Dellavedova3pt jump shot missed
+Q4,8:36,Lithuania,63,68,FC,Lukas Lekavicius
+Q4,8:36,Australia,63,68,FR,Matthew Dellavedova
+Q4,8:46,Lithuania,63,68,LL_Pts_C,Lukas Lekavicius
+Q4,8:46,Lithuania,62,68,FR,Lukas Lekavicius
+Q4,8:46,Lithuania,62,68,2_Pts_C,Lukas Lekavicius
+Q4,8:46,Australia,62,68,substituicao_entra,Jock  Landale
+Q4,8:46,Australia,62,68,substituicao_sai,Nic Kay
+Q4,8:46,Australia,62,68,substituicao_entra,Patty Mills
+Q4,8:46,Australia,62,68,substituicao_sai,Joe Ingles
+Q4,8:46,Australia,62,68,FC,Matthew Dellavedova
+Q4,8:48,Lithuania,0,0,BR,Lukas Lekavicius
+Q4,8:48,Australia,0,0,ER,Nic Kay
+Q4,9:08,Lithuania,0,0,2_Pts_T,Marius Grigonis
+Q4,9:08,Australia,0,0,RD,Matthew Dellavedova
+Q4,9:23,Lithuania,0,0,RO,Mindaugas Kuzminskas
+Q4,9:23,Lithuania,0,0,,Edgaras Ulanovaslayup missed
+Q4,9:31,Lithuania,0,0,RD,Lukas Lekavicius
+Q4,9:31,Australia,0,0,3_Pts_T,Aron Baynes
+Q4,9:43,Lithuania,0,0,,Mindaugas Kuzminskas3pt jump shot missed
+Q4,9:43,Australia,0,0,RD,Aron Baynes

@@ -1,0 +1,499 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Argentina,21,18,3_Pts_T,Luca Vildoza
+Q1,0:16,Argentina,21,16,substituicao_entra,Nicolas Brussino
+Q1,0:16,Argentina,21,16,substituicao_sai,Maximo Fjellerup
+Q1,0:16,Argentina,21,16,FC,Luís Scola
+Q1,0:16,Argentina,21,16,ER,Nicolás Laprovittola
+Q1,0:16,France,21,18,substituicao_entra,Axel Toupane
+Q1,0:16,France,21,18,substituicao_sai,Nando De Colo
+Q1,0:16,France,21,18,LL_Pts_C,Nando De Colo
+Q1,0:16,France,21,17,LL_Pts_C,Nando De Colo
+Q1,0:16,France,21,16,FR,Nando De Colo
+Q1,0:16,France,21,16,BR,Andrew Albicy
+Q1,0:30,Argentina,21,16,substituicao_entra,Luís Scola
+Q1,0:30,Argentina,21,16,substituicao_sai,Tayavek Gallizzi
+Q1,0:30,Argentina,21,16,FR,Tayavek Gallizzi
+Q1,0:30,France,21,16,FC,Nando De Colo
+Q1,0:46,France,21,16,2_Pts_C,Evan Fournier
+Q1,10:00,France,0,0,inicio_quarto,Rudy Gobert
+Q1,1:06,Argentina,21,14,,Gabriel Deckdunk made
+Q1,1:19,Argentina,19,14,RD,Luca Vildoza
+Q1,1:19,France,19,14,,Mathias Lessortlayup missed
+Q1,1:22,Argentina,19,14,FC,Tayavek Gallizzi
+Q1,1:22,France,19,14,RO,Mathias Lessort
+Q1,1:22,France,19,14,LL_Pts_T,Mathias Lessort
+Q1,1:22,France,19,14,LL_Pts_T,Mathias Lessort
+Q1,1:22,France,19,14,FR,Mathias Lessort
+Q1,1:37,Argentina,19,14,,Gabriel Decklayup made
+Q1,1:44,Argentina,17,14,RO,Gabriel Deck
+Q1,1:44,Argentina,17,14,,Gabriel Decklayup missed
+Q1,2:01,France,17,14,ER,Mathias Lessort
+Q1,2:16,Argentina,17,14,substituicao_entra,Tayavek Gallizzi
+Q1,2:16,Argentina,17,14,substituicao_sai,Marcos Delia
+Q1,2:16,Argentina,17,14,substituicao_entra,Nicolás Laprovittola
+Q1,2:16,Argentina,17,14,substituicao_sai,Facundo Campazzo
+Q1,2:16,Argentina,17,14,ER,Facundo Campazzo
+Q1,2:16,France,17,14,substituicao_entra,Mathias Lessort
+Q1,2:16,France,17,14,substituicao_sai,Rudy Gobert
+Q1,2:29,France,17,14,2_Pts_C,Evan Fournier
+Q1,2:52,Argentina,17,12,substituicao_entra,Gabriel Deck
+Q1,2:52,Argentina,17,12,substituicao_sai,Luís Scola
+Q1,2:52,Argentina,17,12,LL_Pts_C,Luís Scola
+Q1,2:52,Argentina,16,12,substituicao_entra,Maximo Fjellerup
+Q1,2:52,Argentina,16,12,substituicao_sai,Patricio Garino
+Q1,2:52,Argentina,16,12,FR,Luís Scola
+Q1,2:52,Argentina,16,12,2_Pts_C,Luís Scola
+Q1,2:52,France,16,12,FC,Louis Labeyrie
+Q1,3:13,France,14,12,AS,Nando De Colo
+Q1,3:13,France,14,12,,Louis Labeyrie3pt jump shot made
+Q1,3:27,Argentina,14,9,FC_O,Patricio Garino
+Q1,3:27,France,14,9,FR,Nando De Colo
+Q1,3:34,Argentina,14,9,RO,
+Q1,3:34,Argentina,14,9,2_Pts_T,Luca Vildoza
+Q1,3:34,France,14,9,substituicao_entra,Evan Fournier
+Q1,3:34,France,14,9,substituicao_sai,Nicolas Batum
+Q1,3:46,France,14,9,2_Pts_C,Nando De Colo
+Q1,3:57,Argentina,14,7,FC,Luca Vildoza
+Q1,3:57,France,14,7,FR,Nando De Colo
+Q1,4:05,Argentina,14,7,AS,Luca Vildoza
+Q1,4:05,Argentina,14,7,2_Pts_C,Facundo Campazzo
+Q1,4:22,Argentina,12,7,substituicao_entra,Luca Vildoza
+Q1,4:22,Argentina,12,7,substituicao_sai,Nicolas Brussino
+Q1,4:22,France,12,7,ER,Andrew Albicy
+Q1,4:39,Argentina,12,7,AS,Luís Scola
+Q1,4:39,Argentina,12,7,,Marcos Deliadunk made
+Q1,4:53,Argentina,10,5,FC,Patricio Garino
+Q1,4:53,France,10,7,LL_Pts_C,Nando De Colo
+Q1,4:53,France,10,6,LL_Pts_C,Nando De Colo
+Q1,4:53,France,10,5,FR,Nando De Colo
+Q1,5:09,Argentina,10,5,FC_O,Facundo Campazzo
+Q1,5:09,France,10,5,FR,Nicolas Batum
+Q1,5:22,France,10,5,AS,Andrew Albicy
+Q1,5:22,France,10,5,,Louis Labeyrie3pt jump shot made
+Q1,5:40,Argentina,10,2,2_Pts_T,Luís Scola
+Q1,5:40,France,10,2,RD,Rudy Gobert
+Q1,5:48,Argentina,10,2,RO,Facundo Campazzo
+Q1,5:48,Argentina,10,2,2_Pts_T,Facundo Campazzo
+Q1,6:01,France,10,2,substituicao_entra,Louis Labeyrie
+Q1,6:01,France,10,2,substituicao_sai,Amath M'Baye
+Q1,6:01,France,10,2,substituicao_entra,Andrew Albicy
+Q1,6:01,France,10,2,substituicao_sai,Frank Ntilikina
+Q1,6:01,France,10,2,ER,Frank Ntilikina
+Q1,6:20,France,10,2,substituicao_entra,Nando De Colo
+Q1,6:20,France,10,2,substituicao_sai,Evan Fournier
+Q1,6:20,France,10,2,tempo_tecnico,
+Q1,6:21,Argentina,10,2,2_Pts_C,Luís Scola
+Q1,6:34,Argentina,8,2,RD,Luís Scola
+Q1,6:34,France,8,2,3_Pts_T,Frank Ntilikina
+Q1,6:49,Argentina,8,2,,Facundo Campazzo3pt jump shot made
+Q1,7:09,Argentina,5,2,RD,Facundo Campazzo
+Q1,7:09,France,5,2,,Evan Fournier3pt jump shot missed
+Q1,7:18,Argentina,5,2,,Facundo Campazzo3pt jump shot missed
+Q1,7:18,France,5,2,RD,Evan Fournier
+Q1,7:36,Argentina,5,2,RD,Marcos Delia
+Q1,7:36,France,5,2,,Frank Ntilikina3pt jump shot missed
+Q1,7:52,Argentina,5,2,FC,Marcos Delia
+Q1,7:52,France,5,2,FR,Evan Fournier
+Q1,7:57,Argentina,5,2,2_Pts_C,Luís Scola
+Q1,8:05,Argentina,3,2,RD,Luís Scola
+Q1,8:05,Argentina,3,2,TO,Marcos Delia
+Q1,8:05,France,3,2,2_Pts_T,Rudy Gobert
+Q1,8:21,Argentina,3,2,LL_Pts_C,Luís Scola
+Q1,8:21,Argentina,2,2,FR,Luís Scola
+Q1,8:21,Argentina,2,2,2_Pts_C,Luís Scola
+Q1,8:21,France,2,2,FC,Frank Ntilikina
+Q1,8:27,Argentina,0,2,RD,Luís Scola
+Q1,8:27,France,0,2,2_Pts_T,Evan Fournier
+Q1,8:42,Argentina,0,2,2_Pts_T,Marcos Delia
+Q1,8:42,France,0,2,RD,Rudy Gobert
+Q1,9:04,France,0,2,,Frank Ntilikina2pt jump shot made
+Q1,9:19,Argentina,0,0,2_Pts_T,Luís Scola
+Q1,9:19,France,0,0,RD,Nicolas Batum
+Q1,9:37,Argentina,0,0,RD,Facundo Campazzo
+Q1,9:37,France,0,0,,Evan Fournier2pt jump shot missed
+Q2,0:01,Argentina,39,32,3_Pts_C,Facundo Campazzo
+Q2,0:21,Argentina,36,32,RD,Luís Scola
+Q2,0:21,France,36,32,,Nicolas Batum3pt jump shot missed
+Q2,0:43,Argentina,36,32,AS,Nicolás Laprovittola
+Q2,0:43,Argentina,36,32,,Marcos Deliadunk made
+Q2,0:57,France,34,32,,Frank Ntilikina2pt jump shot made
+Q2,10:00,Argentina,0,0,muda_bola,
+Q2,1:07,Argentina,34,30,FC,Nicolás Laprovittola
+Q2,1:07,France,34,30,substituicao_entra,Nando De Colo
+Q2,1:07,France,34,30,substituicao_sai,Evan Fournier
+Q2,1:07,France,34,30,FR,Rudy Gobert
+Q2,1:09,Argentina,34,30,ER,Nicolás Laprovittola
+Q2,1:09,France,34,30,BR,Evan Fournier
+Q2,1:27,France,34,30,,Evan Fournier2pt jump shot made
+Q2,1:47,Argentina,34,28,,Nicolas Brussinotip in made
+Q2,1:50,Argentina,32,28,RO,Nicolas Brussino
+Q2,1:50,Argentina,32,28,,Facundo Campazzo3pt jump shot missed
+Q2,2:12,Argentina,32,28,RD,Luís Scola
+Q2,2:12,Argentina,32,27,substituicao_entra,Nicolas Brussino
+Q2,2:12,Argentina,32,27,substituicao_sai,Maximo Fjellerup
+Q2,2:12,Argentina,32,27,FC,Marcos Delia
+Q2,2:12,France,32,28,LL_Pts_T,Evan Fournier
+Q2,2:12,France,32,28,LL_Pts_C,Evan Fournier
+Q2,2:12,France,32,27,FR,Evan Fournier
+Q2,2:20,Argentina,32,27,2_Pts_T,Nicolás Laprovittola
+Q2,2:20,France,32,27,RD,Rudy Gobert
+Q2,2:41,Argentina,32,27,RD,Maximo Fjellerup
+Q2,2:41,France,32,27,,Evan Fournier3pt jump shot missed
+Q2,2:47,Argentina,32,27,FC,Nicolás Laprovittola
+Q2,2:47,France,32,27,substituicao_entra,Louis Labeyrie
+Q2,2:47,France,32,27,substituicao_sai,Amath M'Baye
+Q2,2:47,France,32,27,FR,Amath M'Baye
+Q2,2:52,France,32,27,RO,Amath M'Baye
+Q2,2:52,France,32,27,,Evan Fournier2pt jump shot missed
+Q2,3:07,Argentina,32,27,ER,Nicolás Laprovittola
+Q2,3:10,Argentina,32,27,substituicao_entra,Luís Scola
+Q2,3:10,Argentina,32,27,substituicao_sai,Gabriel Deck
+Q2,3:24,Argentina,32,26,FC,Maximo Fjellerup
+Q2,3:24,France,32,27,AS,Evan Fournier
+Q2,3:24,France,32,27,LL_Pts_C,Rudy Gobert
+Q2,3:24,France,32,26,LL_Pts_T,Rudy Gobert
+Q2,3:24,France,32,26,FR,Rudy Gobert
+Q2,3:42,Argentina,32,26,substituicao_entra,Maximo Fjellerup
+Q2,3:42,Argentina,32,26,substituicao_sai,Luís Scola
+Q2,3:42,Argentina,32,26,LL_Pts_C,Luís Scola
+Q2,3:42,Argentina,31,26,LL_Pts_T,Luís Scola
+Q2,3:42,Argentina,31,26,FR,Luís Scola
+Q2,3:42,France,31,26,FC,Rudy Gobert
+Q2,3:58,France,31,26,2_Pts_C,Frank Ntilikina
+Q2,4:11,Argentina,31,24,2_Pts_T,Luís Scola
+Q2,4:11,France,31,24,RD,Rudy Gobert
+Q2,4:26,Argentina,31,24,RD,Luís Scola
+Q2,4:26,France,31,24,2_Pts_T,Evan Fournier
+Q2,4:51,Argentina,31,24,LL_Pts_C,Luís Scola
+Q2,4:51,Argentina,30,24,LL_Pts_C,Luís Scola
+Q2,4:51,Argentina,29,24,FR,Luís Scola
+Q2,4:51,France,29,24,FC,Amath M'Baye
+Q2,4:57,France,29,24,substituicao_entra,Amath M'Baye
+Q2,4:57,France,29,24,substituicao_sai,Nando De Colo
+Q2,4:57,France,29,24,ER,Nando De Colo
+Q2,5:18,Argentina,29,24,AS,Facundo Campazzo
+Q2,5:18,Argentina,29,24,,Gabriel Decklayup made
+Q2,5:18,France,29,24,substituicao_entra,Frank Ntilikina
+Q2,5:18,France,29,24,substituicao_sai,Andrew Albicy
+Q2,5:18,France,29,24,tempo_tecnico,
+Q2,5:25,Argentina,27,24,RD,Luís Scola
+Q2,5:25,France,27,24,2_Pts_T,Andrew Albicy
+Q2,5:41,Argentina,27,24,,Nicolás Laprovittola2pt jump shot made
+Q2,5:52,Argentina,25,24,RD,Marcos Delia
+Q2,5:52,France,25,24,3_Pts_T,Nicolas Batum
+Q2,6:08,Argentina,25,24,,Facundo Campazzo3pt jump shot missed
+Q2,6:08,France,25,24,RD,Rudy Gobert
+Q2,6:18,Argentina,25,24,RD,Luís Scola
+Q2,6:18,France,25,24,3_Pts_T,Evan Fournier
+Q2,6:35,Argentina,25,24,,Marcos Deliafree throw missed
+Q2,6:35,Argentina,25,24,FR,Marcos Delia
+Q2,6:35,Argentina,25,24,,Marcos Delia2pt jump shot made
+Q2,6:35,France,25,24,RD,Rudy Gobert
+Q2,6:35,France,25,24,substituicao_entra,Rudy Gobert
+Q2,6:35,France,25,24,substituicao_sai,Mathias Lessort
+Q2,6:35,France,25,24,FC,Mathias Lessort
+Q2,6:37,Argentina,23,24,RO,Marcos Delia
+Q2,6:37,Argentina,23,24,,Marcos Delia2pt jump shot missed
+Q2,6:46,Argentina,23,24,RD,Luís Scola
+Q2,6:46,France,23,24,2_Pts_T,Evan Fournier
+Q2,7:02,France,23,24,RO,Andrew Albicy
+Q2,7:02,France,23,24,,Nicolas Batum3pt jump shot missed
+Q2,7:23,France,23,24,RD,
+Q2,7:24,Argentina,23,24,3_Pts_T,Nicolás Laprovittola
+Q2,7:36,Argentina,23,24,substituicao_entra,Facundo Campazzo
+Q2,7:36,Argentina,23,24,substituicao_sai,Luca Vildoza
+Q2,7:36,Argentina,23,24,tempo_tecnico,
+Q2,7:36,France,23,24,substituicao_entra,Nicolas Batum
+Q2,7:36,France,23,24,substituicao_sai,Louis Labeyrie
+Q2,7:36,France,23,24,AS,Nando De Colo
+Q2,7:36,France,23,24,,Mathias Lessortdunk made
+Q2,7:39,France,23,22,RO,Nando De Colo
+Q2,7:39,France,23,22,,Andrew Albicy3pt jump shot missed
+Q2,7:58,Argentina,23,22,2_Pts_T,Luís Scola
+Q2,7:58,France,23,22,RD,Louis Labeyrie
+Q2,8:11,France,23,22,,Evan Fournierlayup made
+Q2,8:22,Argentina,23,20,,Nicolás Laprovittola3pt jump shot missed
+Q2,8:22,France,23,20,RD,Evan Fournier
+Q2,8:26,Argentina,23,20,FR,Luís Scola
+Q2,8:26,France,23,20,FC,Mathias Lessort
+Q2,8:39,France,23,20,,Louis Labeyrietip in made
+Q2,8:42,France,23,18,RO,Louis Labeyrie
+Q2,8:42,France,23,18,,Evan Fournier3pt jump shot missed
+Q2,9:06,Argentina,23,18,2_Pts_C,Luca Vildoza
+Q2,9:15,Argentina,0,0,FR,Marcos Delia
+Q2,9:15,France,0,0,FC,Mathias Lessort
+Q2,9:18,Argentina,0,0,RD,Luís Scola
+Q2,9:18,France,0,0,,Nando De Colo3pt jump shot missed
+Q2,9:41,Argentina,0,0,2_Pts_T,Gabriel Deck
+Q2,9:41,France,0,0,RD,Nando De Colo
+Q2,9:41,France,0,0,TO,Mathias Lessort
+Q2,9:49,Argentina,0,0,FR,Gabriel Deck
+Q2,9:49,France,0,0,FC,Evan Fournier
+Q3,0:00,Argentina,60,48,RD,Facundo Campazzo
+Q3,0:00,France,60,48,,Nicolas Batum3pt jump shot missed
+Q3,0:15,Argentina,60,48,,Gabriel Deck3pt jump shot missed
+Q3,0:15,France,60,48,RD,Rudy Gobert
+Q3,0:36,France,60,48,2_Pts_C,Frank Ntilikina
+Q3,0:50,France,60,46,substituicao_entra,Rudy Gobert
+Q3,0:50,France,60,46,substituicao_sai,Vincent  Poirier
+Q3,0:50,France,60,46,substituicao_entra,Amath M'Baye
+Q3,0:50,France,60,46,substituicao_sai,Evan Fournier
+Q3,0:55,Argentina,60,46,,Luís Scolalayup missed
+Q3,0:55,France,60,46,RD,Nicolas Batum
+Q3,10:00,France,0,0,muda_bola,
+Q3,1:10,Argentina,60,46,RO,Facundo Campazzo
+Q3,1:10,Argentina,60,46,,Facundo Campazzo3pt jump shot missed
+Q3,1:26,Argentina,60,46,RO,Nicolás Laprovittola
+Q3,1:26,Argentina,60,46,,Luís Scola3pt jump shot missed
+Q3,1:43,Argentina,60,46,tempo_tecnico,
+Q3,1:43,Argentina,60,46,FR,Gabriel Deck
+Q3,1:43,France,60,46,FC_O,Evan Fournier
+Q3,1:47,Argentina,60,46,2_Pts_T,Luís Scola
+Q3,1:47,France,60,46,RD,Frank Ntilikina
+Q3,1:47,France,60,46,TO,Nicolas Batum
+Q3,2:05,Argentina,60,45,substituicao_entra,Nicolás Laprovittola
+Q3,2:05,Argentina,60,45,substituicao_sai,Luca Vildoza
+Q3,2:05,Argentina,60,45,FC,Luca Vildoza
+Q3,2:05,France,60,46,LL_Pts_C,Nando De Colo
+Q3,2:05,France,60,45,LL_Pts_T,Nando De Colo
+Q3,2:05,France,60,45,substituicao_entra,Nicolas Batum
+Q3,2:05,France,60,45,substituicao_sai,Mathias Lessort
+Q3,2:05,France,60,45,FR,Nando De Colo
+Q3,2:08,France,60,45,RO,Nando De Colo
+Q3,2:08,France,60,45,2_Pts_T,Evan Fournier
+Q3,2:24,Argentina,60,45,AS,Luca Vildoza
+Q3,2:24,Argentina,60,45,,Facundo Campazzo3pt jump shot made
+Q3,2:46,France,57,45,AS,Nando De Colo
+Q3,2:46,France,57,45,,Frank Ntilikina3pt jump shot made
+Q3,3:04,Argentina,57,42,LL_Pts_C,Luís Scola
+Q3,3:04,Argentina,56,42,AS,Luca Vildoza
+Q3,3:04,Argentina,56,42,LL_Pts_C,Luís Scola
+Q3,3:04,Argentina,55,42,FR,Luís Scola
+Q3,3:04,France,55,42,FC,Evan Fournier
+Q3,3:10,Argentina,55,42,RO,Luís Scola
+Q3,3:10,Argentina,55,42,2_Pts_T,Facundo Campazzo
+Q3,3:20,Argentina,55,42,RD,Luca Vildoza
+Q3,3:20,France,55,42,3_Pts_T,Nando De Colo
+Q3,3:35,Argentina,55,40,FC_A,Luca Vildoza
+Q3,3:35,France,55,42,LL_Pts_C,Nando De Colo
+Q3,3:35,France,55,41,LL_Pts_C,Nando De Colo
+Q3,3:35,France,55,40,FR,Nando De Colo
+Q3,3:43,Argentina,55,40,substituicao_entra,Luís Scola
+Q3,3:43,Argentina,55,40,substituicao_sai,Patricio Garino
+Q3,3:43,Argentina,55,40,FC,Patricio Garino
+Q3,3:43,France,55,40,FR,Frank Ntilikina
+Q3,3:57,Argentina,55,40,AS,Facundo Campazzo
+Q3,3:57,Argentina,55,40,3_Pts_C,Gabriel Deck
+Q3,4:12,France,52,40,2_Pts_C,Evan Fournier
+Q3,4:21,France,52,38,substituicao_entra,Evan Fournier
+Q3,4:21,France,52,38,substituicao_sai,Nicolas Batum
+Q3,4:36,Argentina,52,38,,Luca Vildoza3pt jump shot missed
+Q3,4:36,France,52,38,substituicao_entra,Frank Ntilikina
+Q3,4:36,France,52,38,substituicao_sai,Andrew Albicy
+Q3,4:36,France,52,38,RD,
+Q3,4:51,Argentina,52,38,RD,
+Q3,4:52,France,52,38,,Andrew Albicy3pt jump shot missed
+Q3,5:00,Argentina,52,38,FC,Tayavek Gallizzi
+Q3,5:00,France,52,38,FR,Mathias Lessort
+Q3,5:06,France,52,38,RO,Mathias Lessort
+Q3,5:06,France,52,38,2_Pts_T,Mathias Lessort
+Q3,5:23,Argentina,52,38,ER ,
+Q3,5:23,Argentina,52,38,RO,Patricio Garino
+Q3,5:26,Argentina,52,38,,Facundo Campazzo3pt jump shot missed
+Q3,5:48,France,52,38,ER,Andrew Albicy
+Q3,6:05,Argentina,52,38,LL_Pts_C,Tayavek Gallizzi
+Q3,6:05,Argentina,51,38,LL_Pts_C,Tayavek Gallizzi
+Q3,6:05,Argentina,50,38,FR,Tayavek Gallizzi
+Q3,6:05,France,50,38,substituicao_entra,Vincent  Poirier
+Q3,6:05,France,50,38,substituicao_sai,Rudy Gobert
+Q3,6:05,France,50,38,tempo_tecnico,
+Q3,6:05,France,50,38,FC,Rudy Gobert
+Q3,6:08,Argentina,50,38,RO,Tayavek Gallizzi
+Q3,6:08,Argentina,50,38,,Patricio Garinolayup missed
+Q3,6:27,Argentina,50,38,muda_bola,
+Q3,6:27,Argentina,50,38,BR,Luca Vildoza
+Q3,6:27,France,50,38,ER,Nando De Colo
+Q3,6:37,Argentina,50,38,LL_Pts_C,Luca Vildoza
+Q3,6:37,Argentina,49,38,LL_Pts_C,Luca Vildoza
+Q3,6:37,Argentina,48,38,substituicao_entra,Tayavek Gallizzi
+Q3,6:37,Argentina,48,38,substituicao_sai,Marcos Delia
+Q3,6:37,Argentina,48,38,substituicao_entra,Gabriel Deck
+Q3,6:37,Argentina,48,38,substituicao_sai,Luís Scola
+Q3,6:37,Argentina,48,38,FR,Luca Vildoza
+Q3,6:37,France,48,38,substituicao_entra,Mathias Lessort
+Q3,6:37,France,48,38,substituicao_sai,Louis Labeyrie
+Q3,6:37,France,48,38,substituicao_entra,Nando De Colo
+Q3,6:37,France,48,38,substituicao_sai,Evan Fournier
+Q3,6:37,France,48,38,FC,Nicolas Batum
+Q3,6:40,Argentina,48,38,RD,Luca Vildoza
+Q3,6:40,France,48,38,,Rudy Gobertdunk missed
+Q3,6:58,Argentina,48,38,,Luís Scola3pt jump shot made
+Q3,7:25,France,45,38,AS,Evan Fournier
+Q3,7:25,France,45,38,,Nicolas Batum3pt jump shot made
+Q3,7:43,Argentina,45,35,AS,Luís Scola
+Q3,7:43,Argentina,45,35,,Luca Vildoza3pt jump shot made
+Q3,7:53,France,42,35,ER ,
+Q3,7:55,France,42,35,,Evan Fournier3pt jump shot missed
+Q3,8:18,Argentina,42,35,FC_O,Luís Scola
+Q3,8:18,France,42,35,FR,Louis Labeyrie
+Q3,8:32,Argentina,42,35,RD,Luca Vildoza
+Q3,8:32,France,42,35,3_Pts_T,Louis Labeyrie
+Q3,8:46,Argentina,42,35,2_Pts_T,Luís Scola
+Q3,8:46,France,42,35,RD,
+Q3,9:07,France,42,35,AS,Nicolas Batum
+Q3,9:07,France,42,35,,Andrew Albicy3pt jump shot made
+Q3,9:12,France,42,32,RO,Nicolas Batum
+Q3,9:12,France,42,32,3_Pts_T,Andrew Albicy
+Q3,9:27,Argentina,42,32,LL_Pts_C,Luca Vildoza
+Q3,9:27,Argentina,41,32,LL_Pts_C,Luca Vildoza
+Q3,9:27,Argentina,40,32,LL_Pts_C,Luca Vildoza
+Q3,9:27,Argentina,0,0,FR,Luca Vildoza
+Q3,9:27,France,0,0,FC,Evan Fournier
+Q3,9:41,Argentina,0,0,FR,Luca Vildoza
+Q3,9:41,France,0,0,FC_O,Louis Labeyrie
+Q4,0:00,Argentina,80,66,,Patricio Garino3pt jump shot missed
+Q4,0:11,Argentina,80,66,RO,Patricio Garino
+Q4,0:11,Argentina,80,66,2_Pts_T,Agustin Caffaro
+Q4,0:11,France,80,66,TO,Rudy Gobert
+Q4,0:26,France,80,66,AS,Paul Lacombe
+Q4,0:26,France,80,66,,Nando De Cololayup made
+Q4,0:33,Argentina,80,64,2_Pts_C,Nicolás Laprovittola
+Q4,0:48,Argentina,78,63,FC,Patricio Garino
+Q4,0:48,France,78,64,LL_Pts_C,Evan Fournier
+Q4,0:48,France,78,63,LL_Pts_T,Evan Fournier
+Q4,0:48,France,78,63,FR,Evan Fournier
+Q4,0:53,Argentina,78,63,,Agustin Caffarodunk missed
+Q4,0:53,France,78,63,RD,Rudy Gobert
+Q4,10:00,France,0,0,muda_bola,
+Q4,1:01,Argentina,78,63,RD,Facundo Campazzo
+Q4,1:01,France,78,63,,Nando De Colo3pt jump shot missed
+Q4,1:10,Argentina,78,63,substituicao_entra,Agustin Caffaro
+Q4,1:10,Argentina,78,63,substituicao_sai,Gabriel Deck
+Q4,1:10,Argentina,78,63,AS,Nicolás Laprovittola
+Q4,1:10,Argentina,78,63,,Gabriel Decklayup made
+Q4,1:32,France,76,63,AS,Nando De Colo
+Q4,1:32,France,76,63,,Evan Fournier3pt jump shot made
+Q4,1:42,France,76,60,substituicao_entra,Paul Lacombe
+Q4,1:42,France,76,60,substituicao_sai,Frank Ntilikina
+Q4,1:49,Argentina,76,60,substituicao_entra,Luís Scola
+Q4,1:49,Argentina,76,60,substituicao_sai,Marcos Delia
+Q4,1:57,Argentina,76,60,substituicao_entra,Marcos Delia
+Q4,1:57,Argentina,76,60,substituicao_sai,Luís Scola
+Q4,1:57,Argentina,76,60,LL_Pts_C,Luís Scola
+Q4,1:57,Argentina,75,60,AS,Facundo Campazzo
+Q4,1:57,Argentina,75,60,LL_Pts_C,Luís Scola
+Q4,1:57,Argentina,74,60,FR,Luís Scola
+Q4,1:57,France,74,60,FC,Frank Ntilikina
+Q4,2:19,Argentina,74,59,FC,Luís Scola
+Q4,2:19,France,74,60,LL_Pts_C,Evan Fournier
+Q4,2:19,France,74,59,LL_Pts_T,Evan Fournier
+Q4,2:19,France,74,59,LL_Pts_T,Evan Fournier
+Q4,2:19,France,74,59,substituicao_entra,Mathias Lessort
+Q4,2:19,France,74,59,substituicao_sai,Nicolas Batum
+Q4,2:19,France,74,59,FR,Evan Fournier
+Q4,2:27,Argentina,74,59,,Nicolás Laprovittola3pt jump shot missed
+Q4,2:27,France,74,59,RD,Nicolas Batum
+Q4,2:41,Argentina,74,59,RO,Gabriel Deck
+Q4,2:41,Argentina,74,59,,Gabriel Decklayup missed
+Q4,2:56,Argentina,74,59,RD,Facundo Campazzo
+Q4,2:56,France,74,59,,Frank Ntilikina3pt jump shot missed
+Q4,3:12,Argentina,74,59,AS,Facundo Campazzo
+Q4,3:12,Argentina,74,59,3_Pts_C,Luís Scola
+Q4,3:28,France,71,59,2_Pts_C,Frank Ntilikina
+Q4,3:47,Argentina,71,57,AS,Facundo Campazzo
+Q4,3:47,Argentina,71,57,,Luís Scola3pt jump shot made
+Q4,4:02,France,68,57,substituicao_entra,Nando De Colo
+Q4,4:02,France,68,57,substituicao_sai,Amath M'Baye
+Q4,4:02,France,68,57,ER,Amath M'Baye
+Q4,4:04,France,68,57,substituicao_entra,Evan Fournier
+Q4,4:04,France,68,57,substituicao_sai,Andrew Albicy
+Q4,4:27,Argentina,68,57,AS,Nicolás Laprovittola
+Q4,4:27,Argentina,68,57,,Gabriel Decklayup made
+Q4,4:32,Argentina,66,57,RD,Nicolás Laprovittola
+Q4,4:32,France,66,57,,Amath M'Baye3pt jump shot missed
+Q4,4:45,Argentina,66,57,LL_Pts_T,Facundo Campazzo
+Q4,4:45,Argentina,66,57,LL_Pts_C,Facundo Campazzo
+Q4,4:45,Argentina,65,57,FR,Facundo Campazzo
+Q4,4:45,France,66,57,RD,Nicolas Batum
+Q4,4:45,France,65,57,tempo_tecnico,
+Q4,4:45,France,65,57,FC,Andrew Albicy
+Q4,4:55,Argentina,65,57,FR,Luís Scola
+Q4,4:55,Argentina,65,57,RD,
+Q4,4:55,France,65,57,FC,Nicolas Batum
+Q4,4:56,France,65,57,,Frank Ntilikina2pt jump shot missed
+Q4,5:14,Argentina,65,57,ER,Nicolás Laprovittola
+Q4,5:14,France,65,57,BR,Rudy Gobert
+Q4,5:23,Argentina,65,57,RO,Luís Scola
+Q4,5:23,Argentina,65,57,2_Pts_T,Luís Scola
+Q4,5:29,Argentina,65,57,RO,Patricio Garino
+Q4,5:29,Argentina,65,57,3_Pts_T,Gabriel Deck
+Q4,5:48,Argentina,65,56,substituicao_entra,Facundo Campazzo
+Q4,5:48,Argentina,65,56,substituicao_sai,Luca Vildoza
+Q4,5:48,Argentina,65,56,FC,Luca Vildoza
+Q4,5:48,France,65,57,LL_Pts_C,Frank Ntilikina
+Q4,5:48,France,65,56,LL_Pts_T,Frank Ntilikina
+Q4,5:48,France,65,56,FR,Frank Ntilikina
+Q4,5:52,Argentina,65,56,,Patricio Garinolayup missed
+Q4,5:52,France,65,56,RD,Andrew Albicy
+Q4,6:06,Argentina,65,56,substituicao_entra,Patricio Garino
+Q4,6:06,Argentina,65,56,substituicao_sai,Marcos Delia
+Q4,6:06,Argentina,65,56,FR,Nicolás Laprovittola
+Q4,6:06,France,65,56,substituicao_entra,Frank Ntilikina
+Q4,6:06,France,65,56,substituicao_sai,Nando De Colo
+Q4,6:06,France,65,56,FC,Nando De Colo
+Q4,6:12,Argentina,65,56,RD,Luís Scola
+Q4,6:12,France,65,56,,Andrew Albicy3pt jump shot missed
+Q4,6:27,Argentina,65,56,2_Pts_T,Marcos Delia
+Q4,6:27,France,65,56,RD,Rudy Gobert
+Q4,6:49,Argentina,65,55,FC,Luís Scola
+Q4,6:49,France,65,56,LL_Pts_C,Amath M'Baye
+Q4,6:49,France,65,55,LL_Pts_T,Amath M'Baye
+Q4,6:49,France,65,55,FR,Amath M'Baye
+Q4,6:49,France,65,55,RO,
+Q4,6:50,Argentina,65,55,FC,Marcos Delia
+Q4,6:50,France,65,55,LL_Pts_T,Rudy Gobert
+Q4,6:50,France,65,55,LL_Pts_T,Rudy Gobert
+Q4,6:50,France,65,55,FR,Rudy Gobert
+Q4,6:50,France,65,55,RO,Rudy Gobert
+Q4,6:50,France,65,55,,Amath M'Baye3pt jump shot missed
+Q4,7:01,Argentina,65,55,substituicao_entra,Luca Vildoza
+Q4,7:01,Argentina,65,55,substituicao_sai,Facundo Campazzo
+Q4,7:01,Argentina,65,55,FC,Marcos Delia
+Q4,7:01,France,65,55,substituicao_entra,Andrew Albicy
+Q4,7:01,France,65,55,substituicao_sai,Frank Ntilikina
+Q4,7:01,France,65,55,FR,Rudy Gobert
+Q4,7:18,Argentina,65,55,AS,Nicolás Laprovittola
+Q4,7:18,Argentina,65,55,,Luís Scolalayup made
+Q4,7:25,Argentina,63,55,BR,Facundo Campazzo
+Q4,7:25,France,63,55,ER,Frank Ntilikina
+Q4,7:36,Argentina,63,55,3_Pts_T,Nicolás Laprovittola
+Q4,7:36,France,63,55,RD,Frank Ntilikina
+Q4,7:43,Argentina,63,55,RD,Nicolás Laprovittola
+Q4,7:43,France,63,55,,Nicolas Batum3pt jump shot missed
+Q4,7:58,Argentina,63,55,2_Pts_T,Facundo Campazzo
+Q4,7:58,France,63,55,RD,Rudy Gobert
+Q4,8:16,France,63,55,AS,Frank Ntilikina
+Q4,8:16,France,63,55,,Rudy Gobertdunk made
+Q4,8:26,Argentina,63,53,,Facundo Campazzo3pt jump shot missed
+Q4,8:26,France,63,53,RD,Amath M'Baye
+Q4,8:29,Argentina,63,53,substituicao_entra,Nicolás Laprovittola
+Q4,8:29,Argentina,63,53,substituicao_sai,Maximo Fjellerup
+Q4,8:29,Argentina,63,53,FR,Facundo Campazzo
+Q4,8:29,France,63,53,FC,Nicolas Batum
+Q4,8:42,France,63,53,2_Pts_C,Frank Ntilikina
+Q4,8:49,Argentina,63,51,substituicao_entra,Maximo Fjellerup
+Q4,8:49,Argentina,63,51,substituicao_sai,Nicolás Laprovittola
+Q4,8:49,Argentina,63,51,FC,Facundo Campazzo
+Q4,8:49,France,63,51,FR,Nando De Colo
+Q4,9:03,Argentina,63,51,AS,Facundo Campazzo
+Q4,9:03,Argentina,63,51,3_Pts_C,Nicolás Laprovittola
+Q4,9:13,Argentina,60,51,substituicao_entra,Marcos Delia
+Q4,9:13,Argentina,60,51,substituicao_sai,Tayavek Gallizzi
+Q4,9:13,Argentina,60,51,FR,Facundo Campazzo
+Q4,9:13,France,60,51,FC,Frank Ntilikina
+Q4,9:28,France,60,51,AS,Frank Ntilikina
+Q4,9:28,France,60,51,,Amath M'Baye3pt jump shot made
+Q4,9:41,France,0,0,RO,Amath M'Baye
+Q4,9:41,France,0,0,3_Pts_T,Frank Ntilikina
+Q4,9:47,Argentina,0,0,FC,Tayavek Gallizzi
+Q4,9:47,France,0,0,FR,Nando De Colo

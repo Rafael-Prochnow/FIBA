@@ -1,0 +1,459 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:17,Spain,18,21,RD,Pau Ribas
+Q1,0:17,Iran,18,21,,Arman Zangeneh3pt jump shot missed
+Q1,0:35,Spain,18,21,AS,Pau Ribas
+Q1,0:35,Spain,18,21,,Willy Hernangomez Geuer2pt jump shot made
+Q1,0:39,Spain,16,21,RD,Javier Beiran
+Q1,0:39,Iran,16,21,,Mohammadsamad Nik Khahbahramitip in missed
+Q1,0:46,Iran,16,21,RO,Mohammadsamad Nik Khahbahrami
+Q1,0:46,Iran,16,21,,Mohammadsamad Nik Khahbahramilayup missed
+Q1,10:00,Spain,0,0,inicio_quarto,Marc Gasol
+Q1,1:08,Spain,16,21,AS,Willy Hernangomez Geuer
+Q1,1:08,Spain,16,21,,Pau Ribas2pt jump shot made
+Q1,1:14,Iran,14,21,substituicao_entra,Mohammad Jamshidijafarabadi
+Q1,1:14,Iran,14,21,substituicao_sai,Behnam Yakhchalidehkordi
+Q1,1:29,Spain,14,21,FR,Willy Hernangomez Geuer
+Q1,1:29,Iran,14,21,FC_O,Hamed Haddadi
+Q1,1:46,Spain,14,21,,Javier Beiran3pt jump shot missed
+Q1,1:46,Iran,14,21,RD,Arman Zangeneh
+Q1,1:54,Iran,14,21,,Hamed Haddaditip in made
+Q1,2:02,Iran,14,19,RO,Hamed Haddadi
+Q1,2:02,Iran,14,19,,Behnam Yakhchalidehkordilayup missed
+Q1,2:23,Spain,14,19,substituicao_entra,Javier Beiran
+Q1,2:23,Spain,14,19,substituicao_sai,Juancho Hernangomez
+Q1,2:23,Spain,14,19,substituicao_entra,Pau Ribas
+Q1,2:23,Spain,14,19,substituicao_sai,Ricky Rubio
+Q1,2:23,Spain,14,19,ER,Sergio Llull
+Q1,2:23,Iran,14,19,substituicao_entra,Sajjad Mashayekhi
+Q1,2:23,Iran,14,19,substituicao_sai,Mohammad Jamshidijafarabadi
+Q1,2:36,Iran,14,19,AS,Mohammadsamad Nik Khahbahrami
+Q1,2:36,Iran,14,19,,Arman Zangeneh3pt jump shot made
+Q1,2:43,Iran,14,16,RO,Mohammadsamad Nik Khahbahrami
+Q1,2:43,Iran,14,16,,Behnam Yakhchalidehkordi3pt jump shot missed
+Q1,2:59,Spain,14,16,AS,Sergio Llull
+Q1,2:59,Spain,14,16,,Juancho Hernangomez3pt jump shot made
+Q1,3:20,Iran,11,16,ER,Hamed Haddadi
+Q1,3:30,Spain,11,16,substituicao_entra,Sergio Llull
+Q1,3:30,Spain,11,16,substituicao_sai,Marc Gasol
+Q1,3:30,Spain,11,16,substituicao_entra,Willy Hernangomez Geuer
+Q1,3:30,Spain,11,16,substituicao_sai,Rudy Fernandez
+Q1,3:37,Spain,11,16,LL_Pts_C,Marc Gasol
+Q1,3:37,Spain,10,16,FR,Marc Gasol
+Q1,3:37,Spain,10,16,AS,Rudy Fernandez
+Q1,3:37,Spain,10,16,,Marc Gasollayup made
+Q1,3:37,Iran,10,16,FC,Mohammad Jamshidijafarabadi
+Q1,3:41,Spain,8,16,BR,Ricky Rubio
+Q1,3:41,Iran,8,16,ER,Mohammad Jamshidijafarabadi
+Q1,3:57,Spain,8,16,AS,Marc Gasol
+Q1,3:57,Spain,8,16,,Pierre Oriolalayup made
+Q1,4:08,Spain,6,16,RD,Marc Gasol
+Q1,4:08,Iran,6,16,,Mohammadsamad Nik Khahbahrami3pt jump shot missed
+Q1,4:18,Spain,6,16,2_Pts_T,Ricky Rubio
+Q1,4:18,Iran,6,16,RD,Hamed Haddadi
+Q1,4:42,Spain,6,15,substituicao_entra,Pierre Oriola
+Q1,4:42,Spain,6,15,substituicao_sai,Victor Claver
+Q1,4:42,Spain,6,15,FC,Rudy Fernandez
+Q1,4:42,Iran,6,16,AS,Mohammadsamad Nik Khahbahrami
+Q1,4:42,Iran,6,16,LL_Pts_C,Arman Zangeneh
+Q1,4:42,Iran,6,15,LL_Pts_T,Arman Zangeneh
+Q1,4:42,Iran,6,15,FR,Arman Zangeneh
+Q1,4:47,Spain,6,15,2_Pts_T,Ricky Rubio
+Q1,4:47,Iran,6,15,RD,Hamed Haddadi
+Q1,4:54,Spain,6,15,RD,Marc Gasol
+Q1,4:54,Iran,6,15,,Hamed Haddaditip in missed
+Q1,4:59,Iran,6,15,RO,Hamed Haddadi
+Q1,4:59,Iran,6,15,,Hamed Haddadilayup missed
+Q1,5:26,Spain,6,15,LL_Pts_C,Juancho Hernangomez
+Q1,5:26,Spain,5,15,LL_Pts_T,Juancho Hernangomez
+Q1,5:26,Spain,5,15,FR,Juancho Hernangomez
+Q1,5:26,Iran,5,15,FC,Mohammadsamad Nik Khahbahrami
+Q1,5:27,Spain,5,15,RO,Juancho Hernangomez
+Q1,5:27,Spain,5,15,,Rudy Fernandez3pt jump shot missed
+Q1,5:50,Iran,5,15,AS,Hamed Haddadi
+Q1,5:50,Iran,5,15,,Mohammad Jamshidijafarabadi3pt jump shot made
+Q1,6:02,Spain,5,12,2_Pts_T,Marc Gasol
+Q1,6:02,Iran,5,12,RD,Arman Zangeneh
+Q1,6:13,Iran,5,12,AS,Hamed Haddadi
+Q1,6:13,Iran,5,12,,Behnam Yakhchalidehkordilayup made
+Q1,6:35,Spain,5,10,LL_Pts_C,Ricky Rubio
+Q1,6:35,Spain,4,10,FR,Ricky Rubio
+Q1,6:35,Spain,4,10,,Ricky Rubio2pt jump shot made
+Q1,6:35,Iran,4,10,FC,Mohammadsamad Nik Khahbahrami
+Q1,6:40,Spain,2,10,RD,Victor Claver
+Q1,6:40,Iran,2,10,,Behnam Yakhchalidehkordilayup missed
+Q1,6:50,Spain,2,10,AS,Victor Claver
+Q1,6:50,Spain,2,10,,Juancho Hernangomezlayup made
+Q1,7:15,Spain,0,10,tempo_tecnico,
+Q1,7:15,Iran,0,10,AS,Hamed Haddadi
+Q1,7:15,Iran,0,10,,Mohammadsamad Nik Khahbahrami3pt jump shot made
+Q1,7:39,Spain,0,7,ER,Ricky Rubio
+Q1,7:52,Iran,0,7,AS,Hamed Haddadi
+Q1,7:52,Iran,0,7,2_Pts_C,Mohammad Jamshidijafarabadi
+Q1,8:06,Spain,0,5,,Marc Gasol3pt jump shot missed
+Q1,8:06,Iran,0,5,RD,Hamed Haddadi
+Q1,8:21,Iran,0,5,AS,Behnam Yakhchalidehkordi
+Q1,8:21,Iran,0,5,,Mohammad Jamshidijafarabadilayup made
+Q1,8:29,Spain,0,3,ER,Ricky Rubio
+Q1,8:29,Iran,0,3,BR,Behnam Yakhchalidehkordi
+Q1,8:53,Iran,0,3,3_Pts_C,Behnam Yakhchalidehkordi
+Q1,9:11,Iran,0,0,RD,
+Q1,9:12,Spain,0,0,2_Pts_T,Ricky Rubio
+Q1,9:23,Spain,0,0,FR,Marc Gasol
+Q1,9:23,Iran,0,0,FC,Hamed Haddadi
+Q1,9:27,Spain,0,0,RO,
+Q1,9:27,Spain,0,0,2_Pts_T,Juancho Hernangomez
+Q1,9:27,Iran,0,0,TO,Arman Zangeneh
+Q1,9:28,Spain,0,0,RO,Juancho Hernangomez
+Q1,9:28,Spain,0,0,2_Pts_T,Juancho Hernangomez
+Q1,9:38,Spain,0,0,RO,Rudy Fernandez
+Q1,9:38,Spain,0,0,,Marc Gasol3pt jump shot missed
+Q2,0:00,Iran,33,31,,Mohammad Jamshidijafarabadi3pt jump shot missed
+Q2,0:02,Spain,33,31,LL_Pts_C,Marc Gasol
+Q2,0:02,Spain,32,31,AS,Quino Colom
+Q2,0:02,Spain,32,31,LL_Pts_C,Marc Gasol
+Q2,0:02,Spain,31,31,substituicao_entra,Pau Ribas
+Q2,0:02,Spain,31,31,substituicao_sai,Ricky Rubio
+Q2,0:02,Spain,31,31,FR,Marc Gasol
+Q2,0:02,Iran,31,31,FC,Sajjad Mashayekhi
+Q2,0:20,Iran,31,31,AS,Hamed Haddadi
+Q2,0:20,Iran,31,31,,Mohammadsamad Nik Khahbahrami2pt jump shot made
+Q2,0:41,Spain,31,29,,Juancho Hernangomez3pt jump shot missed
+Q2,0:41,Iran,31,29,RD,Hamed Haddadi
+Q2,0:46,Spain,31,29,RD,Juancho Hernangomez
+Q2,0:59,Spain,31,29,TO,Juancho Hernangomez
+Q2,0:59,Iran,31,29,2_Pts_T,Hamed Haddadi
+Q2,10:00,Iran,0,0,muda_bola,
+Q2,1:21,Spain,31,29,,Rudy Fernandez3pt jump shot missed
+Q2,1:21,Iran,31,29,RD,Michael Rostampour
+Q2,1:27,Spain,31,29,FR,Juancho Hernangomez
+Q2,1:27,Iran,31,29,FC,Sajjad Mashayekhi
+Q2,1:38,Spain,31,28,FC,Marc Gasol
+Q2,1:38,Iran,31,29,LL_Pts_C,Mohammadsamad Nik Khahbahrami
+Q2,1:38,Iran,31,28,LL_Pts_T,Mohammadsamad Nik Khahbahrami
+Q2,1:38,Iran,31,28,FR,Mohammadsamad Nik Khahbahrami
+Q2,1:55,Iran,31,28,substituicao_entra,Mohammad Jamshidijafarabadi
+Q2,1:55,Iran,31,28,substituicao_sai,Behnam Yakhchalidehkordi
+Q2,1:55,Iran,31,28,tempo_tecnico,
+Q2,1:57,Spain,31,28,AS,Juancho Hernangomez
+Q2,1:57,Spain,31,28,,Rudy Fernandez3pt jump shot made
+Q2,2:11,Iran,28,28,ER ,
+Q2,2:25,Spain,28,28,FC,Ricky Rubio
+Q2,2:25,Iran,28,28,FR,Sajjad Mashayekhi
+Q2,2:35,Spain,28,28,2_Pts_T,Ricky Rubio
+Q2,2:35,Iran,28,28,RD,Hamed Haddadi
+Q2,2:53,Spain,28,27,FC,Quino Colom
+Q2,2:53,Iran,28,28,LL_Pts_C,Hamed Haddadi
+Q2,2:53,Iran,28,27,substituicao_entra,Sajjad Mashayekhi
+Q2,2:53,Iran,28,27,substituicao_sai,Rasoul Mozafarivanani
+Q2,2:53,Iran,28,27,FR,Hamed Haddadi
+Q2,2:53,Iran,28,27,AS,Mohammadsamad Nik Khahbahrami
+Q2,2:53,Iran,28,27,2_Pts_C,Hamed Haddadi
+Q2,3:05,Spain,28,25,FC,Ricky Rubio
+Q2,3:05,Iran,28,25,FR,Michael Rostampour
+Q2,3:06,Spain,28,25,ER,Ricky Rubio
+Q2,3:06,Iran,28,25,BR,Michael Rostampour
+Q2,3:22,Spain,28,25,RD,
+Q2,3:24,Iran,28,25,,Behnam Yakhchalidehkordi3pt jump shot missed
+Q2,3:39,Spain,28,25,,Quino Colomlayup made
+Q2,3:43,Spain,26,25,BR,Quino Colom
+Q2,3:43,Iran,26,25,ER,Rasoul Mozafarivanani
+Q2,3:50,Spain,26,25,2_Pts_T,Marc Gasol
+Q2,3:50,Iran,26,25,RD,Hamed Haddadi
+Q2,4:02,Spain,26,25,BR,Marc Gasol
+Q2,4:02,Iran,26,25,ER,Hamed Haddadi
+Q2,4:16,Spain,26,25,substituicao_entra,Ricky Rubio
+Q2,4:16,Spain,26,25,substituicao_sai,Sergio Llull
+Q2,4:16,Iran,26,25,tempo_tecnico,
+Q2,4:17,Spain,26,25,AS,Marc Gasol
+Q2,4:17,Spain,26,25,,Rudy Fernandez3pt jump shot made
+Q2,4:29,Spain,23,25,RD,Juancho Hernangomez
+Q2,4:29,Spain,23,25,TO,Rudy Fernandez
+Q2,4:29,Iran,23,25,2_Pts_T,Mohammadsamad Nik Khahbahrami
+Q2,4:53,Spain,23,25,ER,Rudy Fernandez
+Q2,5:15,Iran,23,25,ER,Hamed Haddadi
+Q2,5:35,Spain,23,25,,Sergio Llull3pt jump shot missed
+Q2,5:35,Iran,23,25,RD,Michael Rostampour
+Q2,5:43,Spain,23,25,substituicao_entra,Marc Gasol
+Q2,5:43,Spain,23,25,substituicao_sai,Willy Hernangomez Geuer
+Q2,5:43,Spain,23,25,substituicao_entra,Rudy Fernandez
+Q2,5:43,Spain,23,25,substituicao_sai,Pierre Oriola
+Q2,5:43,Iran,23,25,substituicao_entra,Hamed Haddadi
+Q2,5:43,Iran,23,25,substituicao_sai,Aaron Geramipoor
+Q2,5:43,Iran,23,25,substituicao_entra,Mohammadsamad Nik Khahbahrami
+Q2,5:43,Iran,23,25,substituicao_sai,Mohammad Jamshidijafarabadi
+Q2,5:58,Spain,23,25,FR,Pierre Oriola
+Q2,5:58,Spain,23,25,substituicao_entra,Juancho Hernangomez
+Q2,5:58,Spain,23,25,substituicao_sai,Javier Beiran
+Q2,5:58,Spain,23,25,substituicao_entra,Quino Colom
+Q2,5:58,Spain,23,25,substituicao_sai,Pau Ribas
+Q2,5:58,Iran,23,25,FC_O,Aaron Geramipoor
+Q2,5:58,Iran,23,25,substituicao_entra,Rasoul Mozafarivanani
+Q2,5:58,Iran,23,25,substituicao_sai,Sajjad Mashayekhi
+Q2,6:02,Spain,23,25,FC,Pierre Oriola
+Q2,6:02,Iran,23,25,FR,Aaron Geramipoor
+Q2,6:21,Spain,23,25,AS,Pau Ribas
+Q2,6:21,Spain,23,25,2_Pts_C,Pierre Oriola
+Q2,6:39,Iran,21,25,,Michael Rostampourdunk made
+Q2,6:46,Spain,21,23,ER,Sergio Llull
+Q2,6:46,Iran,21,23,BR,Michael Rostampour
+Q2,6:57,Iran,21,23,2_Pts_C,Aaron Geramipoor
+Q2,7:09,Spain,21,21,,Javier Beiran2pt jump shot made
+Q2,7:19,Spain,19,21,RO,Javier Beiran
+Q2,7:19,Spain,19,21,,Pierre Oriola2pt jump shot missed
+Q2,7:19,Iran,19,21,TO,Aaron Geramipoor
+Q2,7:25,Spain,19,21,RO,Pierre Oriola
+Q2,7:25,Spain,19,21,,Pau Ribas3pt jump shot missed
+Q2,7:39,Spain,19,21,RO,Javier Beiran
+Q2,7:39,Spain,19,21,2_Pts_T,Sergio Llull
+Q2,7:53,Spain,19,21,RD,Javier Beiran
+Q2,7:53,Iran,19,21,,Michael Rostampour3pt jump shot missed
+Q2,8:04,Spain,19,21,,Javier Beiran3pt jump shot missed
+Q2,8:04,Iran,19,21,RD,Mohammad Jamshidijafarabadi
+Q2,8:16,Spain,19,21,RD,Sergio Llull
+Q2,8:16,Iran,19,21,,Mohammad Jamshidijafarabadi3pt jump shot missed
+Q2,8:34,Spain,19,21,,Pierre Oriola3pt jump shot missed
+Q2,8:34,Iran,19,21,RD,Aaron Geramipoor
+Q2,8:47,Spain,19,21,RD,Sergio Llull
+Q2,8:47,Iran,19,21,,Mohammad Jamshidijafarabadi2pt jump shot missed
+Q2,9:14,Spain,19,21,,Pierre Oriola3pt jump shot missed
+Q2,9:14,Iran,19,21,RD,Aaron Geramipoor
+Q2,9:20,Spain,19,21,BR,Javier Beiran
+Q2,9:20,Iran,19,21,ER,Aaron Geramipoor
+Q2,9:34,Spain,19,21,LL_Pts_T,Willy Hernangomez Geuer
+Q2,9:34,Spain,19,21,AS,Pau Ribas
+Q2,9:34,Spain,19,21,LL_Pts_C,Willy Hernangomez Geuer
+Q2,9:34,Spain,0,0,FR,Willy Hernangomez Geuer
+Q2,9:34,Iran,19,21,RD,Aaron Geramipoor
+Q2,9:34,Iran,0,0,FC,Behnam Yakhchalidehkordi
+Q2,9:46,Spain,0,0,RD,Pau Ribas
+Q2,9:46,Spain,0,0,TO,Willy Hernangomez Geuer
+Q2,9:46,Iran,0,0,2_Pts_T,Mohammad Jamshidijafarabadi
+Q3,0:00,Spain,52,53,ER,Sergio Llull
+Q3,0:00,Spain,52,53,ER ,
+Q3,0:00,Iran,52,53,BR,Aaron Geramipoor
+Q3,0:00,Iran,52,53,substituicao_entra,Hamed Haddadi
+Q3,0:00,Iran,52,53,substituicao_sai,Michael Rostampour
+Q3,0:00,Iran,52,53,ER,Michael Rostampour
+Q3,0:25,Iran,52,53,AS,Behnam Yakhchalidehkordi
+Q3,0:25,Iran,52,53,,Sajjad Mashayekhilayup made
+Q3,0:32,Spain,52,51,,Sergio Llull3pt jump shot missed
+Q3,0:32,Iran,52,51,RD,Behnam Yakhchalidehkordi
+Q3,0:51,Iran,52,51,2_Pts_C,Michael Rostampour
+Q3,0:57,Spain,52,49,substituicao_entra,Pierre Oriola
+Q3,0:57,Spain,52,49,substituicao_sai,Marc Gasol
+Q3,0:57,Spain,52,49,substituicao_entra,Willy Hernangomez Geuer
+Q3,0:57,Spain,52,49,substituicao_sai,Rudy Fernandez
+Q3,0:57,Spain,52,49,tempo_tecnico,
+Q3,0:57,Spain,52,49,FC,Marc Gasol
+Q3,0:57,Iran,52,49,substituicao_entra,Aaron Geramipoor
+Q3,0:57,Iran,52,49,substituicao_sai,Hamed Haddadi
+Q3,0:57,Iran,52,49,FR,Michael Rostampour
+Q3,10:00,Spain,0,0,muda_bola,
+Q3,1:01,Spain,52,49,,Victor Claveralley oop missed
+Q3,1:01,Iran,52,49,RD,Hamed Haddadi
+Q3,1:14,Iran,52,49,AS,Hamed Haddadi
+Q3,1:14,Iran,52,49,,Mohammad Jamshidijafarabadilayup made
+Q3,1:32,Spain,52,47,,Pau Ribas3pt jump shot missed
+Q3,1:32,Iran,52,47,RD,Sajjad Mashayekhi
+Q3,1:54,Iran,52,47,2_Pts_C,Mohammad Jamshidijafarabadi
+Q3,2:07,Spain,52,45,ER,Sergio Llull
+Q3,2:07,Iran,52,45,BR,Mohammad Jamshidijafarabadi
+Q3,2:23,Iran,52,45,AS,Mohammad Jamshidijafarabadi
+Q3,2:23,Iran,52,45,,Michael Rostampourlayup made
+Q3,2:45,Spain,52,43,2_Pts_C,Marc Gasol
+Q3,3:01,Spain,50,43,FR,Rudy Fernandez
+Q3,3:01,Iran,50,43,substituicao_entra,Mohammad Jamshidijafarabadi
+Q3,3:01,Iran,50,43,substituicao_sai,Mohammadsamad Nik Khahbahrami
+Q3,3:01,Iran,50,43,FC_O,Mohammadsamad Nik Khahbahrami
+Q3,3:07,Spain,50,43,substituicao_entra,Pau Ribas
+Q3,3:07,Spain,50,43,substituicao_sai,Ricky Rubio
+Q3,3:07,Iran,50,43,tempo_tecnico,
+Q3,3:08,Spain,50,43,AS,Ricky Rubio
+Q3,3:08,Spain,50,43,,Rudy Fernandez3pt jump shot made
+Q3,3:15,Spain,47,43,RD,Marc Gasol
+Q3,3:15,Iran,47,43,,Sajjad Mashayekhi3pt jump shot missed
+Q3,3:33,Spain,47,43,2_Pts_C,Marc Gasol
+Q3,3:40,Iran,45,43,substituicao_entra,Sajjad Mashayekhi
+Q3,3:40,Iran,45,43,substituicao_sai,Mohammad Jamshidijafarabadi
+Q3,3:40,Iran,45,43,substituicao_entra,Michael Rostampour
+Q3,3:40,Iran,45,43,substituicao_sai,Arman Zangeneh
+Q3,3:55,Spain,45,43,RD,Marc Gasol
+Q3,3:55,Iran,45,43,2_Pts_T,Arman Zangeneh
+Q3,4:22,Spain,45,43,AS,Ricky Rubio
+Q3,4:22,Spain,45,43,3_Pts_C,Victor Claver
+Q3,4:37,Spain,42,43,substituicao_entra,Sergio Llull
+Q3,4:37,Spain,42,43,substituicao_sai,Juancho Hernangomez
+Q3,4:37,Iran,42,43,AS,Mohammadsamad Nik Khahbahrami
+Q3,4:37,Iran,42,43,,Arman Zangeneh3pt jump shot made
+Q3,4:58,Spain,42,40,AS,Ricky Rubio
+Q3,4:58,Spain,42,40,,Victor Claver3pt jump shot made
+Q3,5:07,Spain,39,40,RO,Victor Claver
+Q3,5:07,Spain,39,40,,Rudy Fernandez3pt jump shot missed
+Q3,5:21,Iran,39,40,AS,Mohammadsamad Nik Khahbahrami
+Q3,5:21,Iran,39,40,2_Pts_C,Mohammad Jamshidijafarabadi
+Q3,5:29,Spain,39,38,3_Pts_T,Marc Gasol
+Q3,5:29,Iran,39,38,RD,Mohammadsamad Nik Khahbahrami
+Q3,5:36,Spain,39,38,RD,Juancho Hernangomez
+Q3,5:36,Iran,39,38,2_Pts_T,Mohammadsamad Nik Khahbahrami
+Q3,5:44,Spain,39,38,FC,Ricky Rubio
+Q3,5:44,Spain,39,38,TO,Victor Claver
+Q3,5:44,Iran,39,38,FR,Hamed Haddadi
+Q3,5:44,Iran,39,38,RO,Hamed Haddadi
+Q3,5:44,Iran,39,38,2_Pts_T,Mohammad Jamshidijafarabadi
+Q3,6:04,Spain,39,38,AS,Ricky Rubio
+Q3,6:04,Spain,39,38,,Victor Claver2pt jump shot made
+Q3,6:19,Iran,37,38,AS,Mohammadsamad Nik Khahbahrami
+Q3,6:19,Iran,37,38,,Mohammad Jamshidijafarabadilayup made
+Q3,6:24,Spain,37,36,ER,Ricky Rubio
+Q3,6:24,Iran,37,36,BR,Arman Zangeneh
+Q3,6:32,Spain,37,36,RD,Rudy Fernandez
+Q3,6:32,Iran,37,36,,Hamed Haddadi2pt jump shot missed
+Q3,6:48,Spain,37,36,2_Pts_C,Ricky Rubio
+Q3,7:11,Iran,35,36,AS,Behnam Yakhchalidehkordi
+Q3,7:11,Iran,35,36,,Hamed Haddadi3pt jump shot made
+Q3,7:29,Spain,35,33,2_Pts_T,Marc Gasol
+Q3,7:29,Iran,35,33,RD,Arman Zangeneh
+Q3,7:41,Spain,35,33,RD,Victor Claver
+Q3,7:41,Iran,35,33,,Mohammadsamad Nik Khahbahrami3pt jump shot missed
+Q3,7:55,Spain,35,33,ER,Marc Gasol
+Q3,8:04,Spain,35,33,RD,Ricky Rubio
+Q3,8:04,Iran,35,33,,Hamed Haddadi2pt jump shot missed
+Q3,8:17,Spain,35,33,,Victor Claver3pt jump shot missed
+Q3,8:17,Iran,35,33,RD,Hamed Haddadi
+Q3,8:40,Spain,35,33,FR,Juancho Hernangomez
+Q3,8:40,Iran,35,33,FC_O,Mohammadsamad Nik Khahbahrami
+Q3,9:03,Spain,35,33,LL_Pts_T,Marc Gasol
+Q3,9:03,Spain,35,33,FR,Marc Gasol
+Q3,9:03,Spain,35,33,AS,Victor Claver
+Q3,9:03,Spain,35,33,,Marc Gasol2pt jump shot made
+Q3,9:03,Iran,35,33,RD,Hamed Haddadi
+Q3,9:03,Iran,35,33,FC,Arman Zangeneh
+Q3,9:13,Iran,33,33,2_Pts_C,Mohammadsamad Nik Khahbahrami
+Q3,9:34,Spain,0,0,,Juancho Hernangomez3pt jump shot missed
+Q3,9:34,Iran,0,0,RD,Mohammad Jamshidijafarabadi
+Q3,9:43,Spain,0,0,FR,Ricky Rubio
+Q3,9:43,Iran,0,0,FC,Arman Zangeneh
+Q4,0:09,Spain,73,65,RD,Ricky Rubio
+Q4,0:09,Iran,73,65,,Michael Rostampour2pt jump shot missed
+Q4,0:20,Spain,73,65,AS,Sergio Llull
+Q4,0:20,Spain,73,65,3_Pts_C,Marc Gasol
+Q4,0:43,Spain,70,65,RD,Juancho Hernangomez
+Q4,0:43,Iran,70,65,,Mohammad Jamshidijafarabadi3pt jump shot missed
+Q4,0:55,Spain,70,65,AS,Ricky Rubio
+Q4,0:55,Spain,70,65,,Victor Claverdunk made
+Q4,0:55,Iran,70,65,tempo_tecnico,
+Q4,10:00,Iran,0,0,muda_bola,
+Q4,1:15,Spain,68,65,BR,Juancho Hernangomez
+Q4,1:15,Iran,68,65,ER,Hamed Haddadi
+Q4,1:31,Spain,68,65,AS,Marc Gasol
+Q4,1:31,Spain,68,65,,Sergio Llull3pt jump shot made
+Q4,1:49,Iran,65,65,,Hamed Haddaditip in made
+Q4,1:49,Iran,65,63,RO,Hamed Haddadi
+Q4,1:49,Iran,65,63,,Mohammadsamad Nik Khahbahrami2pt jump shot missed
+Q4,2:08,Spain,65,63,,Sergio Llull2pt jump shot missed
+Q4,2:08,Iran,65,63,RD,Hamed Haddadi
+Q4,2:29,Spain,65,63,RD,Juancho Hernangomez
+Q4,2:34,Spain,65,63,RD,Juancho Hernangomez
+Q4,2:34,Iran,65,63,2_Pts_T,Hamed Haddadi
+Q4,2:53,Spain,65,63,AS,Victor Claver
+Q4,2:53,Spain,65,63,,Juancho Hernangomez2pt jump shot made
+Q4,3:07,Spain,63,63,RD,Marc Gasol
+Q4,3:07,Iran,63,63,,Hamed Haddadialley oop missed
+Q4,3:15,Spain,63,63,,Sergio Llull3pt jump shot missed
+Q4,3:15,Iran,63,63,RD,Mohammad Jamshidijafarabadi
+Q4,3:31,Spain,63,63,substituicao_entra,Juancho Hernangomez
+Q4,3:31,Spain,63,63,substituicao_sai,Rudy Fernandez
+Q4,3:31,Spain,63,63,RD,Victor Claver
+Q4,3:31,Iran,63,63,2_Pts_T,Mohammad Jamshidijafarabadi
+Q4,3:51,Spain,63,63,LL_Pts_T,Victor Claver
+Q4,3:51,Spain,63,63,LL_Pts_C,Victor Claver
+Q4,3:51,Spain,62,63,FR,Victor Claver
+Q4,3:51,Spain,62,63,RO,
+Q4,3:51,Spain,62,63,3_Pts_T,Sergio Llull
+Q4,3:51,Iran,63,63,RD,Hamed Haddadi
+Q4,3:51,Iran,62,63,FC,Mohammad Jamshidijafarabadi
+Q4,4:13,Spain,62,62,FC,Victor Claver
+Q4,4:13,Spain,62,62,,Marc Gasol2pt jump shot made
+Q4,4:13,Iran,62,63,LL_Pts_C,Michael Rostampour
+Q4,4:13,Iran,62,62,LL_Pts_T,Michael Rostampour
+Q4,4:13,Iran,62,62,FR,Michael Rostampour
+Q4,4:13,Iran,60,62,substituicao_entra,Mohammadsamad Nik Khahbahrami
+Q4,4:13,Iran,60,62,substituicao_sai,Sajjad Mashayekhi
+Q4,4:17,Spain,60,62,substituicao_entra,Sergio Llull
+Q4,4:17,Spain,60,62,substituicao_sai,Juancho Hernangomez
+Q4,4:17,Spain,60,62,substituicao_entra,Ricky Rubio
+Q4,4:17,Spain,60,62,substituicao_sai,Quino Colom
+Q4,4:31,Spain,60,62,FR,Victor Claver
+Q4,4:31,Spain,60,62,RD,Quino Colom
+Q4,4:31,Iran,60,62,FC,Michael Rostampour
+Q4,4:31,Iran,60,62,,Hamed Haddadi2pt jump shot missed
+Q4,4:43,Spain,60,62,ER,Quino Colom
+Q4,4:43,Iran,60,62,BR,Hamed Haddadi
+Q4,4:51,Spain,60,62,BR,Rudy Fernandez
+Q4,4:51,Iran,60,62,ER,Behnam Yakhchalidehkordi
+Q4,4:58,Spain,60,62,ER,Rudy Fernandez
+Q4,4:58,Iran,60,62,BR,Behnam Yakhchalidehkordi
+Q4,5:08,Spain,60,62,RO,Juancho Hernangomez
+Q4,5:08,Spain,60,62,,Juancho Hernangomezlayup missed
+Q4,5:14,Spain,60,62,RD,Quino Colom
+Q4,5:14,Iran,60,62,,Mohammad Jamshidijafarabadi2pt jump shot missed
+Q4,5:32,Spain,60,62,FC,Juancho Hernangomez
+Q4,5:32,Iran,60,62,FR,Michael Rostampour
+Q4,5:32,Iran,60,62,RD,
+Q4,5:33,Spain,60,62,,Marc Gasol3pt jump shot missed
+Q4,5:40,Spain,60,62,RD,Marc Gasol
+Q4,5:40,Iran,60,62,2_Pts_T,Sajjad Mashayekhi
+Q4,5:51,Spain,60,62,substituicao_entra,Victor Claver
+Q4,5:51,Spain,60,62,substituicao_sai,Pierre Oriola
+Q4,5:55,Spain,60,62,substituicao_entra,Marc Gasol
+Q4,5:55,Spain,60,62,substituicao_sai,Willy Hernangomez Geuer
+Q4,5:55,Spain,60,62,LL_Pts_C,Willy Hernangomez Geuer
+Q4,5:55,Spain,59,62,FR,Willy Hernangomez Geuer
+Q4,5:55,Spain,59,62,2_Pts_C,Willy Hernangomez Geuer
+Q4,5:55,Iran,60,62,substituicao_entra,Hamed Haddadi
+Q4,5:55,Iran,60,62,substituicao_sai,Aaron Geramipoor
+Q4,5:55,Iran,59,62,FC,Aaron Geramipoor
+Q4,6:14,Iran,57,62,AS,Mohammad Jamshidijafarabadi
+Q4,6:14,Iran,57,62,,Michael Rostampour3pt jump shot made
+Q4,6:35,Spain,57,59,FC_O,Willy Hernangomez Geuer
+Q4,6:35,Iran,57,59,FR,Behnam Yakhchalidehkordi
+Q4,6:40,Spain,57,59,RD,Pierre Oriola
+Q4,6:40,Iran,57,59,,Sajjad Mashayekhi2pt jump shot missed
+Q4,6:51,Spain,57,59,FC,Juancho Hernangomez
+Q4,6:51,Iran,57,59,FR,Behnam Yakhchalidehkordi
+Q4,6:59,Spain,57,59,LL_Pts_T,Willy Hernangomez Geuer
+Q4,6:59,Spain,57,59,AS,Quino Colom
+Q4,6:59,Spain,57,59,LL_Pts_C,Willy Hernangomez Geuer
+Q4,6:59,Spain,56,59,substituicao_entra,Rudy Fernandez
+Q4,6:59,Spain,56,59,substituicao_sai,Pau Ribas
+Q4,6:59,Spain,56,59,FR,Willy Hernangomez Geuer
+Q4,6:59,Iran,57,59,RD,Aaron Geramipoor
+Q4,6:59,Iran,56,59,FC,Aaron Geramipoor
+Q4,7:05,Spain,56,59,RO,Pierre Oriola
+Q4,7:05,Spain,56,59,2_Pts_T,Willy Hernangomez Geuer
+Q4,7:19,Iran,56,59,AS,Behnam Yakhchalidehkordi
+Q4,7:19,Iran,56,59,,Michael Rostampour3pt jump shot made
+Q4,7:38,Spain,56,56,AS,Pau Ribas
+Q4,7:38,Spain,56,56,LL_Pts_C,Willy Hernangomez Geuer
+Q4,7:38,Spain,55,56,LL_Pts_T,Willy Hernangomez Geuer
+Q4,7:38,Spain,55,56,substituicao_entra,Quino Colom
+Q4,7:38,Spain,55,56,substituicao_sai,Sergio Llull
+Q4,7:38,Spain,55,56,FR,Willy Hernangomez Geuer
+Q4,7:38,Iran,55,56,FC,Michael Rostampour
+Q4,8:02,Iran,55,56,AS,Mohammad Jamshidijafarabadi
+Q4,8:02,Iran,55,56,2_Pts_C,Aaron Geramipoor
+Q4,8:21,Spain,55,54,,Pierre Oriola2pt jump shot missed
+Q4,8:21,Iran,55,54,RD,Sajjad Mashayekhi
+Q4,8:39,Spain,55,53,FC,Juancho Hernangomez
+Q4,8:39,Iran,55,54,AS,Mohammad Jamshidijafarabadi
+Q4,8:39,Iran,55,54,LL_Pts_C,Aaron Geramipoor
+Q4,8:39,Iran,55,53,LL_Pts_T,Aaron Geramipoor
+Q4,8:39,Iran,55,53,FR,Aaron Geramipoor
+Q4,8:58,Spain,55,53,AS,Sergio Llull
+Q4,8:58,Spain,55,53,,Juancho Hernangomez3pt jump shot made
+Q4,9:08,Spain,0,0,RD,Juancho Hernangomez
+Q4,9:08,Iran,0,0,2_Pts_T,Behnam Yakhchalidehkordi
+Q4,9:24,Spain,0,0,,Pau Ribas3pt jump shot missed
+Q4,9:24,Iran,0,0,RD,Michael Rostampour
+Q4,9:41,Spain,0,0,RD,Pierre Oriola
+Q4,9:41,Iran,0,0,2_Pts_T,Sajjad Mashayekhi

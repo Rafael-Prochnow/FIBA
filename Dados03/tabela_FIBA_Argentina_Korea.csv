@@ -1,0 +1,514 @@
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Korea,22,11,,Hoon Heo3pt jump shot missed
+Q1,0:10,Argentina,22,11,LL_Pts_C,Facundo Campazzo
+Q1,0:10,Argentina,21,11,LL_Pts_C,Facundo Campazzo
+Q1,0:10,Argentina,20,11,FR,Facundo Campazzo
+Q1,0:10,Korea,20,11,FC,Daesung Lee
+Q1,0:12,Argentina,20,11,RD,Nicolas Brussino
+Q1,0:12,Korea,20,11,,Hyogeun Jeonglayup missed
+Q1,0:23,Korea,20,11,RO,Hoon Heo
+Q1,0:23,Korea,20,11,,Hoon Heo2pt jump shot missed
+Q1,0:40,Argentina,20,11,AS,Luís Scola
+Q1,0:40,Argentina,20,11,,Marcos Delia2pt jump shot made
+Q1,0:53,Argentina,18,11,RD,Nicolas Brussino
+Q1,0:53,Korea,18,11,,Hyogeun Jeong2pt jump shot missed
+Q1,10:00,Argentina,0,0,inicio_quarto,Marcos Delia
+Q1,1:13,Argentina,18,11,AS,Facundo Campazzo
+Q1,1:13,Argentina,18,11,,Nicolas Brussino3pt jump shot made
+Q1,1:15,Argentina,15,11,FR,Patricio Garino
+Q1,1:15,Korea,15,11,FC,Hyogeun Jeong
+Q1,1:24,Korea,15,11,substituicao_entra,Jongkyu Kim
+Q1,1:24,Korea,15,11,substituicao_sai,Seounghyun Lee
+Q1,1:24,Korea,15,11,ER,Hoon Heo
+Q1,1:28,Argentina,15,11,ER,Nicolas Brussino
+Q1,1:28,Korea,15,11,BR,Guna RA
+Q1,1:36,Korea,15,11,ER,Daesung Lee
+Q1,1:53,Argentina,15,11,AS,Luís Scola
+Q1,1:53,Argentina,15,11,,Marcos Delialayup made
+Q1,2:02,Argentina,13,11,RD,Nicolas Brussino
+Q1,2:02,Argentina,13,11,TO,Marcos Delia
+Q1,2:02,Korea,13,11,2_Pts_T,Guna RA
+Q1,2:12,Argentina,13,11,,Nicolas Brussino2pt jump shot missed
+Q1,2:12,Korea,13,11,RD,Seounghyun Lee
+Q1,2:17,Argentina,13,11,RO,Nicolas Brussino
+Q1,2:17,Argentina,13,11,,Facundo Campazzolayup missed
+Q1,2:28,Argentina,13,11,substituicao_entra,Nicolas Brussino
+Q1,2:28,Argentina,13,11,substituicao_sai,Luca Vildoza
+Q1,2:28,Korea,13,11,substituicao_entra,Daesung Lee
+Q1,2:28,Korea,13,11,substituicao_sai,Sunhyung Kim
+Q1,2:28,Korea,13,11,substituicao_entra,Hyogeun Jeong
+Q1,2:28,Korea,13,11,substituicao_sai,Junghyun Lee
+Q1,2:28,Korea,13,11,substituicao_entra,Hoon Heo
+Q1,2:28,Korea,13,11,substituicao_sai,Junyong Choi
+Q1,2:35,Argentina,13,11,RD,Luís Scola
+Q1,2:35,Korea,13,11,2_Pts_T,Guna RA
+Q1,2:46,Argentina,13,11,,Luca Vildozalayup made
+Q1,3:09,Korea,11,11,ER,Seounghyun Lee
+Q1,3:34,Argentina,11,11,AS,Luca Vildoza
+Q1,3:34,Argentina,11,11,,Luís Scola2pt jump shot made
+Q1,3:50,Korea,9,11,,Sunhyung Kimlayup made
+Q1,3:58,Argentina,9,9,,Luís Scola2pt jump shot missed
+Q1,3:58,Korea,9,9,RD,Sunhyung Kim
+Q1,4:07,Argentina,9,9,RD,Facundo Campazzo
+Q1,4:07,Korea,9,9,,Junghyun Lee3pt jump shot missed
+Q1,4:12,Argentina,9,9,FC,Luca Vildoza
+Q1,4:12,Korea,9,9,FR,Junghyun Lee
+Q1,4:22,Argentina,9,9,,Luís Scola2pt jump shot missed
+Q1,4:22,Korea,9,9,RD,Seounghyun Lee
+Q1,4:38,Argentina,9,9,RD,Luís Scola
+Q1,4:38,Argentina,9,8,substituicao_entra,Facundo Campazzo
+Q1,4:38,Argentina,9,8,substituicao_sai,Nicolás Laprovittola
+Q1,4:38,Argentina,9,8,FC,Nicolás Laprovittola
+Q1,4:38,Korea,9,9,LL_Pts_T,Guna RA
+Q1,4:38,Korea,9,9,AS,Junghyun Lee
+Q1,4:38,Korea,9,9,LL_Pts_C,Guna RA
+Q1,4:38,Korea,9,8,FR,Guna RA
+Q1,4:47,Argentina,9,8,2_Pts_T,Patricio Garino
+Q1,4:47,Korea,9,8,RD,Guna RA
+Q1,4:47,Korea,9,8,TO,Junyong Choi
+Q1,5:01,Korea,9,8,,Junghyun Lee3pt jump shot made
+Q1,5:17,Argentina,9,5,,Luca Vildoza3pt jump shot missed
+Q1,5:17,Korea,9,5,RD,Junyong Choi
+Q1,5:26,Argentina,9,5,RD,Nicolás Laprovittola
+Q1,5:26,Korea,9,5,,Guna RA2pt jump shot missed
+Q1,5:39,Argentina,9,5,,Luís Scola2pt jump shot missed
+Q1,5:39,Korea,9,5,RD,Junyong Choi
+Q1,5:52,Argentina,9,5,RD,Marcos Delia
+Q1,5:52,Argentina,9,4,FC,Luís Scola
+Q1,5:52,Korea,9,5,LL_Pts_T,Junghyun Lee
+Q1,5:52,Korea,9,5,LL_Pts_C,Junghyun Lee
+Q1,5:52,Korea,9,4,FR,Junghyun Lee
+Q1,5:57,Argentina,9,4,,Patricio Garino3pt jump shot missed
+Q1,5:57,Korea,9,4,RD,Sunhyung Kim
+Q1,6:09,Argentina,9,4,FR,Nicolás Laprovittola
+Q1,6:09,Korea,9,4,FC,Sunhyung Kim
+Q1,6:13,Argentina,9,4,RO,Marcos Delia
+Q1,6:13,Argentina,9,4,,Nicolás Laprovittola3pt jump shot missed
+Q1,6:20,Argentina,9,4,RO,
+Q1,6:20,Argentina,9,4,2_Pts_T,Luís Scola
+Q1,6:20,Korea,9,4,TO,Junyong Choi
+Q1,6:24,Argentina,9,4,BR,Patricio Garino
+Q1,6:24,Korea,9,4,ER,Sunhyung Kim
+Q1,6:36,Argentina,9,4,AS,Nicolás Laprovittola
+Q1,6:36,Argentina,9,4,,Patricio Garino3pt jump shot made
+Q1,6:46,Argentina,6,4,RD,Luís Scola
+Q1,6:46,Argentina,6,4,TO,Luís Scola
+Q1,6:46,Korea,6,4,2_Pts_T,Junyong Choi
+Q1,6:59,Argentina,6,4,,Patricio Garino2pt jump shot missed
+Q1,6:59,Korea,6,4,RD,Guna RA
+Q1,7:07,Argentina,6,4,FR,Nicolás Laprovittola
+Q1,7:07,Korea,6,4,FC,Junyong Choi
+Q1,7:09,Argentina,6,4,RD,Luís Scola
+Q1,7:09,Argentina,6,4,TO,Luca Vildoza
+Q1,7:09,Korea,6,4,,Sunhyung Kim3pt jump shot blocked
+Q1,7:20,Argentina,6,4,,Patricio Garino2pt jump shot missed
+Q1,7:20,Korea,6,4,RD,Seounghyun Lee
+Q1,7:40,Korea,6,4,ER,Junyong Choi
+Q1,7:47,Argentina,6,4,,Marcos Delia2pt jump shot missed
+Q1,7:47,Korea,6,4,RD,Junyong Choi
+Q1,8:02,Korea,6,4,,Seounghyun Lee2pt jump shot made
+Q1,8:15,Argentina,6,2,,Luís Scola2pt jump shot missed
+Q1,8:15,Korea,6,2,RD,Junyong Choi
+Q1,8:32,Korea,6,2,,Junghyun Lee2pt jump shot made
+Q1,8:41,Argentina,6,0,FC,Nicolás Laprovittola
+Q1,8:41,Korea,6,0,FR,Sunhyung Kim
+Q1,8:43,Argentina,6,0,,Luís Scola2pt jump shot missed
+Q1,8:43,Korea,6,0,RD,Guna RA
+Q1,8:53,Argentina,6,0,FR,Luca Vildoza
+Q1,8:53,Korea,6,0,FC,Junghyun Lee
+Q1,9:01,Argentina,6,0,RD,Luís Scola
+Q1,9:01,Korea,6,0,2_Pts_T,Guna RA
+Q1,9:15,Argentina,6,0,,Luca Vildoza3pt jump shot made
+Q1,9:27,Argentina,3,0,RD,Marcos Delia
+Q1,9:27,Korea,3,0,,Sunhyung Kim2pt jump shot missed
+Q1,9:47,Argentina,3,0,AS,Luca Vildoza
+Q1,9:47,Argentina,3,0,3_Pts_C,Luís Scola
+Q2,0:00,Korea,43,28,3_Pts_T,Sunhyung Kim
+Q2,0:07,Argentina,43,28,,Gabriel Deck2pt jump shot made
+Q2,0:30,Argentina,41,28,substituicao_entra,Luís Scola
+Q2,0:30,Argentina,41,28,substituicao_sai,Tayavek Gallizzi
+Q2,0:32,Argentina,41,27,tempo_tecnico,
+Q2,0:32,Argentina,41,27,FC,Nicolas Brussino
+Q2,0:32,Korea,41,28,LL_Pts_C,Seounghyun Lee
+Q2,0:32,Korea,41,27,LL_Pts_T,Seounghyun Lee
+Q2,0:32,Korea,41,27,substituicao_entra,Jongkyu Kim
+Q2,0:32,Korea,41,27,substituicao_sai,Guna RA
+Q2,0:32,Korea,41,27,FR,Seounghyun Lee
+Q2,0:42,Argentina,41,27,,Luca Vildoza3pt jump shot missed
+Q2,0:42,Korea,41,27,RD,Hyogeun Jeong
+Q2,10:00,Korea,0,0,muda_bola,
+Q2,1:05,Korea,41,27,AS,Sunhyung Kim
+Q2,1:05,Korea,41,27,,Guna RA2pt jump shot made
+Q2,1:44,Korea,41,25,,Guna RA2pt jump shot made
+Q2,1:51,Argentina,41,23,substituicao_entra,Luca Vildoza
+Q2,1:51,Argentina,41,23,substituicao_sai,Patricio Garino
+Q2,1:54,Argentina,41,23,,Gabriel Deckdunk missed
+Q2,1:54,Korea,41,23,RD,Junghyun Lee
+Q2,1:56,Argentina,41,23,RO,Gabriel Deck
+Q2,1:56,Argentina,41,23,,Tayavek Gallizzilayup missed
+Q2,2:13,Argentina,41,23,RD,Patricio Garino
+Q2,2:13,Korea,41,23,,Sunhyung Kimlayup missed
+Q2,2:37,Argentina,41,23,,Facundo Campazzo2pt jump shot missed
+Q2,2:37,Korea,41,23,RD,Junghyun Lee
+Q2,2:43,Argentina,41,23,RO,
+Q2,2:43,Argentina,41,23,2_Pts_T,Tayavek Gallizzi
+Q2,2:43,Korea,41,23,TO,Guna RA
+Q2,3:00,Argentina,41,22,FC,Tayavek Gallizzi
+Q2,3:00,Korea,41,23,AS,Junghyun Lee
+Q2,3:00,Korea,41,23,LL_Pts_C,Guna RA
+Q2,3:00,Korea,41,22,LL_Pts_T,Guna RA
+Q2,3:00,Korea,41,22,FR,Guna RA
+Q2,3:08,Korea,41,22,RO,Hyogeun Jeong
+Q2,3:08,Korea,41,22,,Guna RAlayup missed
+Q2,3:10,Korea,41,22,RO,Guna RA
+Q2,3:10,Korea,41,22,,Sunhyung Kim3pt jump shot missed
+Q2,3:20,Korea,41,22,RO,Guna RA
+Q2,3:20,Korea,41,22,,Sunhyung Kimlayup missed
+Q2,3:33,Argentina,41,22,AS,Nicolas Brussino
+Q2,3:33,Argentina,41,22,,Patricio Garino3pt jump shot made
+Q2,3:50,Argentina,38,22,BR,Tayavek Gallizzi
+Q2,3:50,Korea,38,22,ER,Guna RA
+Q2,3:56,Argentina,38,22,,Gabriel Deck2pt jump shot missed
+Q2,3:56,Korea,38,22,RD,Guna RA
+Q2,4:05,Argentina,38,22,FR,Tayavek Gallizzi
+Q2,4:05,Korea,38,22,substituicao_entra,Hyogeun Jeong
+Q2,4:05,Korea,38,22,substituicao_sai,Junyong Choi
+Q2,4:05,Korea,38,22,FC,Junyong Choi
+Q2,4:24,Argentina,38,22,BR,Tayavek Gallizzi
+Q2,4:24,Korea,38,22,ER,Guna RA
+Q2,4:37,Korea,38,22,tempo_tecnico,
+Q2,4:39,Argentina,38,22,AS,Nicolas Brussino
+Q2,4:39,Argentina,38,22,,Tayavek Gallizzi2pt jump shot made
+Q2,4:53,Argentina,36,22,RD,Nicolas Brussino
+Q2,4:53,Korea,36,22,,Guna RA2pt jump shot missed
+Q2,5:00,Korea,36,22,RO,Seounghyun Lee
+Q2,5:00,Korea,36,22,,Junghyun Lee3pt jump shot missed
+Q2,5:09,Argentina,36,22,AS,Nicolas Brussino
+Q2,5:09,Argentina,36,22,3_Pts_C,Facundo Campazzo
+Q2,5:26,Argentina,33,22,RD,Nicolas Brussino
+Q2,5:26,Argentina,33,22,TO,Tayavek Gallizzi
+Q2,5:26,Korea,33,22,2_Pts_T,Junyong Choi
+Q2,5:42,Argentina,33,22,AS,Patricio Garino
+Q2,5:42,Argentina,33,22,3_Pts_C,Facundo Campazzo
+Q2,5:57,Argentina,30,22,LL_Pts_C,Tayavek Gallizzi
+Q2,5:57,Argentina,29,22,LL_Pts_C,Tayavek Gallizzi
+Q2,5:57,Argentina,28,22,FR,Tayavek Gallizzi
+Q2,5:57,Korea,30,22,tempo_tecnico,
+Q2,5:57,Korea,28,22,FC_A,Junghyun Lee
+Q2,6:03,Korea,28,22,,Guna RA2pt jump shot made
+Q2,6:25,Argentina,28,20,AS,Facundo Campazzo
+Q2,6:25,Argentina,28,20,,Gabriel Deck2pt jump shot made
+Q2,6:44,Argentina,26,18,FC,Tayavek Gallizzi
+Q2,6:44,Korea,26,20,LL_Pts_C,Guna RA
+Q2,6:44,Korea,26,19,LL_Pts_C,Guna RA
+Q2,6:44,Korea,26,18,FR,Guna RA
+Q2,7:01,Argentina,26,18,3_Pts_C,Nicolas Brussino
+Q2,7:04,Argentina,23,18,FR,Gabriel Deck
+Q2,7:04,Korea,23,18,FC,Junyong Choi
+Q2,7:23,Argentina,23,17,FC,Tayavek Gallizzi
+Q2,7:23,Korea,23,18,LL_Pts_C,Guna RA
+Q2,7:23,Korea,23,17,FR,Guna RA
+Q2,7:23,Korea,23,17,AS,Junghyun Lee
+Q2,7:23,Korea,23,17,,Guna RAlayup made
+Q2,7:26,Argentina,23,15,ER,Tayavek Gallizzi
+Q2,7:28,Argentina,23,15,RD,Tayavek Gallizzi
+Q2,7:28,Korea,23,15,,Seounghyun Leelayup missed
+Q2,7:41,Argentina,23,15,tempo_tecnico,
+Q2,7:41,Argentina,23,15,FC,Facundo Campazzo
+Q2,7:41,Korea,23,15,FR,Seounghyun Lee
+Q2,7:49,Argentina,23,15,substituicao_entra,Tayavek Gallizzi
+Q2,7:49,Argentina,23,15,substituicao_sai,Marcos Delia
+Q2,7:49,Argentina,23,15,ER,Facundo Campazzo
+Q2,7:56,Argentina,23,14,FC,Marcos Delia
+Q2,7:56,Korea,23,15,AS,Junghyun Lee
+Q2,7:56,Korea,23,15,LL_Pts_C,Guna RA
+Q2,7:56,Korea,23,14,LL_Pts_T,Guna RA
+Q2,7:56,Korea,23,14,FR,Guna RA
+Q2,8:08,Argentina,23,14,LL_Pts_C,Gabriel Deck
+Q2,8:08,Argentina,22,14,LL_Pts_T,Gabriel Deck
+Q2,8:08,Argentina,22,14,FR,Gabriel Deck
+Q2,8:08,Korea,22,14,FC,Seounghyun Lee
+Q2,8:39,Argentina,22,14,substituicao_entra,Patricio Garino
+Q2,8:39,Argentina,22,14,substituicao_sai,Luís Scola
+Q2,8:39,Argentina,22,14,FC,Luís Scola
+Q2,8:39,Korea,22,14,FR,Guna RA
+Q2,8:42,Argentina,22,14,FC,Marcos Delia
+Q2,8:42,Korea,22,14,FR,Guna RA
+Q2,8:42,Korea,22,14,RO,Guna RA
+Q2,8:42,Korea,22,14,,Seounghyun Lee2pt jump shot missed
+Q2,8:46,Korea,22,14,RO,Guna RA
+Q2,8:46,Korea,22,14,,Sunhyung Kim2pt jump shot missed
+Q2,8:54,Argentina,22,14,,Luís Scola2pt jump shot missed
+Q2,8:54,Korea,22,14,RD,Junyong Choi
+Q2,9:21,Korea,22,14,,Junghyun Lee3pt jump shot made
+Q2,9:31,Argentina,0,0,,Facundo Campazzo3pt jump shot missed
+Q2,9:31,Korea,0,0,RD,Guna RA
+Q2,9:46,Argentina,0,0,RD,Luís Scola
+Q2,9:46,Korea,0,0,,Guna RA2pt jump shot missed
+Q3,0:01,Argentina,71,44,,Nicolás Laprovittolalayup made
+Q3,0:11,Argentina,69,44,RD,Maximo Fjellerup
+Q3,0:11,Korea,69,44,,Jongkyu Kim2pt jump shot missed
+Q3,0:21,Argentina,69,44,substituicao_entra,Tayavek Gallizzi
+Q3,0:21,Argentina,69,44,substituicao_sai,Luís Scola
+Q3,0:21,Argentina,69,44,LL_Pts_C,Luís Scola
+Q3,0:21,Argentina,68,44,AS,Luca Vildoza
+Q3,0:21,Argentina,68,44,LL_Pts_C,Luís Scola
+Q3,0:21,Argentina,67,44,FR,Luís Scola
+Q3,0:21,Korea,67,44,FC,Guna RA
+Q3,0:38,Korea,67,44,AS,Chan Hee Park
+Q3,0:38,Korea,67,44,,Guna RAdunk made
+Q3,0:44,Argentina,67,42,,Luís Scola3pt jump shot missed
+Q3,0:44,Korea,67,42,RD,Hyogeun Jeong
+Q3,0:54,Argentina,67,42,RD,Maximo Fjellerup
+Q3,0:54,Korea,67,42,,Daesung Lee2pt jump shot missed
+Q3,10:00,Argentina,0,0,muda_bola,
+Q3,1:07,Argentina,67,42,LL_Pts_C,Gabriel Deck
+Q3,1:07,Argentina,66,42,LL_Pts_C,Gabriel Deck
+Q3,1:07,Argentina,65,42,substituicao_entra,Maximo Fjellerup
+Q3,1:07,Argentina,65,42,substituicao_sai,Patricio Garino
+Q3,1:07,Argentina,65,42,substituicao_entra,Luca Vildoza
+Q3,1:07,Argentina,65,42,substituicao_sai,Facundo Campazzo
+Q3,1:07,Argentina,65,42,FR,Gabriel Deck
+Q3,1:07,Korea,65,42,FC,Daesung Lee
+Q3,1:25,Korea,65,42,,Jongkyu Kim2pt jump shot made
+Q3,1:29,Argentina,65,40,,Nicolás Laprovittola3pt jump shot missed
+Q3,1:29,Korea,65,40,RD,Daesung Lee
+Q3,1:38,Argentina,65,40,BR,Facundo Campazzo
+Q3,1:38,Korea,65,40,ER,Daesung Lee
+Q3,1:53,Argentina,65,40,AS,Gabriel Deck
+Q3,1:53,Argentina,65,40,,Facundo Campazzo3pt jump shot made
+Q3,2:02,Argentina,62,40,RD,Patricio Garino
+Q3,2:02,Korea,62,40,,Daesung Lee3pt jump shot missed
+Q3,2:09,Argentina,62,40,substituicao_entra,Gabriel Deck
+Q3,2:09,Argentina,62,40,substituicao_sai,Marcos Delia
+Q3,2:09,Argentina,62,40,FC,Marcos Delia
+Q3,2:09,Korea,62,40,FR,Jongkyu Kim
+Q3,2:09,Korea,62,40,RO,
+Q3,2:10,Korea,62,40,,Chan Hee Park3pt jump shot missed
+Q3,2:17,Korea,62,40,RO,Daesung Lee
+Q3,2:17,Korea,62,40,,Jongkyu Kimtip in missed
+Q3,2:18,Korea,62,40,RO,Jongkyu Kim
+Q3,2:18,Korea,62,40,,Guna RA2pt jump shot missed
+Q3,2:42,Argentina,62,40,,Luís Scolalayup made
+Q3,2:45,Argentina,60,40,RD,Luís Scola
+Q3,2:45,Argentina,60,40,TO,Marcos Delia
+Q3,2:45,Korea,60,40,2_Pts_T,Guna RA
+Q3,2:53,Korea,60,40,RO,Daesung Lee
+Q3,2:53,Korea,60,40,,Jongkyu Kim2pt jump shot missed
+Q3,3:01,Argentina,60,40,ER,Luís Scola
+Q3,3:01,Korea,60,40,BR,Chan Hee Park
+Q3,3:15,Argentina,60,40,RD,
+Q3,3:15,Korea,60,40,substituicao_entra,Jongkyu Kim
+Q3,3:15,Korea,60,40,substituicao_sai,Seounghyun Lee
+Q3,3:15,Korea,60,40,,Daesung Lee2pt jump shot missed
+Q3,3:35,Argentina,60,40,AS,Facundo Campazzo
+Q3,3:35,Argentina,60,40,,Luís Scola3pt jump shot made
+Q3,3:41,Korea,57,40,substituicao_entra,Hyogeun Jeong
+Q3,3:41,Korea,57,40,substituicao_sai,Junyong Choi
+Q3,3:41,Korea,57,40,ER,Seounghyun Lee
+Q3,3:47,Korea,57,40,RO,Seounghyun Lee
+Q3,3:47,Korea,57,40,,Junyong Choi3pt jump shot missed
+Q3,3:59,Argentina,57,40,LL_Pts_T,Marcos Delia
+Q3,3:59,Argentina,57,40,LL_Pts_T,Marcos Delia
+Q3,3:59,Argentina,57,40,FR,Marcos Delia
+Q3,3:59,Korea,57,40,RD,Guna RA
+Q3,3:59,Korea,57,40,FC,Junyong Choi
+Q3,4:08,Argentina,57,40,RD,Marcos Delia
+Q3,4:08,Korea,57,40,,Chan Hee Parklayup missed
+Q3,4:26,Korea,57,40,RO,Guna RA
+Q3,4:26,Korea,57,40,,Daesung Lee2pt jump shot missed
+Q3,4:37,Argentina,57,40,,Nicolás Laprovittola3pt jump shot missed
+Q3,4:37,Korea,57,40,RD,Guna RA
+Q3,4:39,Argentina,57,40,FR,Marcos Delia
+Q3,4:39,Argentina,57,40,RO,Marcos Delia
+Q3,4:39,Argentina,57,40,,Facundo Campazzolayup missed
+Q3,4:39,Korea,57,40,FC,Chan Hee Park
+Q3,4:54,Argentina,57,40,FR,Nicolás Laprovittola
+Q3,4:54,Korea,57,40,substituicao_entra,Daesung Lee
+Q3,4:54,Korea,57,40,substituicao_sai,Junghyun Lee
+Q3,4:54,Korea,57,40,FC,Junghyun Lee
+Q3,5:17,Argentina,57,40,RD,Nicolás Laprovittola
+Q3,5:17,Korea,57,40,,Junghyun Lee3pt jump shot missed
+Q3,5:24,Korea,57,40,RO,Seounghyun Lee
+Q3,5:24,Korea,57,40,,Guna RA2pt jump shot missed
+Q3,5:30,Argentina,57,38,FC,Luís Scola
+Q3,5:30,Korea,57,40,RO,Guna RA
+Q3,5:30,Korea,57,40,LL_Pts_T,Junghyun Lee
+Q3,5:30,Korea,57,40,LL_Pts_C,Junghyun Lee
+Q3,5:30,Korea,57,39,LL_Pts_C,Junghyun Lee
+Q3,5:30,Korea,57,38,substituicao_entra,Chan Hee Park
+Q3,5:30,Korea,57,38,substituicao_sai,Sunhyung Kim
+Q3,5:30,Korea,57,38,FR,Junghyun Lee
+Q3,5:36,Argentina,57,38,ER,Luís Scola
+Q3,5:36,Korea,57,38,BR,Seounghyun Lee
+Q3,5:54,Argentina,57,38,RD,
+Q3,5:59,Korea,57,38,,Sunhyung Kimlayup missed
+Q3,6:05,Argentina,57,38,,Luís Scolalayup missed
+Q3,6:05,Korea,57,38,RD,Sunhyung Kim
+Q3,6:07,Argentina,57,38,RO,Luís Scola
+Q3,6:07,Argentina,57,38,,Nicolás Laprovittola3pt jump shot missed
+Q3,6:19,Korea,57,38,AS,Sunhyung Kim
+Q3,6:19,Korea,57,38,3_Pts_C,Guna RA
+Q3,6:39,Argentina,57,35,AS,Patricio Garino
+Q3,6:39,Argentina,57,35,,Marcos Delia2pt jump shot made
+Q3,6:52,Argentina,55,35,RD,
+Q3,6:55,Korea,55,35,3_Pts_T,Junghyun Lee
+Q3,7:17,Argentina,55,35,AS,Facundo Campazzo
+Q3,7:19,Argentina,55,35,,Nicolás Laprovittola3pt jump shot made
+Q3,7:26,Argentina,52,35,BR,Patricio Garino
+Q3,7:26,Korea,52,35,ER,Junghyun Lee
+Q3,7:30,Argentina,52,35,,Luís Scola2pt jump shot missed
+Q3,7:30,Korea,52,35,RD,Junghyun Lee
+Q3,7:44,Argentina,52,35,RD,Marcos Delia
+Q3,7:44,Korea,52,35,,Sunhyung Kimlayup missed
+Q3,7:54,Argentina,52,35,,Nicolás Laprovittolalayup missed
+Q3,7:54,Korea,52,35,RD,Guna RA
+Q3,8:06,Argentina,52,35,RO,Luís Scola
+Q3,8:06,Argentina,52,35,,Nicolás Laprovittola3pt jump shot missed
+Q3,8:24,Korea,52,35,AS,Junghyun Lee
+Q3,8:24,Korea,52,35,,Guna RA2pt jump shot made
+Q3,8:38,Korea,52,33,tempo_tecnico,
+Q3,8:43,Argentina,52,33,AS,Facundo Campazzo
+Q3,8:43,Argentina,52,33,,Nicolás Laprovittola3pt jump shot made
+Q3,8:55,Korea,49,33,AS,Junghyun Lee
+Q3,8:55,Korea,49,33,,Guna RA3pt jump shot made
+Q3,9:13,Argentina,49,30,AS,Facundo Campazzo
+Q3,9:13,Argentina,49,30,,Luís Scola3pt jump shot made
+Q3,9:20,Argentina,46,30,RO,Facundo Campazzo
+Q3,9:20,Argentina,46,30,,Nicolás Laprovittola3pt jump shot missed
+Q3,9:28,Korea,46,30,,Guna RAlayup made
+Q3,9:53,Argentina,46,28,AS,Patricio Garino
+Q3,9:53,Argentina,46,28,,Nicolás Laprovittola3pt jump shot made
+Q4,0:02,Argentina,95,69,RD,Agustin Caffaro
+Q4,0:02,Korea,95,69,,Daesung Lee2pt jump shot missed
+Q4,0:09,Argentina,95,69,,Luca Vildozalayup missed
+Q4,0:09,Korea,95,69,RD,Hyogeun Jeong
+Q4,0:30,Argentina,95,69,BR,Maximo Fjellerup
+Q4,0:30,Korea,95,69,ER,Daesung Lee
+Q4,0:44,Argentina,95,69,,Lucio Redivo3pt jump shot missed
+Q4,0:44,Korea,95,69,RD,Sangjae Kang
+Q4,0:50,Argentina,95,69,RO,
+Q4,0:51,Argentina,95,69,,Gabriel Deckalley oop missed
+Q4,10:00,Korea,0,0,muda_bola,
+Q4,1:09,Korea,95,69,AS,Sunhyung Kim
+Q4,1:09,Korea,95,69,,Daesung Lee3pt jump shot made
+Q4,1:22,Argentina,95,66,LL_Pts_C,Agustin Caffaro
+Q4,1:22,Argentina,94,66,LL_Pts_T,Agustin Caffaro
+Q4,1:22,Argentina,94,66,FR,Agustin Caffaro
+Q4,1:22,Korea,94,66,FC,Sangjae Kang
+Q4,1:38,Argentina,94,66,RD,Maximo Fjellerup
+Q4,1:38,Korea,94,66,,Daesung Lee3pt jump shot missed
+Q4,1:45,Argentina,94,66,LL_Pts_T,Maximo Fjellerup
+Q4,1:45,Argentina,94,66,LL_Pts_C,Maximo Fjellerup
+Q4,1:45,Argentina,93,66,FR,Maximo Fjellerup
+Q4,1:45,Korea,94,66,RD,Hyogeun Jeong
+Q4,1:45,Korea,93,66,FC,Jongkyu Kim
+Q4,2:02,Korea,93,66,AS,Daesung Lee
+Q4,2:02,Korea,93,66,,Sunhyung Kim3pt jump shot made
+Q4,2:11,Argentina,93,63,ER,Agustin Caffaro
+Q4,2:11,Korea,93,63,BR,Daesung Lee
+Q4,2:15,Argentina,93,63,RO,Agustin Caffaro
+Q4,2:15,Argentina,93,63,,Lucio Redivo3pt jump shot missed
+Q4,2:35,Korea,93,63,AS,Sunhyung Kim
+Q4,2:35,Korea,93,63,2_Pts_C,Sangjae Kang
+Q4,2:41,Argentina,93,61,TO,Agustin Caffaro
+Q4,2:41,Korea,93,61,RO,
+Q4,2:41,Korea,93,61,2_Pts_T,Sunhyung Kim
+Q4,2:46,Argentina,93,61,ER,Gabriel Deck
+Q4,2:46,Korea,93,61,BR,Daesung Lee
+Q4,2:54,Argentina,93,61,RD,Agustin Caffaro
+Q4,2:54,Korea,93,61,,Daesung Lee3pt jump shot missed
+Q4,3:05,Argentina,93,61,AS,Lucio Redivo
+Q4,3:05,Argentina,93,61,,Agustin Caffarolayup made
+Q4,3:18,Argentina,91,61,FR,Luca Vildoza
+Q4,3:18,Korea,91,61,FC,Daesung Lee
+Q4,3:23,Argentina,91,61,RD,Lucio Redivo
+Q4,3:23,Argentina,91,60,FC,Luca Vildoza
+Q4,3:23,Korea,91,61,LL_Pts_T,Daesung Lee
+Q4,3:23,Korea,91,61,LL_Pts_C,Daesung Lee
+Q4,3:23,Korea,91,60,FR,Daesung Lee
+Q4,3:34,Argentina,91,60,AS,Lucio Redivo
+Q4,3:34,Argentina,91,60,,Agustin Caffarolayup made
+Q4,3:54,Korea,89,60,,Daesung Lee3pt jump shot made
+Q4,4:09,Argentina,89,57,,Lucio Redivo2pt jump shot missed
+Q4,4:09,Korea,89,57,RD,Daesung Lee
+Q4,4:15,Argentina,89,57,substituicao_entra,Agustin Caffaro
+Q4,4:15,Argentina,89,57,substituicao_sai,Marcos Delia
+Q4,4:15,Argentina,89,57,FR,Luca Vildoza
+Q4,4:15,Korea,89,57,FC,Daesung Lee
+Q4,4:23,Argentina,89,57,RO,
+Q4,4:23,Korea,89,57,substituicao_entra,Daesung Lee
+Q4,4:23,Korea,89,57,substituicao_sai,Guna RA
+Q4,4:23,Korea,89,57,substituicao_entra,Jongkyu Kim
+Q4,4:23,Korea,89,57,substituicao_sai,Junghyun Lee
+Q4,4:23,Korea,89,57,tempo_tecnico,
+Q4,4:26,Argentina,89,57,,Lucio Redivo3pt jump shot missed
+Q4,4:51,Korea,89,57,,Hyogeun Jeong2pt jump shot made
+Q4,5:07,Argentina,89,55,,Marcos Delia2pt jump shot missed
+Q4,5:07,Korea,89,55,RD,Sangjae Kang
+Q4,5:16,Argentina,89,55,RO,Marcos Delia
+Q4,5:16,Argentina,89,55,,Gabriel Deck2pt jump shot missed
+Q4,5:25,Argentina,89,55,BR,Luca Vildoza
+Q4,5:25,Korea,89,55,ER,Sunhyung Kim
+Q4,5:35,Argentina,89,55,LL_Pts_T,Gabriel Deck
+Q4,5:35,Argentina,88,55,FR,Gabriel Deck
+Q4,5:35,Argentina,88,55,AS,Luca Vildoza
+Q4,5:35,Argentina,88,55,,Gabriel Deck2pt jump shot made
+Q4,5:35,Korea,88,55,FC,Junghyun Lee
+Q4,5:36,Argentina,86,55,RO,
+Q4,5:36,Argentina,86,55,,Marcos Deliadunk blocked
+Q4,5:36,Korea,86,55,substituicao_entra,Sangjae Kang
+Q4,5:36,Korea,86,55,substituicao_sai,Seounghyun Lee
+Q4,5:36,Korea,86,55,TO,Guna RA
+Q4,5:59,Korea,86,55,,Seounghyun Lee2pt jump shot made
+Q4,6:06,Korea,86,53,RO,Guna RA
+Q4,6:06,Korea,86,53,,Hyogeun Jeong3pt jump shot missed
+Q4,6:28,Argentina,86,53,,Maximo Fjellerupdunk made
+Q4,6:38,Argentina,84,51,substituicao_entra,Lucio Redivo
+Q4,6:38,Argentina,84,51,substituicao_sai,Tayavek Gallizzi
+Q4,6:38,Argentina,84,51,substituicao_entra,Marcos Delia
+Q4,6:38,Argentina,84,51,substituicao_sai,Nicolás Laprovittola
+Q4,6:38,Argentina,84,51,FC,Tayavek Gallizzi
+Q4,6:38,Korea,84,53,LL_Pts_C,Guna RA
+Q4,6:38,Korea,84,52,LL_Pts_C,Guna RA
+Q4,6:38,Korea,84,51,FR,Guna RA
+Q4,6:38,Korea,84,51,RO,
+Q4,6:39,Korea,84,51,,Sunhyung Kim2pt jump shot missed
+Q4,6:52,Argentina,84,51,,Luca Vildozalayup made
+Q4,7:08,Argentina,82,50,FC,Tayavek Gallizzi
+Q4,7:08,Korea,82,51,LL_Pts_C,Guna RA
+Q4,7:08,Korea,82,50,substituicao_entra,Sunhyung Kim
+Q4,7:08,Korea,82,50,substituicao_sai,Chan Hee Park
+Q4,7:08,Korea,82,50,FR,Guna RA
+Q4,7:08,Korea,82,50,AS,Junghyun Lee
+Q4,7:08,Korea,82,50,,Guna RAlayup made
+Q4,7:24,Argentina,82,48,AS,Maximo Fjellerup
+Q4,7:24,Argentina,82,48,,Nicolás Laprovittola3pt jump shot made
+Q4,7:32,Argentina,79,48,RD,Maximo Fjellerup
+Q4,7:32,Korea,79,48,,Guna RA2pt jump shot missed
+Q4,7:53,Argentina,79,48,,Nicolás Laprovittola3pt jump shot made
+Q4,7:57,Korea,76,48,substituicao_entra,Hyogeun Jeong
+Q4,7:57,Korea,76,48,substituicao_sai,Jongkyu Kim
+Q4,8:02,Korea,76,48,substituicao_entra,Jongkyu Kim
+Q4,8:02,Korea,76,48,substituicao_sai,Junyong Choi
+Q4,8:14,Argentina,76,48,FR,Maximo Fjellerup
+Q4,8:14,Korea,76,48,FC,Junyong Choi
+Q4,8:16,Argentina,76,48,RD,Maximo Fjellerup
+Q4,8:16,Korea,76,48,,Junghyun Lee3pt jump shot missed
+Q4,8:20,Argentina,76,48,FC,Luca Vildoza
+Q4,8:20,Korea,76,48,FR,Guna RA
+Q4,8:32,Argentina,76,48,,Tayavek Gallizzilayup missed
+Q4,8:32,Korea,76,48,RD,Chan Hee Park
+Q4,8:34,Argentina,76,48,RO,Tayavek Gallizzi
+Q4,8:34,Argentina,76,48,,Gabriel Decklayup missed
+Q4,8:48,Argentina,76,48,BR,Tayavek Gallizzi
+Q4,8:48,Korea,76,48,ER,Seounghyun Lee
+Q4,9:01,Korea,76,48,tempo_tecnico,
+Q4,9:06,Argentina,76,48,,Luca Vildoza3pt jump shot made
+Q4,9:15,Korea,73,48,ER,Junghyun Lee
+Q4,9:31,Argentina,73,48,,Gabriel Deckdunk made
+Q4,9:43,Argentina,71,47,FC,Luca Vildoza
+Q4,9:43,Korea,71,48,LL_Pts_C,Junghyun Lee
+Q4,9:43,Korea,71,47,FR,Junghyun Lee
+Q4,9:43,Korea,71,47,AS,Seounghyun Lee
+Q4,9:43,Korea,71,47,,Junghyun Lee3pt jump shot made

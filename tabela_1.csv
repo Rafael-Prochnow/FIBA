@@ -1,459 +1,469 @@
-Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
-Q1,0:00,China,16,14,3_Pts_T,Shuo Fang
-Q1,0:05,Costa do Marfim,16,14,3_Pts_C,Souleyman Diabate
-Q1,0:30,Costa do Marfim,13,14,RD,Frejus Zerbo
-Q1,0:30,Costa do Marfim,13,14,FC,Frejus Zerbo
-Q1,0:30,China,13,14,LL_Pts_T,Zhelin Wang
-Q1,0:30,China,13,14,LL_Pts_T,Zhelin Wang
-Q1,0:30,China,13,14,FR,Zhelin Wang
-Q1,0:36,Costa do Marfim,13,14,ER,Souleyman Diabate
-Q1,0:36,China,13,14,BR,Zhelin Wang
-Q1,0:41,Costa do Marfim,13,14,BR,Frejus Zerbo
-Q1,0:41,China,13,14,ER,Shuo Fang
-Q1,10:00,China,0,0,inicio_quarto,Qi Zhou
-Q1,1:02,Costa do Marfim,13,14,AS,Tiegbe Bamba
-Q1,1:02,Costa do Marfim,13,14,2_Pts_C,Frejus Zerbo
-Q1,1:07,Costa do Marfim,11,14,substituicao_entra,Bryan Pamba
-Q1,1:07,Costa do Marfim,11,14,substituicao_sai,Guy Landry Edi
-Q1,1:20,Costa do Marfim,11,14,FR,Deon Thompson
-Q1,1:20,Costa do Marfim,11,14,RD,
-Q1,1:20,China,11,14,FC,Zhelin Wang
-Q1,1:20,China,11,14,2_Pts_T,Shuo Fang
-Q1,1:43,Costa do Marfim,11,14,ER,Guy Landry Edi
-Q1,1:43,China,11,14,substituicao_entra,Rui Zhao
-Q1,1:43,China,11,14,substituicao_sai,Ailun Guo
-Q1,1:52,Costa do Marfim,11,13,FC,Frejus Zerbo
-Q1,1:52,China,11,14,LL_Pts_C,Zhelin Wang
-Q1,1:52,China,11,13,LL_Pts_T,Zhelin Wang
-Q1,1:52,China,11,13,substituicao_entra,Jianlian Yi
-Q1,1:52,China,11,13,substituicao_sai,Qi Zhou
-Q1,1:52,China,11,13,FR,Zhelin Wang
-Q1,2:12,Costa do Marfim,11,13,2_Pts_C,Deon Thompson
-Q1,2:27,China,9,13,substituicao_entra,Abudushalamu Abudurexiti
-Q1,2:27,China,9,13,substituicao_sai,Xiaochuan Zhai
-Q1,2:27,China,9,13,ER,Xiaochuan Zhai
-Q1,2:52,Costa do Marfim,9,13,AS,Souleyman Diabate
-Q1,2:52,Costa do Marfim,9,13,2_Pts_C,Deon Thompson
-Q1,3:06,Costa do Marfim,7,13,RO,Deon Thompson
-Q1,3:06,Costa do Marfim,7,13,3_Pts_T,Guy Landry Edi
-Q1,3:15,Costa do Marfim,7,13,RO,Deon Thompson
-Q1,3:15,Costa do Marfim,7,13,3_Pts_T,Deon Thompson
-Q1,3:22,Costa do Marfim,7,13,substituicao_entra,Tiegbe Bamba
-Q1,3:22,Costa do Marfim,7,13,substituicao_sai,Charles Abouo
-Q1,3:22,Costa do Marfim,7,13,FR,Frejus Zerbo
-Q1,3:22,China,7,13,FC,Zhelin Wang
-Q1,3:35,China,7,13,AS,Shuo Fang
-Q1,3:35,China,7,13,EN,Xiaochuan Zhai
-Q1,3:39,Costa do Marfim,7,11,ER,Souleyman Diabate
-Q1,3:39,China,7,11,BR,Qi Zhou
-Q1,4:08,China,7,11,AS,Ailun Guo
-Q1,4:08,China,7,11,3_Pts_C,Qi Zhou
-Q1,4:14,Costa do Marfim,7,8,FC,Souleyman Diabate
-Q1,4:14,China,7,8,substituicao_entra,Shuo Fang
-Q1,4:14,China,7,8,substituicao_sai,Jiwei Zhao
-Q1,4:14,China,7,8,FR,Jiwei Zhao
-Q1,4:38,Costa do Marfim,7,8,2_Pts_C,Frejus Zerbo
-Q1,4:58,Costa do Marfim,5,8,substituicao_entra,Frejus Zerbo
-Q1,4:58,Costa do Marfim,5,8,substituicao_sai,Mohamed Kone
-Q1,4:58,Costa do Marfim,5,8,FR,Mohamed Kone
-Q1,4:58,Costa do Marfim,5,8,BR,Guy Landry Edi
-Q1,4:58,China,5,8,substituicao_entra,Zhelin Wang
-Q1,4:58,China,5,8,substituicao_sai,Jianlian Yi
-Q1,4:58,China,5,8,FC,Xiaochuan Zhai
-Q1,4:58,China,5,8,ER,Jiwei Zhao
-Q1,5:02,Costa do Marfim,5,8,2_Pts_T,Mohamed Kone
-Q1,5:02,China,5,8,RD,Xiaochuan Zhai
-Q1,5:09,Costa do Marfim,5,8,RO,Mohamed Kone
-Q1,5:09,Costa do Marfim,5,8,2_Pts_T,Guy Landry Edi
-Q1,5:33,Costa do Marfim,5,8,RD,Mohamed Kone
-Q1,5:33,China,5,8,2_Pts_T,Ailun Guo
-Q1,5:51,Costa do Marfim,5,8,2_Pts_T,Deon Thompson
-Q1,5:51,China,5,8,RD,Qi Zhou
-Q1,5:56,Costa do Marfim,5,8,RO,Deon Thompson
-Q1,5:56,Costa do Marfim,5,8,2_Pts_T,Mohamed Kone
-Q1,6:12,China,5,8,AS,Ailun Guo
-Q1,6:12,China,5,8,2_Pts_C,Xiaochuan Zhai
-Q1,6:20,Costa do Marfim,5,6,2_Pts_T,Charles Abouo
-Q1,6:20,China,5,6,RD,Ailun Guo
-Q1,6:26,Costa do Marfim,5,6,BR,Deon Thompson
-Q1,6:26,China,5,6,ER,Jianlian Yi
-Q1,6:37,Costa do Marfim,5,6,3_Pts_T,Deon Thompson
-Q1,6:37,China,5,6,RD,Qi Zhou
-Q1,6:45,Costa do Marfim,5,6,RD,Charles Abouo
-Q1,6:45,China,5,6,2_Pts_T,Jianlian Yi
-Q1,7:10,Costa do Marfim,5,6,3_Pts_C,Souleyman Diabate
-Q1,7:28,Costa do Marfim,2,4,FC,Mohamed Kone
-Q1,7:28,China,2,6,LL_Pts_C,Jianlian Yi
-Q1,7:28,China,2,5,LL_Pts_C,Jianlian Yi
-Q1,7:28,China,2,4,FR,Jianlian Yi
-Q1,7:30,China,2,4,RO,Jianlian Yi
-Q1,7:30,China,2,4,2_Pts_T,Ailun Guo
-Q1,7:55,Costa do Marfim,2,4,AS,Guy Landry Edi
-Q1,7:55,Costa do Marfim,2,4,2_Pts_C,Mohamed Kone
-Q1,8:01,China,0,4,2_Pts_C,Ailun Guo
-Q1,8:18,China,0,2,RO,Xiaochuan Zhai
-Q1,8:18,China,0,2,3_Pts_T,Qi Zhou
-Q1,8:21,Costa do Marfim,0,2,FC,Mohamed Kone
-Q1,8:21,Costa do Marfim,0,2,FC,Guy Landry Edi
-Q1,8:21,China,0,2,FR,Jiwei Zhao
-Q1,8:21,China,0,2,FR,Xiaochuan Zhai
-Q1,8:21,China,0,2,RO,
-Q1,8:21,China,0,2,2_Pts_T,Jianlian Yi
-Q1,8:43,Costa do Marfim,0,2,2_Pts_T,Souleyman Diabate
-Q1,8:43,China,0,2,RD,Jiwei Zhao
-Q1,8:52,Costa do Marfim,0,2,RO,Mohamed Kone
-Q1,8:52,Costa do Marfim,0,2,3_Pts_T,Charles Abouo
-Q1,9:15,China,0,2,2_Pts_C,Xiaochuan Zhai
-Q1,9:20,China,0,0,RO,Xiaochuan Zhai
-Q1,9:20,China,0,0,2_Pts_T,Ailun Guo
-Q1,9:35,China,0,0,RO,Xiaochuan Zhai
-Q1,9:35,China,0,0,3_Pts_T,Jiwei Zhao
-Q2,0:01,China,29,29,RO,Ailun Guo
-Q2,0:01,China,29,29,2_Pts_T,Qi Zhou
-Q2,0:23,Costa do Marfim,29,29,ER ,
-Q2,0:26,Costa do Marfim,29,29,RO,Guy Landry Edi
-Q2,0:26,Costa do Marfim,29,29,2_Pts_T,Souleyman Diabate
-Q2,0:54,China,29,29,AS,Ailun Guo
-Q2,0:54,China,29,29,2_Pts_C,Qi Zhou
-Q2,10:00,Costa do Marfim,0,0,muda_bola,
-Q2,1:14,Costa do Marfim,29,27,substituicao_entra,Vafessa Fofana
-Q2,1:14,Costa do Marfim,29,27,substituicao_sai,Frejus Zerbo
-Q2,1:14,Costa do Marfim,29,27,FC,Frejus Zerbo
-Q2,1:14,Costa do Marfim,29,27,3_Pts_T,Charles Abouo
-Q2,1:14,China,29,27,tempo_tecnico,
-Q2,1:14,China,29,27,FR,Qi Zhou
-Q2,1:14,China,29,27,RD,
-Q2,1:22,Costa do Marfim,29,27,RO,Deon Thompson
-Q2,1:22,Costa do Marfim,29,27,3_Pts_T,Souleyman Diabate
-Q2,1:41,China,29,27,2_Pts_C,Ailun Guo
-Q2,1:59,Costa do Marfim,29,25,AS,Souleyman Diabate
-Q2,1:59,Costa do Marfim,29,25,3_Pts_C,Charles Abouo
-Q2,2:17,Costa do Marfim,26,25,RD,Frejus Zerbo
-Q2,2:17,China,26,25,2_Pts_T,Zhelin Wang
-Q2,2:33,Costa do Marfim,26,25,substituicao_entra,Frejus Zerbo
-Q2,2:33,Costa do Marfim,26,25,substituicao_sai,Vafessa Fofana
-Q2,2:33,Costa do Marfim,26,25,ER,Vafessa Fofana
-Q2,2:38,Costa do Marfim,26,25,RD,Vafessa Fofana
-Q2,2:38,China,26,25,3_Pts_T,Ailun Guo
-Q2,2:56,Costa do Marfim,26,25,3_Pts_T,Charles Abouo
-Q2,2:56,China,26,25,RD,Zhelin Wang
-Q2,3:14,China,26,25,AS,Ailun Guo
-Q2,3:14,China,26,25,2_Pts_C,Xiaochuan Zhai
-Q2,3:23,Costa do Marfim,26,23,ER,Deon Thompson
-Q2,3:23,China,26,23,BR,Ailun Guo
-Q2,3:44,China,26,23,2_Pts_C,Ailun Guo
-Q2,4:01,Costa do Marfim,26,21,LL_Pts_C,Charles Abouo
-Q2,4:01,Costa do Marfim,25,21,LL_Pts_C,Charles Abouo
-Q2,4:01,Costa do Marfim,24,21,AS,Vafessa Fofana
-Q2,4:01,Costa do Marfim,24,21,LL_Pts_C,Charles Abouo
-Q2,4:01,Costa do Marfim,23,21,substituicao_entra,Guy Landry Edi
-Q2,4:01,Costa do Marfim,23,21,substituicao_sai,Tiegbe Bamba
-Q2,4:01,Costa do Marfim,23,21,substituicao_entra,Souleyman Diabate
-Q2,4:01,Costa do Marfim,23,21,substituicao_sai,Bryan Pamba
-Q2,4:01,Costa do Marfim,23,21,FR,Charles Abouo
-Q2,4:01,China,23,21,FC,Ailun Guo
-Q2,4:21,China,23,21,2_Pts_C,Ailun Guo
-Q2,4:30,Costa do Marfim,23,19,tempo_tecnico,
-Q2,4:30,Costa do Marfim,23,19,FC,Charles Abouo
-Q2,4:30,China,23,19,substituicao_entra,Zhelin Wang
-Q2,4:30,China,23,19,substituicao_sai,Jianlian Yi
-Q2,4:30,China,23,19,FR,Qi Zhou
-Q2,4:41,Costa do Marfim,23,19,2_Pts_T,Bryan Pamba
-Q2,4:41,China,23,19,RD,Jianlian Yi
-Q2,4:59,China,23,19,AS,Jiwei Zhao
-Q2,4:59,China,23,19,2_Pts_C,Xiaochuan Zhai
-Q2,5:23,Costa do Marfim,23,17,AS,Bryan Pamba
-Q2,5:23,Costa do Marfim,23,17,2_Pts_C,Vafessa Fofana
-Q2,5:32,Costa do Marfim,21,17,RD,Bryan Pamba
-Q2,5:32,China,21,17,3_Pts_T,Qi Zhou
-Q2,5:46,China,21,17,tempo_tecnico,
-Q2,5:47,Costa do Marfim,21,17,AS,Bryan Pamba
-Q2,5:47,Costa do Marfim,21,17,3_Pts_C,Tiegbe Bamba
-Q2,5:54,Costa do Marfim,18,17,RD,Bryan Pamba
-Q2,5:54,China,18,17,2_Pts_T,Jiwei Zhao
-Q2,6:13,Costa do Marfim,18,17,2_Pts_T,Charles Abouo
-Q2,6:13,China,18,17,RD,Xiaochuan Zhai
-Q2,6:24,Costa do Marfim,18,17,FR,Charles Abouo
-Q2,6:24,China,18,17,FC,Ailun Guo
-Q2,6:31,Costa do Marfim,18,17,substituicao_entra,Deon Thompson
-Q2,6:31,Costa do Marfim,18,17,substituicao_sai,Mohamed Kone
-Q2,6:32,China,18,17,ER,Jianlian Yi
-Q2,6:43,Costa do Marfim,18,17,FC,Tiegbe Bamba
-Q2,6:43,China,18,17,FR,Ailun Guo
-Q2,6:54,Costa do Marfim,18,17,3_Pts_T,Vafessa Fofana
-Q2,6:54,China,18,17,RD,Xiaochuan Zhai
-Q2,7:10,Costa do Marfim,18,17,RD,
-Q2,7:10,Costa do Marfim,18,16,FC,Charles Abouo
-Q2,7:10,Costa do Marfim,18,16,ER,Vafessa Fofana
-Q2,7:10,China,18,17,LL_Pts_T,Qi Zhou
-Q2,7:10,China,18,17,AS,Jianlian Yi
-Q2,7:10,China,18,17,LL_Pts_C,Qi Zhou
-Q2,7:10,China,18,16,FR,Qi Zhou
-Q2,7:10,China,18,16,BR,Jiwei Zhao
-Q2,7:14,China,18,16,substituicao_entra,Jiwei Zhao
-Q2,7:14,China,18,16,substituicao_sai,Rui Zhao
-Q2,7:17,Costa do Marfim,18,16,FR,Bryan Pamba
-Q2,7:17,Costa do Marfim,18,16,RD,
-Q2,7:17,China,18,16,FC,Qi Zhou
-Q2,7:17,China,18,16,2_Pts_T,Ailun Guo
-Q2,7:26,Costa do Marfim,18,16,2_Pts_T,Bryan Pamba
-Q2,7:26,China,18,16,RD,Jianlian Yi
-Q2,7:39,Costa do Marfim,18,16,RO,Bryan Pamba
-Q2,7:39,Costa do Marfim,18,16,3_Pts_T,Vafessa Fofana
-Q2,7:48,Costa do Marfim,18,16,substituicao_entra,Mohamed Kone
-Q2,7:48,Costa do Marfim,18,16,substituicao_sai,Frejus Zerbo
-Q2,7:48,Costa do Marfim,18,16,RO,
-Q2,7:48,China,18,16,substituicao_entra,Qi Zhou
-Q2,7:48,China,18,16,substituicao_sai,Zhelin Wang
-Q2,7:49,Costa do Marfim,18,16,2_Pts_T,Bryan Pamba
-Q2,8:08,China,18,16,AS,Ailun Guo
-Q2,8:08,China,18,16,2_Pts_C,Zhelin Wang
-Q2,8:30,Costa do Marfim,18,14,2_Pts_T,Tiegbe Bamba
-Q2,8:30,China,18,14,RD,Zhelin Wang
-Q2,8:42,China,18,14,ER ,
-Q2,8:54,Costa do Marfim,18,14,substituicao_entra,Charles Abouo
-Q2,8:54,Costa do Marfim,18,14,substituicao_sai,Souleyman Diabate
-Q2,8:54,China,18,14,substituicao_entra,Xiaochuan Zhai
-Q2,8:54,China,18,14,substituicao_sai,Shuo Fang
-Q2,9:10,Costa do Marfim,18,14,AS,Vafessa Fofana
-Q2,9:10,Costa do Marfim,18,14,2_Pts_C,Souleyman Diabate
-Q2,9:18,Costa do Marfim,0,0,RD,Frejus Zerbo
-Q2,9:18,China,0,0,3_Pts_T,Shuo Fang
-Q2,9:40,Costa do Marfim,0,0,ER,Souleyman Diabate
-Q3,0:00,Costa do Marfim,41,51,3_Pts_T,Bryan Pamba
-Q3,0:03,China,41,51,AS,Rui Zhao
-Q3,0:03,China,41,51,2_Pts_C,Qi Zhou
-Q3,0:20,Costa do Marfim,41,49,ER ,
-Q3,0:35,Costa do Marfim,41,49,LL_Pts_C,Vafessa Fofana
-Q3,0:35,Costa do Marfim,40,49,LL_Pts_C,Vafessa Fofana
-Q3,0:35,Costa do Marfim,39,49,FR,Vafessa Fofana
-Q3,0:35,China,39,49,FC_A,Qi Zhou
-Q3,0:53,Costa do Marfim,39,49,RD,Bryan Pamba
-Q3,0:53,China,39,49,2_Pts_T,Jianlian Yi
-Q3,10:00,China,0,0,muda_bola,
-Q3,1:14,Costa do Marfim,39,49,2_Pts_T,Vafessa Fofana
-Q3,1:14,China,39,49,RD,Qi Zhou
-Q3,1:35,Costa do Marfim,39,49,RD,Deon Thompson
-Q3,1:35,China,39,49,2_Pts_T,Jiwei Zhao
-Q3,1:45,Costa do Marfim,39,49,tempo_tecnico,
-Q3,1:45,Costa do Marfim,39,49,ER,Deon Thompson
-Q3,1:45,China,39,49,substituicao_entra,Jianlian Yi
-Q3,1:45,China,39,49,substituicao_sai,Zhelin Wang
-Q3,2:03,Costa do Marfim,39,48,FC,Deon Thompson
-Q3,2:03,China,39,49,LL_Pts_C,Rui Zhao
-Q3,2:03,China,39,48,FR,Rui Zhao
-Q3,2:03,China,39,48,2_Pts_C,Rui Zhao
-Q3,2:14,Costa do Marfim,39,46,substituicao_entra,Vafessa Fofana
-Q3,2:14,Costa do Marfim,39,46,substituicao_sai,Frejus Zerbo
-Q3,2:14,Costa do Marfim,39,46,FC_O,Frejus Zerbo
-Q3,2:14,China,39,46,substituicao_entra,Jiwei Zhao
-Q3,2:14,China,39,46,substituicao_sai,Ailun Guo
-Q3,2:14,China,39,46,FR,Zhelin Wang
-Q3,2:30,China,39,46,AS,Ailun Guo
-Q3,2:30,China,39,46,2_Pts_C,Zhelin Wang
-Q3,2:51,Costa do Marfim,39,44,AS,Bryan Pamba
-Q3,2:51,Costa do Marfim,39,44,EN,Deon Thompson
-Q3,2:58,Costa do Marfim,37,44,RO,Bryan Pamba
-Q3,2:58,Costa do Marfim,37,44,2_Pts_T,Guy Landry Edi
-Q3,3:07,Costa do Marfim,37,44,substituicao_entra,Frejus Zerbo
-Q3,3:07,Costa do Marfim,37,44,substituicao_sai,Mohamed Kone
-Q3,3:07,Costa do Marfim,37,44,RO,
-Q3,3:07,Costa do Marfim,37,44,2_Pts_T,Deon Thompson
-Q3,3:07,China,37,44,substituicao_entra,Shuo Fang
-Q3,3:07,China,37,44,substituicao_sai,Xiaochuan Zhai
-Q3,3:07,China,37,44,TO,Qi Zhou
-Q3,3:29,China,37,44,2_Pts_C,Ailun Guo
-Q3,3:46,Costa do Marfim,37,42,substituicao_entra,Tiegbe Bamba
-Q3,3:46,Costa do Marfim,37,42,substituicao_sai,Souleyman Diabate
-Q3,3:46,China,37,42,substituicao_entra,Rui Zhao
-Q3,3:46,China,37,42,substituicao_sai,Jiwei Zhao
-Q3,3:46,China,37,42,RD,
-Q3,3:48,Costa do Marfim,37,42,2_Pts_T,Deon Thompson
-Q3,4:02,China,37,42,2_Pts_C,Zhelin Wang
-Q3,4:06,Costa do Marfim,37,40,2_Pts_T,Deon Thompson
-Q3,4:06,China,37,40,RD,Qi Zhou
-Q3,4:13,Costa do Marfim,37,40,RO,Deon Thompson
-Q3,4:13,Costa do Marfim,37,40,2_Pts_T,Guy Landry Edi
-Q3,4:29,Costa do Marfim,37,40,RO,
-Q3,4:29,China,37,40,substituicao_entra,Zhelin Wang
-Q3,4:29,China,37,40,substituicao_sai,Jianlian Yi
-Q3,4:32,Costa do Marfim,37,40,2_Pts_T,Mohamed Kone
-Q3,4:43,China,37,40,2_Pts_C,Ailun Guo
-Q3,4:48,Costa do Marfim,37,38,ER,Souleyman Diabate
-Q3,4:48,China,37,38,BR,Xiaochuan Zhai
-Q3,4:57,Costa do Marfim,37,38,RO,Mohamed Kone
-Q3,4:57,Costa do Marfim,37,38,2_Pts_T,Souleyman Diabate
-Q3,5:15,China,37,38,ER,Jianlian Yi
-Q3,5:28,Costa do Marfim,37,38,substituicao_entra,Bryan Pamba
-Q3,5:28,Costa do Marfim,37,38,substituicao_sai,Charles Abouo
-Q3,5:28,Costa do Marfim,37,38,FC,Charles Abouo
-Q3,5:28,China,37,38,FR,Xiaochuan Zhai
-Q3,5:37,Costa do Marfim,37,38,AS,Charles Abouo
-Q3,5:37,Costa do Marfim,37,38,3_Pts_C,Guy Landry Edi
-Q3,6:01,China,34,38,2_Pts_C,Jianlian Yi
-Q3,6:04,China,34,36,RO,Jianlian Yi
-Q3,6:04,China,34,36,2_Pts_T,Qi Zhou
-Q3,6:23,Costa do Marfim,34,36,AS,Souleyman Diabate
-Q3,6:23,Costa do Marfim,34,36,3_Pts_C,Guy Landry Edi
-Q3,6:33,Costa do Marfim,31,36,RO,Souleyman Diabate
-Q3,6:33,Costa do Marfim,31,36,2_Pts_T,Mohamed Kone
-Q3,6:54,China,31,36,ER,Jianlian Yi
-Q3,6:58,Costa do Marfim,31,36,ER,Guy Landry Edi
-Q3,6:58,China,31,36,BR,Xiaochuan Zhai
-Q3,7:06,Costa do Marfim,31,36,RD,Mohamed Kone
-Q3,7:06,Costa do Marfim,31,35,FC,Mohamed Kone
-Q3,7:06,China,31,36,LL_Pts_T,Ailun Guo
-Q3,7:06,China,31,36,LL_Pts_C,Ailun Guo
-Q3,7:06,China,31,35,FR,Ailun Guo
-Q3,7:23,Costa do Marfim,31,35,AS,Deon Thompson
-Q3,7:23,Costa do Marfim,31,35,2_Pts_C,Mohamed Kone
-Q3,7:50,China,29,35,AS,Jiwei Zhao
-Q3,7:50,China,29,35,2_Pts_C,Qi Zhou
-Q3,7:58,Costa do Marfim,29,33,2_Pts_T,Souleyman Diabate
-Q3,7:58,China,29,33,RD,Jianlian Yi
-Q3,8:06,Costa do Marfim,29,33,RD,Mohamed Kone
-Q3,8:06,China,29,33,2_Pts_T,Qi Zhou
-Q3,8:16,Costa do Marfim,29,33,ER,Charles Abouo
-Q3,8:16,China,29,33,BR,Ailun Guo
-Q3,8:39,Costa do Marfim,29,31,FC,Deon Thompson
-Q3,8:39,China,29,33,LL_Pts_C,Jianlian Yi
-Q3,8:39,China,29,32,LL_Pts_C,Jianlian Yi
-Q3,8:39,China,29,31,FR,Jianlian Yi
-Q3,8:54,Costa do Marfim,29,31,2_Pts_T,Deon Thompson
-Q3,8:54,China,29,31,RD,Qi Zhou
-Q3,9:09,Costa do Marfim,29,31,RD,Mohamed Kone
-Q3,9:09,China,29,31,2_Pts_T,Ailun Guo
-Q3,9:22,Costa do Marfim,29,31,3_Pts_T,Mohamed Kone
-Q3,9:22,China,29,31,RD,Jianlian Yi
-Q3,9:35,Costa do Marfim,29,31,FR,Deon Thompson
-Q3,9:35,China,29,31,FC,Xiaochuan Zhai
-Q3,9:47,China,29,31,2_Pts_C,Jianlian Yi
-Q4,0:00,Costa do Marfim,55,70,3_Pts_C,Vafessa Fofana
-Q4,0:06,Costa do Marfim,52,70,BR,Deon Thompson
-Q4,0:06,China,52,70,ER,Rui Zhao
-Q4,0:24,Costa do Marfim,52,70,LL_Pts_T,Guy Landry Edi
-Q4,0:24,Costa do Marfim,52,70,LL_Pts_C,Guy Landry Edi
-Q4,0:24,Costa do Marfim,51,70,FR,Guy Landry Edi
-Q4,0:24,China,52,70,RD,Xiaochuan Zhai
-Q4,0:24,China,51,70,substituicao_entra,Shuo Fang
-Q4,0:24,China,51,70,substituicao_sai,Ailun Guo
-Q4,0:24,China,51,70,FC,Rui Zhao
-Q4,0:28,China,51,70,2_Pts_C,Jianlian Yi
-Q4,0:49,Costa do Marfim,51,68,2_Pts_T,Deon Thompson
-Q4,0:49,China,51,68,RD,Jiwei Zhao
-Q4,10:00,Costa do Marfim,0,0,muda_bola,
-Q4,1:09,Costa do Marfim,51,68,substituicao_entra,Vafessa Fofana
-Q4,1:09,Costa do Marfim,51,68,substituicao_sai,Mohamed Kone
-Q4,1:09,China,51,68,2_Pts_C,Ailun Guo
-Q4,1:29,Costa do Marfim,51,66,3_Pts_T,Guy Landry Edi
-Q4,1:29,China,51,66,RD,Xiaochuan Zhai
-Q4,1:36,Costa do Marfim,51,66,tempo_tecnico,
-Q4,1:36,China,51,66,substituicao_entra,Xiaochuan Zhai
-Q4,1:36,China,51,66,substituicao_sai,Qi Zhou
-Q4,1:37,China,51,66,AS,Ailun Guo
-Q4,1:37,China,51,66,EN,Qi Zhou
-Q4,1:54,Costa do Marfim,51,64,ER,Deon Thompson
-Q4,2:06,China,51,64,AS,Jiwei Zhao
-Q4,2:06,China,51,64,EN,Jianlian Yi
-Q4,2:17,Costa do Marfim,51,62,tempo_tecnico,
-Q4,2:17,Costa do Marfim,51,62,3_Pts_T,Mohamed Kone
-Q4,2:17,China,51,62,RD,
-Q4,2:39,China,51,62,2_Pts_C,Jianlian Yi
-Q4,2:59,Costa do Marfim,51,60,2_Pts_T,Souleyman Diabate
-Q4,2:59,China,51,60,RD,Qi Zhou
-Q4,3:09,Costa do Marfim,51,60,RD,Guy Landry Edi
-Q4,3:09,China,51,60,3_Pts_T,Rui Zhao
-Q4,3:25,Costa do Marfim,51,60,LL_Pts_C,Guy Landry Edi
-Q4,3:25,Costa do Marfim,50,60,FR,Guy Landry Edi
-Q4,3:25,Costa do Marfim,50,60,2_Pts_C,Guy Landry Edi
-Q4,3:25,China,50,60,FC,Rui Zhao
-Q4,3:34,China,48,60,AS,Ailun Guo
-Q4,3:34,China,48,60,2_Pts_C,Jianlian Yi
-Q4,3:58,Costa do Marfim,48,58,substituicao_entra,Tiegbe Bamba
-Q4,3:58,Costa do Marfim,48,58,substituicao_sai,Vafessa Fofana
-Q4,3:58,Costa do Marfim,48,58,LL_Pts_C,Vafessa Fofana
-Q4,3:58,Costa do Marfim,47,58,LL_Pts_T,Vafessa Fofana
-Q4,3:58,Costa do Marfim,47,58,FR,Vafessa Fofana
-Q4,3:58,Costa do Marfim,47,58,RO,
-Q4,3:58,China,47,58,FC,Ailun Guo
-Q4,3:59,Costa do Marfim,47,58,3_Pts_T,Souleyman Diabate
-Q4,4:15,Costa do Marfim,47,56,FC,Deon Thompson
-Q4,4:15,China,47,58,LL_Pts_C,Jiwei Zhao
-Q4,4:15,China,47,57,LL_Pts_C,Jiwei Zhao
-Q4,4:15,China,47,56,FR,Jiwei Zhao
-Q4,4:16,Costa do Marfim,47,56,ER,Vafessa Fofana
-Q4,4:16,China,47,56,BR,Jiwei Zhao
-Q4,4:29,Costa do Marfim,47,56,RD,Deon Thompson
-Q4,4:29,China,47,56,3_Pts_T,Jianlian Yi
-Q4,4:43,Costa do Marfim,47,56,ER ,
-Q4,4:45,Costa do Marfim,47,56,2_Pts_T,Mohamed Kone
-Q4,4:45,China,47,56,TO,Qi Zhou
-Q4,5:08,Costa do Marfim,47,56,RD,Guy Landry Edi
-Q4,5:08,Costa do Marfim,47,56,substituicao_entra,Guy Landry Edi
-Q4,5:08,Costa do Marfim,47,56,substituicao_sai,Bryan Pamba
-Q4,5:08,Costa do Marfim,47,56,FC,Deon Thompson
-Q4,5:08,China,47,56,LL_Pts_T,Jianlian Yi
-Q4,5:08,China,47,56,LL_Pts_T,Jianlian Yi
-Q4,5:08,China,47,56,FR,Jianlian Yi
-Q4,5:10,Costa do Marfim,47,56,ER,Vafessa Fofana
-Q4,5:10,China,47,56,BR,Jianlian Yi
-Q4,5:20,China,47,56,ER ,
-Q4,5:36,China,47,56,RO,Ailun Guo
-Q4,5:36,China,47,56,2_Pts_T,Jianlian Yi
-Q4,5:59,China,47,56,substituicao_entra,Jiwei Zhao
-Q4,5:59,China,47,56,substituicao_sai,Shuo Fang
-Q4,5:59,China,47,56,tempo_tecnico,
-Q4,6:01,Costa do Marfim,47,56,2_Pts_C,Mohamed Kone
-Q4,6:18,Costa do Marfim,45,56,RD,Vafessa Fofana
-Q4,6:18,China,45,56,2_Pts_T,Ailun Guo
-Q4,6:22,Costa do Marfim,45,56,ER,Vafessa Fofana
-Q4,6:22,China,45,56,BR,Rui Zhao
-Q4,6:31,Costa do Marfim,45,56,RD,Deon Thompson
-Q4,6:31,China,45,56,3_Pts_T,Ailun Guo
-Q4,6:54,Costa do Marfim,45,56,LL_Pts_C,Mohamed Kone
-Q4,6:54,Costa do Marfim,44,56,LL_Pts_C,Mohamed Kone
-Q4,6:54,Costa do Marfim,43,56,FR,Mohamed Kone
-Q4,6:54,China,43,56,FC,Shuo Fang
-Q4,6:57,Costa do Marfim,43,56,LL_Pts_C,Deon Thompson
-Q4,6:57,Costa do Marfim,42,56,LL_Pts_T,Deon Thompson
-Q4,6:57,Costa do Marfim,42,56,FR,Deon Thompson
-Q4,6:57,China,42,56,FC_A,Jianlian Yi
-Q4,7:09,China,42,56,2_Pts_C,Ailun Guo
-Q4,7:28,Costa do Marfim,42,54,LL_Pts_T,Mohamed Kone
-Q4,7:28,Costa do Marfim,42,54,LL_Pts_C,Mohamed Kone
-Q4,7:28,Costa do Marfim,41,54,FR,Mohamed Kone
-Q4,7:28,China,42,54,RD,Jianlian Yi
-Q4,7:28,China,41,54,FC,Jianlian Yi
-Q4,7:29,Costa do Marfim,41,54,RO,Mohamed Kone
-Q4,7:29,Costa do Marfim,41,54,EN Errada,Vafessa Fofana
-Q4,7:46,Costa do Marfim,41,54,RD,Vafessa Fofana
-Q4,7:46,Costa do Marfim,41,53,FC,Souleyman Diabate
-Q4,7:46,China,41,54,LL_Pts_T,Jianlian Yi
-Q4,7:46,China,41,54,AS,Qi Zhou
-Q4,7:46,China,41,54,LL_Pts_C,Jianlian Yi
-Q4,7:46,China,41,53,substituicao_entra,Ailun Guo
-Q4,7:46,China,41,53,substituicao_sai,Jiwei Zhao
-Q4,7:46,China,41,53,FR,Jianlian Yi
-Q4,7:59,Costa do Marfim,41,53,2_Pts_T,Mohamed Kone
-Q4,7:59,China,41,53,RD,Jianlian Yi
-Q4,8:12,China,41,53,ER,Rui Zhao
-Q4,8:23,Costa do Marfim,41,53,substituicao_entra,Souleyman Diabate
-Q4,8:23,Costa do Marfim,41,53,substituicao_sai,Tiegbe Bamba
-Q4,8:23,Costa do Marfim,41,53,FC_O,Tiegbe Bamba
-Q4,8:23,China,41,53,FR,Jiwei Zhao
-Q4,8:42,China,41,53,AS,Jiwei Zhao
-Q4,8:42,China,41,53,2_Pts_C,Jianlian Yi
-Q4,8:55,Costa do Marfim,0,0,FC,Tiegbe Bamba
-Q4,8:55,China,0,0,FR,Shuo Fang
-Q4,9:09,Costa do Marfim,0,0,ER ,
-Q4,9:09,Costa do Marfim,0,0,2_Pts_T,Bryan Pamba
-Q4,9:23,Costa do Marfim,0,0,FR,Tiegbe Bamba
-Q4,9:23,Costa do Marfim,0,0,RO,
-Q4,9:23,Costa do Marfim,0,0,3_Pts_T,Deon Thompson
-Q4,9:23,China,0,0,substituicao_entra,Qi Zhou
-Q4,9:23,China,0,0,substituicao_sai,Zhelin Wang
-Q4,9:23,China,0,0,FC,Zhelin Wang
-Q4,9:37,Costa do Marfim,0,0,FR,Tiegbe Bamba
-Q4,9:37,Costa do Marfim,0,0,RO,Tiegbe Bamba
-Q4,9:37,China,0,0,FC,Zhelin Wang
-Q4,9:40,Costa do Marfim,0,0,3_Pts_T,Bryan Pamba
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Inf_2
+Q1,0:00,Angola,17,17,Jaques Conceicao;personal foul 3 free throws awarded
+Q1,0:00,Iran,17,19,Sajjad Mashayekhi;3rd of 3 free throws made
+Q1,0:00,Iran,17,18,Sajjad Mashayekhi;2nd of 3 free throws missed
+Q1,0:00,Iran,17,18,Behnam Yakhchalidehkordi;made the assist
+Q1,0:00,Iran,17,18,Sajjad Mashayekhi;1st of 3 free throws made
+Q1,0:00,Iran,17,17,Sajjad Mashayekhi;foul drawn
+Q1,0:17,Angola,17,17,Reggie Moore;3pt jump shot missed
+Q1,0:17,Iran,17,17,Sajjad Mashayekhi;defensive rebound
+Q1,0:38,Angola,17,17,Jaques Conceicao;foul drawn
+Q1,0:38,Iran,17,17,Arman Zangeneh;Substitution in
+Q1,0:38,Iran,17,17,Mohammad Hassanzadeh;Substitution out
+Q1,0:38,Iran,17,17,Sajjad Mashayekhi;personal foul
+Q1,0:44,Iran,17,17,Behnam Yakhchalidehkordi;made the assist
+Q1,0:44,Iran,17,17,Aaron Geramipoor;layup made
+Q1,10:00,Iran,0,0,Hamed Haddadi;jump ball won
+Q1,1:10,Angola,17,15,Reggie Moore;made the assist
+Q1,1:10,Angola,17,15,Leonel Paulo;3pt jump shot made
+Q1,1:18,Angola,14,15,Reggie Moore;defensive rebound
+Q1,1:25,Angola,14,15,Jaques Conceicao;Substitution in
+Q1,1:25,Angola,14,15,Carlos Morais;Substitution out
+Q1,1:25,Angola,14,15,Carlos Morais;personal foul 2 free throws awarded
+Q1,1:25,Iran,14,15,Mohammad Hassanzadeh;2nd of 2 free throws missed
+Q1,1:25,Iran,14,15,Mohammad Hassanzadeh;1st of 2 free throws missed
+Q1,1:25,Iran,14,15,Sajjad Mashayekhi;Substitution in
+Q1,1:25,Iran,14,15,Mohammad Jamshidijafarabadi;Substitution out
+Q1,1:25,Iran,14,15,Mohammad Hassanzadeh;foul drawn
+Q1,1:25,Iran,14,15,Mohammad Hassanzadeh;offensive rebound
+Q1,1:25,Iran,14,15,Mohammad Jamshidijafarabadi;3pt jump shot missed
+Q1,1:46,Angola,14,15,Hermenegildo Divaldo Mbunga;3pt jump shot missed
+Q1,1:46,Iran,14,15,Behnam Yakhchalidehkordi;defensive rebound
+Q1,2:09,Angola,14,15,Reggie Moore;defensive rebound
+Q1,2:09,Iran,14,15,Aaron Geramipoor;2pt jump shot missed
+Q1,2:22,Angola,14,15,Reggie Moore;2pt hook shot missed
+Q1,2:22,Iran,14,15,Aaron Geramipoor;defensive rebound
+Q1,2:40,Iran,14,15,Mohammad Hassanzadeh;layup made
+Q1,3:03,Angola,14,13,Hermenegildo Divaldo Mbunga;Substitution in
+Q1,3:03,Angola,14,13,Yanick Moreira;Substitution out
+Q1,3:03,Angola,14,13,Leonel Paulo;2nd of 2 free throws made
+Q1,3:03,Angola,13,13,Leonel Paulo;1st of 2 free throws missed
+Q1,3:03,Angola,13,13,Leonel Paulo;foul drawn
+Q1,3:03,Iran,13,13,Aaron Geramipoor;Substitution in
+Q1,3:03,Iran,13,13,Hamed Haddadi;Substitution out
+Q1,3:03,Iran,13,13,Hamed Haddadi;personal foul 2 free throws awarded
+Q1,3:30,Iran,13,13,Mohammad Jamshidijafarabadi;2pt pullup jump shot made
+Q1,3:49,Angola,13,11,Leonel Paulo;Substitution in
+Q1,3:49,Angola,13,11,Jaques Conceicao;Substitution out
+Q1,3:49,Angola,13,11,Jerson Goncalves;Substitution in
+Q1,3:49,Angola,13,11,Jose Antonio;Substitution out
+Q1,3:49,Angola,13,11,Yanick Moreira;2pt driving layup made
+Q1,3:53,Angola,11,11,Yanick Moreira;defensive rebound
+Q1,3:53,Iran,11,11,Mohammad Hassanzadeh;2pt jump shot missed
+Q1,3:58,Iran,11,11,Mohammad Hassanzadeh;offensive rebound
+Q1,3:58,Iran,11,11,Mohammadsamad Nik Khahbahrami;3pt jump shot missed
+Q1,4:09,Angola,11,11,Jose Antonio;3pt jump shot missed
+Q1,4:09,Iran,11,11,Mohammad Jamshidijafarabadi;defensive rebound
+Q1,4:27,Angola,11,11,Carlos Morais;defensive rebound
+Q1,4:27,Iran,11,11,Mohammad Hassanzadeh;3pt jump shot missed
+Q1,4:46,Angola,11,11,Carlos Morais;2pt driving layup made
+Q1,4:50,Angola,9,11,Carlos Morais;steal
+Q1,4:50,Iran,9,11,Hamed Haddadi;turnover bad pass
+Q1,5:07,Angola,9,11,Carlos Morais;3pt jump shot made
+Q1,5:20,Iran,6,11,Hamed Haddadi;made the assist
+Q1,5:20,Iran,6,11,Mohammadsamad Nik Khahbahrami;3pt jump shot made
+Q1,5:27,Angola,6,8,Jose Antonio;personal foul
+Q1,5:27,Iran,6,8,Mohammadsamad Nik Khahbahrami;foul drawn
+Q1,5:36,Angola,6,8,Yanick Moreira;offensive foul
+Q1,5:36,Iran,6,8,Mohammad Hassanzadeh;foul drawn
+Q1,5:52,Angola,6,7,Reggie Moore;Substitution in
+Q1,5:52,Angola,6,7,Valdélicio Joaquim;Substitution out
+Q1,5:52,Angola,6,7,Valdélicio Joaquim;personal foul 2 free throws awarded
+Q1,5:52,Iran,6,8,Mohammad Jamshidijafarabadi;made the assist
+Q1,5:52,Iran,6,8,Hamed Haddadi;2nd of 2 free throws made
+Q1,5:52,Iran,6,7,Hamed Haddadi;1st of 2 free throws missed
+Q1,5:52,Iran,6,7,Hamed Haddadi;foul drawn
+Q1,5:53,Angola,6,7,Valdélicio Joaquim;personal foul
+Q1,5:53,Iran,6,7,Hamed Haddadi;foul drawn
+Q1,5:53,Iran,6,7,team offensive rebound
+Q1,5:53,Iran,6,7,Mohammadsamad Nik Khahbahrami;2pt jump shot missed
+Q1,6:07,Angola,6,7,Yanick Moreira;2pt turnaround jump shot missed
+Q1,6:07,Iran,6,7,Hamed Haddadi;defensive rebound
+Q1,6:27,Iran,6,7,Mohammad Jamshidijafarabadi;made the assist
+Q1,6:27,Iran,6,7,Behnam Yakhchalidehkordi;3pt jump shot made
+Q1,6:50,Angola,6,4,Jose Antonio;3rd of 3 free throws made
+Q1,6:50,Angola,5,4,Jose Antonio;2nd of 3 free throws missed
+Q1,6:50,Angola,5,4,Carlos Morais;made the assist
+Q1,6:50,Angola,5,4,Jose Antonio;1st of 3 free throws made
+Q1,6:50,Angola,4,4,Jose Antonio;foul drawn
+Q1,6:50,Iran,4,4,Mohammadsamad Nik Khahbahrami;personal foul 3 free throws awarded
+Q1,6:58,Angola,4,4,Valdélicio Joaquim;steal
+Q1,6:58,Iran,4,4,Hamed Haddadi;turnover ball handling
+Q1,7:17,Angola,4,4,Jaques Conceicao;2pt driving layup made
+Q1,7:21,Angola,2,4,Yanick Moreira;steal
+Q1,7:21,Iran,2,4,Mohammad Jamshidijafarabadi;turnover ball handling
+Q1,7:31,Angola,2,4,Jose Antonio;2pt pullup jump shot missed
+Q1,7:31,Iran,2,4,Mohammad Jamshidijafarabadi;defensive rebound
+Q1,7:46,Angola,2,4,Carlos Morais;defensive rebound
+Q1,7:46,Iran,2,4,Behnam Yakhchalidehkordi;3pt jump shot missed
+Q1,8:02,Angola,2,4,Carlos Morais;2pt pullup jump shot missed
+Q1,8:02,Iran,2,4,Mohammad Hassanzadeh;defensive rebound
+Q1,8:21,Iran,2,4,Hamed Haddadi;made the assist
+Q1,8:21,Iran,2,4,Mohammad Hassanzadeh;layup made
+Q1,8:33,Angola,2,2,Jaques Conceicao;3pt jump shot from center missed
+Q1,8:33,Iran,2,2,Hamed Haddadi;defensive rebound
+Q1,8:52,Angola,2,2,Yanick Moreira;foul drawn
+Q1,8:52,Angola,2,2,team defensive rebound
+Q1,8:52,Iran,2,2,Hamed Haddadi;personal foul
+Q1,8:53,Iran,2,2,Mohammadsamad Nik Khahbahrami;2pt jump shot from center missed
+Q1,9:12,Angola,2,2,Yanick Moreira;2pt turnaround jump shot made
+Q1,9:27,Angola,0,2,Yanick Moreira;offensive rebound
+Q1,9:27,Angola,0,2,Valdélicio Joaquim;2pt jump shot missed
+Q1,9:43,Iran,0,2,Mohammad Hassanzadeh;2pt driving layup made
+Q2,0:12,Angola,29,28,Jose Antonio;defensive rebound
+Q2,0:12,Iran,29,28,Behnam Yakhchalidehkordi;3pt jump shot from center missed
+Q2,0:35,Angola,29,28,Yanick Moreira;2pt hook shot missed
+Q2,0:35,Iran,29,28,Michael Rostampour;defensive rebound
+Q2,0:51,Iran,29,28,Mohammad Jamshidijafarabadi;made the assist
+Q2,0:51,Iran,29,28,Aaron Geramipoor;layup made
+Q2,10:00,Angola,0,0,jump ball situation throw-in
+Q2,1:14,Iran,29,26,Behnam Yakhchalidehkordi;Substitution in
+Q2,1:14,Iran,29,26,Hamed Hosseinzadeh;Substitution out
+Q2,1:14,Iran,29,26,Timeout
+Q2,1:15,Angola,29,26,Yanick Moreira;made the assist
+Q2,1:15,Angola,29,26,Reggie Moore;3pt jump shot made
+Q2,1:33,Angola,26,26,Jose Antonio;steal
+Q2,1:33,Iran,26,26,Aaron Geramipoor;turnover bad pass
+Q2,1:58,Angola,26,26,Jerson Goncalves;2pt driving layup made
+Q2,2:20,Iran,24,26,Mohammadsamad Nik Khahbahrami;made the assist
+Q2,2:20,Iran,24,26,Aaron Geramipoor;layup made
+Q2,2:27,Angola,24,24,Jose Antonio;personal foul
+Q2,2:27,Angola,24,21,Jaques Conceicao;Substitution in
+Q2,2:27,Angola,24,21,Valdélicio Joaquim;Substitution out
+Q2,2:27,Angola,24,21,Reggie Moore;Substitution in
+Q2,2:27,Angola,24,21,Carlos Morais;Substitution out
+Q2,2:27,Iran,24,24,Michael Rostampour;foul drawn
+Q2,2:27,Iran,24,24,Hamed Hosseinzadeh;made the assist
+Q2,2:27,Iran,24,24,Mohammadsamad Nik Khahbahrami;3pt jump shot made
+Q2,2:46,Angola,24,21,Jerson Goncalves;2pt pullup jump shot made
+Q2,2:58,Angola,22,21,Timeout
+Q2,2:59,Iran,22,21,Mohammadsamad Nik Khahbahrami;made the assist
+Q2,2:59,Iran,22,21,Aaron Geramipoor;layup made
+Q2,3:09,Angola,22,19,Jose Antonio;3pt jump shot missed
+Q2,3:09,Iran,22,19,Aaron Geramipoor;defensive rebound
+Q2,3:22,Angola,22,19,Yanick Moreira;offensive rebound
+Q2,3:22,Angola,22,19,Jerson Goncalves;2pt driving layup missed
+Q2,3:36,Angola,22,19,Yanick Moreira;foul drawn
+Q2,3:36,Angola,22,19,team defensive rebound
+Q2,3:36,Iran,22,19,Michael Rostampour;Substitution in
+Q2,3:36,Iran,22,19,Hamed Haddadi;Substitution out
+Q2,3:36,Iran,22,19,Hamed Haddadi;personal foul
+Q2,3:36,Iran,22,19,Mohammadsamad Nik Khahbahrami;2pt jump shot missed
+Q2,3:55,Angola,22,19,Valdélicio Joaquim;2pt jump shot missed
+Q2,3:55,Iran,22,19,Aaron Geramipoor;defensive rebound
+Q2,4:14,Iran,22,19,Hamed Haddadi;turnover travelling
+Q2,4:26,Iran,22,19,Mohammad Jamshidijafarabadi;offensive rebound
+Q2,4:26,Iran,22,19,Hamed Hosseinzadeh;2pt jump shot missed
+Q2,4:50,Angola,22,19,Jose Antonio;made the assist
+Q2,4:50,Angola,22,19,Carlos Morais;2pt driving layup made
+Q2,4:50,Iran,22,19,Mohammadsamad Nik Khahbahrami;Substitution in
+Q2,4:50,Iran,22,19,Behnam Yakhchalidehkordi;Substitution out
+Q2,4:50,Iran,22,19,Timeout
+Q2,4:54,Angola,20,19,Jose Antonio;steal
+Q2,4:54,Iran,20,19,Hamed Haddadi;turnover bad pass
+Q2,5:07,Angola,20,19,Yanick Moreira;2pt jump shot missed
+Q2,5:07,Iran,20,19,Aaron Geramipoor;defensive rebound
+Q2,5:33,Iran,20,19,Aaron Geramipoor;Substitution in
+Q2,5:33,Iran,20,19,Arman Zangeneh;Substitution out
+Q2,5:33,Iran,20,19,Hamed Haddadi;turnover travelling
+Q2,5:37,Angola,20,19,Jerson Goncalves;Substitution in
+Q2,5:37,Angola,20,19,Jaques Conceicao;Substitution out
+Q2,5:38,Angola,20,19,Jose Antonio;personal foul
+Q2,5:38,Iran,20,19,Mohammad Jamshidijafarabadi;foul drawn
+Q2,5:46,Angola,20,19,Yanick Moreira;turnover ball handling
+Q2,5:46,Iran,20,19,Arman Zangeneh;steal
+Q2,6:05,Angola,20,19,Yanick Moreira;defensive rebound
+Q2,6:05,Iran,20,19,Hamed Hosseinzadeh;3pt jump shot missed
+Q2,6:22,Angola,20,19,Carlos Morais;3pt jump shot missed
+Q2,6:22,Iran,20,19,Hamed Hosseinzadeh;defensive rebound
+Q2,6:35,Angola,20,19,Jose Antonio;Substitution in
+Q2,6:35,Angola,20,19,Leonel Paulo;Substitution out
+Q2,6:35,Angola,20,19,Jaques Conceicao;foul drawn
+Q2,6:35,Iran,20,19,Hamed Hosseinzadeh;Substitution in
+Q2,6:35,Iran,20,19,Sajjad Mashayekhi;Substitution out
+Q2,6:35,Iran,20,19,Sajjad Mashayekhi;offensive foul
+Q2,6:39,Angola,20,19,Carlos Morais;2pt floating jump shot missed
+Q2,6:39,Iran,20,19,Hamed Haddadi;defensive rebound
+Q2,6:46,Angola,20,19,Valdélicio Joaquim;steal
+Q2,6:46,Iran,20,19,Sajjad Mashayekhi;turnover bad pass
+Q2,7:10,Angola,20,19,Valdélicio Joaquim;3pt jump shot from center missed
+Q2,7:10,Iran,20,19,Sajjad Mashayekhi;defensive rebound
+Q2,7:29,Angola,20,19,Yanick Moreira;defensive rebound
+Q2,7:29,Angola,20,19,Leonel Paulo;blocked the shot
+Q2,7:29,Iran,20,19,Mohammad Jamshidijafarabadi;2pt driving layup blocked
+Q2,7:45,Angola,20,19,Leonel Paulo;2nd of 2 free throws made
+Q2,7:45,Angola,19,19,Leonel Paulo;1st of 2 free throws missed
+Q2,7:45,Angola,19,19,Yanick Moreira;Substitution in
+Q2,7:45,Angola,19,19,Reggie Moore;Substitution out
+Q2,7:45,Angola,19,19,Leonel Paulo;foul drawn
+Q2,7:45,Iran,19,19,Hamed Haddadi;Substitution in
+Q2,7:45,Iran,19,19,Aaron Geramipoor;Substitution out
+Q2,7:45,Iran,19,19,Sajjad Mashayekhi;Substitution in
+Q2,7:45,Iran,19,19,Mohammadsamad Nik Khahbahrami;Substitution out
+Q2,7:45,Iran,19,19,Mohammadsamad Nik Khahbahrami;personal foul 2 free throws awarded
+Q2,7:52,Angola,19,19,Leonel Paulo;defensive rebound
+Q2,7:52,Iran,19,19,Arman Zangeneh;3pt jump shot missed
+Q2,7:59,Angola,19,19,Jaques Conceicao;3pt jump shot missed
+Q2,7:59,Iran,19,19,Behnam Yakhchalidehkordi;defensive rebound
+Q2,8:24,Iran,19,19,team turnover 24 seconds violation
+Q2,8:49,Angola,19,19,Carlos Morais;offensive foul
+Q2,8:49,Iran,19,19,Mohammad Jamshidijafarabadi;Substitution in
+Q2,8:49,Iran,19,19,Sajjad Mashayekhi;Substitution out
+Q2,8:49,Iran,19,19,Sajjad Mashayekhi;foul drawn
+Q2,8:54,Angola,19,19,Carlos Morais;foul drawn
+Q2,8:54,Iran,19,19,Sajjad Mashayekhi;personal foul
+Q2,9:13,Iran,19,19,team turnover 24 seconds violation
+Q2,9:39,Angola,19,19,Carlos Morais;made the assist
+Q2,9:39,Angola,19,19,Valdélicio Joaquim;layup made
+Q3,0:12,Angola,45,48,Jaques Conceicao;turnover out of bounds
+Q3,0:32,Iran,45,48,Behnam Yakhchalidehkordi;made the assist
+Q3,0:32,Iran,45,48,Mohammadsamad Nik Khahbahrami;3pt jump shot from center made
+Q3,0:56,Angola,45,45,Reggie Moore;3pt jump shot missed
+Q3,0:56,Iran,45,45,Hamed Haddadi;defensive rebound
+Q3,10:00,Iran,0,0,jump ball situation throw-in
+Q3,1:10,Angola,45,45,Leonel Paulo;defensive rebound
+Q3,1:10,Angola,45,44,Reggie Moore;personal foul 2 free throws awarded
+Q3,1:10,Iran,45,45,Michael Rostampour;2nd of 2 free throws missed
+Q3,1:10,Iran,45,45,Michael Rostampour;1st of 2 free throws made
+Q3,1:10,Iran,45,44,Mohammadsamad Nik Khahbahrami;Substitution in
+Q3,1:10,Iran,45,44,Mohammad Jamshidijafarabadi;Substitution out
+Q3,1:10,Iran,45,44,Sajjad Mashayekhi;Substitution in
+Q3,1:10,Iran,45,44,Rasoul Mozafarivanani;Substitution out
+Q3,1:10,Iran,45,44,Michael Rostampour;foul drawn
+Q3,1:26,Angola,45,44,Jerson Goncalves;made the assist
+Q3,1:26,Angola,45,44,Valdélicio Joaquim
+Q3,1:43,Iran,42,44,team turnover 24 seconds violation
+Q3,2:10,Angola,42,44,Jerson Goncalves;made the assist
+Q3,2:10,Angola,42,44,Valdélicio Joaquim;2pt hook shot made
+Q3,2:25,Angola,40,42,Valdélicio Joaquim;Substitution in
+Q3,2:25,Angola,40,42,Yanick Moreira;Substitution out
+Q3,2:25,Angola,40,42,Leonel Paulo;personal foul
+Q3,2:25,Iran,40,44,Rasoul Mozafarivanani;2nd of 2 free throws made
+Q3,2:25,Iran,40,43,Rasoul Mozafarivanani;1st of 2 free throws made
+Q3,2:25,Iran,40,42,Rasoul Mozafarivanani;foul drawn
+Q3,2:43,Angola,40,42,Reggie Moore;personal foul
+Q3,2:43,Iran,40,42,Michael Rostampour;foul drawn
+Q3,2:51,Angola,40,42,Leonel Paulo;dunk made
+Q3,2:54,Angola,38,42,Leonel Paulo;steal
+Q3,2:54,Iran,38,42,Rasoul Mozafarivanani;turnover ball handling
+Q3,3:05,Angola,38,42,Jaques Conceicao;Substitution in
+Q3,3:05,Angola,38,42,Carlos Morais;Substitution out
+Q3,3:05,Iran,38,42,team defensive rebound
+Q3,3:07,Angola,38,42,Jerson Goncalves;3pt jump shot missed
+Q3,3:17,Iran,38,42,Michael Rostampour;made the assist
+Q3,3:31,Iran,38,42,Mohammad Jamshidijafarabadi;2pt driving layup made
+Q3,3:43,Angola,38,40,Jerson Goncalves;offensive foul
+Q3,3:43,Iran,38,40,Mohammad Jamshidijafarabadi;foul drawn
+Q3,3:57,Angola,38,39,Yanick Moreira;personal foul 1 free throw awarded
+Q3,3:57,Iran,38,40,Hamed Haddadi;1st free throw made
+Q3,3:57,Iran,38,39,Hamed Haddadi;foul drawn
+Q3,3:57,Iran,38,39,Hamed Haddadi;2pt driving layup made
+Q3,4:12,Angola,38,37,Leonel Paulo;Substitution in
+Q3,4:12,Angola,38,37,Jose Antonio;Substitution out
+Q3,4:12,Iran,38,37,Michael Rostampour;Substitution in
+Q3,4:12,Iran,38,37,Arman Zangeneh;Substitution out
+Q3,4:13,Angola,38,37,Carlos Morais;2pt floating jump shot made
+Q3,4:24,Angola,36,37,Reggie Moore;defensive rebound
+Q3,4:24,Iran,36,37,Hamed Haddadi;2pt jump shot missed
+Q3,4:50,Angola,36,37,Jerson Goncalves;turnover ball handling
+Q3,5:01,Angola,36,37,Reggie Moore;Substitution in
+Q3,5:01,Angola,36,37,Valdélicio Joaquim;Substitution out
+Q3,5:01,Angola,36,37,Jerson Goncalves;Substitution in
+Q3,5:01,Angola,36,37,Jaques Conceicao;Substitution out
+Q3,5:01,Angola,36,37,team offensive rebound
+Q3,5:01,Angola,36,37,Yanick Moreira;layup missed
+Q3,5:01,Iran,36,37,Rasoul Mozafarivanani;Substitution in
+Q3,5:01,Iran,36,37,Mohammadsamad Nik Khahbahrami;Substitution out
+Q3,5:18,Angola,36,37,Yanick Moreira;defensive rebound
+Q3,5:18,Iran,36,37,Behnam Yakhchalidehkordi;3pt jump shot missed
+Q3,5:32,Angola,36,37,Jaques Conceicao;made the assist
+Q3,5:32,Angola,36,37,Jose Antonio;3pt jump shot made
+Q3,5:57,Iran,33,37,Behnam Yakhchalidehkordi;made the assist
+Q3,5:57,Iran,33,37,Mohammad Jamshidijafarabadi;2pt driving layup made
+Q3,6:01,Angola,33,35,Jose Antonio;turnover bad pass
+Q3,6:01,Iran,33,35,Behnam Yakhchalidehkordi;steal
+Q3,6:11,Angola,33,35,Jose Antonio;steal
+Q3,6:11,Iran,33,35,Mohammad Jamshidijafarabadi;turnover bad pass
+Q3,6:29,Angola,33,35,Carlos Morais;layup made
+Q3,6:48,Iran,31,35,Hamed Haddadi;layup made
+Q3,7:24,Angola,31,33,Carlos Morais;2pt driving layup made
+Q3,7:28,Angola,29,33,Carlos Morais;steal
+Q3,7:28,Iran,29,33,Arman Zangeneh;turnover bad pass
+Q3,7:40,Angola,29,33,Carlos Morais;2pt jump shot missed
+Q3,7:40,Iran,29,33,Arman Zangeneh;defensive rebound
+Q3,7:55,Angola,29,33,Jaques Conceicao;defensive rebound
+Q3,7:55,Iran,29,33,Arman Zangeneh;2pt driving layup missed
+Q3,8:00,Angola,29,33,Yanick Moreira;2pt hook shot missed
+Q3,8:00,Iran,29,33,Hamed Haddadi;defensive rebound
+Q3,8:21,Iran,29,33,Arman Zangeneh;layup made
+Q3,8:38,Angola,29,30,Yanick Moreira;personal foul 2 free throws awarded
+Q3,8:38,Iran,29,31,Behnam Yakhchalidehkordi;offensive rebound
+Q3,8:38,Iran,29,31,Mohammadsamad Nik Khahbahrami;2nd of 2 free throws missed
+Q3,8:38,Iran,29,31,Mohammadsamad Nik Khahbahrami;1st of 2 free throws made
+Q3,8:38,Iran,29,30,Mohammadsamad Nik Khahbahrami;foul drawn
+Q3,8:48,Angola,29,30,Carlos Morais;2pt fadeaway jump shot missed
+Q3,8:48,Iran,29,30,Mohammadsamad Nik Khahbahrami;defensive rebound
+Q3,8:59,Angola,29,30,Jaques Conceicao;defensive rebound
+Q3,8:59,Iran,29,30,Hamed Haddadi;2pt jump shot missed
+Q3,9:23,Angola,29,30,Valdélicio Joaquim;2pt fadeaway jump shot missed
+Q3,9:23,Iran,29,30,Mohammadsamad Nik Khahbahrami;defensive rebound
+Q3,9:42,Iran,29,30,Hamed Haddadi;layup made
+Q4,0:06,Iran,62,71,Arman Zangeneh;Substitution in
+Q4,0:06,Iran,62,71,Aaron Geramipoor;Substitution out
+Q4,0:06,Iran,62,71,Rasoul Mozafarivanani;turnover out of bounds
+Q4,0:11,Iran,62,71,Behnam Yakhchalidehkordi;offensive rebound
+Q4,0:11,Iran,62,71,Rasoul Mozafarivanani;2pt driving layup missed
+Q4,0:18,Angola,62,71,Jerson Goncalves;3pt jump shot missed
+Q4,0:18,Iran,62,71,Michael Rostampour;defensive rebound
+Q4,0:25,Angola,62,71,Jerson Goncalves;defensive rebound
+Q4,0:25,Angola,62,70,Reggie Moore;Substitution in
+Q4,0:25,Angola,62,70,Valdélicio Joaquim;Substitution out
+Q4,0:25,Angola,62,70,Jerson Goncalves;Substitution in
+Q4,0:25,Angola,62,70,Carlos Morais;Substitution out
+Q4,0:25,Angola,62,70,Valdélicio Joaquim;personal foul 2 free throws awarded
+Q4,0:25,Iran,62,71,Aaron Geramipoor;2nd of 2 free throws missed
+Q4,0:25,Iran,62,71,Aaron Geramipoor;1st of 2 free throws made
+Q4,0:25,Iran,62,70,Aaron Geramipoor;foul drawn
+Q4,0:26,Angola,62,70,Carlos Morais;1st free throw missed
+Q4,0:26,Angola,62,70,Jaques Conceicao;Substitution in
+Q4,0:26,Angola,62,70,Reggie Moore;Substitution out
+Q4,0:26,Angola,62,70,Carlos Morais;foul drawn
+Q4,0:26,Angola,62,70,Carlos Morais;layup made
+Q4,0:26,Iran,62,70,Aaron Geramipoor;defensive rebound
+Q4,0:26,Iran,62,70,Mohammadsamad Nik Khahbahrami;personal foul 1 free throw awarded
+Q4,0:34,Angola,60,70,Valdélicio Joaquim;defensive rebound
+Q4,0:34,Iran,60,70,Mohammadsamad Nik Khahbahrami;3pt jump shot missed
+Q4,0:40,Angola,60,70,Reggie Moore;turnover ball handling
+Q4,0:40,Iran,60,70,Mohammadsamad Nik Khahbahrami;steal
+Q4,0:46,Angola,60,70,Jose Antonio;steal
+Q4,0:46,Iran,60,70,Behnam Yakhchalidehkordi;turnover bad pass
+Q4,10:00,Angola,0,0,Jaques Conceicao;foul drawn
+Q4,10:00,Angola,0,0,jump ball situation throw-in
+Q4,10:00,Iran,0,0,Rasoul Mozafarivanani;Substitution in
+Q4,10:00,Iran,0,0,Sajjad Mashayekhi;Substitution out
+Q4,10:00,Iran,0,0,Sajjad Mashayekhi;personal foul
+Q4,1:11,Angola,60,70,Jose Antonio;layup made
+Q4,1:17,Angola,58,70,Timeout
+Q4,1:17,Angola,58,69,Reggie Moore;Substitution in
+Q4,1:17,Angola,58,69,Jaques Conceicao;Substitution out
+Q4,1:17,Angola,58,69,Jaques Conceicao;personal foul 1 free throw awarded
+Q4,1:17,Iran,58,70,Mohammadsamad Nik Khahbahrami;1st free throw made
+Q4,1:17,Iran,58,69,Mohammadsamad Nik Khahbahrami;foul drawn
+Q4,1:17,Iran,58,69,Mohammadsamad Nik Khahbahrami;2pt driving layup made
+Q4,1:32,Angola,58,67,Valdélicio Joaquim;2nd of 2 free throws missed
+Q4,1:32,Angola,58,67,Valdélicio Joaquim;1st of 2 free throws made
+Q4,1:32,Angola,57,67,Jaques Conceicao;Substitution in
+Q4,1:32,Angola,57,67,Reggie Moore;Substitution out
+Q4,1:32,Angola,57,67,Valdélicio Joaquim;foul drawn
+Q4,1:32,Iran,58,67,Aaron Geramipoor;defensive rebound
+Q4,1:32,Iran,57,67,Aaron Geramipoor;personal foul 2 free throws awarded
+Q4,1:45,Angola,57,67,Leonel Paulo;foul drawn
+Q4,1:45,Angola,57,67,team defensive rebound
+Q4,1:45,Iran,57,67,Aaron Geramipoor;personal foul
+Q4,1:45,Iran,57,67,Mohammadsamad Nik Khahbahrami;2pt turnaround jump shot missed
+Q4,2:06,Angola,57,67,Jose Antonio;turnover bad pass
+Q4,2:06,Iran,57,67,Rasoul Mozafarivanani;steal
+Q4,2:20,Angola,57,65,Jose Antonio;Substitution in
+Q4,2:20,Angola,57,65,Jaques Conceicao;Substitution out
+Q4,2:20,Angola,57,65,Valdélicio Joaquim;personal foul 2 free throws awarded
+Q4,2:20,Angola,57,65,Jaques Conceicao;2pt driving layup missed
+Q4,2:20,Iran,57,67,Rasoul Mozafarivanani;2nd of 2 free throws made
+Q4,2:20,Iran,57,66,Rasoul Mozafarivanani;1st of 2 free throws made
+Q4,2:20,Iran,57,65,Timeout
+Q4,2:20,Iran,57,65,Rasoul Mozafarivanani;foul drawn
+Q4,2:20,Iran,57,65,team defensive rebound
+Q4,2:31,Angola,57,65,Carlos Morais;foul drawn
+Q4,2:31,Iran,57,65,Behnam Yakhchalidehkordi;personal foul
+Q4,2:43,Angola,57,65,Carlos Morais;defensive rebound
+Q4,2:43,Angola,57,64,Leonel Paulo;personal foul 2 free throws awarded
+Q4,2:43,Iran,57,65,Michael Rostampour;2nd of 2 free throws missed
+Q4,2:43,Iran,57,65,Aaron Geramipoor;made the assist
+Q4,2:43,Iran,57,65,Michael Rostampour;1st of 2 free throws made
+Q4,2:43,Iran,57,64,Michael Rostampour;foul drawn
+Q4,2:48,Angola,57,64,Valdélicio Joaquim;turnover bad pass
+Q4,2:48,Iran,57,64,Aaron Geramipoor;steal
+Q4,3:09,Angola,57,64,Valdélicio Joaquim;Substitution in
+Q4,3:09,Angola,57,64,Hermenegildo Divaldo Mbunga;Substitution out
+Q4,3:09,Angola,57,64,Carlos Morais;Substitution in
+Q4,3:09,Angola,57,64,Jerson Goncalves;Substitution out
+Q4,3:09,Angola,57,64,Timeout
+Q4,3:09,Iran,57,64,Rasoul Mozafarivanani;made the assist
+Q4,3:09,Iran,57,64,Aaron Geramipoor;layup made
+Q4,3:19,Angola,57,62,Leonel Paulo;2pt driving layup missed
+Q4,3:19,Iran,57,62,Aaron Geramipoor;defensive rebound
+Q4,3:35,Iran,57,62,Aaron Geramipoor;made the assist
+Q4,3:35,Iran,57,62,Behnam Yakhchalidehkordi;layup made
+Q4,4:03,Angola,57,60,Jaques Conceicao;made the assist
+Q4,4:03,Angola,57,60,Hermenegildo Divaldo Mbunga;2pt jump shot made
+Q4,4:26,Angola,55,60,Jaques Conceicao;Substitution in
+Q4,4:26,Angola,55,60,Carlos Morais;Substitution out
+Q4,4:26,Angola,55,60,team defensive rebound
+Q4,4:26,Iran,55,60,Aaron Geramipoor;Substitution in
+Q4,4:26,Iran,55,60,Hamed Haddadi;Substitution out
+Q4,4:26,Iran,55,60,Mohammadsamad Nik Khahbahrami;layup missed
+Q4,4:45,Angola,55,60,Leonel Paulo;made the assist
+Q4,4:45,Angola,55,60,Reggie Moore;3pt jump shot made
+Q4,4:50,Angola,52,60,Carlos Morais;foul drawn
+Q4,4:50,Iran,52,60,Michael Rostampour;personal foul
+Q4,5:12,Angola,52,60,Hermenegildo Divaldo Mbunga;Substitution in
+Q4,5:12,Angola,52,60,Valdélicio Joaquim;Substitution out
+Q4,5:12,Angola,52,59,Reggie Moore;Substitution in
+Q4,5:12,Angola,52,59,Jose Antonio;Substitution out
+Q4,5:12,Angola,52,59,Leonel Paulo;Substitution in
+Q4,5:12,Angola,52,59,Yanick Moreira;Substitution out
+Q4,5:12,Angola,52,59,Yanick Moreira;personal foul 2 free throws awarded
+Q4,5:12,Iran,52,60,Rasoul Mozafarivanani;made the assist
+Q4,5:12,Iran,52,60,Hamed Haddadi;2nd of 2 free throws made
+Q4,5:12,Iran,52,59,Hamed Haddadi;1st of 2 free throws missed
+Q4,5:12,Iran,52,59,Hamed Haddadi;foul drawn
+Q4,5:30,Angola,52,59,Jose Antonio;3pt jump shot made
+Q4,5:34,Angola,49,59,Jose Antonio;offensive rebound
+Q4,5:34,Angola,49,59,Carlos Morais;2pt driving layup missed
+Q4,5:47,Iran,49,59,Mohammadsamad Nik Khahbahrami;3pt jump shot made
+Q4,6:04,Angola,49,56,Jose Antonio;made the assist
+Q4,6:04,Angola,49,56,Valdélicio Joaquim;2pt jump shot from center made
+Q4,6:24,Angola,47,54,Jerson Goncalves;Substitution in
+Q4,6:24,Angola,47,54,Jaques Conceicao;Substitution out
+Q4,6:24,Angola,47,54,Yanick Moreira;Substitution in
+Q4,6:24,Angola,47,54,Reggie Moore;Substitution out
+Q4,6:24,Angola,47,54,Jose Antonio;personal foul 2 free throws awarded
+Q4,6:24,Iran,47,56,Mohammadsamad Nik Khahbahrami;2nd of 2 free throws made
+Q4,6:24,Iran,47,55,Mohammadsamad Nik Khahbahrami;1st of 2 free throws made
+Q4,6:24,Iran,47,54,Mohammadsamad Nik Khahbahrami;foul drawn
+Q4,6:28,Angola,47,54,Carlos Morais;2pt floating jump shot blocked
+Q4,6:28,Iran,47,54,Mohammadsamad Nik Khahbahrami;defensive rebound
+Q4,6:28,Iran,47,54,Hamed Haddadi;blocked the shot
+Q4,6:43,Angola,47,54,Valdélicio Joaquim;defensive rebound
+Q4,6:43,Iran,47,54,Hamed Haddadi;layup missed
+Q4,6:52,Angola,47,54,Valdélicio Joaquim;2pt jump shot missed
+Q4,6:52,Iran,47,54,Rasoul Mozafarivanani;defensive rebound
+Q4,7:10,Angola,47,54,Reggie Moore;defensive rebound
+Q4,7:10,Iran,47,54,Hamed Haddadi;2pt jump shot missed
+Q4,7:23,Angola,47,54,Valdélicio Joaquim;personal foul
+Q4,7:23,Iran,47,54,Hamed Haddadi;foul drawn
+Q4,7:45,Angola,47,54,Carlos Morais;2pt driving layup made
+Q4,8:09,Iran,45,54,Mohammadsamad Nik Khahbahrami;3pt jump shot made
+Q4,8:27,Angola,45,51,Reggie Moore;2pt jump shot missed
+Q4,8:27,Iran,45,51,Michael Rostampour;defensive rebound
+Q4,8:44,Iran,45,51,Behnam Yakhchalidehkordi;turnover bad pass
+Q4,8:58,Angola,45,50,Jaques Conceicao;turnover
+Q4,8:58,Angola,45,50,Jaques Conceicao;unsportsmanlike foul
+Q4,8:58,Iran,45,51,Rasoul Mozafarivanani;2nd of 2 free throws made
+Q4,8:58,Iran,45,50,Rasoul Mozafarivanani;1st of 2 free throws missed
+Q4,8:58,Iran,45,50,Rasoul Mozafarivanani;foul drawn
+Q4,9:00,Angola,45,50,Reggie Moore;Substitution in
+Q4,9:00,Angola,45,50,Leonel Paulo;Substitution out
+Q4,9:00,Angola,45,50,Jose Antonio;Substitution in
+Q4,9:00,Angola,45,50,Yanick Moreira;Substitution out
+Q4,9:00,Angola,0,0,Yanick Moreira;personal foul 2 free throws awarded
+Q4,9:00,Iran,45,50,Michael Rostampour;2nd of 2 free throws made
+Q4,9:00,Iran,45,49,Michael Rostampour;1st of 2 free throws made
+Q4,9:00,Iran,0,0,Michael Rostampour;foul drawn
+Q4,9:02,Angola,0,0,Jaques Conceicao;turnover ball handling
+Q4,9:02,Iran,0,0,Michael Rostampour;steal
+Q4,9:13,Angola,0,0,Yanick Moreira;defensive rebound
+Q4,9:13,Iran,0,0,Hamed Haddadi;2pt fadeaway jump shot missed
+Q4,9:22,Angola,0,0,Yanick Moreira;Substitution in
+Q4,9:22,Angola,0,0,Reggie Moore;Substitution out
+Q4,9:36,Angola,0,0,Carlos Morais;2pt pullup jump shot missed
+Q4,9:36,Iran,0,0,Michael Rostampour;defensive rebound
