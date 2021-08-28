@@ -1,469 +1,528 @@
-Quarto,Tempo,Time,Placar_casa,Placar_visitante,Inf_2
-Q1,0:00,Angola,17,17,Jaques Conceicao;personal foul 3 free throws awarded
-Q1,0:00,Iran,17,19,Sajjad Mashayekhi;3rd of 3 free throws made
-Q1,0:00,Iran,17,18,Sajjad Mashayekhi;2nd of 3 free throws missed
-Q1,0:00,Iran,17,18,Behnam Yakhchalidehkordi;made the assist
-Q1,0:00,Iran,17,18,Sajjad Mashayekhi;1st of 3 free throws made
-Q1,0:00,Iran,17,17,Sajjad Mashayekhi;foul drawn
-Q1,0:17,Angola,17,17,Reggie Moore;3pt jump shot missed
-Q1,0:17,Iran,17,17,Sajjad Mashayekhi;defensive rebound
-Q1,0:38,Angola,17,17,Jaques Conceicao;foul drawn
-Q1,0:38,Iran,17,17,Arman Zangeneh;Substitution in
-Q1,0:38,Iran,17,17,Mohammad Hassanzadeh;Substitution out
-Q1,0:38,Iran,17,17,Sajjad Mashayekhi;personal foul
-Q1,0:44,Iran,17,17,Behnam Yakhchalidehkordi;made the assist
-Q1,0:44,Iran,17,17,Aaron Geramipoor;layup made
-Q1,10:00,Iran,0,0,Hamed Haddadi;jump ball won
-Q1,1:10,Angola,17,15,Reggie Moore;made the assist
-Q1,1:10,Angola,17,15,Leonel Paulo;3pt jump shot made
-Q1,1:18,Angola,14,15,Reggie Moore;defensive rebound
-Q1,1:25,Angola,14,15,Jaques Conceicao;Substitution in
-Q1,1:25,Angola,14,15,Carlos Morais;Substitution out
-Q1,1:25,Angola,14,15,Carlos Morais;personal foul 2 free throws awarded
-Q1,1:25,Iran,14,15,Mohammad Hassanzadeh;2nd of 2 free throws missed
-Q1,1:25,Iran,14,15,Mohammad Hassanzadeh;1st of 2 free throws missed
-Q1,1:25,Iran,14,15,Sajjad Mashayekhi;Substitution in
-Q1,1:25,Iran,14,15,Mohammad Jamshidijafarabadi;Substitution out
-Q1,1:25,Iran,14,15,Mohammad Hassanzadeh;foul drawn
-Q1,1:25,Iran,14,15,Mohammad Hassanzadeh;offensive rebound
-Q1,1:25,Iran,14,15,Mohammad Jamshidijafarabadi;3pt jump shot missed
-Q1,1:46,Angola,14,15,Hermenegildo Divaldo Mbunga;3pt jump shot missed
-Q1,1:46,Iran,14,15,Behnam Yakhchalidehkordi;defensive rebound
-Q1,2:09,Angola,14,15,Reggie Moore;defensive rebound
-Q1,2:09,Iran,14,15,Aaron Geramipoor;2pt jump shot missed
-Q1,2:22,Angola,14,15,Reggie Moore;2pt hook shot missed
-Q1,2:22,Iran,14,15,Aaron Geramipoor;defensive rebound
-Q1,2:40,Iran,14,15,Mohammad Hassanzadeh;layup made
-Q1,3:03,Angola,14,13,Hermenegildo Divaldo Mbunga;Substitution in
-Q1,3:03,Angola,14,13,Yanick Moreira;Substitution out
-Q1,3:03,Angola,14,13,Leonel Paulo;2nd of 2 free throws made
-Q1,3:03,Angola,13,13,Leonel Paulo;1st of 2 free throws missed
-Q1,3:03,Angola,13,13,Leonel Paulo;foul drawn
-Q1,3:03,Iran,13,13,Aaron Geramipoor;Substitution in
-Q1,3:03,Iran,13,13,Hamed Haddadi;Substitution out
-Q1,3:03,Iran,13,13,Hamed Haddadi;personal foul 2 free throws awarded
-Q1,3:30,Iran,13,13,Mohammad Jamshidijafarabadi;2pt pullup jump shot made
-Q1,3:49,Angola,13,11,Leonel Paulo;Substitution in
-Q1,3:49,Angola,13,11,Jaques Conceicao;Substitution out
-Q1,3:49,Angola,13,11,Jerson Goncalves;Substitution in
-Q1,3:49,Angola,13,11,Jose Antonio;Substitution out
-Q1,3:49,Angola,13,11,Yanick Moreira;2pt driving layup made
-Q1,3:53,Angola,11,11,Yanick Moreira;defensive rebound
-Q1,3:53,Iran,11,11,Mohammad Hassanzadeh;2pt jump shot missed
-Q1,3:58,Iran,11,11,Mohammad Hassanzadeh;offensive rebound
-Q1,3:58,Iran,11,11,Mohammadsamad Nik Khahbahrami;3pt jump shot missed
-Q1,4:09,Angola,11,11,Jose Antonio;3pt jump shot missed
-Q1,4:09,Iran,11,11,Mohammad Jamshidijafarabadi;defensive rebound
-Q1,4:27,Angola,11,11,Carlos Morais;defensive rebound
-Q1,4:27,Iran,11,11,Mohammad Hassanzadeh;3pt jump shot missed
-Q1,4:46,Angola,11,11,Carlos Morais;2pt driving layup made
-Q1,4:50,Angola,9,11,Carlos Morais;steal
-Q1,4:50,Iran,9,11,Hamed Haddadi;turnover bad pass
-Q1,5:07,Angola,9,11,Carlos Morais;3pt jump shot made
-Q1,5:20,Iran,6,11,Hamed Haddadi;made the assist
-Q1,5:20,Iran,6,11,Mohammadsamad Nik Khahbahrami;3pt jump shot made
-Q1,5:27,Angola,6,8,Jose Antonio;personal foul
-Q1,5:27,Iran,6,8,Mohammadsamad Nik Khahbahrami;foul drawn
-Q1,5:36,Angola,6,8,Yanick Moreira;offensive foul
-Q1,5:36,Iran,6,8,Mohammad Hassanzadeh;foul drawn
-Q1,5:52,Angola,6,7,Reggie Moore;Substitution in
-Q1,5:52,Angola,6,7,Valdélicio Joaquim;Substitution out
-Q1,5:52,Angola,6,7,Valdélicio Joaquim;personal foul 2 free throws awarded
-Q1,5:52,Iran,6,8,Mohammad Jamshidijafarabadi;made the assist
-Q1,5:52,Iran,6,8,Hamed Haddadi;2nd of 2 free throws made
-Q1,5:52,Iran,6,7,Hamed Haddadi;1st of 2 free throws missed
-Q1,5:52,Iran,6,7,Hamed Haddadi;foul drawn
-Q1,5:53,Angola,6,7,Valdélicio Joaquim;personal foul
-Q1,5:53,Iran,6,7,Hamed Haddadi;foul drawn
-Q1,5:53,Iran,6,7,team offensive rebound
-Q1,5:53,Iran,6,7,Mohammadsamad Nik Khahbahrami;2pt jump shot missed
-Q1,6:07,Angola,6,7,Yanick Moreira;2pt turnaround jump shot missed
-Q1,6:07,Iran,6,7,Hamed Haddadi;defensive rebound
-Q1,6:27,Iran,6,7,Mohammad Jamshidijafarabadi;made the assist
-Q1,6:27,Iran,6,7,Behnam Yakhchalidehkordi;3pt jump shot made
-Q1,6:50,Angola,6,4,Jose Antonio;3rd of 3 free throws made
-Q1,6:50,Angola,5,4,Jose Antonio;2nd of 3 free throws missed
-Q1,6:50,Angola,5,4,Carlos Morais;made the assist
-Q1,6:50,Angola,5,4,Jose Antonio;1st of 3 free throws made
-Q1,6:50,Angola,4,4,Jose Antonio;foul drawn
-Q1,6:50,Iran,4,4,Mohammadsamad Nik Khahbahrami;personal foul 3 free throws awarded
-Q1,6:58,Angola,4,4,Valdélicio Joaquim;steal
-Q1,6:58,Iran,4,4,Hamed Haddadi;turnover ball handling
-Q1,7:17,Angola,4,4,Jaques Conceicao;2pt driving layup made
-Q1,7:21,Angola,2,4,Yanick Moreira;steal
-Q1,7:21,Iran,2,4,Mohammad Jamshidijafarabadi;turnover ball handling
-Q1,7:31,Angola,2,4,Jose Antonio;2pt pullup jump shot missed
-Q1,7:31,Iran,2,4,Mohammad Jamshidijafarabadi;defensive rebound
-Q1,7:46,Angola,2,4,Carlos Morais;defensive rebound
-Q1,7:46,Iran,2,4,Behnam Yakhchalidehkordi;3pt jump shot missed
-Q1,8:02,Angola,2,4,Carlos Morais;2pt pullup jump shot missed
-Q1,8:02,Iran,2,4,Mohammad Hassanzadeh;defensive rebound
-Q1,8:21,Iran,2,4,Hamed Haddadi;made the assist
-Q1,8:21,Iran,2,4,Mohammad Hassanzadeh;layup made
-Q1,8:33,Angola,2,2,Jaques Conceicao;3pt jump shot from center missed
-Q1,8:33,Iran,2,2,Hamed Haddadi;defensive rebound
-Q1,8:52,Angola,2,2,Yanick Moreira;foul drawn
-Q1,8:52,Angola,2,2,team defensive rebound
-Q1,8:52,Iran,2,2,Hamed Haddadi;personal foul
-Q1,8:53,Iran,2,2,Mohammadsamad Nik Khahbahrami;2pt jump shot from center missed
-Q1,9:12,Angola,2,2,Yanick Moreira;2pt turnaround jump shot made
-Q1,9:27,Angola,0,2,Yanick Moreira;offensive rebound
-Q1,9:27,Angola,0,2,Valdélicio Joaquim;2pt jump shot missed
-Q1,9:43,Iran,0,2,Mohammad Hassanzadeh;2pt driving layup made
-Q2,0:12,Angola,29,28,Jose Antonio;defensive rebound
-Q2,0:12,Iran,29,28,Behnam Yakhchalidehkordi;3pt jump shot from center missed
-Q2,0:35,Angola,29,28,Yanick Moreira;2pt hook shot missed
-Q2,0:35,Iran,29,28,Michael Rostampour;defensive rebound
-Q2,0:51,Iran,29,28,Mohammad Jamshidijafarabadi;made the assist
-Q2,0:51,Iran,29,28,Aaron Geramipoor;layup made
-Q2,10:00,Angola,0,0,jump ball situation throw-in
-Q2,1:14,Iran,29,26,Behnam Yakhchalidehkordi;Substitution in
-Q2,1:14,Iran,29,26,Hamed Hosseinzadeh;Substitution out
-Q2,1:14,Iran,29,26,Timeout
-Q2,1:15,Angola,29,26,Yanick Moreira;made the assist
-Q2,1:15,Angola,29,26,Reggie Moore;3pt jump shot made
-Q2,1:33,Angola,26,26,Jose Antonio;steal
-Q2,1:33,Iran,26,26,Aaron Geramipoor;turnover bad pass
-Q2,1:58,Angola,26,26,Jerson Goncalves;2pt driving layup made
-Q2,2:20,Iran,24,26,Mohammadsamad Nik Khahbahrami;made the assist
-Q2,2:20,Iran,24,26,Aaron Geramipoor;layup made
-Q2,2:27,Angola,24,24,Jose Antonio;personal foul
-Q2,2:27,Angola,24,21,Jaques Conceicao;Substitution in
-Q2,2:27,Angola,24,21,Valdélicio Joaquim;Substitution out
-Q2,2:27,Angola,24,21,Reggie Moore;Substitution in
-Q2,2:27,Angola,24,21,Carlos Morais;Substitution out
-Q2,2:27,Iran,24,24,Michael Rostampour;foul drawn
-Q2,2:27,Iran,24,24,Hamed Hosseinzadeh;made the assist
-Q2,2:27,Iran,24,24,Mohammadsamad Nik Khahbahrami;3pt jump shot made
-Q2,2:46,Angola,24,21,Jerson Goncalves;2pt pullup jump shot made
-Q2,2:58,Angola,22,21,Timeout
-Q2,2:59,Iran,22,21,Mohammadsamad Nik Khahbahrami;made the assist
-Q2,2:59,Iran,22,21,Aaron Geramipoor;layup made
-Q2,3:09,Angola,22,19,Jose Antonio;3pt jump shot missed
-Q2,3:09,Iran,22,19,Aaron Geramipoor;defensive rebound
-Q2,3:22,Angola,22,19,Yanick Moreira;offensive rebound
-Q2,3:22,Angola,22,19,Jerson Goncalves;2pt driving layup missed
-Q2,3:36,Angola,22,19,Yanick Moreira;foul drawn
-Q2,3:36,Angola,22,19,team defensive rebound
-Q2,3:36,Iran,22,19,Michael Rostampour;Substitution in
-Q2,3:36,Iran,22,19,Hamed Haddadi;Substitution out
-Q2,3:36,Iran,22,19,Hamed Haddadi;personal foul
-Q2,3:36,Iran,22,19,Mohammadsamad Nik Khahbahrami;2pt jump shot missed
-Q2,3:55,Angola,22,19,Valdélicio Joaquim;2pt jump shot missed
-Q2,3:55,Iran,22,19,Aaron Geramipoor;defensive rebound
-Q2,4:14,Iran,22,19,Hamed Haddadi;turnover travelling
-Q2,4:26,Iran,22,19,Mohammad Jamshidijafarabadi;offensive rebound
-Q2,4:26,Iran,22,19,Hamed Hosseinzadeh;2pt jump shot missed
-Q2,4:50,Angola,22,19,Jose Antonio;made the assist
-Q2,4:50,Angola,22,19,Carlos Morais;2pt driving layup made
-Q2,4:50,Iran,22,19,Mohammadsamad Nik Khahbahrami;Substitution in
-Q2,4:50,Iran,22,19,Behnam Yakhchalidehkordi;Substitution out
-Q2,4:50,Iran,22,19,Timeout
-Q2,4:54,Angola,20,19,Jose Antonio;steal
-Q2,4:54,Iran,20,19,Hamed Haddadi;turnover bad pass
-Q2,5:07,Angola,20,19,Yanick Moreira;2pt jump shot missed
-Q2,5:07,Iran,20,19,Aaron Geramipoor;defensive rebound
-Q2,5:33,Iran,20,19,Aaron Geramipoor;Substitution in
-Q2,5:33,Iran,20,19,Arman Zangeneh;Substitution out
-Q2,5:33,Iran,20,19,Hamed Haddadi;turnover travelling
-Q2,5:37,Angola,20,19,Jerson Goncalves;Substitution in
-Q2,5:37,Angola,20,19,Jaques Conceicao;Substitution out
-Q2,5:38,Angola,20,19,Jose Antonio;personal foul
-Q2,5:38,Iran,20,19,Mohammad Jamshidijafarabadi;foul drawn
-Q2,5:46,Angola,20,19,Yanick Moreira;turnover ball handling
-Q2,5:46,Iran,20,19,Arman Zangeneh;steal
-Q2,6:05,Angola,20,19,Yanick Moreira;defensive rebound
-Q2,6:05,Iran,20,19,Hamed Hosseinzadeh;3pt jump shot missed
-Q2,6:22,Angola,20,19,Carlos Morais;3pt jump shot missed
-Q2,6:22,Iran,20,19,Hamed Hosseinzadeh;defensive rebound
-Q2,6:35,Angola,20,19,Jose Antonio;Substitution in
-Q2,6:35,Angola,20,19,Leonel Paulo;Substitution out
-Q2,6:35,Angola,20,19,Jaques Conceicao;foul drawn
-Q2,6:35,Iran,20,19,Hamed Hosseinzadeh;Substitution in
-Q2,6:35,Iran,20,19,Sajjad Mashayekhi;Substitution out
-Q2,6:35,Iran,20,19,Sajjad Mashayekhi;offensive foul
-Q2,6:39,Angola,20,19,Carlos Morais;2pt floating jump shot missed
-Q2,6:39,Iran,20,19,Hamed Haddadi;defensive rebound
-Q2,6:46,Angola,20,19,Valdélicio Joaquim;steal
-Q2,6:46,Iran,20,19,Sajjad Mashayekhi;turnover bad pass
-Q2,7:10,Angola,20,19,Valdélicio Joaquim;3pt jump shot from center missed
-Q2,7:10,Iran,20,19,Sajjad Mashayekhi;defensive rebound
-Q2,7:29,Angola,20,19,Yanick Moreira;defensive rebound
-Q2,7:29,Angola,20,19,Leonel Paulo;blocked the shot
-Q2,7:29,Iran,20,19,Mohammad Jamshidijafarabadi;2pt driving layup blocked
-Q2,7:45,Angola,20,19,Leonel Paulo;2nd of 2 free throws made
-Q2,7:45,Angola,19,19,Leonel Paulo;1st of 2 free throws missed
-Q2,7:45,Angola,19,19,Yanick Moreira;Substitution in
-Q2,7:45,Angola,19,19,Reggie Moore;Substitution out
-Q2,7:45,Angola,19,19,Leonel Paulo;foul drawn
-Q2,7:45,Iran,19,19,Hamed Haddadi;Substitution in
-Q2,7:45,Iran,19,19,Aaron Geramipoor;Substitution out
-Q2,7:45,Iran,19,19,Sajjad Mashayekhi;Substitution in
-Q2,7:45,Iran,19,19,Mohammadsamad Nik Khahbahrami;Substitution out
-Q2,7:45,Iran,19,19,Mohammadsamad Nik Khahbahrami;personal foul 2 free throws awarded
-Q2,7:52,Angola,19,19,Leonel Paulo;defensive rebound
-Q2,7:52,Iran,19,19,Arman Zangeneh;3pt jump shot missed
-Q2,7:59,Angola,19,19,Jaques Conceicao;3pt jump shot missed
-Q2,7:59,Iran,19,19,Behnam Yakhchalidehkordi;defensive rebound
-Q2,8:24,Iran,19,19,team turnover 24 seconds violation
-Q2,8:49,Angola,19,19,Carlos Morais;offensive foul
-Q2,8:49,Iran,19,19,Mohammad Jamshidijafarabadi;Substitution in
-Q2,8:49,Iran,19,19,Sajjad Mashayekhi;Substitution out
-Q2,8:49,Iran,19,19,Sajjad Mashayekhi;foul drawn
-Q2,8:54,Angola,19,19,Carlos Morais;foul drawn
-Q2,8:54,Iran,19,19,Sajjad Mashayekhi;personal foul
-Q2,9:13,Iran,19,19,team turnover 24 seconds violation
-Q2,9:39,Angola,19,19,Carlos Morais;made the assist
-Q2,9:39,Angola,19,19,Valdélicio Joaquim;layup made
-Q3,0:12,Angola,45,48,Jaques Conceicao;turnover out of bounds
-Q3,0:32,Iran,45,48,Behnam Yakhchalidehkordi;made the assist
-Q3,0:32,Iran,45,48,Mohammadsamad Nik Khahbahrami;3pt jump shot from center made
-Q3,0:56,Angola,45,45,Reggie Moore;3pt jump shot missed
-Q3,0:56,Iran,45,45,Hamed Haddadi;defensive rebound
-Q3,10:00,Iran,0,0,jump ball situation throw-in
-Q3,1:10,Angola,45,45,Leonel Paulo;defensive rebound
-Q3,1:10,Angola,45,44,Reggie Moore;personal foul 2 free throws awarded
-Q3,1:10,Iran,45,45,Michael Rostampour;2nd of 2 free throws missed
-Q3,1:10,Iran,45,45,Michael Rostampour;1st of 2 free throws made
-Q3,1:10,Iran,45,44,Mohammadsamad Nik Khahbahrami;Substitution in
-Q3,1:10,Iran,45,44,Mohammad Jamshidijafarabadi;Substitution out
-Q3,1:10,Iran,45,44,Sajjad Mashayekhi;Substitution in
-Q3,1:10,Iran,45,44,Rasoul Mozafarivanani;Substitution out
-Q3,1:10,Iran,45,44,Michael Rostampour;foul drawn
-Q3,1:26,Angola,45,44,Jerson Goncalves;made the assist
-Q3,1:26,Angola,45,44,Valdélicio Joaquim
-Q3,1:43,Iran,42,44,team turnover 24 seconds violation
-Q3,2:10,Angola,42,44,Jerson Goncalves;made the assist
-Q3,2:10,Angola,42,44,Valdélicio Joaquim;2pt hook shot made
-Q3,2:25,Angola,40,42,Valdélicio Joaquim;Substitution in
-Q3,2:25,Angola,40,42,Yanick Moreira;Substitution out
-Q3,2:25,Angola,40,42,Leonel Paulo;personal foul
-Q3,2:25,Iran,40,44,Rasoul Mozafarivanani;2nd of 2 free throws made
-Q3,2:25,Iran,40,43,Rasoul Mozafarivanani;1st of 2 free throws made
-Q3,2:25,Iran,40,42,Rasoul Mozafarivanani;foul drawn
-Q3,2:43,Angola,40,42,Reggie Moore;personal foul
-Q3,2:43,Iran,40,42,Michael Rostampour;foul drawn
-Q3,2:51,Angola,40,42,Leonel Paulo;dunk made
-Q3,2:54,Angola,38,42,Leonel Paulo;steal
-Q3,2:54,Iran,38,42,Rasoul Mozafarivanani;turnover ball handling
-Q3,3:05,Angola,38,42,Jaques Conceicao;Substitution in
-Q3,3:05,Angola,38,42,Carlos Morais;Substitution out
-Q3,3:05,Iran,38,42,team defensive rebound
-Q3,3:07,Angola,38,42,Jerson Goncalves;3pt jump shot missed
-Q3,3:17,Iran,38,42,Michael Rostampour;made the assist
-Q3,3:31,Iran,38,42,Mohammad Jamshidijafarabadi;2pt driving layup made
-Q3,3:43,Angola,38,40,Jerson Goncalves;offensive foul
-Q3,3:43,Iran,38,40,Mohammad Jamshidijafarabadi;foul drawn
-Q3,3:57,Angola,38,39,Yanick Moreira;personal foul 1 free throw awarded
-Q3,3:57,Iran,38,40,Hamed Haddadi;1st free throw made
-Q3,3:57,Iran,38,39,Hamed Haddadi;foul drawn
-Q3,3:57,Iran,38,39,Hamed Haddadi;2pt driving layup made
-Q3,4:12,Angola,38,37,Leonel Paulo;Substitution in
-Q3,4:12,Angola,38,37,Jose Antonio;Substitution out
-Q3,4:12,Iran,38,37,Michael Rostampour;Substitution in
-Q3,4:12,Iran,38,37,Arman Zangeneh;Substitution out
-Q3,4:13,Angola,38,37,Carlos Morais;2pt floating jump shot made
-Q3,4:24,Angola,36,37,Reggie Moore;defensive rebound
-Q3,4:24,Iran,36,37,Hamed Haddadi;2pt jump shot missed
-Q3,4:50,Angola,36,37,Jerson Goncalves;turnover ball handling
-Q3,5:01,Angola,36,37,Reggie Moore;Substitution in
-Q3,5:01,Angola,36,37,Valdélicio Joaquim;Substitution out
-Q3,5:01,Angola,36,37,Jerson Goncalves;Substitution in
-Q3,5:01,Angola,36,37,Jaques Conceicao;Substitution out
-Q3,5:01,Angola,36,37,team offensive rebound
-Q3,5:01,Angola,36,37,Yanick Moreira;layup missed
-Q3,5:01,Iran,36,37,Rasoul Mozafarivanani;Substitution in
-Q3,5:01,Iran,36,37,Mohammadsamad Nik Khahbahrami;Substitution out
-Q3,5:18,Angola,36,37,Yanick Moreira;defensive rebound
-Q3,5:18,Iran,36,37,Behnam Yakhchalidehkordi;3pt jump shot missed
-Q3,5:32,Angola,36,37,Jaques Conceicao;made the assist
-Q3,5:32,Angola,36,37,Jose Antonio;3pt jump shot made
-Q3,5:57,Iran,33,37,Behnam Yakhchalidehkordi;made the assist
-Q3,5:57,Iran,33,37,Mohammad Jamshidijafarabadi;2pt driving layup made
-Q3,6:01,Angola,33,35,Jose Antonio;turnover bad pass
-Q3,6:01,Iran,33,35,Behnam Yakhchalidehkordi;steal
-Q3,6:11,Angola,33,35,Jose Antonio;steal
-Q3,6:11,Iran,33,35,Mohammad Jamshidijafarabadi;turnover bad pass
-Q3,6:29,Angola,33,35,Carlos Morais;layup made
-Q3,6:48,Iran,31,35,Hamed Haddadi;layup made
-Q3,7:24,Angola,31,33,Carlos Morais;2pt driving layup made
-Q3,7:28,Angola,29,33,Carlos Morais;steal
-Q3,7:28,Iran,29,33,Arman Zangeneh;turnover bad pass
-Q3,7:40,Angola,29,33,Carlos Morais;2pt jump shot missed
-Q3,7:40,Iran,29,33,Arman Zangeneh;defensive rebound
-Q3,7:55,Angola,29,33,Jaques Conceicao;defensive rebound
-Q3,7:55,Iran,29,33,Arman Zangeneh;2pt driving layup missed
-Q3,8:00,Angola,29,33,Yanick Moreira;2pt hook shot missed
-Q3,8:00,Iran,29,33,Hamed Haddadi;defensive rebound
-Q3,8:21,Iran,29,33,Arman Zangeneh;layup made
-Q3,8:38,Angola,29,30,Yanick Moreira;personal foul 2 free throws awarded
-Q3,8:38,Iran,29,31,Behnam Yakhchalidehkordi;offensive rebound
-Q3,8:38,Iran,29,31,Mohammadsamad Nik Khahbahrami;2nd of 2 free throws missed
-Q3,8:38,Iran,29,31,Mohammadsamad Nik Khahbahrami;1st of 2 free throws made
-Q3,8:38,Iran,29,30,Mohammadsamad Nik Khahbahrami;foul drawn
-Q3,8:48,Angola,29,30,Carlos Morais;2pt fadeaway jump shot missed
-Q3,8:48,Iran,29,30,Mohammadsamad Nik Khahbahrami;defensive rebound
-Q3,8:59,Angola,29,30,Jaques Conceicao;defensive rebound
-Q3,8:59,Iran,29,30,Hamed Haddadi;2pt jump shot missed
-Q3,9:23,Angola,29,30,Valdélicio Joaquim;2pt fadeaway jump shot missed
-Q3,9:23,Iran,29,30,Mohammadsamad Nik Khahbahrami;defensive rebound
-Q3,9:42,Iran,29,30,Hamed Haddadi;layup made
-Q4,0:06,Iran,62,71,Arman Zangeneh;Substitution in
-Q4,0:06,Iran,62,71,Aaron Geramipoor;Substitution out
-Q4,0:06,Iran,62,71,Rasoul Mozafarivanani;turnover out of bounds
-Q4,0:11,Iran,62,71,Behnam Yakhchalidehkordi;offensive rebound
-Q4,0:11,Iran,62,71,Rasoul Mozafarivanani;2pt driving layup missed
-Q4,0:18,Angola,62,71,Jerson Goncalves;3pt jump shot missed
-Q4,0:18,Iran,62,71,Michael Rostampour;defensive rebound
-Q4,0:25,Angola,62,71,Jerson Goncalves;defensive rebound
-Q4,0:25,Angola,62,70,Reggie Moore;Substitution in
-Q4,0:25,Angola,62,70,Valdélicio Joaquim;Substitution out
-Q4,0:25,Angola,62,70,Jerson Goncalves;Substitution in
-Q4,0:25,Angola,62,70,Carlos Morais;Substitution out
-Q4,0:25,Angola,62,70,Valdélicio Joaquim;personal foul 2 free throws awarded
-Q4,0:25,Iran,62,71,Aaron Geramipoor;2nd of 2 free throws missed
-Q4,0:25,Iran,62,71,Aaron Geramipoor;1st of 2 free throws made
-Q4,0:25,Iran,62,70,Aaron Geramipoor;foul drawn
-Q4,0:26,Angola,62,70,Carlos Morais;1st free throw missed
-Q4,0:26,Angola,62,70,Jaques Conceicao;Substitution in
-Q4,0:26,Angola,62,70,Reggie Moore;Substitution out
-Q4,0:26,Angola,62,70,Carlos Morais;foul drawn
-Q4,0:26,Angola,62,70,Carlos Morais;layup made
-Q4,0:26,Iran,62,70,Aaron Geramipoor;defensive rebound
-Q4,0:26,Iran,62,70,Mohammadsamad Nik Khahbahrami;personal foul 1 free throw awarded
-Q4,0:34,Angola,60,70,Valdélicio Joaquim;defensive rebound
-Q4,0:34,Iran,60,70,Mohammadsamad Nik Khahbahrami;3pt jump shot missed
-Q4,0:40,Angola,60,70,Reggie Moore;turnover ball handling
-Q4,0:40,Iran,60,70,Mohammadsamad Nik Khahbahrami;steal
-Q4,0:46,Angola,60,70,Jose Antonio;steal
-Q4,0:46,Iran,60,70,Behnam Yakhchalidehkordi;turnover bad pass
-Q4,10:00,Angola,0,0,Jaques Conceicao;foul drawn
-Q4,10:00,Angola,0,0,jump ball situation throw-in
-Q4,10:00,Iran,0,0,Rasoul Mozafarivanani;Substitution in
-Q4,10:00,Iran,0,0,Sajjad Mashayekhi;Substitution out
-Q4,10:00,Iran,0,0,Sajjad Mashayekhi;personal foul
-Q4,1:11,Angola,60,70,Jose Antonio;layup made
-Q4,1:17,Angola,58,70,Timeout
-Q4,1:17,Angola,58,69,Reggie Moore;Substitution in
-Q4,1:17,Angola,58,69,Jaques Conceicao;Substitution out
-Q4,1:17,Angola,58,69,Jaques Conceicao;personal foul 1 free throw awarded
-Q4,1:17,Iran,58,70,Mohammadsamad Nik Khahbahrami;1st free throw made
-Q4,1:17,Iran,58,69,Mohammadsamad Nik Khahbahrami;foul drawn
-Q4,1:17,Iran,58,69,Mohammadsamad Nik Khahbahrami;2pt driving layup made
-Q4,1:32,Angola,58,67,Valdélicio Joaquim;2nd of 2 free throws missed
-Q4,1:32,Angola,58,67,Valdélicio Joaquim;1st of 2 free throws made
-Q4,1:32,Angola,57,67,Jaques Conceicao;Substitution in
-Q4,1:32,Angola,57,67,Reggie Moore;Substitution out
-Q4,1:32,Angola,57,67,Valdélicio Joaquim;foul drawn
-Q4,1:32,Iran,58,67,Aaron Geramipoor;defensive rebound
-Q4,1:32,Iran,57,67,Aaron Geramipoor;personal foul 2 free throws awarded
-Q4,1:45,Angola,57,67,Leonel Paulo;foul drawn
-Q4,1:45,Angola,57,67,team defensive rebound
-Q4,1:45,Iran,57,67,Aaron Geramipoor;personal foul
-Q4,1:45,Iran,57,67,Mohammadsamad Nik Khahbahrami;2pt turnaround jump shot missed
-Q4,2:06,Angola,57,67,Jose Antonio;turnover bad pass
-Q4,2:06,Iran,57,67,Rasoul Mozafarivanani;steal
-Q4,2:20,Angola,57,65,Jose Antonio;Substitution in
-Q4,2:20,Angola,57,65,Jaques Conceicao;Substitution out
-Q4,2:20,Angola,57,65,Valdélicio Joaquim;personal foul 2 free throws awarded
-Q4,2:20,Angola,57,65,Jaques Conceicao;2pt driving layup missed
-Q4,2:20,Iran,57,67,Rasoul Mozafarivanani;2nd of 2 free throws made
-Q4,2:20,Iran,57,66,Rasoul Mozafarivanani;1st of 2 free throws made
-Q4,2:20,Iran,57,65,Timeout
-Q4,2:20,Iran,57,65,Rasoul Mozafarivanani;foul drawn
-Q4,2:20,Iran,57,65,team defensive rebound
-Q4,2:31,Angola,57,65,Carlos Morais;foul drawn
-Q4,2:31,Iran,57,65,Behnam Yakhchalidehkordi;personal foul
-Q4,2:43,Angola,57,65,Carlos Morais;defensive rebound
-Q4,2:43,Angola,57,64,Leonel Paulo;personal foul 2 free throws awarded
-Q4,2:43,Iran,57,65,Michael Rostampour;2nd of 2 free throws missed
-Q4,2:43,Iran,57,65,Aaron Geramipoor;made the assist
-Q4,2:43,Iran,57,65,Michael Rostampour;1st of 2 free throws made
-Q4,2:43,Iran,57,64,Michael Rostampour;foul drawn
-Q4,2:48,Angola,57,64,Valdélicio Joaquim;turnover bad pass
-Q4,2:48,Iran,57,64,Aaron Geramipoor;steal
-Q4,3:09,Angola,57,64,Valdélicio Joaquim;Substitution in
-Q4,3:09,Angola,57,64,Hermenegildo Divaldo Mbunga;Substitution out
-Q4,3:09,Angola,57,64,Carlos Morais;Substitution in
-Q4,3:09,Angola,57,64,Jerson Goncalves;Substitution out
-Q4,3:09,Angola,57,64,Timeout
-Q4,3:09,Iran,57,64,Rasoul Mozafarivanani;made the assist
-Q4,3:09,Iran,57,64,Aaron Geramipoor;layup made
-Q4,3:19,Angola,57,62,Leonel Paulo;2pt driving layup missed
-Q4,3:19,Iran,57,62,Aaron Geramipoor;defensive rebound
-Q4,3:35,Iran,57,62,Aaron Geramipoor;made the assist
-Q4,3:35,Iran,57,62,Behnam Yakhchalidehkordi;layup made
-Q4,4:03,Angola,57,60,Jaques Conceicao;made the assist
-Q4,4:03,Angola,57,60,Hermenegildo Divaldo Mbunga;2pt jump shot made
-Q4,4:26,Angola,55,60,Jaques Conceicao;Substitution in
-Q4,4:26,Angola,55,60,Carlos Morais;Substitution out
-Q4,4:26,Angola,55,60,team defensive rebound
-Q4,4:26,Iran,55,60,Aaron Geramipoor;Substitution in
-Q4,4:26,Iran,55,60,Hamed Haddadi;Substitution out
-Q4,4:26,Iran,55,60,Mohammadsamad Nik Khahbahrami;layup missed
-Q4,4:45,Angola,55,60,Leonel Paulo;made the assist
-Q4,4:45,Angola,55,60,Reggie Moore;3pt jump shot made
-Q4,4:50,Angola,52,60,Carlos Morais;foul drawn
-Q4,4:50,Iran,52,60,Michael Rostampour;personal foul
-Q4,5:12,Angola,52,60,Hermenegildo Divaldo Mbunga;Substitution in
-Q4,5:12,Angola,52,60,Valdélicio Joaquim;Substitution out
-Q4,5:12,Angola,52,59,Reggie Moore;Substitution in
-Q4,5:12,Angola,52,59,Jose Antonio;Substitution out
-Q4,5:12,Angola,52,59,Leonel Paulo;Substitution in
-Q4,5:12,Angola,52,59,Yanick Moreira;Substitution out
-Q4,5:12,Angola,52,59,Yanick Moreira;personal foul 2 free throws awarded
-Q4,5:12,Iran,52,60,Rasoul Mozafarivanani;made the assist
-Q4,5:12,Iran,52,60,Hamed Haddadi;2nd of 2 free throws made
-Q4,5:12,Iran,52,59,Hamed Haddadi;1st of 2 free throws missed
-Q4,5:12,Iran,52,59,Hamed Haddadi;foul drawn
-Q4,5:30,Angola,52,59,Jose Antonio;3pt jump shot made
-Q4,5:34,Angola,49,59,Jose Antonio;offensive rebound
-Q4,5:34,Angola,49,59,Carlos Morais;2pt driving layup missed
-Q4,5:47,Iran,49,59,Mohammadsamad Nik Khahbahrami;3pt jump shot made
-Q4,6:04,Angola,49,56,Jose Antonio;made the assist
-Q4,6:04,Angola,49,56,Valdélicio Joaquim;2pt jump shot from center made
-Q4,6:24,Angola,47,54,Jerson Goncalves;Substitution in
-Q4,6:24,Angola,47,54,Jaques Conceicao;Substitution out
-Q4,6:24,Angola,47,54,Yanick Moreira;Substitution in
-Q4,6:24,Angola,47,54,Reggie Moore;Substitution out
-Q4,6:24,Angola,47,54,Jose Antonio;personal foul 2 free throws awarded
-Q4,6:24,Iran,47,56,Mohammadsamad Nik Khahbahrami;2nd of 2 free throws made
-Q4,6:24,Iran,47,55,Mohammadsamad Nik Khahbahrami;1st of 2 free throws made
-Q4,6:24,Iran,47,54,Mohammadsamad Nik Khahbahrami;foul drawn
-Q4,6:28,Angola,47,54,Carlos Morais;2pt floating jump shot blocked
-Q4,6:28,Iran,47,54,Mohammadsamad Nik Khahbahrami;defensive rebound
-Q4,6:28,Iran,47,54,Hamed Haddadi;blocked the shot
-Q4,6:43,Angola,47,54,Valdélicio Joaquim;defensive rebound
-Q4,6:43,Iran,47,54,Hamed Haddadi;layup missed
-Q4,6:52,Angola,47,54,Valdélicio Joaquim;2pt jump shot missed
-Q4,6:52,Iran,47,54,Rasoul Mozafarivanani;defensive rebound
-Q4,7:10,Angola,47,54,Reggie Moore;defensive rebound
-Q4,7:10,Iran,47,54,Hamed Haddadi;2pt jump shot missed
-Q4,7:23,Angola,47,54,Valdélicio Joaquim;personal foul
-Q4,7:23,Iran,47,54,Hamed Haddadi;foul drawn
-Q4,7:45,Angola,47,54,Carlos Morais;2pt driving layup made
-Q4,8:09,Iran,45,54,Mohammadsamad Nik Khahbahrami;3pt jump shot made
-Q4,8:27,Angola,45,51,Reggie Moore;2pt jump shot missed
-Q4,8:27,Iran,45,51,Michael Rostampour;defensive rebound
-Q4,8:44,Iran,45,51,Behnam Yakhchalidehkordi;turnover bad pass
-Q4,8:58,Angola,45,50,Jaques Conceicao;turnover
-Q4,8:58,Angola,45,50,Jaques Conceicao;unsportsmanlike foul
-Q4,8:58,Iran,45,51,Rasoul Mozafarivanani;2nd of 2 free throws made
-Q4,8:58,Iran,45,50,Rasoul Mozafarivanani;1st of 2 free throws missed
-Q4,8:58,Iran,45,50,Rasoul Mozafarivanani;foul drawn
-Q4,9:00,Angola,45,50,Reggie Moore;Substitution in
-Q4,9:00,Angola,45,50,Leonel Paulo;Substitution out
-Q4,9:00,Angola,45,50,Jose Antonio;Substitution in
-Q4,9:00,Angola,45,50,Yanick Moreira;Substitution out
-Q4,9:00,Angola,0,0,Yanick Moreira;personal foul 2 free throws awarded
-Q4,9:00,Iran,45,50,Michael Rostampour;2nd of 2 free throws made
-Q4,9:00,Iran,45,49,Michael Rostampour;1st of 2 free throws made
-Q4,9:00,Iran,0,0,Michael Rostampour;foul drawn
-Q4,9:02,Angola,0,0,Jaques Conceicao;turnover ball handling
-Q4,9:02,Iran,0,0,Michael Rostampour;steal
-Q4,9:13,Angola,0,0,Yanick Moreira;defensive rebound
-Q4,9:13,Iran,0,0,Hamed Haddadi;2pt fadeaway jump shot missed
-Q4,9:22,Angola,0,0,Yanick Moreira;Substitution in
-Q4,9:22,Angola,0,0,Reggie Moore;Substitution out
-Q4,9:36,Angola,0,0,Carlos Morais;2pt pullup jump shot missed
-Q4,9:36,Iran,0,0,Michael Rostampour;defensive rebound
+Quarto,Tempo,Time,Placar_casa,Placar_visitante,Indicador,Nome
+Q1,0:00,Iran,30,16,RD,Aaron Geramipoor
+Q1,0:00,Puerto Rico,30,16,2_Pts_T,Devon Collier
+Q1,0:10,Iran,30,16,FC,Mohammad Hassanzadeh
+Q1,0:10,Puerto Rico,30,16,FR,Angel Rodriguez
+Q1,0:14,Iran,30,16,AS,Mohammad Jamshidijafarabadi
+Q1,0:14,Iran,30,16,2_Pts_C,Sajjad Mashayekhi
+Q1,0:18,Iran,28,16,substituicao_entra,Aaron Geramipoor
+Q1,0:18,Iran,28,16,substituicao_sai,Hamed Haddadi
+Q1,0:31,Iran,28,16,substituicao_entra,Sajjad Mashayekhi
+Q1,0:31,Iran,28,16,substituicao_sai,Behnam Yakhchalidehkordi
+Q1,0:31,Puerto Rico,28,16,substituicao_entra,Angel Rodriguez
+Q1,0:31,Puerto Rico,28,16,substituicao_sai,Renaldo Balkman
+Q1,0:31,Puerto Rico,28,16,substituicao_entra,Devon Collier
+Q1,0:31,Puerto Rico,28,16,substituicao_sai,Jorge Bryan Díaz
+Q1,0:31,Puerto Rico,28,16,substituicao_entra,Ramon Clemente
+Q1,0:31,Puerto Rico,28,16,substituicao_sai,Gary Browne
+Q1,0:37,Iran,28,16,RD,
+Q1,0:38,Puerto Rico,28,16,2_Pts_T,Gary Browne
+Q1,0:46,Iran,28,16,,Mohammad Hassanzadehtip in made
+Q1,0:53,Iran,26,16,RO,Mohammad Hassanzadeh
+Q1,0:53,Iran,26,16,2_Pts_T,Mohammad Hassanzadeh
+Q1,0:58,Iran,26,16,RO,Mohammad Hassanzadeh
+Q1,0:58,Iran,26,16,,Behnam Yakhchalidehkordi2pt jump shot missed
+Q1,10:00,Iran,0,0,inicio_quarto,Hamed Haddadi
+Q1,1:05,Iran,26,16,BR,Mohammad Hassanzadeh
+Q1,1:05,Puerto Rico,26,16,ER,Renaldo Balkman
+Q1,1:15,Iran,26,16,,Hamed Haddadi2pt jump shot missed
+Q1,1:15,Puerto Rico,26,16,RD,Gian Clavell
+Q1,1:31,Puerto Rico,26,16,AS,Gian Clavell
+Q1,1:31,Puerto Rico,26,16,,Isaiah Pineiro3pt jump shot made
+Q1,1:40,Puerto Rico,26,13,RO,Gian Clavell
+Q1,1:40,Puerto Rico,26,13,,Renaldo Balkman2pt jump shot missed
+Q1,1:52,Iran,26,13,AS,Mohammad Jamshidijafarabadi
+Q1,1:52,Iran,26,13,2_Pts_C,Mohammadsamad Nik Khahbahrami
+Q1,2:14,Puerto Rico,24,13,2_Pts_C,Gary Browne
+Q1,2:24,Puerto Rico,24,11,RO,Isaiah Pineiro
+Q1,2:24,Puerto Rico,24,11,,Isaiah Pineiro2pt jump shot missed
+Q1,2:37,Iran,24,11,,Mohammadsamad Nik Khahbahrami3pt jump shot missed
+Q1,2:37,Puerto Rico,24,11,RD,Isaiah Pineiro
+Q1,2:40,Iran,24,11,FR,Behnam Yakhchalidehkordi
+Q1,2:40,Iran,24,11,RO,
+Q1,2:40,Puerto Rico,24,11,FC,Gian Clavell
+Q1,2:42,Iran,24,11,,Mohammadsamad Nik Khahbahrami3pt jump shot missed
+Q1,2:59,Iran,24,11,RD,Mohammadsamad Nik Khahbahrami
+Q1,2:59,Puerto Rico,24,11,,Gian Clavell3pt jump shot missed
+Q1,3:08,Puerto Rico,24,11,RO,Jorge Bryan Díaz
+Q1,3:08,Puerto Rico,24,11,,Gian Clavell3pt jump shot missed
+Q1,3:27,Iran,24,11,,Mohammadsamad Nik Khahbahrami3pt jump shot made
+Q1,3:47,Iran,21,11,RD,Mohammad Jamshidijafarabadi
+Q1,3:47,Puerto Rico,21,11,,Jorge Bryan Díaz2pt jump shot missed
+Q1,4:04,Puerto Rico,21,11,RO,Isaiah Pineiro
+Q1,4:04,Puerto Rico,21,11,,Gary Browne3pt jump shot missed
+Q1,4:11,Puerto Rico,21,11,tempo_tecnico,
+Q1,4:13,Puerto Rico,21,11,substituicao_entra,Gian Clavell
+Q1,4:13,Puerto Rico,21,11,substituicao_sai,Alexander Franklin
+Q1,4:13,Puerto Rico,21,11,substituicao_entra,Isaiah Pineiro
+Q1,4:13,Puerto Rico,21,11,substituicao_sai,David Huertas
+Q1,4:15,Iran,21,11,AS,Hamed Haddadi
+Q1,4:15,Iran,21,11,,Behnam Yakhchalidehkordi3pt jump shot made
+Q1,4:31,Iran,18,11,RD,Mohammadsamad Nik Khahbahrami
+Q1,4:31,Puerto Rico,18,11,2_Pts_T,Renaldo Balkman
+Q1,4:43,Iran,18,11,LL_Pts_C,Hamed Haddadi
+Q1,4:43,Iran,17,11,LL_Pts_C,Hamed Haddadi
+Q1,4:43,Iran,16,11,FR,Hamed Haddadi
+Q1,4:43,Iran,16,11,RO,Hamed Haddadi
+Q1,4:43,Iran,16,11,,Mohammadsamad Nik Khahbahrami3pt jump shot missed
+Q1,4:43,Puerto Rico,16,11,FC,David Huertas
+Q1,4:48,Iran,16,11,BR,Behnam Yakhchalidehkordi
+Q1,4:48,Puerto Rico,16,11,ER,David Huertas
+Q1,5:13,Iran,16,11,LL_Pts_C,Mohammad Hassanzadeh
+Q1,5:13,Iran,15,11,FR,Mohammad Hassanzadeh
+Q1,5:13,Iran,15,11,AS,Mohammadsamad Nik Khahbahrami
+Q1,5:13,Iran,15,11,,Mohammad Hassanzadeh2pt jump shot made
+Q1,5:13,Puerto Rico,15,11,FC,Renaldo Balkman
+Q1,5:29,Puerto Rico,13,11,2_Pts_C,Gary Browne
+Q1,5:47,Iran,13,9,AS,Mohammad Jamshidijafarabadi
+Q1,5:47,Iran,13,9,,Hamed Haddadi2pt jump shot made
+Q1,6:01,Puerto Rico,11,9,AS,Gary Browne
+Q1,6:01,Puerto Rico,11,9,2_Pts_C,Renaldo Balkman
+Q1,6:15,Iran,11,7,LL_Pts_C,Mohammad Jamshidijafarabadi
+Q1,6:15,Iran,10,7,FR,Mohammad Jamshidijafarabadi
+Q1,6:15,Iran,10,7,,Mohammad Jamshidijafarabadilayup made
+Q1,6:15,Puerto Rico,10,7,FC,Alexander Franklin
+Q1,6:18,Iran,8,7,RD,Hamed Haddadi
+Q1,6:18,Puerto Rico,8,7,2_Pts_T,David Huertas
+Q1,6:26,Iran,8,7,,Behnam Yakhchalidehkordi3pt floating jump shot made
+Q1,6:43,Puerto Rico,5,7,AS,Alexander Franklin
+Q1,6:43,Puerto Rico,5,7,,Jorge Bryan Díaz2pt jump shot made
+Q1,6:52,Puerto Rico,5,5,RO,Renaldo Balkman
+Q1,6:52,Puerto Rico,5,5,,Renaldo Balkman2pt jump shot missed
+Q1,7:03,Iran,5,5,,Mohammadsamad Nik Khahbahrami2pt jump shot made
+Q1,7:14,Iran,3,5,,Mohammad Hassanzadeh2pt jump shot missed
+Q1,7:14,Puerto Rico,3,5,RD,Alexander Franklin
+Q1,7:36,Puerto Rico,3,5,AS,David Huertas
+Q1,7:36,Puerto Rico,3,5,2_Pts_C,Jorge Bryan Díaz
+Q1,7:42,Iran,3,3,ER,Behnam Yakhchalidehkordi
+Q1,7:42,Puerto Rico,3,3,BR,Alexander Franklin
+Q1,8:00,Puerto Rico,3,3,AS,Alexander Franklin
+Q1,8:00,Puerto Rico,3,3,,David Huertas
+Q1,8:09,Iran,3,0,2_Pts_T,Mohammad Jamshidijafarabadi
+Q1,8:09,Puerto Rico,3,0,RD,Jorge Bryan Díaz
+Q1,8:20,Iran,3,0,RD,Mohammadsamad Nik Khahbahrami
+Q1,8:20,Puerto Rico,3,0,,Renaldo Balkman3pt jump shot missed
+Q1,8:42,Iran,3,0,AS,Mohammad Jamshidijafarabadi
+Q1,8:42,Iran,3,0,,Behnam Yakhchalidehkordi3pt jump shot made
+Q1,8:50,Iran,0,0,RD,Mohammad Hassanzadeh
+Q1,8:50,Puerto Rico,0,0,2_Pts_T,David Huertas
+Q1,8:59,Iran,0,0,2_Pts_T,Mohammadsamad Nik Khahbahrami
+Q1,8:59,Puerto Rico,0,0,RD,Renaldo Balkman
+Q1,8:59,Puerto Rico,0,0,TO,Renaldo Balkman
+Q1,9:15,Iran,0,0,RD,Behnam Yakhchalidehkordi
+Q1,9:15,Puerto Rico,0,0,,Gary Browne2pt jump shot missed
+Q1,9:26,Iran,0,0,,Mohammad Hassanzadeh2pt jump shot missed
+Q1,9:26,Puerto Rico,0,0,RD,Gary Browne
+Q1,9:32,Iran,0,0,RD,Hamed Haddadi
+Q1,9:32,Puerto Rico,0,0,2_Pts_T,Renaldo Balkman
+Q1,9:46,Iran,0,0,ER,Hamed Haddadi
+Q1,9:46,Puerto Rico,0,0,BR,Jorge Bryan Díaz
+Q2,0:00,Iran,49,31,RD,Hamed Haddadi
+Q2,0:00,Puerto Rico,49,31,,Gary Brownelayup missed
+Q2,0:12,Iran,49,31,AS,Mohammad Jamshidijafarabadi
+Q2,0:12,Iran,49,31,,Behnam Yakhchalidehkordi3pt jump shot made
+Q2,0:34,Iran,46,30,tempo_tecnico,
+Q2,0:34,Iran,46,30,FC,Behnam Yakhchalidehkordi
+Q2,0:34,Puerto Rico,46,31,LL_Pts_C,David Huertas
+Q2,0:34,Puerto Rico,46,30,substituicao_entra,Devon Collier
+Q2,0:34,Puerto Rico,46,30,substituicao_sai,Jorge Bryan Díaz
+Q2,0:34,Puerto Rico,46,30,FR,David Huertas
+Q2,0:34,Puerto Rico,46,30,,David Huertaslayup made
+Q2,0:36,Iran,46,28,ER,Mohammad Jamshidijafarabadi
+Q2,0:36,Puerto Rico,46,28,BR,Javier Mojica
+Q2,0:48,Iran,46,28,RD,Hamed Haddadi
+Q2,0:48,Puerto Rico,46,28,2_Pts_T,Gary Browne
+Q2,10:00,Puerto Rico,0,0,muda_bola,
+Q2,1:03,Iran,46,28,LL_Pts_C,Hamed Haddadi
+Q2,1:03,Iran,45,28,AS,Behnam Yakhchalidehkordi
+Q2,1:03,Iran,45,28,LL_Pts_T,Hamed Haddadi
+Q2,1:03,Iran,45,28,FR,Hamed Haddadi
+Q2,1:03,Puerto Rico,45,28,FC,Jorge Bryan Díaz
+Q2,1:26,Iran,45,27,tempo_tecnico,
+Q2,1:26,Iran,45,27,FC,Mohammadsamad Nik Khahbahrami
+Q2,1:26,Puerto Rico,45,28,substituicao_entra,Ramon Clemente
+Q2,1:26,Puerto Rico,45,28,substituicao_sai,Isaiah Pineiro
+Q2,1:26,Puerto Rico,45,28,LL_Pts_C,Isaiah Pineiro
+Q2,1:26,Puerto Rico,45,27,LL_Pts_T,Isaiah Pineiro
+Q2,1:26,Puerto Rico,45,27,FR,Isaiah Pineiro
+Q2,1:30,Iran,45,27,,Hamed Haddadi2pt jump shot missed
+Q2,1:30,Puerto Rico,45,27,RD,Isaiah Pineiro
+Q2,1:57,Iran,45,27,RD,Mohammadsamad Nik Khahbahrami
+Q2,1:57,Puerto Rico,45,27,2_Pts_T,Javier Mojica
+Q2,2:05,Iran,45,27,2_Pts_T,Hamed Haddadi
+Q2,2:05,Puerto Rico,45,27,RD,Javier Mojica
+Q2,2:17,Iran,45,27,LL_Pts_T,Hamed Haddadi
+Q2,2:17,Iran,45,27,LL_Pts_C,Hamed Haddadi
+Q2,2:17,Iran,44,27,FR,Hamed Haddadi
+Q2,2:17,Puerto Rico,44,27,FC_A,Jorge Bryan Díaz
+Q2,2:31,Puerto Rico,44,27,2_Pts_C,David Huertas
+Q2,2:49,Iran,44,25,AS,Arman Zangeneh
+Q2,2:49,Iran,44,25,,Behnam Yakhchalidehkordi3pt jump shot made
+Q2,3:08,Iran,41,25,RD,
+Q2,3:08,Puerto Rico,41,25,2_Pts_T,Isaiah Pineiro
+Q2,3:24,Iran,41,25,substituicao_entra,Mohammadsamad Nik Khahbahrami
+Q2,3:24,Iran,41,25,substituicao_sai,Sajjad Mashayekhi
+Q2,3:24,Iran,41,25,FC_O,Hamed Haddadi
+Q2,3:24,Puerto Rico,41,25,substituicao_entra,Jorge Bryan Díaz
+Q2,3:24,Puerto Rico,41,25,substituicao_sai,Christopher Brady
+Q2,3:24,Puerto Rico,41,25,substituicao_entra,Isaiah Pineiro
+Q2,3:24,Puerto Rico,41,25,substituicao_sai,Ramon Clemente
+Q2,3:24,Puerto Rico,41,25,FR,Javier Mojica
+Q2,3:38,Puerto Rico,41,25,2_Pts_C,David Huertas
+Q2,3:53,Iran,41,23,AS,Hamed Haddadi
+Q2,3:53,Iran,41,23,2_Pts_C,Arman Zangeneh
+Q2,4:15,Iran,39,23,RD,Hamed Haddadi
+Q2,4:15,Puerto Rico,39,23,,Ramon Clemente3pt jump shot missed
+Q2,4:27,Iran,39,23,,Hamed Haddaditip in made
+Q2,4:30,Iran,37,23,RO,Hamed Haddadi
+Q2,4:30,Iran,37,23,2_Pts_T,Hamed Haddadi
+Q2,4:30,Puerto Rico,37,23,TO,Javier Mojica
+Q2,4:32,Iran,37,23,RO,Hamed Haddadi
+Q2,4:32,Iran,37,23,,Hamed Haddaditip in missed
+Q2,4:39,Iran,37,23,RO,Hamed Haddadi
+Q2,4:39,Iran,37,23,,Sajjad Mashayekhi2pt jump shot missed
+Q2,4:46,Iran,37,23,RO,Sajjad Mashayekhi
+Q2,4:46,Iran,37,23,,Behnam Yakhchalidehkordi3pt jump shot missed
+Q2,5:00,Iran,37,23,RD,Hamed Haddadi
+Q2,5:00,Puerto Rico,37,23,,David Huertaslayup missed
+Q2,5:17,Iran,37,23,LL_Pts_T,Hamed Haddadi
+Q2,5:17,Puerto Rico,37,23,RD,Christopher Brady
+Q2,5:18,Iran,37,23,FR,Hamed Haddadi
+Q2,5:18,Iran,37,23,2_Pts_C,Hamed Haddadi
+Q2,5:18,Puerto Rico,37,23,FC,Christopher Brady
+Q2,5:32,Puerto Rico,35,23,ER,Ramon Clemente
+Q2,5:47,Iran,35,23,substituicao_entra,Hamed Haddadi
+Q2,5:47,Iran,35,23,substituicao_sai,Aaron Geramipoor
+Q2,5:47,Iran,35,23,FC,Sajjad Mashayekhi
+Q2,5:47,Iran,35,23,,Sajjad Mashayekhi3pt jump shot missed
+Q2,5:47,Puerto Rico,35,23,substituicao_entra,Javier Mojica
+Q2,5:47,Puerto Rico,35,23,substituicao_sai,Renaldo Balkman
+Q2,5:47,Puerto Rico,35,23,substituicao_entra,Christopher Brady
+Q2,5:47,Puerto Rico,35,23,substituicao_sai,Isaiah Pineiro
+Q2,5:47,Puerto Rico,35,23,FR,Gary Browne
+Q2,5:47,Puerto Rico,35,23,RD,
+Q2,6:03,Iran,35,23,RD,Behnam Yakhchalidehkordi
+Q2,6:03,Puerto Rico,35,23,,Gary Browne3pt jump shot missed
+Q2,6:15,Iran,35,23,LL_Pts_T,Aaron Geramipoor
+Q2,6:15,Iran,35,23,LL_Pts_C,Aaron Geramipoor
+Q2,6:15,Iran,34,23,substituicao_entra,Mohammad Jamshidijafarabadi
+Q2,6:15,Iran,34,23,substituicao_sai,Mohammadsamad Nik Khahbahrami
+Q2,6:15,Iran,34,23,FR,Aaron Geramipoor
+Q2,6:15,Puerto Rico,35,23,RD,Ramon Clemente
+Q2,6:15,Puerto Rico,34,23,FC,Isaiah Pineiro
+Q2,6:39,Puerto Rico,34,23,AS,David Huertas
+Q2,6:39,Puerto Rico,34,23,,Isaiah Pineiro2pt jump shot made
+Q2,6:46,Iran,34,21,,Arman Zangeneh3pt jump shot missed
+Q2,6:46,Puerto Rico,34,21,RD,David Huertas
+Q2,7:10,Puerto Rico,34,21,AS,David Huertas
+Q2,7:10,Puerto Rico,34,21,,Ramon Clemente3pt jump shot made
+Q2,7:26,Iran,34,18,LL_Pts_C,Sajjad Mashayekhi
+Q2,7:26,Iran,33,18,LL_Pts_T,Sajjad Mashayekhi
+Q2,7:26,Iran,33,18,FR,Sajjad Mashayekhi
+Q2,7:26,Puerto Rico,34,18,substituicao_entra,David Huertas
+Q2,7:26,Puerto Rico,34,18,substituicao_sai,Gian Clavell
+Q2,7:26,Puerto Rico,34,18,substituicao_entra,Gary Browne
+Q2,7:26,Puerto Rico,34,18,substituicao_sai,Angel Rodriguez
+Q2,7:26,Puerto Rico,33,18,FC,Renaldo Balkman
+Q2,7:31,Iran,33,18,RD,Sajjad Mashayekhi
+Q2,7:31,Puerto Rico,33,18,,Angel Rodriguezlayup missed
+Q2,7:37,Iran,33,18,ER,Sajjad Mashayekhi
+Q2,7:37,Puerto Rico,33,18,BR,Angel Rodriguez
+Q2,7:43,Iran,33,18,substituicao_entra,Arman Zangeneh
+Q2,7:43,Iran,33,18,substituicao_sai,Mohammad Jamshidijafarabadi
+Q2,7:43,Iran,33,18,substituicao_entra,Behnam Yakhchalidehkordi
+Q2,7:43,Iran,33,18,substituicao_sai,Mohammad Hassanzadeh
+Q2,7:43,Puerto Rico,33,18,substituicao_entra,Renaldo Balkman
+Q2,7:43,Puerto Rico,33,18,substituicao_sai,Devon Collier
+Q2,7:46,Iran,33,18,FR,Mohammadsamad Nik Khahbahrami
+Q2,7:46,Puerto Rico,33,18,FC,Isaiah Pineiro
+Q2,7:51,Iran,33,18,RO,Mohammad Jamshidijafarabadi
+Q2,7:51,Iran,33,18,,Mohammadsamad Nik Khahbahrami3pt jump shot missed
+Q2,8:05,Iran,33,18,RO,Aaron Geramipoor
+Q2,8:05,Iran,33,18,,Mohammad Jamshidijafarabadi2pt jump shot missed
+Q2,8:19,Iran,33,18,RD,Mohammadsamad Nik Khahbahrami
+Q2,8:19,Puerto Rico,33,18,,Devon Collierlayup missed
+Q2,8:40,Iran,33,18,AS,Mohammad Hassanzadeh
+Q2,8:40,Iran,33,18,,Mohammadsamad Nik Khahbahrami3pt jump shot made
+Q2,8:55,Iran,30,18,RD,Aaron Geramipoor
+Q2,8:55,Puerto Rico,30,18,2_Pts_T,Isaiah Pineiro
+Q2,8:59,Iran,30,18,FC,Mohammad Hassanzadeh
+Q2,8:59,Puerto Rico,30,18,FR,Gian Clavell
+Q2,8:59,Puerto Rico,30,18,RO,
+Q2,8:59,Puerto Rico,30,18,,Isaiah Pineiro3pt jump shot missed
+Q2,9:14,Iran,30,18,ER,Mohammadsamad Nik Khahbahrami
+Q2,9:14,Puerto Rico,30,18,BR,Isaiah Pineiro
+Q2,9:33,Puerto Rico,30,18,AS,Angel Rodriguez
+Q2,9:33,Puerto Rico,30,18,,Isaiah Pineirolayup made
+Q2,9:46,Puerto Rico,0,0,RO,Angel Rodriguez
+Q2,9:46,Puerto Rico,0,0,,Gian Clavell3pt jump shot missed
+Q2,9:52,Iran,0,0,FC,Sajjad Mashayekhi
+Q2,9:52,Puerto Rico,0,0,FR,Ramon Clemente
+Q3,0:01,Iran,65,51,TO,Behnam Yakhchalidehkordi
+Q3,0:01,Puerto Rico,65,51,,Angel Rodriguez3pt jump shot blocked
+Q3,0:24,Iran,65,51,,Hamed Haddadi3pt jump shot made
+Q3,0:46,Iran,62,49,substituicao_entra,Mohammadsamad Nik Khahbahrami
+Q3,0:46,Iran,62,49,substituicao_sai,Sajjad Mashayekhi
+Q3,0:46,Iran,62,49,FC,Mohammad Jamshidijafarabadi
+Q3,0:46,Puerto Rico,62,51,substituicao_entra,Ramon Clemente
+Q3,0:46,Puerto Rico,62,51,substituicao_sai,Renaldo Balkman
+Q3,0:46,Puerto Rico,62,51,LL_Pts_C,Angel Rodriguez
+Q3,0:46,Puerto Rico,62,50,LL_Pts_C,Angel Rodriguez
+Q3,0:46,Puerto Rico,62,49,substituicao_entra,Isaiah Pineiro
+Q3,0:46,Puerto Rico,62,49,substituicao_sai,David Huertas
+Q3,0:46,Puerto Rico,62,49,FR,Angel Rodriguez
+Q3,10:00,Iran,0,0,muda_bola,
+Q3,1:05,Iran,62,49,AS,Hamed Haddadi
+Q3,1:05,Iran,62,49,2_Pts_C,Aaron Geramipoor
+Q3,1:24,Iran,60,49,RD,Hamed Haddadi
+Q3,1:24,Iran,60,48,FC,Sajjad Mashayekhi
+Q3,1:24,Puerto Rico,60,49,LL_Pts_T,Gian Clavell
+Q3,1:24,Puerto Rico,60,49,AS,Renaldo Balkman
+Q3,1:24,Puerto Rico,60,49,LL_Pts_C,Gian Clavell
+Q3,1:24,Puerto Rico,60,48,FR,Gian Clavell
+Q3,1:28,Iran,60,48,,Behnam Yakhchalidehkordi3pt jump shot missed
+Q3,1:28,Puerto Rico,60,48,RD,Renaldo Balkman
+Q3,1:33,Iran,60,48,FR,Aaron Geramipoor
+Q3,1:33,Puerto Rico,60,48,FC,Gian Clavell
+Q3,1:54,Iran,60,48,RD,Aaron Geramipoor
+Q3,1:54,Puerto Rico,60,48,,Renaldo Balkman2pt jump shot missed
+Q3,2:00,Iran,60,48,substituicao_entra,Mohammad Jamshidijafarabadi
+Q3,2:00,Iran,60,48,substituicao_sai,Mohammadsamad Nik Khahbahrami
+Q3,2:13,Iran,60,48,2_Pts_T,Aaron Geramipoor
+Q3,2:13,Iran,60,48,RO,Aaron Geramipoor
+Q3,2:13,Iran,60,48,,Hamed Haddadi2pt jump shot missed
+Q3,2:13,Puerto Rico,60,48,RD,
+Q3,2:14,Iran,60,48,RO,Hamed Haddadi
+Q3,2:14,Iran,60,48,,Aaron Geramipoor2pt jump shot missed
+Q3,2:38,Puerto Rico,60,48,2_Pts_C,Devon Collier
+Q3,3:05,Iran,60,46,FC_O,Aaron Geramipoor
+Q3,3:05,Puerto Rico,60,46,substituicao_entra,Angel Rodriguez
+Q3,3:05,Puerto Rico,60,46,substituicao_sai,Gary Browne
+Q3,3:05,Puerto Rico,60,46,FR,Gary Browne
+Q3,3:11,Iran,60,46,RD,Aaron Geramipoor
+Q3,3:11,Puerto Rico,60,46,,Gary Browne3pt jump shot missed
+Q3,3:31,Iran,60,46,AS,Sajjad Mashayekhi
+Q3,3:31,Iran,60,46,,Mohammadsamad Nik Khahbahramilayup made
+Q3,3:38,Iran,58,46,RD,Hamed Haddadi
+Q3,3:38,Puerto Rico,58,46,,Gary Brownelayup missed
+Q3,3:49,Iran,58,46,substituicao_entra,Aaron Geramipoor
+Q3,3:49,Iran,58,46,substituicao_sai,Michael Rostampour
+Q3,3:49,Iran,58,46,FC_O,Hamed Haddadi
+Q3,3:49,Puerto Rico,58,46,FR,Gian Clavell
+Q3,3:58,Iran,58,46,BR,Sajjad Mashayekhi
+Q3,3:58,Puerto Rico,58,46,ER,Gary Browne
+Q3,4:08,Iran,58,46,ER,Hamed Haddadi
+Q3,4:08,Puerto Rico,58,46,BR,Gary Browne
+Q3,4:33,Iran,58,44,FC,Michael Rostampour
+Q3,4:33,Puerto Rico,58,46,substituicao_entra,Gian Clavell
+Q3,4:33,Puerto Rico,58,46,substituicao_sai,Alexander Franklin
+Q3,4:33,Puerto Rico,58,46,LL_Pts_C,Renaldo Balkman
+Q3,4:33,Puerto Rico,58,45,AS,Jorge Bryan Díaz
+Q3,4:33,Puerto Rico,58,45,LL_Pts_C,Renaldo Balkman
+Q3,4:33,Puerto Rico,58,44,substituicao_entra,Devon Collier
+Q3,4:33,Puerto Rico,58,44,substituicao_sai,Jorge Bryan Díaz
+Q3,4:33,Puerto Rico,58,44,FR,Renaldo Balkman
+Q3,4:41,Iran,58,44,2_Pts_C,Hamed Haddadi
+Q3,5:04,Puerto Rico,56,44,2_Pts_C,Gary Browne
+Q3,5:16,Iran,56,42,AS,Hamed Haddadi
+Q3,5:16,Iran,56,42,,Behnam Yakhchalidehkordi3pt jump shot made
+Q3,5:31,Puerto Rico,53,42,,Renaldo Balkman2pt jump shot made
+Q3,5:44,Iran,53,40,substituicao_entra,Hamed Haddadi
+Q3,5:44,Iran,53,40,substituicao_sai,Arman Zangeneh
+Q3,5:44,Iran,53,40,FC,Michael Rostampour
+Q3,5:44,Puerto Rico,53,40,FR,Renaldo Balkman
+Q3,5:46,Iran,53,40,,Sajjad Mashayekhi2pt jump shot missed
+Q3,5:46,Puerto Rico,53,40,RD,Renaldo Balkman
+Q3,5:54,Iran,53,40,FR,Mohammadsamad Nik Khahbahrami
+Q3,5:54,Iran,53,40,RD,Arman Zangeneh
+Q3,5:54,Iran,53,40,substituicao_entra,Michael Rostampour
+Q3,5:54,Iran,53,40,substituicao_sai,Hamed Haddadi
+Q3,5:54,Puerto Rico,53,40,FC,Alexander Franklin
+Q3,6:09,Puerto Rico,53,40,,Gary Browne3pt jump shot missed
+Q3,6:20,Iran,53,40,FC,Arman Zangeneh
+Q3,6:20,Puerto Rico,53,40,FR,Jorge Bryan Díaz
+Q3,6:22,Puerto Rico,53,40,RD,
+Q3,6:26,Iran,53,40,,Arman Zangeneh2pt jump shot missed
+Q3,6:26,Puerto Rico,53,40,TO,David Huertas
+Q3,6:30,Iran,53,40,RD,Hamed Haddadi
+Q3,6:30,Iran,53,40,TO,Hamed Haddadi
+Q3,6:30,Puerto Rico,53,40,2_Pts_T,Jorge Bryan Díaz
+Q3,6:38,Iran,53,40,ER,Arman Zangeneh
+Q3,6:38,Puerto Rico,53,40,BR,Renaldo Balkman
+Q3,6:42,Iran,53,40,FR,Behnam Yakhchalidehkordi
+Q3,6:42,Puerto Rico,53,40,FC_O,Jorge Bryan Díaz
+Q3,6:59,Iran,53,40,2_Pts_C,Behnam Yakhchalidehkordi
+Q3,7:14,Puerto Rico,51,40,2_Pts_C,David Huertas
+Q3,7:19,Iran,51,38,FC,Arman Zangeneh
+Q3,7:19,Puerto Rico,51,38,FR,Renaldo Balkman
+Q3,7:21,Puerto Rico,51,38,RO,Renaldo Balkman
+Q3,7:21,Puerto Rico,51,38,,Renaldo Balkmanlayup missed
+Q3,7:39,Iran,51,38,2_Pts_C,Hamed Haddadi
+Q3,7:58,Iran,49,38,RD,Hamed Haddadi
+Q3,7:58,Puerto Rico,49,38,,David Huertas3pt jump shot missed
+Q3,8:05,Iran,49,38,substituicao_entra,Arman Zangeneh
+Q3,8:05,Iran,49,38,substituicao_sai,Mohammad Jamshidijafarabadi
+Q3,8:05,Iran,49,38,substituicao_entra,Sajjad Mashayekhi
+Q3,8:05,Iran,49,38,substituicao_sai,Mohammad Hassanzadeh
+Q3,8:05,Iran,49,38,FC,Mohammad Jamshidijafarabadi
+Q3,8:05,Puerto Rico,49,38,FR,David Huertas
+Q3,8:12,Iran,49,38,ER,Mohammad Hassanzadeh
+Q3,8:12,Puerto Rico,49,38,BR,David Huertas
+Q3,8:37,Iran,49,38,tempo_tecnico,
+Q3,8:37,Puerto Rico,49,38,AS,Gary Browne
+Q3,8:37,Puerto Rico,49,38,,David Huertaslayup made
+Q3,8:42,Iran,49,36,,Mohammad Jamshidijafarabadi3pt jump shot missed
+Q3,8:42,Puerto Rico,49,36,RD,Jorge Bryan Díaz
+Q3,9:05,Puerto Rico,49,36,2_Pts_C,David Huertas
+Q3,9:24,Iran,49,34,ER,Hamed Haddadi
+Q3,9:39,Puerto Rico,49,34,3_Pts_C,David Huertas
+Q3,9:57,Iran,0,0,ER backcourt violation,Behnam Yakhchalidehkordi
+Q4,0:00,Iran,81,83,substituicao_entra,Hamed Haddadi
+Q4,0:00,Iran,81,83,substituicao_sai,Mohammad Hassanzadeh
+Q4,0:00,Puerto Rico,81,83,substituicao_entra,Alexander Franklin
+Q4,0:00,Puerto Rico,81,83,substituicao_sai,Gary Browne
+Q4,0:00,Puerto Rico,81,83,substituicao_entra,Christopher Brady
+Q4,0:00,Puerto Rico,81,83,substituicao_sai,Javier Mojica
+Q4,0:00,Puerto Rico,81,83,2_Pts_C,Javier Mojica
+Q4,0:04,Iran,81,81,substituicao_entra,Mohammad Hassanzadeh
+Q4,0:04,Iran,81,81,substituicao_sai,Hamed Haddadi
+Q4,0:04,Iran,81,81,,Hamed Haddadi3pt jump shot made
+Q4,0:04,Puerto Rico,81,81,substituicao_entra,Devon Collier
+Q4,0:04,Puerto Rico,81,81,substituicao_sai,Alexander Franklin
+Q4,0:04,Puerto Rico,81,81,tempo_tecnico,
+Q4,0:16,Iran,78,81,substituicao_entra,Mohammad Jamshidijafarabadi
+Q4,0:16,Iran,78,81,substituicao_sai,Mohammad Hassanzadeh
+Q4,0:16,Iran,78,81,substituicao_entra,Arman Zangeneh
+Q4,0:16,Iran,78,81,substituicao_sai,Sajjad Mashayekhi
+Q4,0:16,Iran,78,81,tempo_tecnico,
+Q4,0:16,Puerto Rico,78,81,substituicao_entra,Alexander Franklin
+Q4,0:16,Puerto Rico,78,81,substituicao_sai,Devon Collier
+Q4,0:16,Puerto Rico,78,81,AS,Gary Browne
+Q4,0:16,Puerto Rico,78,81,,David Huertas3pt jump shot made
+Q4,0:32,Iran,78,78,ER,Sajjad Mashayekhi
+Q4,0:45,Puerto Rico,78,78,AS,Gary Browne
+Q4,0:45,Puerto Rico,78,78,,David Huertas3pt jump shot made
+Q4,0:46,Iran,78,75,substituicao_entra,Mohammad Hassanzadeh
+Q4,0:46,Iran,78,75,substituicao_sai,Arman Zangeneh
+Q4,0:46,Iran,78,74,FC_A,Arman Zangeneh
+Q4,0:46,Puerto Rico,78,75,LL_Pts_C,Renaldo Balkman
+Q4,0:46,Puerto Rico,78,74,LL_Pts_T,Renaldo Balkman
+Q4,0:46,Puerto Rico,78,74,FR,Renaldo Balkman
+Q4,0:46,Puerto Rico,78,74,tempo_tecnico,
+Q4,0:51,Puerto Rico,78,74,RO,Renaldo Balkman
+Q4,0:51,Puerto Rico,78,74,,Gary Browne2pt jump shot missed
+Q4,1:00,Puerto Rico,78,74,RD,David Huertas
+Q4,1:08,Iran,78,74,2_Pts_T,Mohammadsamad Nik Khahbahrami
+Q4,1:27,Iran,78,74,RD,Hamed Haddadi
+Q4,1:27,Iran,78,74,TO,Arman Zangeneh
+Q4,1:27,Puerto Rico,78,74,2_Pts_T,Renaldo Balkman
+Q4,1:41,Iran,78,74,,Mohammadsamad Nik Khahbahrami2pt jump shot missed
+Q4,1:41,Puerto Rico,78,74,RD,Gary Browne
+Q4,1:52,Iran,78,74,tempo_tecnico,
+Q4,1:52,Puerto Rico,78,74,AS,Renaldo Balkman
+Q4,1:52,Puerto Rico,78,74,,David Huertas3pt jump shot made
+Q4,1:57,Iran,78,71,ER,Behnam Yakhchalidehkordi
+Q4,1:57,Puerto Rico,78,71,BR,Devon Collier
+Q4,2:10,Iran,78,69,FC,Arman Zangeneh
+Q4,2:10,Iran,78,69,ER,Sajjad Mashayekhi
+Q4,2:10,Puerto Rico,78,71,LL_Pts_C,Javier Mojica
+Q4,2:10,Puerto Rico,78,70,LL_Pts_C,Javier Mojica
+Q4,2:10,Puerto Rico,78,69,FR,Javier Mojica
+Q4,2:10,Puerto Rico,78,69,BR,Javier Mojica
+Q4,2:22,Puerto Rico,78,69,2_Pts_C,David Huertas
+Q4,2:40,Iran,78,67,,Behnam Yakhchalidehkordilayup made
+Q4,2:47,Iran,76,65,FC,Sajjad Mashayekhi
+Q4,2:47,Puerto Rico,76,67,LL_Pts_C,Gary Browne
+Q4,2:47,Puerto Rico,76,66,LL_Pts_C,Gary Browne
+Q4,2:47,Puerto Rico,76,65,FR,Gary Browne
+Q4,3:04,Iran,76,65,2_Pts_C,Hamed Haddadi
+Q4,3:27,Puerto Rico,74,65,2_Pts_C,Gary Browne
+Q4,3:45,Puerto Rico,74,63,RO,Javier Mojica
+Q4,3:45,Puerto Rico,74,63,,Devon Collier3pt jump shot missed
+Q4,3:53,Iran,74,63,RO,
+Q4,3:53,Iran,74,63,TO,Mohammadsamad Nik Khahbahrami
+Q4,3:53,Puerto Rico,74,63,2_Pts_T,David Huertas
+Q4,4:04,Puerto Rico,74,63,RO,Javier Mojica
+Q4,4:04,Puerto Rico,74,63,,David Huertas3pt jump shot missed
+Q4,4:12,Iran,74,63,substituicao_entra,Arman Zangeneh
+Q4,4:12,Iran,74,63,substituicao_sai,Aaron Geramipoor
+Q4,4:12,Iran,74,63,FC,Aaron Geramipoor
+Q4,4:12,Puerto Rico,74,63,FR,Gary Browne
+Q4,4:20,Puerto Rico,74,63,RO,Gary Browne
+Q4,4:20,Puerto Rico,74,63,,Javier Mojica3pt jump shot missed
+Q4,4:40,Iran,74,63,substituicao_entra,Mohammadsamad Nik Khahbahrami
+Q4,4:40,Iran,74,63,substituicao_sai,Mohammad Jamshidijafarabadi
+Q4,4:40,Iran,74,63,FC_O,Mohammad Jamshidijafarabadi
+Q4,4:40,Puerto Rico,74,63,FR,Gary Browne
+Q4,4:55,Puerto Rico,74,63,AS,Renaldo Balkman
+Q4,4:55,Puerto Rico,74,63,,Devon Collier2pt jump shot made
+Q4,5:02,Iran,74,61,,Mohammad Jamshidijafarabadi2pt jump shot missed
+Q4,5:02,Puerto Rico,74,61,RD,Javier Mojica
+Q4,5:35,Puerto Rico,74,61,AS,Renaldo Balkman
+Q4,5:35,Puerto Rico,74,61,2_Pts_C,Javier Mojica
+Q4,5:50,Iran,74,59,,Mohammad Jamshidijafarabadi2pt jump shot made
+Q4,5:50,Puerto Rico,74,59,substituicao_entra,David Huertas
+Q4,5:50,Puerto Rico,74,59,substituicao_sai,Gian Clavell
+Q4,5:50,Puerto Rico,74,59,substituicao_entra,Devon Collier
+Q4,5:50,Puerto Rico,74,59,substituicao_sai,Ramon Clemente
+Q4,6:01,Iran,72,59,RD,
+Q4,6:06,Puerto Rico,72,59,,Renaldo Balkman3pt jump shot missed
+Q4,6:23,Iran,72,59,LL_Pts_C,Mohammad Jamshidijafarabadi
+Q4,6:23,Iran,71,59,LL_Pts_C,Mohammad Jamshidijafarabadi
+Q4,6:23,Iran,70,59,FR,Mohammad Jamshidijafarabadi
+Q4,6:23,Puerto Rico,70,59,FC,Javier Mojica
+Q4,6:40,Iran,70,59,substituicao_entra,Sajjad Mashayekhi
+Q4,6:40,Iran,70,59,substituicao_sai,Mohammadsamad Nik Khahbahrami
+Q4,6:40,Puerto Rico,70,59,substituicao_entra,Renaldo Balkman
+Q4,6:40,Puerto Rico,70,59,substituicao_sai,David Huertas
+Q4,6:45,Puerto Rico,70,59,AS,David Huertas
+Q4,6:45,Puerto Rico,70,59,,Javier Mojica2pt jump shot made
+Q4,7:03,Iran,70,57,ER,Mohammadsamad Nik Khahbahrami
+Q4,7:07,Iran,70,57,FR,Aaron Geramipoor
+Q4,7:07,Puerto Rico,70,57,FC,Ramon Clemente
+Q4,7:20,Iran,70,55,FC,Aaron Geramipoor
+Q4,7:20,Puerto Rico,70,57,substituicao_entra,Javier Mojica
+Q4,7:20,Puerto Rico,70,57,substituicao_sai,Renaldo Balkman
+Q4,7:20,Puerto Rico,70,57,LL_Pts_C,Ramon Clemente
+Q4,7:20,Puerto Rico,70,56,LL_Pts_C,Ramon Clemente
+Q4,7:20,Puerto Rico,70,55,FR,Ramon Clemente
+Q4,7:24,Iran,70,55,,Aaron Geramipoor2pt jump shot missed
+Q4,7:24,Puerto Rico,70,55,RD,Gary Browne
+Q4,7:51,Puerto Rico,70,55,2_Pts_C,David Huertas
+Q4,8:00,Iran,70,53,,Behnam Yakhchalidehkordi3pt jump shot missed
+Q4,8:00,Puerto Rico,70,53,RD,David Huertas
+Q4,8:13,Iran,70,53,BR,Behnam Yakhchalidehkordi
+Q4,8:13,Puerto Rico,70,53,ER,Gary Browne
+Q4,8:25,Iran,70,53,2_Pts_C,Mohammadsamad Nik Khahbahrami
+Q4,8:25,Puerto Rico,70,53,tempo_tecnico,
+Q4,8:39,Iran,68,53,RO,Aaron Geramipoor
+Q4,8:39,Iran,68,53,,Mohammadsamad Nik Khahbahrami3pt jump shot missed
+Q4,8:47,Iran,68,53,RD,Mohammad Jamshidijafarabadi
+Q4,8:47,Puerto Rico,68,53,,Renaldo Balkman2pt jump shot missed
+Q4,9:02,Puerto Rico,68,53,substituicao_entra,Renaldo Balkman
+Q4,9:02,Puerto Rico,68,53,substituicao_sai,Angel Rodriguez
+Q4,9:02,Puerto Rico,68,53,substituicao_entra,David Huertas
+Q4,9:02,Puerto Rico,68,53,substituicao_sai,Devon Collier
+Q4,9:02,Puerto Rico,68,53,substituicao_entra,Gary Browne
+Q4,9:02,Puerto Rico,68,53,substituicao_sai,Isaiah Pineiro
+Q4,9:04,Puerto Rico,68,53,RD,
+Q4,9:05,Iran,68,53,,Mohammadsamad Nik Khahbahrami2pt jump shot missed
+Q4,9:10,Iran,68,53,BR,Behnam Yakhchalidehkordi
+Q4,9:10,Puerto Rico,68,53,ER,Angel Rodriguez
+Q4,9:19,Iran,68,53,LL_Pts_C,Aaron Geramipoor
+Q4,9:19,Iran,67,53,FR,Aaron Geramipoor
+Q4,9:19,Iran,67,53,,Aaron Geramipoortip in made
+Q4,9:19,Iran,65,53,RO,Aaron Geramipoor
+Q4,9:19,Iran,65,53,2_Pts_T,Hamed Haddadi
+Q4,9:19,Puerto Rico,67,53,FC,Devon Collier
+Q4,9:34,Iran,65,53,FR,Mohammad Jamshidijafarabadi
+Q4,9:34,Puerto Rico,65,53,FC,Isaiah Pineiro
+Q4,9:43,Iran,65,53,FR,Aaron Geramipoor
+Q4,9:43,Iran,65,53,RD,
+Q4,9:43,Puerto Rico,65,53,FC,Devon Collier
+Q4,9:44,Iran,0,0,FC,Mohammad Jamshidijafarabadi
+Q4,9:44,Puerto Rico,65,53,LL_Pts_T,Gian Clavell
+Q4,9:44,Puerto Rico,65,53,LL_Pts_C,Gian Clavell
+Q4,9:44,Puerto Rico,65,52,AS,Angel Rodriguez
+Q4,9:44,Puerto Rico,65,52,LL_Pts_C,Gian Clavell
+Q4,9:44,Puerto Rico,0,0,FR,Gian Clavell
